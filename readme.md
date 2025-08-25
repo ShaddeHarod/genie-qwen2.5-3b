@@ -6,13 +6,13 @@
 
 2. 在` genie-qwen2.5-3b`文件夹中，将文件夹` model_files`里的所有文件(注意是把此文件夹里的文件全部放到` genie-qwen2.5-3b`文件夹中，不是把此文件夹放进去)、` prompts_by_subject`文件夹、` required_json`文件夹、`read_all_subjects_prompts.sh`、` read_prompts.sh`、` run_adb_model.sh`放进去，用adb push指令。最终` genie-qwen2.5-3b`文件夹里的文件有：
 
-   ```shell
-   # model_files 里的所有文件
-   # prompts_by_subject 文件夹
-   # required_json 文件夹
-   # `read_all_subjects_prompts.sh` shell 脚本
-   # `read_prompts.sh` shell 脚本
-   # `run_adb_model.sh` shell 脚本
+   ```text
+   ├── (model_files 中的所有文件，直接平铺于此)
+   ├── prompts_by_subject/
+   ├── required_json/
+   ├── read_all_subjects_prompts.sh
+   ├── read_prompts.sh
+   └── run_adb_model.sh
    ```
 
 
@@ -41,19 +41,27 @@ sh run_adb_model.sh
 
 
 
+#### JSON文件修复和验证工具
+
+如果出现JSON解析错误，可使用修复脚本：
+- `python scripts/fix_model_output_format.py` - 一键修复JSON格式问题（自动备份和处理）
+- `python scripts/test_fix_result.py` - 验证修复结果
+
+
+
 #### P.S.
 
 1. 如果出了错误，模型需要从头跑所有的科目的题目，请把`required_json`文件夹重新ADB push到` genie-qwen2.5-3b` 中。因为` finished_subjects.json`记录了各科目跑完的题目数量，全部归零就是从头开始跑。
 
-2. ` htp_backend_ext_config.json`的修改(如果用小米14，则不用做修改)，可以在手机的设置中看芯片型号。其中，json文件中的` soc_model`后的value不用加引号，` dsp_arch`的value需要加半角引号
+2. ~~` htp_backend_ext_config.json`的修改，可以在手机的设置中看芯片型号。其中，json文件中的` soc_model`后的value不用加引号，` dsp_arch`的value需要加半角引号~~
 
-   | Generation          | `soc_model` | `dsp_arch` |
-   | ------------------- | ----------- | ---------- |
-   | Snapdragon® Gen 2   | 43          | v73        |
-   | Snapdragon® Gen 3   | 57          | v75        |
-   | Snapdragon® 8 Elite | 69          | v79        |
-   | Snapdragon® X Elite | 60          | v73        |
-   | Snapdragon® X Plus  | 60          | v73        |
+   ~~| Generation          | `soc_model` | `dsp_arch` |~~
+   ~~| ------------------- | ----------- | ---------- |~~
+   ~~| Snapdragon® Gen 2   | 43          | v73        |~~
+   ~~| Snapdragon® Gen 3   | 57          | v75        |~~
+   ~~| Snapdragon® 8 Elite | 69          | v79        |~~
+   ~~| Snapdragon® X Elite | 60          | v73        |~~
+   ~~| Snapdragon® X Plus  | 60          | v73        |~~
 
 3. ` .so`和` genie-t2t-run`的粘贴，此` genie_bundle`即为` data/local/tmp/genie-qwen2.5-3b`文件夹。(如果用小米14，则不用做修改)粘贴一下内容前，请先把` genie-qwen2.5-3b`中的` *.so`文件删掉。
 

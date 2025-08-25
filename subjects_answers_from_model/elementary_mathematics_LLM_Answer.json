@@ -5,8 +5,6 @@
       "question_index": 0,
       "global_index": 0,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 961860,
         "prompt_processing_time_us": 158623,
@@ -19,8 +17,6 @@
       "question_index": 1,
       "global_index": 1,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 959540,
         "prompt_processing_time_us": 156947,
@@ -33,8 +29,6 @@
       "question_index": 2,
       "global_index": 2,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 951088,
         "prompt_processing_time_us": 156262,
@@ -47,8 +41,6 @@
       "question_index": 3,
       "global_index": 3,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 951732,
         "prompt_processing_time_us": 158832,
@@ -61,8 +53,6 @@
       "question_index": 4,
       "global_index": 4,
       "final_answer": "B",
-      "model_output": 
-"4t = 112；t = 28 美元\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 965257,
         "prompt_processing_time_us": 157483,
@@ -75,22 +65,18 @@
       "question_index": 5,
       "global_index": 5,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 933698,
         "prompt_processing_time_us": 153212,
         "prompt_processing_rate_toks_per_sec": 1018.329956,
         "token_generation_time_us": 112240,
-        "token_generation_rate_toks_per_sec": 35.637920
+        "token_generation_rate_toks_per_sec": 35.63792
       }
     },
     {
       "question_index": 6,
       "global_index": 6,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 954232,
         "prompt_processing_time_us": 156176,
@@ -103,12 +89,10 @@
       "question_index": 7,
       "global_index": 7,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 952353,
         "prompt_processing_time_us": 153881,
-        "prompt_processing_rate_toks_per_sec": 936.329590,
+        "prompt_processing_rate_toks_per_sec": 936.32959,
         "token_generation_time_us": 114609,
         "token_generation_rate_toks_per_sec": 34.901577
       }
@@ -117,8 +101,6 @@
       "question_index": 8,
       "global_index": 8,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 949868,
         "prompt_processing_time_us": 161581,
@@ -131,8 +113,6 @@
       "question_index": 9,
       "global_index": 9,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 939304,
         "prompt_processing_time_us": 158001,
@@ -145,8 +125,6 @@
       "question_index": 10,
       "global_index": 10,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 944843,
         "prompt_processing_time_us": 155776,
@@ -159,8 +137,6 @@
       "question_index": 11,
       "global_index": 11,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 965172,
         "prompt_processing_time_us": 154117,
@@ -173,12 +149,10 @@
       "question_index": 12,
       "global_index": 12,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 948183,
         "prompt_processing_time_us": 154105,
-        "prompt_processing_rate_toks_per_sec": 1058.201050,
+        "prompt_processing_rate_toks_per_sec": 1058.20105,
         "token_generation_time_us": 114945,
         "token_generation_rate_toks_per_sec": 34.799553
       }
@@ -187,8 +161,6 @@
       "question_index": 13,
       "global_index": 13,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 942794,
         "prompt_processing_time_us": 161188,
@@ -201,8 +173,6 @@
       "question_index": 14,
       "global_index": 14,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 942284,
         "prompt_processing_time_us": 154628,
@@ -215,8 +185,6 @@
       "question_index": 15,
       "global_index": 15,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 936967,
         "prompt_processing_time_us": 160475,
@@ -229,8 +197,6 @@
       "question_index": 16,
       "global_index": 16,
       "final_answer": "B",
-      "model_output": 
-"首先，将数据集从小到大排序：13, 18, 23, 25, 29, 32\n\n因为数据个数为偶数，所以中位数为中间两个数的平均值\n\n中间两个数为：23 和 25\n\n中位数：(23 + 25) / 2 = 24\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 936283,
         "prompt_processing_time_us": 155324,
@@ -243,8 +209,6 @@
       "question_index": 17,
       "global_index": 17,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 942984,
         "prompt_processing_time_us": 154729,
@@ -257,8 +221,6 @@
       "question_index": 18,
       "global_index": 18,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 936942,
         "prompt_processing_time_us": 156185,
@@ -271,8 +233,6 @@
       "question_index": 19,
       "global_index": 19,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 940803,
         "prompt_processing_time_us": 154522,
@@ -285,8 +245,6 @@
       "question_index": 20,
       "global_index": 20,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 936285,
         "prompt_processing_time_us": 156636,
@@ -299,8 +257,6 @@
       "question_index": 21,
       "global_index": 21,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 952920,
         "prompt_processing_time_us": 153363,
@@ -313,8 +269,6 @@
       "question_index": 22,
       "global_index": 22,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 941797,
         "prompt_processing_time_us": 79113,
@@ -327,8 +281,6 @@
       "question_index": 23,
       "global_index": 23,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 934523,
         "prompt_processing_time_us": 152794,
@@ -341,8 +293,6 @@
       "question_index": 24,
       "global_index": 24,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 949511,
         "prompt_processing_time_us": 155677,
@@ -355,22 +305,18 @@
       "question_index": 25,
       "global_index": 25,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 943158,
         "prompt_processing_time_us": 154539,
         "prompt_processing_rate_toks_per_sec": 919.117676,
         "token_generation_time_us": 115011,
-        "token_generation_rate_toks_per_sec": 34.780190
+        "token_generation_rate_toks_per_sec": 34.78019
       }
     },
     {
       "question_index": 26,
       "global_index": 26,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 939093,
         "prompt_processing_time_us": 155206,
@@ -383,8 +329,6 @@
       "question_index": 27,
       "global_index": 27,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 943274,
         "prompt_processing_time_us": 154641,
@@ -397,8 +341,6 @@
       "question_index": 28,
       "global_index": 28,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1029319,
         "prompt_processing_time_us": 155159,
@@ -411,12 +353,10 @@
       "question_index": 29,
       "global_index": 29,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 948812,
         "prompt_processing_time_us": 159218,
-        "prompt_processing_rate_toks_per_sec": 942.507080,
+        "prompt_processing_rate_toks_per_sec": 942.50708,
         "token_generation_time_us": 114790,
         "token_generation_rate_toks_per_sec": 34.846848
       }
@@ -425,8 +365,6 @@
       "question_index": 30,
       "global_index": 30,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 948855,
         "prompt_processing_time_us": 159019,
@@ -439,8 +377,6 @@
       "question_index": 31,
       "global_index": 31,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 956386,
         "prompt_processing_time_us": 156146,
@@ -453,8 +389,6 @@
       "question_index": 32,
       "global_index": 32,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 968019,
         "prompt_processing_time_us": 158874,
@@ -467,22 +401,18 @@
       "question_index": 33,
       "global_index": 33,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 930001,
         "prompt_processing_time_us": 153765,
         "prompt_processing_rate_toks_per_sec": 1464.128784,
         "token_generation_time_us": 114968,
-        "token_generation_rate_toks_per_sec": 34.792290
+        "token_generation_rate_toks_per_sec": 34.79229
       }
     },
     {
       "question_index": 34,
       "global_index": 34,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 953964,
         "prompt_processing_time_us": 156887,
@@ -495,8 +425,6 @@
       "question_index": 35,
       "global_index": 35,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 941185,
         "prompt_processing_time_us": 155690,
@@ -509,8 +437,6 @@
       "question_index": 36,
       "global_index": 36,
       "final_answer": "A",
-      "model_output": 
-"10 - (11 + 6) = 10 - 17 = -7\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 955221,
         "prompt_processing_time_us": 154921,
@@ -523,8 +449,6 @@
       "question_index": 37,
       "global_index": 37,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 947485,
         "prompt_processing_time_us": 156279,
@@ -537,8 +461,6 @@
       "question_index": 38,
       "global_index": 38,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 941547,
         "prompt_processing_time_us": 157134,
@@ -551,8 +473,6 @@
       "question_index": 39,
       "global_index": 39,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 949588,
         "prompt_processing_time_us": 154523,
@@ -565,8 +485,6 @@
       "question_index": 40,
       "global_index": 40,
       "final_answer": "B",
-      "model_output": 
-"2000 −150x\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 961179,
         "prompt_processing_time_us": 160953,
@@ -579,8 +497,6 @@
       "question_index": 41,
       "global_index": 41,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 940399,
         "prompt_processing_time_us": 156254,
@@ -593,8 +509,6 @@
       "question_index": 42,
       "global_index": 42,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 949551,
         "prompt_processing_time_us": 79078,
@@ -607,8 +521,6 @@
       "question_index": 43,
       "global_index": 43,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 954107,
         "prompt_processing_time_us": 153251,
@@ -621,8 +533,6 @@
       "question_index": 44,
       "global_index": 44,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 952683,
         "prompt_processing_time_us": 155945,
@@ -635,8 +545,6 @@
       "question_index": 45,
       "global_index": 45,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 938169,
         "prompt_processing_time_us": 154156,
@@ -649,8 +557,6 @@
       "question_index": 46,
       "global_index": 46,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 947655,
         "prompt_processing_time_us": 154262,
@@ -663,8 +569,6 @@
       "question_index": 47,
       "global_index": 47,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 988714,
         "prompt_processing_time_us": 157009,
@@ -677,8 +581,6 @@
       "question_index": 48,
       "global_index": 48,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 939389,
         "prompt_processing_time_us": 152944,
@@ -691,8 +593,6 @@
       "question_index": 49,
       "global_index": 49,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 942846,
         "prompt_processing_time_us": 155803,
@@ -705,8 +605,6 @@
       "question_index": 50,
       "global_index": 50,
       "final_answer": "A",
-      "model_output": 
-"设下午数到的鸟为x，则上午为x+34\n\nx + (x + 34) = 76\n\n2x + 34 = 76\n\n2x = 42\n\nx = 21\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 947604,
         "prompt_processing_time_us": 155408,
@@ -719,22 +617,18 @@
       "question_index": 51,
       "global_index": 51,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 938234,
         "prompt_processing_time_us": 156175,
         "prompt_processing_rate_toks_per_sec": 909.918091,
         "token_generation_time_us": 115296,
-        "token_generation_rate_toks_per_sec": 34.693310
+        "token_generation_rate_toks_per_sec": 34.69331
       }
     },
     {
       "question_index": 52,
       "global_index": 52,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 934622,
         "prompt_processing_time_us": 154331,
@@ -747,8 +641,6 @@
       "question_index": 53,
       "global_index": 53,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 943924,
         "prompt_processing_time_us": 155764,
@@ -761,8 +653,6 @@
       "question_index": 54,
       "global_index": 54,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 957253,
         "prompt_processing_time_us": 155246,
@@ -775,8 +665,6 @@
       "question_index": 55,
       "global_index": 55,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 949686,
         "prompt_processing_time_us": 152827,
@@ -789,26 +677,22 @@
       "question_index": 56,
       "global_index": 56,
       "final_answer": "A",
-      "model_output": 
-"答案：C\n\n解方程：84 - t = 11\n\n解得：t = 73°F\n\n最终答案：答案：A\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 950760,
         "prompt_processing_time_us": 156142,
         "prompt_processing_rate_toks_per_sec": 1371.742065,
         "token_generation_time_us": 1399840,
-        "token_generation_rate_toks_per_sec": 27.146620
+        "token_generation_rate_toks_per_sec": 27.14662
       }
     },
     {
       "question_index": 57,
       "global_index": 57,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 946087,
         "prompt_processing_time_us": 155455,
-        "prompt_processing_rate_toks_per_sec": 1254.705200,
+        "prompt_processing_rate_toks_per_sec": 1254.7052,
         "token_generation_time_us": 113960,
         "token_generation_rate_toks_per_sec": 35.100037
       }
@@ -817,8 +701,6 @@
       "question_index": 58,
       "global_index": 58,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 937051,
         "prompt_processing_time_us": 160930,
@@ -831,8 +713,6 @@
       "question_index": 59,
       "global_index": 59,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 968554,
         "prompt_processing_time_us": 155268,
@@ -845,8 +725,6 @@
       "question_index": 60,
       "global_index": 60,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 949303,
         "prompt_processing_time_us": 154248,
@@ -859,8 +737,6 @@
       "question_index": 61,
       "global_index": 61,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 961658,
         "prompt_processing_time_us": 78266,
@@ -873,12 +749,10 @@
       "question_index": 62,
       "global_index": 62,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 948886,
         "prompt_processing_time_us": 154194,
-        "prompt_processing_rate_toks_per_sec": 1349.527710,
+        "prompt_processing_rate_toks_per_sec": 1349.52771,
         "token_generation_time_us": 112601,
         "token_generation_rate_toks_per_sec": 35.523979
       }
@@ -887,8 +761,6 @@
       "question_index": 63,
       "global_index": 63,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 948602,
         "prompt_processing_time_us": 154138,
@@ -901,8 +773,6 @@
       "question_index": 64,
       "global_index": 64,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 953242,
         "prompt_processing_time_us": 161127,
@@ -915,12 +785,10 @@
       "question_index": 65,
       "global_index": 65,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 947643,
         "prompt_processing_time_us": 154695,
-        "prompt_processing_rate_toks_per_sec": 983.284180,
+        "prompt_processing_rate_toks_per_sec": 983.28418,
         "token_generation_time_us": 114189,
         "token_generation_rate_toks_per_sec": 35.029949
       }
@@ -929,12 +797,10 @@
       "question_index": 66,
       "global_index": 66,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 953665,
         "prompt_processing_time_us": 157134,
-        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "prompt_processing_rate_toks_per_sec": 1076.42627,
         "token_generation_time_us": 264663,
         "token_generation_rate_toks_per_sec": 30.227919
       }
@@ -943,8 +809,6 @@
       "question_index": 67,
       "global_index": 67,
       "final_answer": "A",
-      "model_output": 
-"152 - 96 = 56\n56 / 8 = 7\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 956907,
         "prompt_processing_time_us": 154688,
@@ -957,8 +821,6 @@
       "question_index": 68,
       "global_index": 68,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 960635,
         "prompt_processing_time_us": 158555,
@@ -971,8 +833,6 @@
       "question_index": 69,
       "global_index": 69,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 944475,
         "prompt_processing_time_us": 160167,
@@ -985,8 +845,6 @@
       "question_index": 70,
       "global_index": 70,
       "final_answer": "B",
-      "model_output": 
-"杂志的总价：4 × 2.99 美元\n书籍的总价：3 × 6.99 美元\n总成本：杂志总价 + 书籍总价\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 983492,
         "prompt_processing_time_us": 160775,
@@ -999,8 +857,6 @@
       "question_index": 71,
       "global_index": 71,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 983553,
         "prompt_processing_time_us": 155591,
@@ -1013,8 +869,6 @@
       "question_index": 72,
       "global_index": 72,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 949064,
         "prompt_processing_time_us": 157309,
@@ -1027,8 +881,6 @@
       "question_index": 73,
       "global_index": 73,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 940573,
         "prompt_processing_time_us": 233268,
@@ -1041,22 +893,18 @@
       "question_index": 74,
       "global_index": 74,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 957628,
         "prompt_processing_time_us": 164315,
         "prompt_processing_rate_toks_per_sec": 1047.120361,
         "token_generation_time_us": 112897,
-        "token_generation_rate_toks_per_sec": 35.430840
+        "token_generation_rate_toks_per_sec": 35.43084
       }
     },
     {
       "question_index": 75,
       "global_index": 75,
       "final_answer": "A",
-      "model_output": 
-"草莓数量是偶数，苹果数量是奇数。\n选项A中，草莓数量为偶数，苹果数量为奇数。\n选项B中，草莓数量为偶数，苹果数量为偶数。\n选项C中，草莓数量为奇数，苹果数量为奇数。\n选项D中，草莓数量为奇数，苹果数量为偶数。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 951449,
         "prompt_processing_time_us": 154249,
@@ -1069,8 +917,6 @@
       "question_index": 76,
       "global_index": 76,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 936532,
         "prompt_processing_time_us": 159999,
@@ -1083,12 +929,10 @@
       "question_index": 77,
       "global_index": 77,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 938876,
         "prompt_processing_time_us": 159780,
-        "prompt_processing_rate_toks_per_sec": 864.304260,
+        "prompt_processing_rate_toks_per_sec": 864.30426,
         "token_generation_time_us": 114127,
         "token_generation_rate_toks_per_sec": 35.049595
       }
@@ -1097,8 +941,6 @@
       "question_index": 78,
       "global_index": 78,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 941627,
         "prompt_processing_time_us": 162964,
@@ -1111,8 +953,6 @@
       "question_index": 79,
       "global_index": 79,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 967585,
         "prompt_processing_time_us": 155737,
@@ -1125,8 +965,6 @@
       "question_index": 80,
       "global_index": 80,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 937139,
         "prompt_processing_time_us": 154567,
@@ -1139,8 +977,6 @@
       "question_index": 81,
       "global_index": 81,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 961723,
         "prompt_processing_time_us": 155492,
@@ -1153,8 +989,6 @@
       "question_index": 82,
       "global_index": 82,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1092529,
         "prompt_processing_time_us": 161453,
@@ -1167,8 +1001,6 @@
       "question_index": 83,
       "global_index": 83,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 948836,
         "prompt_processing_time_us": 156212,
@@ -1181,8 +1013,6 @@
       "question_index": 84,
       "global_index": 84,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 990038,
         "prompt_processing_time_us": 153696,
@@ -1195,8 +1025,6 @@
       "question_index": 85,
       "global_index": 85,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 975767,
         "prompt_processing_time_us": 157254,
@@ -1209,8 +1037,6 @@
       "question_index": 86,
       "global_index": 86,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 980144,
         "prompt_processing_time_us": 161739,
@@ -1223,8 +1049,6 @@
       "question_index": 87,
       "global_index": 87,
       "final_answer": "A",
-      "model_output": 
-"余角的定义是两个角之和为90°的角。\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 949021,
         "prompt_processing_time_us": 153477,
@@ -1237,8 +1061,6 @@
       "question_index": 88,
       "global_index": 88,
       "final_answer": "B",
-      "model_output": 
-"首先，我们需要将每个成绩四舍五入到最接近的十分之一秒。\n\n- 18.04 秒 -> 18.0 秒\n- 21.39 秒 -> 21.4 秒\n- 12.99 秒 -> 13.0 秒\n- 14.14 秒 -> 14.1 秒\n\n接下来，我们计算四场比赛的总用时。\n\n- 18.0 秒 + 21.4 秒 + 13.0 秒 + 14.1 秒 = 66.5 秒\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 945938,
         "prompt_processing_time_us": 154935,
@@ -1251,8 +1073,6 @@
       "question_index": 89,
       "global_index": 89,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 940657,
         "prompt_processing_time_us": 160377,
@@ -1265,8 +1085,6 @@
       "question_index": 90,
       "global_index": 90,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 948288,
         "prompt_processing_time_us": 154188,
@@ -1279,22 +1097,18 @@
       "question_index": 91,
       "global_index": 91,
       "final_answer": "D",
-      "model_output": 
-"巨嘴鸟和鹦鹉的数量比为：15:60\n简化比值：15 ÷ 15 = 1, 60 ÷ 15 = 4\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 943708,
         "prompt_processing_time_us": 159290,
         "prompt_processing_rate_toks_per_sec": 1017.294006,
         "token_generation_time_us": 1757237,
-        "token_generation_rate_toks_per_sec": 26.746550
+        "token_generation_rate_toks_per_sec": 26.74655
       }
     },
     {
       "question_index": 92,
       "global_index": 92,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 946370,
         "prompt_processing_time_us": 154496,
@@ -1307,8 +1121,6 @@
       "question_index": 93,
       "global_index": 93,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 944577,
         "prompt_processing_time_us": 156684,
@@ -1321,8 +1133,6 @@
       "question_index": 94,
       "global_index": 94,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 944394,
         "prompt_processing_time_us": 153602,
@@ -1335,8 +1145,6 @@
       "question_index": 95,
       "global_index": 95,
       "final_answer": "D",
-      "model_output": 
-"首先，将每名学生所要的绳子长度换算成英寸。1 英尺 = 12 英寸，因此 5 英尺 8 英寸 = (5 × 12) 英寸 + 8 英寸 = 68 英寸。\n\nGutierrez 女士需要为她的 32 名学生订购绳子，因此总长度为：32 × 68 英寸 = 2176 英寸。\n\n接下来，将总长度换算成英尺。1 英尺 = 12 英寸，因此 2176 英寸 = 2176 ÷ 12 英尺 = 181 英尺 4 英寸。\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 948632,
         "prompt_processing_time_us": 152545,
@@ -1349,12 +1157,10 @@
       "question_index": 96,
       "global_index": 96,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 950032,
         "prompt_processing_time_us": 157790,
-        "prompt_processing_rate_toks_per_sec": 1250.000000,
+        "prompt_processing_rate_toks_per_sec": 1250.0,
         "token_generation_time_us": 115751,
         "token_generation_rate_toks_per_sec": 34.557831
       }
@@ -1363,8 +1169,6 @@
       "question_index": 97,
       "global_index": 97,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 955382,
         "prompt_processing_time_us": 162807,
@@ -1377,8 +1181,6 @@
       "question_index": 98,
       "global_index": 98,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 946818,
         "prompt_processing_time_us": 155488,
@@ -1391,22 +1193,18 @@
       "question_index": 99,
       "global_index": 99,
       "final_answer": "C",
-      "model_output": 
-"首先，根据题目描述，沙拉酱的成分比例为醋和油的比为 2:5。这意味着每 7 份沙拉酱成分中，有 2 份醋和 5 份油。\n\n题目要求的是 9 盎司的醋应该和多少盎司的油混合。根据比例，我们可以设置一个方程来解决这个问题：\n\n设需要的油的盎司数为 x，则有：\n\n\[ rac{2}{5} = rac{9}{x} \]\n\n通过交叉相乘，可以得到：\n\n\[ 2x = 45 \]\n\n从而解得：\n\n\[ x = 22.5 \]\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 945711,
         "prompt_processing_time_us": 156218,
         "prompt_processing_rate_toks_per_sec": 1012.145752,
         "token_generation_time_us": 5586133,
-        "token_generation_rate_toks_per_sec": 26.315790
+        "token_generation_rate_toks_per_sec": 26.31579
       }
     },
     {
       "question_index": 100,
       "global_index": 100,
       "final_answer": "A",
-      "model_output": 
-" Kim 每周骑行的距离：135 英里 / 9 周 = 15 英里/周\n\nEric 每周骑行的距离：102 英里 / 6 周 = 17 英里/周\n\nKim 每周比 Eric 少骑的距离：17 英里/周 - 15 英里/周 = 2 英里/周\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1092866,
         "prompt_processing_time_us": 153958,
@@ -1419,8 +1217,6 @@
       "question_index": 101,
       "global_index": 101,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 946549,
         "prompt_processing_time_us": 155508,
@@ -1433,8 +1229,6 @@
       "question_index": 102,
       "global_index": 102,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 961319,
         "prompt_processing_time_us": 162759,
@@ -1447,8 +1241,6 @@
       "question_index": 103,
       "global_index": 103,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 949056,
         "prompt_processing_time_us": 156369,
@@ -1461,8 +1253,6 @@
       "question_index": 104,
       "global_index": 104,
       "final_answer": "C",
-      "model_output": 
-"Stephanie飞行的英里数四舍五入到最接近的千位，首先计算四舍五入的值，四舍五入到千位意味着保留到千位数，四舍五入到2,448英里最接近的千位数是2,500。\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 948964,
         "prompt_processing_time_us": 151752,
@@ -1475,8 +1265,6 @@
       "question_index": 105,
       "global_index": 105,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1134620,
         "prompt_processing_time_us": 164661,
@@ -1489,12 +1277,10 @@
       "question_index": 106,
       "global_index": 106,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1149941,
         "prompt_processing_time_us": 159214,
-        "prompt_processing_rate_toks_per_sec": 1131.221680,
+        "prompt_processing_rate_toks_per_sec": 1131.22168,
         "token_generation_time_us": 124611,
         "token_generation_rate_toks_per_sec": 32.100666
       }
@@ -1503,8 +1289,6 @@
       "question_index": 107,
       "global_index": 107,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1249674,
         "prompt_processing_time_us": 159603,
@@ -1517,8 +1301,6 @@
       "question_index": 108,
       "global_index": 108,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1392067,
         "prompt_processing_time_us": 160325,
@@ -1531,8 +1313,6 @@
       "question_index": 109,
       "global_index": 109,
       "final_answer": "B",
-      "model_output": 
-"女生比男生多 20 人，如果有 180 个女孩，那么男生的数量为 180 减去 20 人。\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1386569,
         "prompt_processing_time_us": 158894,
@@ -1545,8 +1325,6 @@
       "question_index": 110,
       "global_index": 110,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：B\n\n步骤：首先计算每分钟可以装多少瓶苏打水，即 200 瓶 / 12 分钟 = 16.67 瓶/分钟。\n\n然后计算装满 500 瓶苏打水需要多少分钟，即 500 瓶 / 16.67 瓶/分钟 = 30 分钟。\n\n因此，答案是：答案：A\n",
       "performance_metrics": {
         "init_time_us": 1415808,
         "prompt_processing_time_us": 159493,
@@ -1559,8 +1337,6 @@
       "question_index": 111,
       "global_index": 111,
       "final_answer": "D",
-      "model_output": 
-"w = 231 - 46\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1483944,
         "prompt_processing_time_us": 160143,
@@ -1573,8 +1349,6 @@
       "question_index": 112,
       "global_index": 112,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1478711,
         "prompt_processing_time_us": 161892,
@@ -1587,8 +1361,6 @@
       "question_index": 113,
       "global_index": 113,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488633,
         "prompt_processing_time_us": 160556,
@@ -1601,8 +1373,6 @@
       "question_index": 114,
       "global_index": 114,
       "final_answer": "A",
-      "model_output": 
-" Jerry 10 小时内读完 200 页，那么每小时他读完的页数为 \(200 \div 10 = 20\) 页。\n\n对于 320 页的书，按照这个速度，所需时间为 \(320 \div 20 = 16\) 小时。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1464810,
         "prompt_processing_time_us": 162318,
@@ -1615,8 +1385,6 @@
       "question_index": 115,
       "global_index": 115,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1491780,
         "prompt_processing_time_us": 159558,
@@ -1629,8 +1397,6 @@
       "question_index": 116,
       "global_index": 116,
       "final_answer": "C",
-      "model_output": 
-"将 18 厘升转换为升，我们用除以 100 来得到这个结果，因为 1 厘升等于 0.01 升。\n34 升 + 18 厘升 = 34 升 + 0.01 升 = 34.01 升\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1476849,
         "prompt_processing_time_us": 162653,
@@ -1643,12 +1409,10 @@
       "question_index": 117,
       "global_index": 117,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1517164,
         "prompt_processing_time_us": 160788,
-        "prompt_processing_rate_toks_per_sec": 996.015930,
+        "prompt_processing_rate_toks_per_sec": 996.01593,
         "token_generation_time_us": 128451,
         "token_generation_rate_toks_per_sec": 31.141006
       }
@@ -1657,26 +1421,22 @@
       "question_index": 118,
       "global_index": 118,
       "final_answer": "D",
-      "model_output": 
-"答案：C\n\n答案：A\n\n答案：C\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1497052,
         "prompt_processing_time_us": 161790,
         "prompt_processing_rate_toks_per_sec": 1119.820801,
         "token_generation_time_us": 640704,
-        "token_generation_rate_toks_per_sec": 24.972530
+        "token_generation_rate_toks_per_sec": 24.97253
       }
     },
     {
       "question_index": 119,
       "global_index": 119,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1482580,
         "prompt_processing_time_us": 160644,
-        "prompt_processing_rate_toks_per_sec": 977.517090,
+        "prompt_processing_rate_toks_per_sec": 977.51709,
         "token_generation_time_us": 127225,
         "token_generation_rate_toks_per_sec": 31.440609
       }
@@ -1685,8 +1445,6 @@
       "question_index": 120,
       "global_index": 120,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1483788,
         "prompt_processing_time_us": 161643,
@@ -1699,8 +1457,6 @@
       "question_index": 121,
       "global_index": 121,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1488935,
         "prompt_processing_time_us": 160136,
@@ -1713,26 +1469,22 @@
       "question_index": 122,
       "global_index": 122,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1475585,
         "prompt_processing_time_us": 163195,
         "prompt_processing_rate_toks_per_sec": 919.963196,
         "token_generation_time_us": 128700,
-        "token_generation_rate_toks_per_sec": 31.080030
+        "token_generation_rate_toks_per_sec": 31.08003
       }
     },
     {
       "question_index": 123,
       "global_index": 123,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1497612,
         "prompt_processing_time_us": 160040,
-        "prompt_processing_rate_toks_per_sec": 1282.051270,
+        "prompt_processing_rate_toks_per_sec": 1282.05127,
         "token_generation_time_us": 128151,
         "token_generation_rate_toks_per_sec": 31.213909
       }
@@ -1741,8 +1493,6 @@
       "question_index": 124,
       "global_index": 124,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1492597,
         "prompt_processing_time_us": 160660,
@@ -1755,8 +1505,6 @@
       "question_index": 125,
       "global_index": 125,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1451578,
         "prompt_processing_time_us": 161968,
@@ -1769,8 +1517,6 @@
       "question_index": 126,
       "global_index": 126,
       "final_answer": "A",
-      "model_output": 
-"3 又 3/4 加仑 = 3.75 加仑\n\n3.75 加仑 * 3.785411784 加仑/升 ≈ 14.085 升\n\n14.085 升 ≈ 60 升 (选项 A)\n\n14.085 升 / 0.94635 夸脱/升 ≈ 14.84 夸脱\n\n14.84 夸脱 ≈ 15 夸脱 (选项 B)\n\n14.085 升 / 0.909218346 品脱/升 ≈ 15.58 品脱\n\n15.58 品脱 ≈ 30 品脱 (选项 C)\n\n14.085 升 / 0.961 夸脱/升 ≈ 14.64 夸脱\n\n14.64 夸脱 ≈ 13 夸脱 (选项 D)\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1512803,
         "prompt_processing_time_us": 163006,
@@ -1783,26 +1529,22 @@
       "question_index": 127,
       "global_index": 127,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1502689,
         "prompt_processing_time_us": 160553,
         "prompt_processing_rate_toks_per_sec": 922.509216,
         "token_generation_time_us": 128176,
-        "token_generation_rate_toks_per_sec": 31.207090
+        "token_generation_rate_toks_per_sec": 31.20709
       }
     },
     {
       "question_index": 128,
       "global_index": 128,
       "final_answer": "B",
-      "model_output": 
-"56 ÷ 8 = 7\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493058,
         "prompt_processing_time_us": 160851,
-        "prompt_processing_rate_toks_per_sec": 1349.527710,
+        "prompt_processing_rate_toks_per_sec": 1349.52771,
         "token_generation_time_us": 566469,
         "token_generation_rate_toks_per_sec": 24.714546
       }
@@ -1811,8 +1553,6 @@
       "question_index": 129,
       "global_index": 129,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493786,
         "prompt_processing_time_us": 160886,
@@ -1825,36 +1565,30 @@
       "question_index": 130,
       "global_index": 130,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1505610,
         "prompt_processing_time_us": 160464,
         "prompt_processing_rate_toks_per_sec": 1503.759399,
         "token_generation_time_us": 130117,
-        "token_generation_rate_toks_per_sec": 30.741800
+        "token_generation_rate_toks_per_sec": 30.7418
       }
     },
     {
       "question_index": 131,
       "global_index": 131,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1480260,
         "prompt_processing_time_us": 162041,
         "prompt_processing_rate_toks_per_sec": 1086.956543,
         "token_generation_time_us": 128055,
-        "token_generation_rate_toks_per_sec": 31.237310
+        "token_generation_rate_toks_per_sec": 31.23731
       }
     },
     {
       "question_index": 132,
       "global_index": 132,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1499948,
         "prompt_processing_time_us": 160195,
@@ -1867,8 +1601,6 @@
       "question_index": 133,
       "global_index": 133,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1525039,
         "prompt_processing_time_us": 161220,
@@ -1881,8 +1613,6 @@
       "question_index": 134,
       "global_index": 134,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1484269,
         "prompt_processing_time_us": 160983,
@@ -1895,12 +1625,10 @@
       "question_index": 135,
       "global_index": 135,
       "final_answer": "C",
-      "model_output": 
-"首先，我们需要计算Chesa今年要做的汤的数量。\n\n去年她做了32份单杯汤，今年她要做的汤是去年的两倍，即：\n\n\[ 32 	imes 2 = 64 \]\n\n接下来，我们需要将汤的数量从单位杯转换为加仑。1加仑等于16杯。因此，64杯汤转换为加仑为：\n\n\[ 64 \div 16 = 4 \]\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1493281,
         "prompt_processing_time_us": 161139,
-        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "prompt_processing_rate_toks_per_sec": 1000.0,
         "token_generation_time_us": 4440148,
         "token_generation_rate_toks_per_sec": 22.747435
       }
@@ -1909,8 +1637,6 @@
       "question_index": 136,
       "global_index": 136,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1503806,
         "prompt_processing_time_us": 163422,
@@ -1923,22 +1649,18 @@
       "question_index": 137,
       "global_index": 137,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1487545,
         "prompt_processing_time_us": 162638,
         "prompt_processing_rate_toks_per_sec": 990.098999,
         "token_generation_time_us": 128123,
-        "token_generation_rate_toks_per_sec": 31.220730
+        "token_generation_rate_toks_per_sec": 31.22073
       }
     },
     {
       "question_index": 138,
       "global_index": 138,
       "final_answer": "C",
-      "model_output": 
-"体积 = 长 × 宽 × 高 = 12 × 6.5 × 1.25 = 118.5立方厘米\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1524393,
         "prompt_processing_time_us": 160963,
@@ -1951,8 +1673,6 @@
       "question_index": 139,
       "global_index": 139,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1611431,
         "prompt_processing_time_us": 160222,
@@ -1965,12 +1685,10 @@
       "question_index": 140,
       "global_index": 140,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1505291,
         "prompt_processing_time_us": 162008,
-        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "prompt_processing_rate_toks_per_sec": 1000.0,
         "token_generation_time_us": 127825,
         "token_generation_rate_toks_per_sec": 31.293028
       }
@@ -1979,8 +1697,6 @@
       "question_index": 141,
       "global_index": 141,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1462233,
         "prompt_processing_time_us": 163637,
@@ -1993,8 +1709,6 @@
       "question_index": 142,
       "global_index": 142,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1503534,
         "prompt_processing_time_us": 160553,
@@ -2007,8 +1721,6 @@
       "question_index": 143,
       "global_index": 143,
       "final_answer": "B",
-      "model_output": 
-"下午 4:06 完成比赛\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1499484,
         "prompt_processing_time_us": 159325,
@@ -2021,22 +1733,18 @@
       "question_index": 144,
       "global_index": 144,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1480524,
         "prompt_processing_time_us": 161621,
         "prompt_processing_rate_toks_per_sec": 1102.535889,
         "token_generation_time_us": 128896,
-        "token_generation_rate_toks_per_sec": 31.032770
+        "token_generation_rate_toks_per_sec": 31.03277
       }
     },
     {
       "question_index": 145,
       "global_index": 145,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n\n步骤如下：\n\n1. 计算单个直角三角形的面积：\[面积 = rac{底 	imes 高}{2} = rac{4 	imes 5}{2} = 10 \, 平方厘米\]\n2. 由于有 12 个这样的直角三角形，总面积为：\[总面积 = 12 	imes 10 = 120 \, 平方厘米\]\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1475088,
         "prompt_processing_time_us": 161074,
@@ -2049,8 +1757,6 @@
       "question_index": 146,
       "global_index": 146,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1495995,
         "prompt_processing_time_us": 163862,
@@ -2063,8 +1769,6 @@
       "question_index": 147,
       "global_index": 147,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1494604,
         "prompt_processing_time_us": 162574,
@@ -2077,8 +1781,6 @@
       "question_index": 148,
       "global_index": 148,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1478453,
         "prompt_processing_time_us": 159354,
@@ -2091,22 +1793,18 @@
       "question_index": 149,
       "global_index": 149,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1451591,
         "prompt_processing_time_us": 161447,
         "prompt_processing_rate_toks_per_sec": 972.762634,
         "token_generation_time_us": 128123,
-        "token_generation_rate_toks_per_sec": 31.220730
+        "token_generation_rate_toks_per_sec": 31.22073
       }
     },
     {
       "question_index": 150,
       "global_index": 150,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1500020,
         "prompt_processing_time_us": 162896,
@@ -2119,8 +1817,6 @@
       "question_index": 151,
       "global_index": 151,
       "final_answer": "B",
-      "model_output": 
-"首先，我们可以简化计算，将4,286 × 390 近似为4,000 × 400，因为4,286接近于4,000，而390接近于400。\n\n简化后的计算为：4,000 × 400 = 1,600,000\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491536,
         "prompt_processing_time_us": 161343,
@@ -2133,8 +1829,6 @@
       "question_index": 152,
       "global_index": 152,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1449217,
         "prompt_processing_time_us": 160646,
@@ -2147,8 +1841,6 @@
       "question_index": 153,
       "global_index": 153,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503427,
         "prompt_processing_time_us": 160059,
@@ -2161,12 +1853,10 @@
       "question_index": 154,
       "global_index": 154,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1492875,
         "prompt_processing_time_us": 162128,
-        "prompt_processing_rate_toks_per_sec": 1135.073730,
+        "prompt_processing_rate_toks_per_sec": 1135.07373,
         "token_generation_time_us": 128647,
         "token_generation_rate_toks_per_sec": 31.093561
       }
@@ -2175,8 +1865,6 @@
       "question_index": 155,
       "global_index": 155,
       "final_answer": "D",
-      "model_output": 
-"设原来班上有x名学生。\n\n根据题意，有一半的学生去图书馆，剩下x/2名学生。\n\n再根据题意，剩下的学生中有一半去电脑室，所以剩下的学生中还有x/4名学生。\n\n根据题意，剩下的学生中还有8名学生，所以有等式：x/4 = 8。\n\n解得x = 32。\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1353578,
         "prompt_processing_time_us": 160718,
@@ -2189,8 +1877,6 @@
       "question_index": 156,
       "global_index": 156,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1497467,
         "prompt_processing_time_us": 162985,
@@ -2203,8 +1889,6 @@
       "question_index": 157,
       "global_index": 157,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1450861,
         "prompt_processing_time_us": 160900,
@@ -2217,8 +1901,6 @@
       "question_index": 158,
       "global_index": 158,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1492641,
         "prompt_processing_time_us": 161616,
@@ -2231,8 +1913,6 @@
       "question_index": 159,
       "global_index": 159,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494052,
         "prompt_processing_time_us": 161406,
@@ -2245,8 +1925,6 @@
       "question_index": 160,
       "global_index": 160,
       "final_answer": "D",
-      "model_output": 
-"首先，我们需要找到与 6/9 成比例的比值。\n\n1. 6/9 可以简化为 2/3。\n2. 我们需要找到一个比值，使得它与 2/3 成比例。\n\n接下来，我们检查每个选项是否与 2/3 成比例。\n\nA. 12-Aug\n- 这个选项显然不与 2/3 成比例，因为它是一个日期而不是一个比值。\n\nB. 6-Sep\n- 这个选项显然不与 2/3 成比例，因为它是一个日期而不是一个比值。\n\nC. 6-Feb\n- 这个选项显然不与 2/3 成比例，因为它是一个日期而不是一个比值。\n\nD. 24/27\n- 24/27 可以简化为 4/3。\n- 4/3 是 2/3 的两倍，因此 24/27 与 2/3 成比例。\n\n经过上述分析，可以得出结论：\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1467549,
         "prompt_processing_time_us": 160773,
@@ -2259,8 +1937,6 @@
       "question_index": 161,
       "global_index": 161,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1485629,
         "prompt_processing_time_us": 160548,
@@ -2273,8 +1949,6 @@
       "question_index": 162,
       "global_index": 162,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1479867,
         "prompt_processing_time_us": 159953,
@@ -2287,8 +1961,6 @@
       "question_index": 163,
       "global_index": 163,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1336496,
         "prompt_processing_time_us": 161586,
@@ -2301,8 +1973,6 @@
       "question_index": 164,
       "global_index": 164,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1500459,
         "prompt_processing_time_us": 161136,
@@ -2315,8 +1985,6 @@
       "question_index": 165,
       "global_index": 165,
       "final_answer": "B",
-      "model_output": 
-"平均值会增加。\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1471079,
         "prompt_processing_time_us": 159016,
@@ -2329,8 +1997,6 @@
       "question_index": 166,
       "global_index": 166,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1476647,
         "prompt_processing_time_us": 160437,
@@ -2343,8 +2009,6 @@
       "question_index": 167,
       "global_index": 167,
       "final_answer": "C",
-      "model_output": 
-"2x - 1 < 10\n2x < 11\nx < 5.5\n\n不等式成立的x的范围为x < 5.5\n\nA. {10, 15, 20}\nB. {5, 7, 9}\nC. {4, 6, 8}\nD. {2, 3, 4}\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1496353,
         "prompt_processing_time_us": 160491,
@@ -2357,8 +2021,6 @@
       "question_index": 168,
       "global_index": 168,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1485382,
         "prompt_processing_time_us": 160684,
@@ -2371,8 +2033,6 @@
       "question_index": 169,
       "global_index": 169,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1504515,
         "prompt_processing_time_us": 161656,
@@ -2385,8 +2045,6 @@
       "question_index": 170,
       "global_index": 170,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1494814,
         "prompt_processing_time_us": 161410,
@@ -2399,8 +2057,6 @@
       "question_index": 171,
       "global_index": 171,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1516578,
         "prompt_processing_time_us": 81259,
@@ -2413,8 +2069,6 @@
       "question_index": 172,
       "global_index": 172,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1434320,
         "prompt_processing_time_us": 160391,
@@ -2427,8 +2081,6 @@
       "question_index": 173,
       "global_index": 173,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1469010,
         "prompt_processing_time_us": 161407,
@@ -2441,8 +2093,6 @@
       "question_index": 174,
       "global_index": 174,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505743,
         "prompt_processing_time_us": 160588,
@@ -2455,8 +2105,6 @@
       "question_index": 175,
       "global_index": 175,
       "final_answer": "C",
-      "model_output": 
-"首先，我们需要理解四舍五入到百位的规则。这个规则是将数字按位数四舍五入到最近的百位数。对于794来说，它位于700和800之间。\n\n- 794 比 700 大，所以它将被向上四舍五入到800。\n- 794 比 800 小，所以它不会被向下四舍五入到700。\n\n因此，794 四舍五入到最接近的百位是 800。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1508964,
         "prompt_processing_time_us": 163824,
@@ -2469,22 +2117,18 @@
       "question_index": 176,
       "global_index": 176,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1474641,
         "prompt_processing_time_us": 160110,
         "prompt_processing_rate_toks_per_sec": 1144.164795,
         "token_generation_time_us": 128238,
-        "token_generation_rate_toks_per_sec": 31.192490
+        "token_generation_rate_toks_per_sec": 31.19249
       }
     },
     {
       "question_index": 177,
       "global_index": 177,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1488367,
         "prompt_processing_time_us": 160734,
@@ -2497,12 +2141,10 @@
       "question_index": 178,
       "global_index": 178,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1532540,
         "prompt_processing_time_us": 162512,
-        "prompt_processing_rate_toks_per_sec": 947.867310,
+        "prompt_processing_rate_toks_per_sec": 947.86731,
         "token_generation_time_us": 125610,
         "token_generation_rate_toks_per_sec": 31.845106
       }
@@ -2511,8 +2153,6 @@
       "question_index": 179,
       "global_index": 179,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1508516,
         "prompt_processing_time_us": 161361,
@@ -2525,8 +2165,6 @@
       "question_index": 180,
       "global_index": 180,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1488058,
         "prompt_processing_time_us": 160892,
@@ -2539,22 +2177,18 @@
       "question_index": 181,
       "global_index": 181,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1460821,
         "prompt_processing_time_us": 161524,
         "prompt_processing_rate_toks_per_sec": 922.509216,
         "token_generation_time_us": 127591,
-        "token_generation_rate_toks_per_sec": 31.350910
+        "token_generation_rate_toks_per_sec": 31.35091
       }
     },
     {
       "question_index": 182,
       "global_index": 182,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1497509,
         "prompt_processing_time_us": 162052,
@@ -2567,8 +2201,6 @@
       "question_index": 183,
       "global_index": 183,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1477203,
         "prompt_processing_time_us": 161373,
@@ -2581,8 +2213,6 @@
       "question_index": 184,
       "global_index": 184,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1511001,
         "prompt_processing_time_us": 161458,
@@ -2595,8 +2225,6 @@
       "question_index": 185,
       "global_index": 185,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1524553,
         "prompt_processing_time_us": 159484,
@@ -2609,8 +2237,6 @@
       "question_index": 186,
       "global_index": 186,
       "final_answer": "D",
-      "model_output": 
-"蓝色区域能坐的人数：200 - 20 = 180人\n绿色区域能坐的人数：180 × 2 = 360人\n棒球场能坐的总人数：200 + 180 + 360 = 740人\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1506975,
         "prompt_processing_time_us": 163157,
@@ -2623,8 +2249,6 @@
       "question_index": 187,
       "global_index": 187,
       "final_answer": "B",
-      "model_output": 
-"18 = p - 4；p = 22\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494311,
         "prompt_processing_time_us": 160682,
@@ -2637,8 +2261,6 @@
       "question_index": 188,
       "global_index": 188,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1496493,
         "prompt_processing_time_us": 160529,
@@ -2651,8 +2273,6 @@
       "question_index": 189,
       "global_index": 189,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1524449,
         "prompt_processing_time_us": 161398,
@@ -2665,12 +2285,10 @@
       "question_index": 190,
       "global_index": 190,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n\n步骤：首先计算总面积除以县的数量，得到每个县的平均平方英里数。\n\[ 	ext{每个县的平均平方英里数} = rac{58056 	ext{ 平方英里}}{159 	ext{ 个县}} \]\n\n计算：\n\[ rac{58056}{159} pprox 369.556 \]\n\n四舍五入到最接近的整数：\n\[ 369.556 pprox 370 \]\n\n因此，每个县的平均平方英里数约为 370 平方英里。由于选项中没有 370，最接近的选项是 C. 每个县 318 平方英里。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1502516,
         "prompt_processing_time_us": 161201,
-        "prompt_processing_rate_toks_per_sec": 1328.021240,
+        "prompt_processing_rate_toks_per_sec": 1328.02124,
         "token_generation_time_us": 8056555,
         "token_generation_rate_toks_per_sec": 22.342375
       }
@@ -2679,8 +2297,6 @@
       "question_index": 191,
       "global_index": 191,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1477445,
         "prompt_processing_time_us": 160989,
@@ -2693,8 +2309,6 @@
       "question_index": 192,
       "global_index": 192,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1481220,
         "prompt_processing_time_us": 161202,
@@ -2707,8 +2321,6 @@
       "question_index": 193,
       "global_index": 193,
       "final_answer": "D",
-      "model_output": 
-"首先计算3^2，得到9。\n然后计算7乘以9，得到63。\n最后计算-4加上63，得到59。\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1462190,
         "prompt_processing_time_us": 162332,
@@ -2721,8 +2333,6 @@
       "question_index": 194,
       "global_index": 194,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：D\n\n计算过程如下：\n\n远足的总距离 = 时间 × 每小时行走的距离\n\n总距离 = 2.4小时 × 2.5英里/小时 = 6.0 英里\n\n所以，远足的总距离为6.3英里，因此答案是D。\n",
       "performance_metrics": {
         "init_time_us": 1483934,
         "prompt_processing_time_us": 161411,
@@ -2735,8 +2345,6 @@
       "question_index": 195,
       "global_index": 195,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1487339,
         "prompt_processing_time_us": 161178,
@@ -2749,8 +2357,6 @@
       "question_index": 196,
       "global_index": 196,
       "final_answer": "A",
-      "model_output": 
-"157.8 - 148.3 = 9.5磅\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1514126,
         "prompt_processing_time_us": 161677,
@@ -2763,22 +2369,18 @@
       "question_index": 197,
       "global_index": 197,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491738,
         "prompt_processing_time_us": 160045,
         "prompt_processing_rate_toks_per_sec": 1025.640991,
         "token_generation_time_us": 130282,
-        "token_generation_rate_toks_per_sec": 30.703100
+        "token_generation_rate_toks_per_sec": 30.7031
       }
     },
     {
       "question_index": 198,
       "global_index": 198,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1491629,
         "prompt_processing_time_us": 162646,
@@ -2791,8 +2393,6 @@
       "question_index": 199,
       "global_index": 199,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1469441,
         "prompt_processing_time_us": 159530,
@@ -2805,8 +2405,6 @@
       "question_index": 200,
       "global_index": 200,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1500279,
         "prompt_processing_time_us": 160820,
@@ -2819,8 +2417,6 @@
       "question_index": 201,
       "global_index": 201,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1355374,
         "prompt_processing_time_us": 160279,
@@ -2833,8 +2429,6 @@
       "question_index": 202,
       "global_index": 202,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1475019,
         "prompt_processing_time_us": 159582,
@@ -2847,8 +2441,6 @@
       "question_index": 203,
       "global_index": 203,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1484362,
         "prompt_processing_time_us": 160770,
@@ -2861,8 +2453,6 @@
       "question_index": 204,
       "global_index": 204,
       "final_answer": "B",
-      "model_output": 
-"B. 它位于 -15，在数轴上位于 A 点的右边。\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1433099,
         "prompt_processing_time_us": 159759,
@@ -2875,8 +2465,6 @@
       "question_index": 205,
       "global_index": 205,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1485290,
         "prompt_processing_time_us": 160483,
@@ -2889,8 +2477,6 @@
       "question_index": 206,
       "global_index": 206,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1515959,
         "prompt_processing_time_us": 162655,
@@ -2903,8 +2489,6 @@
       "question_index": 207,
       "global_index": 207,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1462960,
         "prompt_processing_time_us": 160350,
@@ -2917,8 +2501,6 @@
       "question_index": 208,
       "global_index": 208,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494805,
         "prompt_processing_time_us": 160601,
@@ -2931,8 +2513,6 @@
       "question_index": 209,
       "global_index": 209,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1346791,
         "prompt_processing_time_us": 160718,
@@ -2945,8 +2525,6 @@
       "question_index": 210,
       "global_index": 210,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1470060,
         "prompt_processing_time_us": 162253,
@@ -2959,8 +2537,6 @@
       "question_index": 211,
       "global_index": 211,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1496093,
         "prompt_processing_time_us": 160901,
@@ -2973,8 +2549,6 @@
       "question_index": 212,
       "global_index": 212,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1489329,
         "prompt_processing_time_us": 160583,
@@ -2987,8 +2561,6 @@
       "question_index": 213,
       "global_index": 213,
       "final_answer": "D",
-      "model_output": 
-"首先，四舍五入到最接近的百分位，即保留一位小数位，四舍五入到最接近的百分位。\n\n213. 问题：一个加油站一天卖出 300.5849 加仑的汽油。加油站卖了多少加仑汽油，四舍五入到最接近的百分位？\n\n步骤1：保留一位小数位，四舍五入到最接近的百分位。\n300.5849四舍五入到最接近的百分位为300.6\n\n步骤2：确认选项。\nA. 300\nB. 300.58\nC. 300.585\nD. 300.59\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486154,
         "prompt_processing_time_us": 161988,
@@ -3001,8 +2573,6 @@
       "question_index": 214,
       "global_index": 214,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490767,
         "prompt_processing_time_us": 160640,
@@ -3015,8 +2585,6 @@
       "question_index": 215,
       "global_index": 215,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1475783,
         "prompt_processing_time_us": 162131,
@@ -3029,22 +2597,18 @@
       "question_index": 216,
       "global_index": 216,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1480678,
         "prompt_processing_time_us": 159805,
         "prompt_processing_rate_toks_per_sec": 1215.066772,
         "token_generation_time_us": 126942,
-        "token_generation_rate_toks_per_sec": 31.510950
+        "token_generation_rate_toks_per_sec": 31.51095
       }
     },
     {
       "question_index": 217,
       "global_index": 217,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1475699,
         "prompt_processing_time_us": 160372,
@@ -3057,8 +2621,6 @@
       "question_index": 218,
       "global_index": 218,
       "final_answer": "B",
-      "model_output": 
-"铅笔的重量通常以克为单位，但考虑到选项中包含的单位，我们来逐一分析。\n\nA. 磅：磅是重量单位，通常用于较大的物体，不适合表示一支铅笔的重量。\n\nB. 盎司：盎司是重量单位，1盎司约等于28.35克，适合表示较小的重量，例如一支铅笔的重量。\n\nC. 夸脱：夸脱是容量单位，通常用于液体，不适合表示重量。\n\nD. 品脱：品脱也是容量单位，同样不适合表示重量。\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1484373,
         "prompt_processing_time_us": 160972,
@@ -3071,8 +2633,6 @@
       "question_index": 219,
       "global_index": 219,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1506476,
         "prompt_processing_time_us": 159903,
@@ -3085,8 +2645,6 @@
       "question_index": 220,
       "global_index": 220,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1483740,
         "prompt_processing_time_us": 160897,
@@ -3099,8 +2657,6 @@
       "question_index": 221,
       "global_index": 221,
       "final_answer": "C",
-      "model_output": 
-"科学科目用时：1/2 小时\n\n总用时：3 小时\n\n每门科目用时：1/2 小时\n\n总科目数：3 ÷ (1/2) = 6 门科目\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1488925,
         "prompt_processing_time_us": 161150,
@@ -3113,8 +2669,6 @@
       "question_index": 222,
       "global_index": 222,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1471318,
         "prompt_processing_time_us": 161102,
@@ -3127,8 +2681,6 @@
       "question_index": 223,
       "global_index": 223,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1525057,
         "prompt_processing_time_us": 160747,
@@ -3141,8 +2693,6 @@
       "question_index": 224,
       "global_index": 224,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1468776,
         "prompt_processing_time_us": 161145,
@@ -3155,8 +2705,6 @@
       "question_index": 225,
       "global_index": 225,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1487763,
         "prompt_processing_time_us": 162176,
@@ -3169,8 +2717,6 @@
       "question_index": 226,
       "global_index": 226,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494441,
         "prompt_processing_time_us": 160725,
@@ -3183,8 +2729,6 @@
       "question_index": 227,
       "global_index": 227,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1483182,
         "prompt_processing_time_us": 161396,
@@ -3197,8 +2741,6 @@
       "question_index": 228,
       "global_index": 228,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1524078,
         "prompt_processing_time_us": 161257,
@@ -3211,8 +2753,6 @@
       "question_index": 229,
       "global_index": 229,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1476979,
         "prompt_processing_time_us": 162713,
@@ -3225,12 +2765,10 @@
       "question_index": 230,
       "global_index": 230,
       "final_answer": "C",
-      "model_output": 
-"公共汽车 A 和公共汽车 B 的发车时间间隔分别为 75 分钟和 15 分钟。我们需要找到一个时间，使得公共汽车 A 和公共汽车 B 的发车时间同时满足这个条件。\n\n首先，我们可以计算公共汽车 A 和公共汽车 B 的发车时间的最小公倍数。\n\n75 的质因数分解为：75 = 3 × 5 × 5\n15 的质因数分解为：15 = 3 × 5\n\n最小公倍数为：3 × 5 × 5 = 75\n\n这意味着公共汽车 A 和公共汽车 B 每隔 75 分钟将同时发车一次。\n\n现在，我们从早上 6 点开始，计算公共汽车 A 和公共汽车 B 的发车时间。\n\n早上 6 点：公共汽车 A 和公共汽车 B 都没有发车。\n早上 6:00 + 75 分钟 = 早上 7:30\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1494146,
         "prompt_processing_time_us": 160885,
-        "prompt_processing_rate_toks_per_sec": 1349.527710,
+        "prompt_processing_rate_toks_per_sec": 1349.52771,
         "token_generation_time_us": 9659213,
         "token_generation_rate_toks_per_sec": 22.776449
       }
@@ -3239,8 +2777,6 @@
       "question_index": 231,
       "global_index": 231,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1486948,
         "prompt_processing_time_us": 160886,
@@ -3253,8 +2789,6 @@
       "question_index": 232,
       "global_index": 232,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1485521,
         "prompt_processing_time_us": 162453,
@@ -3267,8 +2801,6 @@
       "question_index": 233,
       "global_index": 233,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1466508,
         "prompt_processing_time_us": 161124,
@@ -3281,8 +2813,6 @@
       "question_index": 234,
       "global_index": 234,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1477284,
         "prompt_processing_time_us": 161925,
@@ -3295,8 +2825,6 @@
       "question_index": 235,
       "global_index": 235,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1463585,
         "prompt_processing_time_us": 159070,
@@ -3309,8 +2837,6 @@
       "question_index": 236,
       "global_index": 236,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499063,
         "prompt_processing_time_us": 161197,
@@ -3323,36 +2849,30 @@
       "question_index": 237,
       "global_index": 237,
       "final_answer": "A",
-      "model_output": 
-"342 - 184 = 158\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490240,
         "prompt_processing_time_us": 163578,
         "prompt_processing_rate_toks_per_sec": 1027.749268,
         "token_generation_time_us": 754533,
-        "token_generation_rate_toks_per_sec": 23.856100
+        "token_generation_rate_toks_per_sec": 23.8561
       }
     },
     {
       "question_index": 238,
       "global_index": 238,
       "final_answer": "D",
-      "model_output": 
-"1,821 R1\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1463658,
         "prompt_processing_time_us": 160910,
         "prompt_processing_rate_toks_per_sec": 926.784058,
         "token_generation_time_us": 472493,
-        "token_generation_rate_toks_per_sec": 25.397470
+        "token_generation_rate_toks_per_sec": 25.39747
       }
     },
     {
       "question_index": 239,
       "global_index": 239,
       "final_answer": "D",
-      "model_output": 
-"首先，我们需要计算一角硬币的周长。一角硬币的半径约为 0.85 厘米。\n\n周长的计算公式为：\[ 周长 = 2 	imes \pi 	imes 半径 \]\n\n代入已知数值：\n\[ 周长 = 2 	imes \pi 	imes 0.85 \]\n\n使用 \(\pi pprox 3.14\) 进行估算：\n\[ 周长 pprox 2 	imes 3.14 	imes 0.85 \]\n\n计算：\n\[ 周长 pprox 5.524 \]\n\n接下来，我们比较各个选项，找出最接近 5.524 的值。\n\nA. 1.33 厘米\nB. 1.70 厘米\nC. 2.67 厘米\nD. 5.34 厘米\n\n可以看出，最接近 5.524 的是 D. 5.34 厘米。\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499277,
         "prompt_processing_time_us": 160823,
@@ -3365,8 +2885,6 @@
       "question_index": 240,
       "global_index": 240,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499011,
         "prompt_processing_time_us": 162277,
@@ -3379,22 +2897,18 @@
       "question_index": 241,
       "global_index": 241,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1491077,
         "prompt_processing_time_us": 162365,
         "prompt_processing_rate_toks_per_sec": 813.008118,
         "token_generation_time_us": 131467,
-        "token_generation_rate_toks_per_sec": 30.426580
+        "token_generation_rate_toks_per_sec": 30.42658
       }
     },
     {
       "question_index": 242,
       "global_index": 242,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1439297,
         "prompt_processing_time_us": 161512,
@@ -3407,8 +2921,6 @@
       "question_index": 243,
       "global_index": 243,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1498575,
         "prompt_processing_time_us": 161311,
@@ -3421,8 +2933,6 @@
       "question_index": 244,
       "global_index": 244,
       "final_answer": "B",
-      "model_output": 
-"首先，我们需要计算每天行驶的总英里数四舍五入到最接近的 5 英里。Abby 每天往返 18 英里，即每天行驶 36 英里。\n\n36 英里四舍五入到最接近的 5 英里，可以是 35 英里或 40 英里。但考虑到 35 英里和 40 英里之间的平均值是 37.5 英里，最接近的 5 英里数是 40 英里。\n\n因此，每天行驶的总英里数四舍五入后为 40 英里。\n\n接下来，我们需要计算 5 天内行驶的总英里数：\n\n\[ 40 英里/天 	imes 5 天 = 200 英里 \]\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1484062,
         "prompt_processing_time_us": 160862,
@@ -3435,8 +2945,6 @@
       "question_index": 245,
       "global_index": 245,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490527,
         "prompt_processing_time_us": 161095,
@@ -3449,8 +2957,6 @@
       "question_index": 246,
       "global_index": 246,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1496622,
         "prompt_processing_time_us": 159403,
@@ -3463,8 +2969,6 @@
       "question_index": 247,
       "global_index": 247,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1474021,
         "prompt_processing_time_us": 161291,
@@ -3477,8 +2981,6 @@
       "question_index": 248,
       "global_index": 248,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1494625,
         "prompt_processing_time_us": 161598,
@@ -3491,8 +2993,6 @@
       "question_index": 249,
       "global_index": 249,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1482194,
         "prompt_processing_time_us": 159894,
@@ -3505,12 +3005,10 @@
       "question_index": 250,
       "global_index": 250,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1499737,
         "prompt_processing_time_us": 161017,
-        "prompt_processing_rate_toks_per_sec": 1342.281860,
+        "prompt_processing_rate_toks_per_sec": 1342.28186,
         "token_generation_time_us": 130192,
         "token_generation_rate_toks_per_sec": 30.723854
       }
@@ -3519,8 +3017,6 @@
       "question_index": 251,
       "global_index": 251,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1482655,
         "prompt_processing_time_us": 159693,
@@ -3533,8 +3029,6 @@
       "question_index": 252,
       "global_index": 252,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1515222,
         "prompt_processing_time_us": 162363,
@@ -3547,8 +3041,6 @@
       "question_index": 253,
       "global_index": 253,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1412184,
         "prompt_processing_time_us": 160885,
@@ -3561,8 +3053,6 @@
       "question_index": 254,
       "global_index": 254,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1511520,
         "prompt_processing_time_us": 160022,
@@ -3575,8 +3065,6 @@
       "question_index": 255,
       "global_index": 255,
       "final_answer": "A",
-      "model_output": 
-"折扣价 = 原价 × (1 - 折扣率)\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490124,
         "prompt_processing_time_us": 160651,
@@ -3589,8 +3077,6 @@
       "question_index": 256,
       "global_index": 256,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1495775,
         "prompt_processing_time_us": 160981,
@@ -3603,8 +3089,6 @@
       "question_index": 257,
       "global_index": 257,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1509709,
         "prompt_processing_time_us": 160479,
@@ -3617,8 +3101,6 @@
       "question_index": 258,
       "global_index": 258,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1494795,
         "prompt_processing_time_us": 161719,
@@ -3631,8 +3113,6 @@
       "question_index": 259,
       "global_index": 259,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1480951,
         "prompt_processing_time_us": 159605,
@@ -3645,8 +3125,6 @@
       "question_index": 260,
       "global_index": 260,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1520185,
         "prompt_processing_time_us": 161607,
@@ -3659,8 +3137,6 @@
       "question_index": 261,
       "global_index": 261,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1502707,
         "prompt_processing_time_us": 160611,
@@ -3673,8 +3149,6 @@
       "question_index": 262,
       "global_index": 262,
       "final_answer": "A",
-      "model_output": 
-"550 字 ÷ 25 分钟 = 22 字/分钟\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1494320,
         "prompt_processing_time_us": 160069,
@@ -3687,8 +3161,6 @@
       "question_index": 263,
       "global_index": 263,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1479744,
         "prompt_processing_time_us": 160206,
@@ -3701,12 +3173,10 @@
       "question_index": 264,
       "global_index": 264,
       "final_answer": "D",
-      "model_output": 
-"4+6 × p = 18\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484314,
         "prompt_processing_time_us": 161502,
-        "prompt_processing_rate_toks_per_sec": 1344.086060,
+        "prompt_processing_rate_toks_per_sec": 1344.08606,
         "token_generation_time_us": 565362,
         "token_generation_rate_toks_per_sec": 24.762896
       }
@@ -3715,8 +3185,6 @@
       "question_index": 265,
       "global_index": 265,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1456861,
         "prompt_processing_time_us": 160711,
@@ -3729,8 +3197,6 @@
       "question_index": 266,
       "global_index": 266,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1483290,
         "prompt_processing_time_us": 160263,
@@ -3743,8 +3209,6 @@
       "question_index": 267,
       "global_index": 267,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1491323,
         "prompt_processing_time_us": 161777,
@@ -3757,12 +3221,10 @@
       "question_index": 268,
       "global_index": 268,
       "final_answer": "A",
-      "model_output": 
-"13/4 = x/7\n\nCross-multiply: \( 13 	imes 7 = 4 	imes x \)\n\n\( 91 = 4x \)\n\n\( x = rac{91}{4} = 22.75 \)\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1492819,
         "prompt_processing_time_us": 160566,
-        "prompt_processing_rate_toks_per_sec": 884.955750,
+        "prompt_processing_rate_toks_per_sec": 884.95575,
         "token_generation_time_us": 2709836,
         "token_generation_rate_toks_per_sec": 23.248785
       }
@@ -3771,8 +3233,6 @@
       "question_index": 269,
       "global_index": 269,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1489305,
         "prompt_processing_time_us": 160211,
@@ -3785,8 +3245,6 @@
       "question_index": 270,
       "global_index": 270,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1490587,
         "prompt_processing_time_us": 162535,
@@ -3799,8 +3257,6 @@
       "question_index": 271,
       "global_index": 271,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1491733,
         "prompt_processing_time_us": 159650,
@@ -3813,8 +3269,6 @@
       "question_index": 272,
       "global_index": 272,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1484661,
         "prompt_processing_time_us": 159080,
@@ -3827,8 +3281,6 @@
       "question_index": 273,
       "global_index": 273,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1474726,
         "prompt_processing_time_us": 159510,
@@ -3841,12 +3293,10 @@
       "question_index": 274,
       "global_index": 274,
       "final_answer": "B",
-      "model_output": 
-"138.00 * (1 - 15%) = 138.00 * 0.85 = 115.40 美元\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494172,
         "prompt_processing_time_us": 159441,
-        "prompt_processing_rate_toks_per_sec": 1141.552490,
+        "prompt_processing_rate_toks_per_sec": 1141.55249,
         "token_generation_time_us": 1940693,
         "token_generation_rate_toks_per_sec": 23.187868
       }
@@ -3855,8 +3305,6 @@
       "question_index": 275,
       "global_index": 275,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1483815,
         "prompt_processing_time_us": 160960,
@@ -3869,8 +3317,6 @@
       "question_index": 276,
       "global_index": 276,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1496432,
         "prompt_processing_time_us": 161269,
@@ -3883,12 +3329,10 @@
       "question_index": 277,
       "global_index": 277,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1492168,
         "prompt_processing_time_us": 159994,
-        "prompt_processing_rate_toks_per_sec": 856.898010,
+        "prompt_processing_rate_toks_per_sec": 856.89801,
         "token_generation_time_us": 125957,
         "token_generation_rate_toks_per_sec": 31.757122
       }
@@ -3897,8 +3341,6 @@
       "question_index": 278,
       "global_index": 278,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1495511,
         "prompt_processing_time_us": 161045,
@@ -3911,8 +3353,6 @@
       "question_index": 279,
       "global_index": 279,
       "final_answer": "C",
-      "model_output": 
-"首先计算小费：44美元的20%是8.8美元。\n\n然后计算总花费：午餐费用加上小费，即44美元加上8.8美元等于52.8美元。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1489226,
         "prompt_processing_time_us": 160200,
@@ -3925,8 +3365,6 @@
       "question_index": 280,
       "global_index": 280,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1482154,
         "prompt_processing_time_us": 160537,
@@ -3939,8 +3377,6 @@
       "question_index": 281,
       "global_index": 281,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1457676,
         "prompt_processing_time_us": 159769,
@@ -3953,8 +3389,6 @@
       "question_index": 282,
       "global_index": 282,
       "final_answer": "B",
-      "model_output": 
-"水箱的体积 = 底面积 × 高\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1503242,
         "prompt_processing_time_us": 161286,
@@ -3967,8 +3401,6 @@
       "question_index": 283,
       "global_index": 283,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1474218,
         "prompt_processing_time_us": 160666,
@@ -3981,8 +3413,6 @@
       "question_index": 284,
       "global_index": 284,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1482064,
         "prompt_processing_time_us": 160105,
@@ -3995,12 +3425,10 @@
       "question_index": 285,
       "global_index": 285,
       "final_answer": "D",
-      "model_output": 
-"首先，我们需要计算总共有多少个筹码。总共有红色筹码和蓝色筹码，所以总数为 10 + 5 = 15 个筹码。\n\n接下来，我们需要计算蓝色筹码的概率。概率计算公式为：\[ 	ext{概率} = rac{	ext{事件发生的可能数目}}{	ext{所有可能的事件数目}} \]\n\n在这个问题中，蓝色筹码的数量为 5，所有可能的事件（即所有筹码）的数量为 15。\n\n所以，蓝色筹码的概率为：\[ rac{5}{15} = rac{1}{3} \]\n\n将 \(rac{1}{3}\) 转换为百分比，可以得到：\[ rac{1}{3} pprox 0.3333 \]\n\n但是题目要求选择一个选项，所以我们需要将答案转换为给定选项中的一个。\n\n观察选项：A. 5-Jan，B. 15-Feb，C. 10-May，D. 15-May\n\n注意到 \(rac{1}{3}\) 约等于 0.3333，与选项 D 的 15-May 最接近。\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1478828,
         "prompt_processing_time_us": 160148,
-        "prompt_processing_rate_toks_per_sec": 1037.344360,
+        "prompt_processing_rate_toks_per_sec": 1037.34436,
         "token_generation_time_us": 11186492,
         "token_generation_rate_toks_per_sec": 22.706114
       }
@@ -4009,8 +3437,6 @@
       "question_index": 286,
       "global_index": 286,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1487121,
         "prompt_processing_time_us": 165482,
@@ -4023,8 +3449,6 @@
       "question_index": 287,
       "global_index": 287,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1522687,
         "prompt_processing_time_us": 161358,
@@ -4037,8 +3461,6 @@
       "question_index": 288,
       "global_index": 288,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1484981,
         "prompt_processing_time_us": 159652,
@@ -4051,12 +3473,10 @@
       "question_index": 289,
       "global_index": 289,
       "final_answer": "B",
-      "model_output": 
-"Stephanie飞行的英里数四舍五入到最接近的千位，首先四舍五入到个位是2448，然后四舍五入到千位，2448四舍五入到千位是2400。\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1476464,
         "prompt_processing_time_us": 159895,
-        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "prompt_processing_rate_toks_per_sec": 1076.42627,
         "token_generation_time_us": 2746646,
         "token_generation_rate_toks_per_sec": 23.301332
       }
@@ -4065,12 +3485,10 @@
       "question_index": 290,
       "global_index": 290,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1498748,
         "prompt_processing_time_us": 160750,
-        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "prompt_processing_rate_toks_per_sec": 1076.42627,
         "token_generation_time_us": 130268,
         "token_generation_rate_toks_per_sec": 30.705929
       }
@@ -4079,22 +3497,18 @@
       "question_index": 291,
       "global_index": 291,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1511136,
         "prompt_processing_time_us": 161107,
         "prompt_processing_rate_toks_per_sec": 1030.927856,
         "token_generation_time_us": 128239,
-        "token_generation_rate_toks_per_sec": 31.192490
+        "token_generation_rate_toks_per_sec": 31.19249
       }
     },
     {
       "question_index": 292,
       "global_index": 292,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1452496,
         "prompt_processing_time_us": 159274,
@@ -4107,22 +3521,18 @@
       "question_index": 293,
       "global_index": 293,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1487337,
         "prompt_processing_time_us": 160507,
         "prompt_processing_rate_toks_per_sec": 916.590271,
         "token_generation_time_us": 128121,
-        "token_generation_rate_toks_per_sec": 31.220730
+        "token_generation_rate_toks_per_sec": 31.22073
       }
     },
     {
       "question_index": 294,
       "global_index": 294,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1479337,
         "prompt_processing_time_us": 160014,
@@ -4135,12 +3545,10 @@
       "question_index": 295,
       "global_index": 295,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1500694,
         "prompt_processing_time_us": 161152,
-        "prompt_processing_rate_toks_per_sec": 943.396240,
+        "prompt_processing_rate_toks_per_sec": 943.39624,
         "token_generation_time_us": 125275,
         "token_generation_rate_toks_per_sec": 31.930519
       }
@@ -4149,8 +3557,6 @@
       "question_index": 296,
       "global_index": 296,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1474261,
         "prompt_processing_time_us": 161619,
@@ -4163,12 +3569,10 @@
       "question_index": 297,
       "global_index": 297,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1479158,
         "prompt_processing_time_us": 160473,
-        "prompt_processing_rate_toks_per_sec": 985.221680,
+        "prompt_processing_rate_toks_per_sec": 985.22168,
         "token_generation_time_us": 128948,
         "token_generation_rate_toks_per_sec": 31.020256
       }
@@ -4177,8 +3581,6 @@
       "question_index": 298,
       "global_index": 298,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1485987,
         "prompt_processing_time_us": 161126,
@@ -4191,8 +3593,6 @@
       "question_index": 299,
       "global_index": 299,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484592,
         "prompt_processing_time_us": 160577,
@@ -4205,8 +3605,6 @@
       "question_index": 300,
       "global_index": 300,
       "final_answer": "B",
-      "model_output": 
-"136\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491555,
         "prompt_processing_time_us": 159681,
@@ -4219,8 +3617,6 @@
       "question_index": 301,
       "global_index": 301,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1499573,
         "prompt_processing_time_us": 160850,
@@ -4233,8 +3629,6 @@
       "question_index": 302,
       "global_index": 302,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1613897,
         "prompt_processing_time_us": 162968,
@@ -4247,8 +3641,6 @@
       "question_index": 303,
       "global_index": 303,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484351,
         "prompt_processing_time_us": 159382,
@@ -4261,8 +3653,6 @@
       "question_index": 304,
       "global_index": 304,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n\n步骤：  \n1. 已知：40个高尔夫球的价格为4.00美元。\n2. 那么，1个高尔夫球的价格为：4.00美元 / 40 = 0.10美元。\n3. 要计算100个高尔夫球的价格，用1个高尔夫球的价格乘以100：0.10美元 × 100 = 10.00美元。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1517103,
         "prompt_processing_time_us": 160643,
@@ -4275,8 +3665,6 @@
       "question_index": 305,
       "global_index": 305,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503304,
         "prompt_processing_time_us": 161444,
@@ -4289,8 +3677,6 @@
       "question_index": 306,
       "global_index": 306,
       "final_answer": "B",
-      "model_output": 
-"梯形面积公式：\[ 	ext{面积} = rac{(长底 + 短底) 	imes 高}{2} \]\n\n代入已知数据：\[ 	ext{长底} = 390 	ext{ 码} \]\n\[ 	ext{短底} = 130 	ext{ 码} \]\n\[ 	ext{高} = 75 	ext{ 码} \]\n\n代入公式计算面积：\[ 	ext{面积} = rac{(390 + 130) 	imes 75}{2} \]\n\n\[ 	ext{面积} = rac{520 	imes 75}{2} \]\n\n\[ 	ext{面积} = rac{3,9000}{2} \]\n\n\[ 	ext{面积} = 19,500 	ext{ 码}^2 \]\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1472745,
         "prompt_processing_time_us": 161910,
@@ -4303,22 +3689,18 @@
       "question_index": 307,
       "global_index": 307,
       "final_answer": "C",
-      "model_output": 
-"3 + p = 15\n\n将等式两边同时减去3，得到：\n\np = 15 - 3\n\np = 12\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1490961,
         "prompt_processing_time_us": 160685,
-        "prompt_processing_rate_toks_per_sec": 853.242310,
+        "prompt_processing_rate_toks_per_sec": 853.24231,
         "token_generation_time_us": 1606932,
-        "token_generation_rate_toks_per_sec": 23.647930
+        "token_generation_rate_toks_per_sec": 23.64793
       }
     },
     {
       "question_index": 308,
       "global_index": 308,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1489425,
         "prompt_processing_time_us": 162140,
@@ -4331,12 +3713,10 @@
       "question_index": 309,
       "global_index": 309,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493735,
         "prompt_processing_time_us": 161257,
-        "prompt_processing_rate_toks_per_sec": 1067.235840,
+        "prompt_processing_rate_toks_per_sec": 1067.23584,
         "token_generation_time_us": 128567,
         "token_generation_rate_toks_per_sec": 31.112909
       }
@@ -4345,8 +3725,6 @@
       "question_index": 310,
       "global_index": 310,
       "final_answer": "D",
-      "model_output": 
-"小费：25 * 15% = 3.75 美元\n\n最终花费：25 + 3.75 = 28.75 美元\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484062,
         "prompt_processing_time_us": 162143,
@@ -4359,8 +3737,6 @@
       "question_index": 311,
       "global_index": 311,
       "final_answer": "D",
-      "model_output": 
-"180 × 5% = 9 天\n\n一个学年增加天数：180 + 9 = 189 天\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486246,
         "prompt_processing_time_us": 160324,
@@ -4373,8 +3749,6 @@
       "question_index": 312,
       "global_index": 312,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1491700,
         "prompt_processing_time_us": 159993,
@@ -4387,8 +3761,6 @@
       "question_index": 313,
       "global_index": 313,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1490831,
         "prompt_processing_time_us": 160332,
@@ -4401,12 +3773,10 @@
       "question_index": 314,
       "global_index": 314,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1499901,
         "prompt_processing_time_us": 160249,
-        "prompt_processing_rate_toks_per_sec": 936.329590,
+        "prompt_processing_rate_toks_per_sec": 936.32959,
         "token_generation_time_us": 128589,
         "token_generation_rate_toks_per_sec": 31.107101
       }
@@ -4415,8 +3785,6 @@
       "question_index": 315,
       "global_index": 315,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1479704,
         "prompt_processing_time_us": 160002,
@@ -4429,8 +3797,6 @@
       "question_index": 316,
       "global_index": 316,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1489762,
         "prompt_processing_time_us": 159980,
@@ -4443,26 +3809,22 @@
       "question_index": 317,
       "global_index": 317,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1490194,
         "prompt_processing_time_us": 160805,
         "prompt_processing_rate_toks_per_sec": 957.854431,
         "token_generation_time_us": 128388,
-        "token_generation_rate_toks_per_sec": 31.155560
+        "token_generation_rate_toks_per_sec": 31.15556
       }
     },
     {
       "question_index": 318,
       "global_index": 318,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1468633,
         "prompt_processing_time_us": 160939,
-        "prompt_processing_rate_toks_per_sec": 1342.281860,
+        "prompt_processing_rate_toks_per_sec": 1342.28186,
         "token_generation_time_us": 128943,
         "token_generation_rate_toks_per_sec": 31.022181
       }
@@ -4471,22 +3833,18 @@
       "question_index": 319,
       "global_index": 319,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1516668,
         "prompt_processing_time_us": 159022,
         "prompt_processing_rate_toks_per_sec": 1038.421631,
         "token_generation_time_us": 124742,
-        "token_generation_rate_toks_per_sec": 32.066700
+        "token_generation_rate_toks_per_sec": 32.0667
       }
     },
     {
       "question_index": 320,
       "global_index": 320,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1488877,
         "prompt_processing_time_us": 160265,
@@ -4499,8 +3857,6 @@
       "question_index": 321,
       "global_index": 321,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491622,
         "prompt_processing_time_us": 162745,
@@ -4513,8 +3869,6 @@
       "question_index": 322,
       "global_index": 322,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1478957,
         "prompt_processing_time_us": 161159,
@@ -4527,8 +3881,6 @@
       "question_index": 323,
       "global_index": 323,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1469332,
         "prompt_processing_time_us": 160370,
@@ -4541,8 +3893,6 @@
       "question_index": 324,
       "global_index": 324,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：B\n\n解析：\n- A选项错误，因为六边形有六条边，不是三角形。\n- B选项正确，八边形至少有3条边，所以它是多边形。\n- C选项错误，平行四边形并不一定是矩形，除非所有角度都是90度。\n- D选项错误，菱形有四条边长度相等，但不一定所有角度都是90度，因此不一定为正方形。\n\n最终答案：答案：B\n",
       "performance_metrics": {
         "init_time_us": 1470087,
         "prompt_processing_time_us": 160201,
@@ -4555,8 +3905,6 @@
       "question_index": 325,
       "global_index": 325,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1501690,
         "prompt_processing_time_us": 167082,
@@ -4569,12 +3917,10 @@
       "question_index": 326,
       "global_index": 326,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1490062,
         "prompt_processing_time_us": 159310,
-        "prompt_processing_rate_toks_per_sec": 1344.086060,
+        "prompt_processing_rate_toks_per_sec": 1344.08606,
         "token_generation_time_us": 126827,
         "token_generation_rate_toks_per_sec": 31.539772
       }
@@ -4583,8 +3929,6 @@
       "question_index": 327,
       "global_index": 327,
       "final_answer": "D",
-      "model_output": 
-"1/2 + 2/5 = 7/10 都是番茄面或鸡肉面\n\n剩余的 1/10 不是番茄面或鸡肉面\n\nRolando 的汤罐头总数为 10（因为 10 个单位可以表示番茄面和鸡肉面的总和）\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486480,
         "prompt_processing_time_us": 162304,
@@ -4597,8 +3941,6 @@
       "question_index": 328,
       "global_index": 328,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505126,
         "prompt_processing_time_us": 160194,
@@ -4611,8 +3953,6 @@
       "question_index": 329,
       "global_index": 329,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1471314,
         "prompt_processing_time_us": 161017,
@@ -4625,8 +3965,6 @@
       "question_index": 330,
       "global_index": 330,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1524796,
         "prompt_processing_time_us": 162174,
@@ -4639,8 +3977,6 @@
       "question_index": 331,
       "global_index": 331,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1480090,
         "prompt_processing_time_us": 160215,
@@ -4653,12 +3989,10 @@
       "question_index": 332,
       "global_index": 332,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1500857,
         "prompt_processing_time_us": 161024,
-        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "prompt_processing_rate_toks_per_sec": 1000.0,
         "token_generation_time_us": 130078,
         "token_generation_rate_toks_per_sec": 30.751253
       }
@@ -4667,8 +4001,6 @@
       "question_index": 333,
       "global_index": 333,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1508367,
         "prompt_processing_time_us": 160537,
@@ -4681,8 +4013,6 @@
       "question_index": 334,
       "global_index": 334,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1591474,
         "prompt_processing_time_us": 159470,
@@ -4695,8 +4025,6 @@
       "question_index": 335,
       "global_index": 335,
       "final_answer": "D",
-      "model_output": 
-"总面积 = 30 张纸的总面积\n每张纸面积 = 1 英尺 × 1 英尺 = 1 平方英尺\n总面积 = 30 × 1 平方英尺 = 30 平方英尺\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1492240,
         "prompt_processing_time_us": 162941,
@@ -4709,12 +4037,10 @@
       "question_index": 336,
       "global_index": 336,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1478646,
         "prompt_processing_time_us": 159913,
-        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "prompt_processing_rate_toks_per_sec": 1076.42627,
         "token_generation_time_us": 125581,
         "token_generation_rate_toks_per_sec": 31.852205
       }
@@ -4723,8 +4049,6 @@
       "question_index": 337,
       "global_index": 337,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1524333,
         "prompt_processing_time_us": 159288,
@@ -4737,8 +4061,6 @@
       "question_index": 338,
       "global_index": 338,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491094,
         "prompt_processing_time_us": 160963,
@@ -4751,8 +4073,6 @@
       "question_index": 339,
       "global_index": 339,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486334,
         "prompt_processing_time_us": 161888,
@@ -4765,8 +4085,6 @@
       "question_index": 340,
       "global_index": 340,
       "final_answer": "D",
-      "model_output": 
-"首先将数据按照从小到大的顺序排列：17.88 美元、19.88 美元、21.88 美元、29.88 美元、79.88 美元。\n\n由于数据数量为奇数，中位数为中间的数，即：\n\n\[ 	ext{中位数} = 21.88 	ext{ 美元} \]\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484706,
         "prompt_processing_time_us": 160849,
@@ -4779,8 +4097,6 @@
       "question_index": 341,
       "global_index": 341,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1482848,
         "prompt_processing_time_us": 159988,
@@ -4793,8 +4109,6 @@
       "question_index": 342,
       "global_index": 342,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493152,
         "prompt_processing_time_us": 162543,
@@ -4807,8 +4121,6 @@
       "question_index": 343,
       "global_index": 343,
       "final_answer": "D",
-      "model_output": 
-"Jones 先生掷出六面立方体，每个面出现的概率是相等的，因此每个数字出现的概率都是 1/6。\n\n3 出现的概率 = 1/6\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1460319,
         "prompt_processing_time_us": 159935,
@@ -4821,8 +4133,6 @@
       "question_index": 344,
       "global_index": 344,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1531563,
         "prompt_processing_time_us": 159296,
@@ -4835,8 +4145,6 @@
       "question_index": 345,
       "global_index": 345,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1477287,
         "prompt_processing_time_us": 160991,
@@ -4849,64 +4157,54 @@
       "question_index": 346,
       "global_index": 346,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1483537,
         "prompt_processing_time_us": 161697,
         "prompt_processing_rate_toks_per_sec": 1119.820801,
         "token_generation_time_us": 126398,
-        "token_generation_rate_toks_per_sec": 31.646570
+        "token_generation_rate_toks_per_sec": 31.64657
       }
     },
     {
       "question_index": 347,
       "global_index": 347,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1513576,
         "prompt_processing_time_us": 161312,
         "prompt_processing_rate_toks_per_sec": 1302.083374,
         "token_generation_time_us": 129007,
-        "token_generation_rate_toks_per_sec": 31.006790
+        "token_generation_rate_toks_per_sec": 31.00679
       }
     },
     {
       "question_index": 348,
       "global_index": 348,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1477052,
         "prompt_processing_time_us": 160387,
         "prompt_processing_rate_toks_per_sec": 1041.666626,
         "token_generation_time_us": 126678,
-        "token_generation_rate_toks_per_sec": 31.576620
+        "token_generation_rate_toks_per_sec": 31.57662
       }
     },
     {
       "question_index": 349,
       "global_index": 349,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1485490,
         "prompt_processing_time_us": 162220,
         "prompt_processing_rate_toks_per_sec": 1042.752808,
         "token_generation_time_us": 129193,
-        "token_generation_rate_toks_per_sec": 30.961670
+        "token_generation_rate_toks_per_sec": 30.96167
       }
     },
     {
       "question_index": 350,
       "global_index": 350,
       "final_answer": "CC",
-      "model_output": 
-"C. C = 16π\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1498388,
         "prompt_processing_time_us": 159420,
@@ -4919,22 +4217,18 @@
       "question_index": 351,
       "global_index": 351,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1500901,
         "prompt_processing_time_us": 160539,
         "prompt_processing_rate_toks_per_sec": 1153.402588,
         "token_generation_time_us": 128521,
-        "token_generation_rate_toks_per_sec": 31.123560
+        "token_generation_rate_toks_per_sec": 31.12356
       }
     },
     {
       "question_index": 352,
       "global_index": 352,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1481887,
         "prompt_processing_time_us": 160280,
@@ -4947,8 +4241,6 @@
       "question_index": 353,
       "global_index": 353,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1496040,
         "prompt_processing_time_us": 161226,
@@ -4961,8 +4253,6 @@
       "question_index": 354,
       "global_index": 354,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1501122,
         "prompt_processing_time_us": 161787,
@@ -4975,8 +4265,6 @@
       "question_index": 355,
       "global_index": 355,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1478769,
         "prompt_processing_time_us": 160783,
@@ -4989,8 +4277,6 @@
       "question_index": 356,
       "global_index": 356,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1443872,
         "prompt_processing_time_us": 160490,
@@ -5003,22 +4289,18 @@
       "question_index": 357,
       "global_index": 357,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1502640,
         "prompt_processing_time_us": 160823,
-        "prompt_processing_rate_toks_per_sec": 858.369080,
+        "prompt_processing_rate_toks_per_sec": 858.36908,
         "token_generation_time_us": 129193,
-        "token_generation_rate_toks_per_sec": 30.961670
+        "token_generation_rate_toks_per_sec": 30.96167
       }
     },
     {
       "question_index": 358,
       "global_index": 358,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1476612,
         "prompt_processing_time_us": 159253,
@@ -5031,8 +4313,6 @@
       "question_index": 359,
       "global_index": 359,
       "final_answer": "B",
-      "model_output": 
-"5144 ÷ 8 = 643\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1480640,
         "prompt_processing_time_us": 162592,
@@ -5045,8 +4325,6 @@
       "question_index": 360,
       "global_index": 360,
       "final_answer": "A",
-      "model_output": 
-"24张桌子可以坐 192 人，需要24张桌子；190人需要24张桌子还剩2人，再需要1张桌子。\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1493374,
         "prompt_processing_time_us": 161388,
@@ -5059,8 +4337,6 @@
       "question_index": 361,
       "global_index": 361,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1507183,
         "prompt_processing_time_us": 161331,
@@ -5073,8 +4349,6 @@
       "question_index": 362,
       "global_index": 362,
       "final_answer": "B",
-      "model_output": 
-"8y = 56\n\nrac{8y}{8} = rac{56}{8}\n\ny = 7\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1485728,
         "prompt_processing_time_us": 162068,
@@ -5087,8 +4361,6 @@
       "question_index": 363,
       "global_index": 363,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1493426,
         "prompt_processing_time_us": 162320,
@@ -5101,8 +4373,6 @@
       "question_index": 364,
       "global_index": 364,
       "final_answer": "A",
-      "model_output": 
-"梨和苹果的数量比为 3:9，简化为 1:3，即 1:03。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1479855,
         "prompt_processing_time_us": 160595,
@@ -5115,8 +4385,6 @@
       "question_index": 365,
       "global_index": 365,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"首先，我们需要找到两个分数的差，即 \(rac{3}{4} - rac{1}{8}\)。\n\n1. 将两个分数的分母进行通分，使得它们的分母相同。最小公倍数为 8 和 4 的最小公倍数为 8，因此我们将 \(rac{3}{4}\) 转换为与 \(rac{1}{8}\) 有相同分母的形式。\n   \n   \(rac{3}{4} = rac{3 	imes 2}{4 	imes 2} = rac{6}{8}\)\n\n2. 现在，我们有相同的分母，可以直接相减分子：\n   \n   \(rac{6}{8} - rac{1}{8} = rac{6 - 1}{8} = rac{5}{8}\)\n\n3. 然而，题目要求的是 \(rac{3}{4} - rac{1}{8}\)，所以我们得到：\n   \n   \(rac{3}{4} - rac{1}{8} = rac{6}{8} - rac{1}{8} = rac{5}{8}\)\n\n4. 但是，题目选项中并没有 \(rac{5}{8}\)，我们需要检查题目要求的正确选项是否与我们的计算结果一致。题目选项中没有 \(rac{5}{8}\)，因此我们需要重新检查题目要求。\n\n5. 重新检查题目要求，题目要求是 \(rac{3}{4} - rac{1}{8}\)，我们发现 \(rac{5}{8}\) 等于 \(rac{6}{8} - rac{1}{8}\)，因此我们需要选择与 \(rac{6}{8} - rac{1}{8}\) 相等的选项。\n\n6. 选项中没有 \(rac{5}{8}\)，因此我们重新检查题目，题目要求是 \(rac{3}{4} - rac{1}{8}\)，我们需要找到与 \(rac{6}{8} - rac{1}{8}\) 相等的选项。\n\n最终答案：答案：A\n",
       "performance_metrics": {
         "init_time_us": 1487837,
         "prompt_processing_time_us": 160430,
@@ -5129,8 +4397,6 @@
       "question_index": 366,
       "global_index": 366,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1477309,
         "prompt_processing_time_us": 162421,
@@ -5143,8 +4409,6 @@
       "question_index": 367,
       "global_index": 367,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1485571,
         "prompt_processing_time_us": 161308,
@@ -5157,12 +4421,10 @@
       "question_index": 368,
       "global_index": 368,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1470670,
         "prompt_processing_time_us": 160364,
-        "prompt_processing_rate_toks_per_sec": 1067.235840,
+        "prompt_processing_rate_toks_per_sec": 1067.23584,
         "token_generation_time_us": 128564,
         "token_generation_rate_toks_per_sec": 31.112909
       }
@@ -5171,8 +4433,6 @@
       "question_index": 369,
       "global_index": 369,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n\n计算过程如下：\n\n每个拼图有 1,250 块，学生有 3 个拼图，所以总共有：  \n1,250 块/拼图 × 3 拼图 = 3,750 块。  \n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1499827,
         "prompt_processing_time_us": 160415,
@@ -5185,8 +4445,6 @@
       "question_index": 370,
       "global_index": 370,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1490386,
         "prompt_processing_time_us": 161864,
@@ -5199,8 +4457,6 @@
       "question_index": 371,
       "global_index": 371,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1432893,
         "prompt_processing_time_us": 161033,
@@ -5213,8 +4469,6 @@
       "question_index": 372,
       "global_index": 372,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1473090,
         "prompt_processing_time_us": 160428,
@@ -5227,22 +4481,18 @@
       "question_index": 373,
       "global_index": 373,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1488658,
         "prompt_processing_time_us": 160624,
         "prompt_processing_rate_toks_per_sec": 1027.749268,
         "token_generation_time_us": 128349,
-        "token_generation_rate_toks_per_sec": 31.165270
+        "token_generation_rate_toks_per_sec": 31.16527
       }
     },
     {
       "question_index": 374,
       "global_index": 374,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1533177,
         "prompt_processing_time_us": 161942,
@@ -5255,8 +4505,6 @@
       "question_index": 375,
       "global_index": 375,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1501821,
         "prompt_processing_time_us": 160460,
@@ -5269,8 +4517,6 @@
       "question_index": 376,
       "global_index": 376,
       "final_answer": "C",
-      "model_output": 
-"首先，将数据集从小到大排序：8, 10, 10, 13, 22, 24, 26, 32, 35\n\n由于数据集有9个元素，是奇数，所以中位数是位于中间的元素，即第5个元素。\n\n根据排序后的数据集，第5个元素是22。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1467216,
         "prompt_processing_time_us": 160665,
@@ -5283,8 +4529,6 @@
       "question_index": 377,
       "global_index": 377,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1489942,
         "prompt_processing_time_us": 159462,

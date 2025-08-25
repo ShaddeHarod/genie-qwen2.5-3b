@@ -5,22 +5,18 @@
       "question_index": 0,
       "global_index": 0,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1524442,
         "prompt_processing_time_us": 168034,
         "prompt_processing_rate_toks_per_sec": 994.035767,
         "token_generation_time_us": 130724,
-        "token_generation_rate_toks_per_sec": 30.598820
+        "token_generation_rate_toks_per_sec": 30.59882
       }
     },
     {
       "question_index": 1,
       "global_index": 1,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：C\n\n无限大带电平面产生的电场强度会随着距离的平方反比而减小。其他选项中产生的电场强度或磁场强度都不满足这个特性。\n",
       "performance_metrics": {
         "init_time_us": 1513575,
         "prompt_processing_time_us": 161998,
@@ -33,8 +29,6 @@
       "question_index": 2,
       "global_index": 2,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1512677,
         "prompt_processing_time_us": 160983,
@@ -47,8 +41,6 @@
       "question_index": 3,
       "global_index": 3,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1495604,
         "prompt_processing_time_us": 240740,
@@ -61,8 +53,6 @@
       "question_index": 4,
       "global_index": 4,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1519906,
         "prompt_processing_time_us": 162802,
@@ -75,8 +65,6 @@
       "question_index": 5,
       "global_index": 5,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1514371,
         "prompt_processing_time_us": 160682,
@@ -89,12 +77,10 @@
       "question_index": 6,
       "global_index": 6,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1479397,
         "prompt_processing_time_us": 240926,
-        "prompt_processing_rate_toks_per_sec": 1474.926270,
+        "prompt_processing_rate_toks_per_sec": 1474.92627,
         "token_generation_time_us": 135030,
         "token_generation_rate_toks_per_sec": 29.623486
       }
@@ -103,12 +89,10 @@
       "question_index": 7,
       "global_index": 7,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1493353,
         "prompt_processing_time_us": 161826,
-        "prompt_processing_rate_toks_per_sec": 989.119690,
+        "prompt_processing_rate_toks_per_sec": 989.11969,
         "token_generation_time_us": 128895,
         "token_generation_rate_toks_per_sec": 31.033733
       }
@@ -117,8 +101,6 @@
       "question_index": 8,
       "global_index": 8,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1480566,
         "prompt_processing_time_us": 162062,
@@ -131,26 +113,22 @@
       "question_index": 9,
       "global_index": 9,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1483303,
         "prompt_processing_time_us": 161620,
         "prompt_processing_rate_toks_per_sec": 990.098999,
         "token_generation_time_us": 129790,
-        "token_generation_rate_toks_per_sec": 30.819490
+        "token_generation_rate_toks_per_sec": 30.81949
       }
     },
     {
       "question_index": 10,
       "global_index": 10,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：A\n\n氢气分子的平均动能比氮气分子的平均动能大，因为氢气的分子量比氮气小，根据理想气体分子的平均动能与分子量的关系，分子量越小，平均动能越大。\n\n氢气分子对器壁的平均作用力与分子量无关，而是与分子数密度有关，因此选项B错误。\n\n氢气的密度比氮气的密度小，因为氢气的分子量比氮气小，且假设容器的体积相同，分子数密度相同，分子量小的密度小。\n\n如果不知道每个容器中的气体分子数量，可以比较两种气体的压力，根据理想气体状态方程，压力与分子平均动能有关，因此选项D错误。\n",
       "performance_metrics": {
         "init_time_us": 1453927,
         "prompt_processing_time_us": 161383,
-        "prompt_processing_rate_toks_per_sec": 1420.454590,
+        "prompt_processing_rate_toks_per_sec": 1420.45459,
         "token_generation_time_us": 6765962,
         "token_generation_rate_toks_per_sec": 22.761415
       }
@@ -159,8 +137,6 @@
       "question_index": 11,
       "global_index": 11,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：B\n\n解析：\n1. 当男孩和女孩坐在跷跷板的两端，且距离支点相等时，它们的重力矩相等，跷跷板处于平衡状态。\n2. 选项A：把男孩移到离支点原来距离的一半处，男孩的重力矩变为原来的一半，女孩的重力矩不变，因为女孩仍在原来的位置，所以新的平衡条件为男孩的重力矩等于女孩的重力矩，因此可以达到平衡。\n3. 选项B：把女孩移到离支点原来距离的两倍处，女孩的重力矩变为原来的两倍，而男孩的重力矩不变，新的平衡条件为男孩的重力矩等于女孩的重力矩的两倍，这意味着女孩的重力矩过大，无法达到平衡。\n4. 选项C：让第二个质量为 m 的女孩坐在第一个女孩的一端，女孩的重力矩增加，新的平衡条件为两个女孩的重力矩相等，这意味着可以达到平衡。\n5. 选项D：把支点移到离男孩原来距离的一半处，支点的移动使男孩的重力矩减半，新的平衡条件为男孩的重力矩等于女孩的重力矩，这意味着可以达到平衡。\n\n综上所述，选项B不能使跷跷板达到平衡。\n",
       "performance_metrics": {
         "init_time_us": 1502960,
         "prompt_processing_time_us": 161137,
@@ -173,8 +149,6 @@
       "question_index": 12,
       "global_index": 12,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1464010,
         "prompt_processing_time_us": 162376,
@@ -187,8 +161,6 @@
       "question_index": 13,
       "global_index": 13,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1504614,
         "prompt_processing_time_us": 161636,
@@ -201,8 +173,6 @@
       "question_index": 14,
       "global_index": 14,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505777,
         "prompt_processing_time_us": 161096,
@@ -215,8 +185,6 @@
       "question_index": 15,
       "global_index": 15,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1496954,
         "prompt_processing_time_us": 160670,
@@ -229,22 +197,18 @@
       "question_index": 16,
       "global_index": 16,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503704,
         "prompt_processing_time_us": 160059,
-        "prompt_processing_rate_toks_per_sec": 1037.344360,
+        "prompt_processing_rate_toks_per_sec": 1037.34436,
         "token_generation_time_us": 128236,
-        "token_generation_rate_toks_per_sec": 31.192490
+        "token_generation_rate_toks_per_sec": 31.19249
       }
     },
     {
       "question_index": 17,
       "global_index": 17,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1495438,
         "prompt_processing_time_us": 162537,
@@ -257,8 +221,6 @@
       "question_index": 18,
       "global_index": 18,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1493186,
         "prompt_processing_time_us": 174498,
@@ -271,8 +233,6 @@
       "question_index": 19,
       "global_index": 19,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1479169,
         "prompt_processing_time_us": 162358,
@@ -285,8 +245,6 @@
       "question_index": 20,
       "global_index": 20,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1526243,
         "prompt_processing_time_us": 161576,
@@ -299,8 +257,6 @@
       "question_index": 21,
       "global_index": 21,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1505792,
         "prompt_processing_time_us": 162181,
@@ -313,8 +269,6 @@
       "question_index": 22,
       "global_index": 22,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1496519,
         "prompt_processing_time_us": 161542,
@@ -327,8 +281,6 @@
       "question_index": 23,
       "global_index": 23,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1504168,
         "prompt_processing_time_us": 161244,
@@ -341,8 +293,6 @@
       "question_index": 24,
       "global_index": 24,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1495587,
         "prompt_processing_time_us": 161064,
@@ -355,8 +305,6 @@
       "question_index": 25,
       "global_index": 25,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493868,
         "prompt_processing_time_us": 161894,
@@ -369,8 +317,6 @@
       "question_index": 26,
       "global_index": 26,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1496683,
         "prompt_processing_time_us": 161739,
@@ -383,8 +329,6 @@
       "question_index": 27,
       "global_index": 27,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1474083,
         "prompt_processing_time_us": 175862,
@@ -397,8 +341,6 @@
       "question_index": 28,
       "global_index": 28,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1525316,
         "prompt_processing_time_us": 162662,
@@ -411,8 +353,6 @@
       "question_index": 29,
       "global_index": 29,
       "final_answer": "B",
-      "model_output": 
-"法向力是垂直于接触面的力，对于静止在斜面上的盒子，法向力等于盒子的重力沿垂直于斜面方向的分量。这个分量与斜面的角度θ有关，可以表示为 \(mg os(	heta)\)（其中m是盒子的质量，g是重力加速度）。\n\n- 当斜面角度从0°增加到90°时，\(cos(	heta)\)从1减小到0，因此 \(mg os(	heta)\)从最大值减小到0，即法向力从最大值线性减小到0。\n\n答案：B",
       "performance_metrics": {
         "init_time_us": 1468017,
         "prompt_processing_time_us": 161134,
@@ -425,8 +365,6 @@
       "question_index": 30,
       "global_index": 30,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1514052,
         "prompt_processing_time_us": 161255,
@@ -439,8 +377,6 @@
       "question_index": 31,
       "global_index": 31,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：C\n\n灯泡亮起前，电路元件上的净电荷量是未知的，但不论初始净电荷量如何，断开和重新连接电路后，电路元件上的净电荷量不会发生变化。因此，正确答案是C。\n",
       "performance_metrics": {
         "init_time_us": 1472938,
         "prompt_processing_time_us": 163550,
@@ -453,8 +389,6 @@
       "question_index": 32,
       "global_index": 32,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1483938,
         "prompt_processing_time_us": 161596,
@@ -467,8 +401,6 @@
       "question_index": 33,
       "global_index": 33,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1479270,
         "prompt_processing_time_us": 161918,
@@ -481,8 +413,6 @@
       "question_index": 34,
       "global_index": 34,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1515912,
         "prompt_processing_time_us": 159382,
@@ -495,8 +425,6 @@
       "question_index": 35,
       "global_index": 35,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1476802,
         "prompt_processing_time_us": 160753,
@@ -509,8 +437,6 @@
       "question_index": 36,
       "global_index": 36,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1489359,
         "prompt_processing_time_us": 161859,
@@ -523,8 +449,6 @@
       "question_index": 37,
       "global_index": 37,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490795,
         "prompt_processing_time_us": 160864,
@@ -537,22 +461,18 @@
       "question_index": 38,
       "global_index": 38,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1471936,
         "prompt_processing_time_us": 161883,
         "prompt_processing_rate_toks_per_sec": 1193.317383,
         "token_generation_time_us": 129854,
-        "token_generation_rate_toks_per_sec": 30.804300
+        "token_generation_rate_toks_per_sec": 30.8043
       }
     },
     {
       "question_index": 39,
       "global_index": 39,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505179,
         "prompt_processing_time_us": 161269,
@@ -565,8 +485,6 @@
       "question_index": 40,
       "global_index": 40,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1498447,
         "prompt_processing_time_us": 163246,
@@ -579,8 +497,6 @@
       "question_index": 41,
       "global_index": 41,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1500280,
         "prompt_processing_time_us": 162228,
@@ -593,8 +509,6 @@
       "question_index": 42,
       "global_index": 42,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1502240,
         "prompt_processing_time_us": 162081,
@@ -607,8 +521,6 @@
       "question_index": 43,
       "global_index": 43,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1496531,
         "prompt_processing_time_us": 160169,
@@ -621,8 +533,6 @@
       "question_index": 44,
       "global_index": 44,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1505500,
         "prompt_processing_time_us": 160207,
@@ -635,8 +545,6 @@
       "question_index": 45,
       "global_index": 45,
       "final_answer": "A",
-      "model_output": 
-"首先，我们需要计算塑料方块的体积。由于边长为 0.5 m，塑料方块的体积为 \( V = (0.5)^3 = 0.125 m^3 \)。\n\n接下来，我们需要计算塑料方块在液体中的浮力。浮力等于塑料方块排开的液体的重量，即 \( F_{浮} = ho_{液体} 	imes V 	imes g \)，其中 \( ho_{液体} = 1200 kg/m^3 \) 和 \( g \) 是重力加速度（取9.81 m/s^2）。\n\n代入上述公式得到浮力 \( F_{浮} = 1200 	imes 0.125 	imes 9.81 = 1638 kg \)。\n\n塑料方块的重力 \( F_{重} = m 	imes g = 100 	imes 9.81 = 981 kg \)。\n\n浮力大于重力，塑料方块会浮在液体表面上。塑料方块浮在液体表面的体积 \( V_{浮} \) 可以通过浮力等于重力来计算，即 \( F_{浮} = F_{重} \)。\n\n代入浮力和重力的值，得到浮力 \( F_{浮} = 1638 kg \) 和重力 \( F_{重} = 981 kg \)，所以浮力等于重力，即浮力等于塑料方块的体积乘以液体的密度。\n\n即 \( F_{浮} = ho_{液体} 	imes V_{浮} 	imes g \)，代入浮力和液体密度，得到 \( 1638 = 1200 	imes V_{浮} 	imes 9.81 \)。\n\n解得 \( V_{浮} = rac{1638}{1200 	imes 9.81} pprox 0.15 \) \( m^3 \)。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1482758,
         "prompt_processing_time_us": 160921,
@@ -649,8 +557,6 @@
       "question_index": 46,
       "global_index": 46,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1471752,
         "prompt_processing_time_us": 161974,
@@ -663,8 +569,6 @@
       "question_index": 47,
       "global_index": 47,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1362634,
         "prompt_processing_time_us": 162091,
@@ -677,8 +581,6 @@
       "question_index": 48,
       "global_index": 48,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488792,
         "prompt_processing_time_us": 163151,
@@ -691,8 +593,6 @@
       "question_index": 49,
       "global_index": 49,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1482943,
         "prompt_processing_time_us": 161245,
@@ -705,8 +605,6 @@
       "question_index": 50,
       "global_index": 50,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1397431,
         "prompt_processing_time_us": 161799,
@@ -719,22 +617,18 @@
       "question_index": 51,
       "global_index": 51,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1512580,
         "prompt_processing_time_us": 240296,
         "prompt_processing_rate_toks_per_sec": 1390.820557,
         "token_generation_time_us": 129465,
-        "token_generation_rate_toks_per_sec": 30.896620
+        "token_generation_rate_toks_per_sec": 30.89662
       }
     },
     {
       "question_index": 52,
       "global_index": 52,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488945,
         "prompt_processing_time_us": 161320,
@@ -747,22 +641,18 @@
       "question_index": 53,
       "global_index": 53,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1471256,
         "prompt_processing_time_us": 161214,
         "prompt_processing_rate_toks_per_sec": 1098.901123,
         "token_generation_time_us": 128828,
-        "token_generation_rate_toks_per_sec": 31.049150
+        "token_generation_rate_toks_per_sec": 31.04915
       }
     },
     {
       "question_index": 54,
       "global_index": 54,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1514748,
         "prompt_processing_time_us": 161096,
@@ -775,8 +665,6 @@
       "question_index": 55,
       "global_index": 55,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1481325,
         "prompt_processing_time_us": 160594,
@@ -789,12 +677,10 @@
       "question_index": 56,
       "global_index": 56,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1526814,
         "prompt_processing_time_us": 160948,
-        "prompt_processing_rate_toks_per_sec": 1355.013550,
+        "prompt_processing_rate_toks_per_sec": 1355.01355,
         "token_generation_time_us": 127199,
         "token_generation_rate_toks_per_sec": 31.447531
       }
@@ -803,8 +689,6 @@
       "question_index": 57,
       "global_index": 57,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1490666,
         "prompt_processing_time_us": 161126,
@@ -817,8 +701,6 @@
       "question_index": 58,
       "global_index": 58,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1502483,
         "prompt_processing_time_us": 163220,
@@ -831,8 +713,6 @@
       "question_index": 59,
       "global_index": 59,
       "final_answer": "A",
-      "model_output": 
-"首先，我们需要知道重力与质量的关系，即地球表面的重力加速度 \(g\) 可以通过以下公式计算：\n\n\[ g = rac{GM}{R^2} \]\n\n其中 \(G\) 是万有引力常数，\(M\) 是质量，\(R\) 是半径。\n\n对于地球，我们有：\n\n\[ g_{地球} = rac{GM_{地球}}{R_{地球}^2} \]\n\n对于月球，其质量是地球的 \(1/80\)，半径是地球的 \(1/4\)，因此：\n\n\[ g_{月球} = rac{GM_{月球}}{R_{月球}^2} = rac{G dot rac{1}{80}M_{地球}}{\left(rac{1}{4}R_{地球}ight)^2} = rac{1}{80} dot rac{1}{16} dot rac{GM_{地球}}{R_{地球}^2} = rac{1}{1280} g_{地球} \]\n\n因此：\n\n\[ g_{月球} = rac{1}{1280} dot g_{地球} \]\n\n已知地球上的重力加速度 \(g_{地球} = rac{80N}{M_{地球}}\)，代入上面的公式中：\n\n\[ g_{月球} = rac{1}{1280} dot rac{80N}{M_{地球}} = rac{80N}{1280M_{地球}} = rac{1N}{16M_{地球}} \]\n\n由于地球上的重力加速度 \(g_{地球} = rac{80N}{M_{地球}}\)，我们得到：\n\n\[ g_{月球} = rac{1}{16} g_{地球} = rac{1}{16} dot 80N = 5N \]\n\n这意味着月球上的重力加速度是地球上的 \(1/16\)。因此，盒子在月球上的重量将是地球上的重量的 \(1/16\)。\n\n\[ 	ext{月球上的重量} = rac{1}{16} dot 80N = 5N \]\n\n答案：A",
       "performance_metrics": {
         "init_time_us": 1487396,
         "prompt_processing_time_us": 161160,
@@ -845,22 +725,18 @@
       "question_index": 60,
       "global_index": 60,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1480824,
         "prompt_processing_time_us": 161881,
         "prompt_processing_rate_toks_per_sec": 1106.194702,
         "token_generation_time_us": 130544,
-        "token_generation_rate_toks_per_sec": 30.641010
+        "token_generation_rate_toks_per_sec": 30.64101
       }
     },
     {
       "question_index": 61,
       "global_index": 61,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1481692,
         "prompt_processing_time_us": 161191,
@@ -873,36 +749,30 @@
       "question_index": 62,
       "global_index": 62,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1479654,
         "prompt_processing_time_us": 163460,
         "prompt_processing_rate_toks_per_sec": 1230.012329,
         "token_generation_time_us": 127990,
-        "token_generation_rate_toks_per_sec": 31.252930
+        "token_generation_rate_toks_per_sec": 31.25293
       }
     },
     {
       "question_index": 63,
       "global_index": 63,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1497132,
         "prompt_processing_time_us": 164052,
         "prompt_processing_rate_toks_per_sec": 1012.145752,
         "token_generation_time_us": 129221,
-        "token_generation_rate_toks_per_sec": 30.954960
+        "token_generation_rate_toks_per_sec": 30.95496
       }
     },
     {
       "question_index": 64,
       "global_index": 64,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1512760,
         "prompt_processing_time_us": 162892,
@@ -915,8 +785,6 @@
       "question_index": 65,
       "global_index": 65,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1489101,
         "prompt_processing_time_us": 160662,
@@ -929,8 +797,6 @@
       "question_index": 66,
       "global_index": 66,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1391915,
         "prompt_processing_time_us": 160712,
@@ -943,22 +809,18 @@
       "question_index": 67,
       "global_index": 67,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1497546,
         "prompt_processing_time_us": 162623,
         "prompt_processing_rate_toks_per_sec": 904.159119,
         "token_generation_time_us": 133489,
-        "token_generation_rate_toks_per_sec": 29.965240
+        "token_generation_rate_toks_per_sec": 29.96524
       }
     },
     {
       "question_index": 68,
       "global_index": 68,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1499727,
         "prompt_processing_time_us": 161396,
@@ -971,8 +833,6 @@
       "question_index": 69,
       "global_index": 69,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1503371,
         "prompt_processing_time_us": 243674,
@@ -985,8 +845,6 @@
       "question_index": 70,
       "global_index": 70,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1504821,
         "prompt_processing_time_us": 162699,
@@ -999,8 +857,6 @@
       "question_index": 71,
       "global_index": 71,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493585,
         "prompt_processing_time_us": 162167,
@@ -1013,22 +869,18 @@
       "question_index": 72,
       "global_index": 72,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1497057,
         "prompt_processing_time_us": 161682,
         "prompt_processing_rate_toks_per_sec": 1262.626221,
         "token_generation_time_us": 129319,
-        "token_generation_rate_toks_per_sec": 30.931980
+        "token_generation_rate_toks_per_sec": 30.93198
       }
     },
     {
       "question_index": 73,
       "global_index": 73,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1495031,
         "prompt_processing_time_us": 162566,
@@ -1041,8 +893,6 @@
       "question_index": 74,
       "global_index": 74,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1365413,
         "prompt_processing_time_us": 164499,
@@ -1055,8 +905,6 @@
       "question_index": 75,
       "global_index": 75,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1526171,
         "prompt_processing_time_us": 160405,
@@ -1069,8 +917,6 @@
       "question_index": 76,
       "global_index": 76,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1504870,
         "prompt_processing_time_us": 160307,
@@ -1083,8 +929,6 @@
       "question_index": 77,
       "global_index": 77,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1498230,
         "prompt_processing_time_us": 162595,
@@ -1097,8 +941,6 @@
       "question_index": 78,
       "global_index": 78,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1502652,
         "prompt_processing_time_us": 162468,
@@ -1111,8 +953,6 @@
       "question_index": 79,
       "global_index": 79,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1501912,
         "prompt_processing_time_us": 163288,
@@ -1125,8 +965,6 @@
       "question_index": 80,
       "global_index": 80,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1514126,
         "prompt_processing_time_us": 164235,
@@ -1139,8 +977,6 @@
       "question_index": 81,
       "global_index": 81,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1472102,
         "prompt_processing_time_us": 162311,
@@ -1153,8 +989,6 @@
       "question_index": 82,
       "global_index": 82,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1488538,
         "prompt_processing_time_us": 163480,
@@ -1167,22 +1001,18 @@
       "question_index": 83,
       "global_index": 83,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：A\n\n解析：首先，理想抛射体在水平面抛出，以45°的角度抛出，那么我们可以认为，抛射体在水平方向和垂直方向的分速度相等。这意味着，抛射体的加速度在水平方向和垂直方向都是恒定的，但方向不同。水平方向的加速度为零，而垂直方向的加速度为重力加速度g，方向竖直向下。\n\nA选项正确，因为向上飞行时，由于重力的作用，速度矢量方向与加速度矢量方向相反；向下飞行时，由于重力的作用，速度矢量方向与加速度矢量方向相同。\n\nB选项不正确，轨迹最高处的速度方向垂直于水平方向，但不为零，只是速度大小减小。\n\nC选项不正确，总速度大小随时间变化，因为速度大小不仅受到重力作用，还受到抛射时的速度大小和方向的影响。\n\nD选项不正确，向上飞行时，垂直速度在抛出时最大，之后随着重力作用，垂直速度逐渐减小；向下飞行时，垂直速度在抛出时为零，之后随重力作用逐渐增大。\n\n综上所述，答案为A。\n",
       "performance_metrics": {
         "init_time_us": 1501157,
         "prompt_processing_time_us": 162782,
         "prompt_processing_rate_toks_per_sec": 1272.264648,
         "token_generation_time_us": 11457806,
-        "token_generation_rate_toks_per_sec": 22.517450
+        "token_generation_rate_toks_per_sec": 22.51745
       }
     },
     {
       "question_index": 84,
       "global_index": 84,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1489967,
         "prompt_processing_time_us": 161159,
@@ -1195,12 +1025,10 @@
       "question_index": 85,
       "global_index": 85,
       "final_answer": "A",
-      "model_output": 
-"碰撞过程中，总动量守恒。\n动量 = 质量 × 速度，因此，总动量守恒即总动量的大小不变。\n动量守恒可表示为：\n\[ m_1 	imes v_1 + m_2 	imes v_2 = (m_1 + m_2) 	imes v \]\n其中，\( m_1 = 1.5 \, kg, m_2 = 0.5 \, kg, v_1 \) 和 \( v_2 \) 分别表示碰撞前两车的速度，\( v \) 表示碰撞后两车共同的速度。\n\n代入已知的数值进行计算：\n\[ 1.5 	imes v_1 + 0.5 	imes v_2 = (1.5 + 0.5) 	imes v \]\n\[ 1.5 	imes v_1 + 0.5 	imes v_2 = 2 	imes v \]\n\n由于碰撞后两车具有相同的速度，即 \( v_1 = v_2 = v \)，代入上式得：\n\[ 1.5 	imes v + 0.5 	imes v = 2 	imes v \]\n\[ 2 	imes v = 2 	imes v \]\n\n因此，总动量守恒，碰撞后两车具有相同的动量。\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1478446,
         "prompt_processing_time_us": 161131,
-        "prompt_processing_rate_toks_per_sec": 1024.590210,
+        "prompt_processing_rate_toks_per_sec": 1024.59021,
         "token_generation_time_us": 13525975,
         "token_generation_rate_toks_per_sec": 22.253872
       }
@@ -1209,8 +1037,6 @@
       "question_index": 86,
       "global_index": 86,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1485411,
         "prompt_processing_time_us": 161730,
@@ -1223,8 +1049,6 @@
       "question_index": 87,
       "global_index": 87,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499201,
         "prompt_processing_time_us": 163020,
@@ -1237,22 +1061,18 @@
       "question_index": 88,
       "global_index": 88,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1484652,
         "prompt_processing_time_us": 161202,
         "prompt_processing_rate_toks_per_sec": 956.022949,
         "token_generation_time_us": 128237,
-        "token_generation_rate_toks_per_sec": 31.192490
+        "token_generation_rate_toks_per_sec": 31.19249
       }
     },
     {
       "question_index": 89,
       "global_index": 89,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1464179,
         "prompt_processing_time_us": 162255,
@@ -1265,8 +1085,6 @@
       "question_index": 90,
       "global_index": 90,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1492496,
         "prompt_processing_time_us": 160515,
@@ -1279,8 +1097,6 @@
       "question_index": 91,
       "global_index": 91,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1489124,
         "prompt_processing_time_us": 161083,
@@ -1293,8 +1109,6 @@
       "question_index": 92,
       "global_index": 92,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503282,
         "prompt_processing_time_us": 160651,
@@ -1307,8 +1121,6 @@
       "question_index": 93,
       "global_index": 93,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1501123,
         "prompt_processing_time_us": 168880,
@@ -1321,8 +1133,6 @@
       "question_index": 94,
       "global_index": 94,
       "final_answer": "D",
-      "model_output": 
-"首先，我们需要计算宇宙飞船在轨道上的重力加速度。可以使用以下公式来计算：\n\n\[ g_{orbit} = rac{GM}{r^2} \]\n\n其中：\n- \( G \) 是万有引力常数\n- \( M \) 是地球的质量\n- \( r \) 是地球表面到宇宙飞船轨道的高度\n\n地球的半径为 \( r_{Earth} = 6400 \, 	ext{km} \)，地球表面到宇宙飞船轨道的高度为 \( h = 300 \, 	ext{km} \)，因此轨道半径 \( r_{orbit} = r_{Earth} + h = 6700 \, 	ext{km} \)。\n\n地球的质量 \( M_{Earth} \) 可以使用地球的半径和地球的密度来近似计算，但这里我们直接使用已知地球半径和地球表面重力加速度来简化计算。地球表面的重力加速度 \( g_{Earth} \) 可以通过以下公式计算：\n\n\[ g_{Earth} = rac{GM_{Earth}}{r_{Earth}^2} \]\n\n将地球表面的重力加速度 \( g_{Earth} \) 与已知值 \( g_{Earth} = 9.8 \, 	ext{m/s}^2 \) 进行比较，可以得出：\n\n\[ g_{orbit} = g_{Earth} \left(1 - rac{h}{r_{Earth}}ight)^{1.5} \]\n\n代入具体数值进行计算：\n\n\[ g_{orbit} = 9.8 \left(1 - rac{300}{6400}ight)^{1.5} \]\n\[ g_{orbit} = 9.8 \left(1 - rac{300}{6400}ight)^{1.5} \]\n\[ g_{orbit} = 9.8 \left(0.94375ight)^{1.5} \]\n\[ g_{orbit} pprox 9.8 	imes 0.94375^{1.5} \]\n\[ g_{orbit} pprox 9.8 	imes 0.94375^{1.5} pprox 9.8 	imes 0.875 pprox 8.6 \, 	ext{m/s}^2 \]\n\n答案：D\n",
       "performance_metrics": {
         "init_time_us": 1494112,
         "prompt_processing_time_us": 160960,
@@ -1335,22 +1145,18 @@
       "question_index": 95,
       "global_index": 95,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1510487,
         "prompt_processing_time_us": 162400,
         "prompt_processing_rate_toks_per_sec": 1066.098022,
         "token_generation_time_us": 129467,
-        "token_generation_rate_toks_per_sec": 30.896620
+        "token_generation_rate_toks_per_sec": 30.89662
       }
     },
     {
       "question_index": 96,
       "global_index": 96,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：D\n\n解析：\n1. 根据牛顿第三定律，两个人之间的作用力是相等的，即体重较重的人受到的力为 (-1/2)F，体重较轻的人受到的力为 (1/2)F。\n2. 根据牛顿第二定律，物体的加速度与作用力成正比，与质量成反比。因此，体重较轻的人的加速度将是体重较重的人的加速度的一半，即 (1/2) / 100 = 1/200，体重较重的人的加速度为 1/50。\n3. 选项A和B都涉及错误的力的计算，因此排除。\n4. 选项C涉及错误的加速度计算，因此排除。\n5. 选项D正确表示了体重较轻的人的加速度是体重较重的人的两倍。\n",
       "performance_metrics": {
         "init_time_us": 1466411,
         "prompt_processing_time_us": 161223,
@@ -1363,8 +1169,6 @@
       "question_index": 97,
       "global_index": 97,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503347,
         "prompt_processing_time_us": 162454,
@@ -1377,8 +1181,6 @@
       "question_index": 98,
       "global_index": 98,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1493297,
         "prompt_processing_time_us": 161336,
@@ -1391,8 +1193,6 @@
       "question_index": 99,
       "global_index": 99,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1495706,
         "prompt_processing_time_us": 164313,
@@ -1405,8 +1205,6 @@
       "question_index": 100,
       "global_index": 100,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1464302,
         "prompt_processing_time_us": 169164,
@@ -1419,8 +1217,6 @@
       "question_index": 101,
       "global_index": 101,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1486993,
         "prompt_processing_time_us": 162805,
@@ -1433,8 +1229,6 @@
       "question_index": 102,
       "global_index": 102,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1529026,
         "prompt_processing_time_us": 163423,
@@ -1447,8 +1241,6 @@
       "question_index": 103,
       "global_index": 103,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1495456,
         "prompt_processing_time_us": 160785,
@@ -1461,12 +1253,10 @@
       "question_index": 104,
       "global_index": 104,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1488260,
         "prompt_processing_time_us": 161767,
-        "prompt_processing_rate_toks_per_sec": 1342.281860,
+        "prompt_processing_rate_toks_per_sec": 1342.28186,
         "token_generation_time_us": 130244,
         "token_generation_rate_toks_per_sec": 30.711588
       }
@@ -1475,12 +1265,10 @@
       "question_index": 105,
       "global_index": 105,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1503511,
         "prompt_processing_time_us": 160511,
-        "prompt_processing_rate_toks_per_sec": 1328.021240,
+        "prompt_processing_rate_toks_per_sec": 1328.02124,
         "token_generation_time_us": 130747,
         "token_generation_rate_toks_per_sec": 30.594139
       }
@@ -1489,8 +1277,6 @@
       "question_index": 106,
       "global_index": 106,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1501947,
         "prompt_processing_time_us": 160526,
@@ -1503,8 +1289,6 @@
       "question_index": 107,
       "global_index": 107,
       "final_answer": "A",
-      "model_output": 
-"首先，我们知道圆盘边缘上的点的线速度 \(v\) 与角速度 \(\omega\) 之间的关系是 \(v = \omega r\)，其中 \(r\) 是圆盘的半径。\n\n给定的角加速度 \(lpha = 2.0 \, 	ext{rad/s}^2\)，半径 \(r = 0.1 \, 	ext{m}\)，角速度 \(\omega\) 初始为 0（因为圆盘从静止开始），角速度随时间 \(t\) 变化的关系为 \(\omega(t) = lpha t\)。\n\n因此，4.0 s 时的角速度为 \(\omega(4.0) = 2.0 	imes 4.0 = 8.0 \, 	ext{rad/s}\)。\n\n圆盘边缘上的点的线速度 \(v\) 在4.0 s内通过的总路程 \(s\) 可以用公式 \(s = rac{1}{2} \omega^2 r t^2\) 来计算，其中 \(t = 4.0 \, 	ext{s}\)。\n\n代入数值计算：\n\n\[ s = rac{1}{2} 	imes (8.0)^2 	imes 0.1 	imes (4.0)^2 = rac{1}{2} 	imes 64 	imes 0.1 	imes 16 = 48 	imes 0.1 = 4.8 \, 	ext{m} \]\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1496784,
         "prompt_processing_time_us": 163040,
@@ -1517,12 +1301,10 @@
       "question_index": 108,
       "global_index": 108,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1512075,
         "prompt_processing_time_us": 162820,
-        "prompt_processing_rate_toks_per_sec": 989.119690,
+        "prompt_processing_rate_toks_per_sec": 989.11969,
         "token_generation_time_us": 129351,
         "token_generation_rate_toks_per_sec": 30.924328
       }
@@ -1531,8 +1313,6 @@
       "question_index": 109,
       "global_index": 109,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1487397,
         "prompt_processing_time_us": 161871,
@@ -1545,8 +1325,6 @@
       "question_index": 110,
       "global_index": 110,
       "final_answer": "B",
-      "model_output": 
-"首先，我们需要计算宇宙飞船在轨道上的重力加速度。\n\n地球表面的重力加速度（g0）可以通过地球的半径（R）和地球质量（M）计算得出，公式为：\n\n\[ g_0 = rac{GM}{R^2} \]\n\n其中 \(G\) 是万有引力常数，\(M\) 是地球的质量。地球的质量可以通过地球的半径和地球表面重力加速度计算得出：\n\n\[ M = rac{4\pi^2 R^3}{G} \]\n\n将地球的半径 \(R = 6400 	ext{ km} = 6400 	imes 10^3 	ext{ m}\) 和地球表面的重力加速度 \(g_0 = 9.8 	ext{ m/s}^2\) 代入上述公式，可以解得地球质量：\n\n\[ M = rac{4\pi^2 (6400 	imes 10^3)^3}{G} \]\n\n将万有引力常数 \(G = 6.674 	imes 10^{-11} 	ext{ m}^3 	ext{ kg}^{-1} 	ext{s}^{-2}\) 代入，可以解得地球质量：\n\n\[ M = rac{4\pi^2 (6400 	imes 10^3)^3}{6.674 	imes 10^{-11}} pprox 5.97 	imes 10^{24} 	ext{ kg} \]\n\n现在，我们需要计算宇宙飞船在轨道上的重力加速度（g）。宇宙飞船在轨道上的重力加速度可以通过地球的半径和轨道高度计算得出，公式为：\n\n\[ g = rac{GM}{R^2} \]\n\n其中 \(R\) 是地球的半径加上宇宙飞船轨道的高度（300 km = 300 × 10^3 m），即 \(R = 6400 	imes 10^3 	ext{ m} + 300 	imes 10^3 	ext{ m} = 6700 	imes 10^3 	ext{ m}\)。\n\n将地球的质量和轨道高度代入上述公式，可以解得宇宙飞船在轨道上的重力加速度：\n\n\[ g = rac{5.97 	imes 10^{24} 	imes 6.674 	imes 10^{-11}}{(6700 	imes 10^3)^2} pprox 8.9 	ext{ m/s}^2 \]\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1504613,
         "prompt_processing_time_us": 163504,
@@ -1559,8 +1337,6 @@
       "question_index": 111,
       "global_index": 111,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1461632,
         "prompt_processing_time_us": 161179,
@@ -1573,8 +1349,6 @@
       "question_index": 112,
       "global_index": 112,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1527337,
         "prompt_processing_time_us": 160159,
@@ -1587,8 +1361,6 @@
       "question_index": 113,
       "global_index": 113,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1509669,
         "prompt_processing_time_us": 162514,
@@ -1601,8 +1373,6 @@
       "question_index": 114,
       "global_index": 114,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505095,
         "prompt_processing_time_us": 161991,
@@ -1615,8 +1385,6 @@
       "question_index": 115,
       "global_index": 115,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1467015,
         "prompt_processing_time_us": 162083,
@@ -1629,8 +1397,6 @@
       "question_index": 116,
       "global_index": 116,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1486835,
         "prompt_processing_time_us": 241292,
@@ -1643,22 +1409,18 @@
       "question_index": 117,
       "global_index": 117,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1502406,
         "prompt_processing_time_us": 164424,
         "prompt_processing_rate_toks_per_sec": 876.424194,
         "token_generation_time_us": 128635,
-        "token_generation_rate_toks_per_sec": 31.096460
+        "token_generation_rate_toks_per_sec": 31.09646
       }
     },
     {
       "question_index": 118,
       "global_index": 118,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499310,
         "prompt_processing_time_us": 242207,
@@ -1671,8 +1433,6 @@
       "question_index": 119,
       "global_index": 119,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1506738,
         "prompt_processing_time_us": 161408,
@@ -1685,8 +1445,6 @@
       "question_index": 120,
       "global_index": 120,
       "final_answer": "B",
-      "model_output": 
-"物体的密度为：\[ ho = rac{m}{V} = rac{6	ext{ N}}{2 	imes 10^{-3} 	ext{ m}^3} = 3000 	ext{ kg/m}^3 \]\n\n物体的浮力等于其重力，即：\[ F_{浮} = 6 	ext{ N} \]\n\n根据阿基米德原理，浮力等于物体排开水的体积与水的密度的乘积，即：\[ F_{浮} = ho_{水} 	imes V_{排} \]\n\n将已知数值代入：\[ 6 = 1000 	imes V_{排} \]，解得：\[ V_{排} = 0.006 	ext{ m}^3 \]\n\n物体露出水面的体积占总体积的百分比为：\[ rac{V_{排}}{V_{总}} 	imes 100\% = rac{0.006}{2} 	imes 100\% = 30\% \]\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1495673,
         "prompt_processing_time_us": 161621,
@@ -1699,8 +1457,6 @@
       "question_index": 121,
       "global_index": 121,
       "final_answer": "C",
-      "model_output": 
-"首先，求出物体的速度方程，即对位置方程求导得到速度方程。\n\[ v(t) = rac{dx}{dt} = 6t^2 + 4 \]\n\n然后，求出物体的加速度方程，即对速度方程求导得到加速度方程。\n\[ a(t) = rac{dv}{dt} = 12t \]\n\n最后，将 t = 1.50 s 代入加速度方程中求解。\n\[ a(1.50) = 12 	imes 1.50 = 18 \, m/s^2 \]\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1498057,
         "prompt_processing_time_us": 160767,
@@ -1713,8 +1469,6 @@
       "question_index": 122,
       "global_index": 122,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1497189,
         "prompt_processing_time_us": 162129,
@@ -1727,8 +1481,6 @@
       "question_index": 123,
       "global_index": 123,
       "final_answer": "A",
-      "model_output": 
-"首先，根据匀加速直线运动的公式，我们知道位移 \( s \) 与时间 \( t \) 和加速度 \( a \) 的关系是：\n\n\[ s = rac{1}{2} a t^2 \]\n\n给定 \( s = 200 \) m 和 \( a = 5 \) m/s^2，我们可以代入上述公式求解时间 \( t \)：\n\n\[ 200 = rac{1}{2} 	imes 5 	imes t^2 \]\n\n简化得到：\n\n\[ 200 = rac{5}{2} t^2 \]\n\n\[ 200 = 2.5 t^2 \]\n\n\[ t^2 = rac{200}{2.5} \]\n\n\[ t^2 = 80 \]\n\n\[ t = \sqrt{80} \]\n\n\[ t pprox 8.94 \] s\n\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1487334,
         "prompt_processing_time_us": 161191,
@@ -1741,8 +1493,6 @@
       "question_index": 124,
       "global_index": 124,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486410,
         "prompt_processing_time_us": 162963,
@@ -1755,8 +1505,6 @@
       "question_index": 125,
       "global_index": 125,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1495988,
         "prompt_processing_time_us": 243209,
@@ -1769,8 +1517,6 @@
       "question_index": 126,
       "global_index": 126,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1500539,
         "prompt_processing_time_us": 162476,
@@ -1783,22 +1529,18 @@
       "question_index": 127,
       "global_index": 127,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"设物体 A 和 B 的电荷量为 q，质量为 m，静电力为 F，引力为 G。\n\n静电力和引力相等时，有：\[ F = G \]\n\n静电力公式：\[ F = k rac{q^2}{r^2} \]\n\n引力公式：\[ G = G_m rac{m^2}{r^2} \]\n\n其中，k 是静电力常量，G_m 是引力常量，r 是两物体间的距离。\n\n题目中提到，将物体 A 的质量减半，即新的质量为 \( rac{m}{2} \)。\n\n设新的电荷量为 q'，则新的静电力为：\[ F' = k rac{q'^2}{r^2} \]\n\n新的引力为：\[ G' = G_m rac{(rac{m}{2})^2}{r^2} = rac{1}{4} G_m rac{m^2}{r^2} = rac{1}{4} G \]\n\n要使新的静电力和引力相等，即：\[ k rac{q'^2}{r^2} = rac{1}{4} G \]\n\n将 G 的表达式代入：\[ k rac{q'^2}{r^2} = rac{1}{4} G_m rac{m^2}{r^2} \]\n\n简化得到：\[ k q'^2 = rac{1}{4} G_m m^2 \]\n\n将题目中已知的 G 和 G' 的关系代入：\[ k q'^2 = rac{1}{4} G \]\n\n化简得到：\[ q'^2 = rac{1}{4} rac{G}{k} \]\n\n比较与原题中的静电力相等条件，即：\[ q^2 = rac{G}{k} \]\n\n得到：\[ q'^2 = rac{1}{4} q^2 \]\n\n解得：\[ q' = rac{q}{2} \]\n\n即新的电荷量为原来的一半，即选项 B。答案：B\n",
       "performance_metrics": {
         "init_time_us": 1510748,
         "prompt_processing_time_us": 161663,
-        "prompt_processing_rate_toks_per_sec": 1250.000000,
+        "prompt_processing_rate_toks_per_sec": 1250.0,
         "token_generation_time_us": 20756427,
-        "token_generation_rate_toks_per_sec": 22.354860
+        "token_generation_rate_toks_per_sec": 22.35486
       }
     },
     {
       "question_index": 128,
       "global_index": 128,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1469563,
         "prompt_processing_time_us": 160856,
@@ -1811,8 +1553,6 @@
       "question_index": 129,
       "global_index": 129,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1481818,
         "prompt_processing_time_us": 161667,
@@ -1825,8 +1565,6 @@
       "question_index": 130,
       "global_index": 130,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"法向力和摩擦力的合力：答案：D\n",
       "performance_metrics": {
         "init_time_us": 1484613,
         "prompt_processing_time_us": 162104,
@@ -1839,8 +1577,6 @@
       "question_index": 131,
       "global_index": 131,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1488467,
         "prompt_processing_time_us": 161507,
@@ -1853,8 +1589,6 @@
       "question_index": 132,
       "global_index": 132,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1496689,
         "prompt_processing_time_us": 162687,
@@ -1867,36 +1601,30 @@
       "question_index": 133,
       "global_index": 133,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1508002,
         "prompt_processing_time_us": 163652,
         "prompt_processing_rate_toks_per_sec": 978.473572,
         "token_generation_time_us": 130704,
-        "token_generation_rate_toks_per_sec": 30.603500
+        "token_generation_rate_toks_per_sec": 30.6035
       }
     },
     {
       "question_index": 134,
       "global_index": 134,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1498198,
         "prompt_processing_time_us": 163050,
         "prompt_processing_rate_toks_per_sec": 1085.776367,
         "token_generation_time_us": 130544,
-        "token_generation_rate_toks_per_sec": 30.641010
+        "token_generation_rate_toks_per_sec": 30.64101
       }
     },
     {
       "question_index": 135,
       "global_index": 135,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1490844,
         "prompt_processing_time_us": 161650,
@@ -1909,8 +1637,6 @@
       "question_index": 136,
       "global_index": 136,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1523247,
         "prompt_processing_time_us": 162300,
@@ -1923,8 +1649,6 @@
       "question_index": 137,
       "global_index": 137,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1463951,
         "prompt_processing_time_us": 161474,
@@ -1937,8 +1661,6 @@
       "question_index": 138,
       "global_index": 138,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"答案：B\n\n解析：\n根据题目给出的方程 \(ho = ar\)，球形电荷分布的体电荷密度与半径 \(r\) 成正比。电荷分布半径为 \(R\)，因此，电荷分布的密度在 \(r > R\) 时会随着 \(r\) 的增加而增加。电荷分布半径 \(R\) 是电荷分布的边界，因此在 \(r > R\) 时，电荷分布密度增加，根据库仑定律，电荷分布的电场强度会线性增强。\n\n选项 A 错误，因为当 \(r\) 趋于无穷大时，电荷密度和电荷分布密度都会趋于零，电场强度会减小。\n选项 C 错误，因为当 \(r > R\) 时，电荷密度增加，电场强度会线性增强，但题目要求的是 \(r > R\) 的情况。\n选项 D 错误，当 \(r < R\) 时，电荷密度不变，电场强度不会非线性增强。电荷分布半径 \(R\) 是电荷分布的边界，因此在 \(r < R\) 时，电荷密度不变，电场强度不会非线性增强。因此，正确答案是 B。\n",
       "performance_metrics": {
         "init_time_us": 1500498,
         "prompt_processing_time_us": 161533,
@@ -1951,22 +1673,18 @@
       "question_index": 139,
       "global_index": 139,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1489264,
         "prompt_processing_time_us": 161922,
         "prompt_processing_rate_toks_per_sec": 1340.482544,
         "token_generation_time_us": 130739,
-        "token_generation_rate_toks_per_sec": 30.596010
+        "token_generation_rate_toks_per_sec": 30.59601
       }
     },
     {
       "question_index": 140,
       "global_index": 140,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1517381,
         "prompt_processing_time_us": 161927,
@@ -1979,8 +1697,6 @@
       "question_index": 141,
       "global_index": 141,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1505798,
         "prompt_processing_time_us": 163396,
@@ -1993,8 +1709,6 @@
       "question_index": 142,
       "global_index": 142,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1499708,
         "prompt_processing_time_us": 163510,
@@ -2007,8 +1721,6 @@
       "question_index": 143,
       "global_index": 143,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1484461,
         "prompt_processing_time_us": 162032,
@@ -2021,8 +1733,6 @@
       "question_index": 144,
       "global_index": 144,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1527678,
         "prompt_processing_time_us": 161317,
@@ -2035,8 +1745,6 @@
       "question_index": 145,
       "global_index": 145,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1481540,
         "prompt_processing_time_us": 162533,
@@ -2049,8 +1757,6 @@
       "question_index": 146,
       "global_index": 146,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1496134,
         "prompt_processing_time_us": 162807,
@@ -2063,8 +1769,6 @@
       "question_index": 147,
       "global_index": 147,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1515671,
         "prompt_processing_time_us": 161726,
@@ -2077,8 +1781,6 @@
       "question_index": 148,
       "global_index": 148,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1518100,
         "prompt_processing_time_us": 162810,
@@ -2091,12 +1793,10 @@
       "question_index": 149,
       "global_index": 149,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1500458,
         "prompt_processing_time_us": 161371,
-        "prompt_processing_rate_toks_per_sec": 1420.454590,
+        "prompt_processing_rate_toks_per_sec": 1420.45459,
         "token_generation_time_us": 128261,
         "token_generation_rate_toks_per_sec": 31.186651
       }
@@ -2105,8 +1805,6 @@
       "question_index": 150,
       "global_index": 150,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1492760,
         "prompt_processing_time_us": 164827,

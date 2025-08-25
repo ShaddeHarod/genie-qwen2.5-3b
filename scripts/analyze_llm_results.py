@@ -8,16 +8,54 @@ import statistics
 def robust_json_load(file_path):
     """使用多种方法尝试加载可能损坏的JSON文件"""
     
+    # 方法0：预处理修复常见的格式问题
+    try:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
+            lines = f.readlines()
+        
+        # 修复 "model_output": 后跟换行和裸字符串的问题
+        fixed_lines = []
+        i = 0
+        while i < len(lines):
+            line = lines[i].rstrip()
+            if '"model_output":' in line and line.strip().endswith(':'):
+                # 找到 model_output 行，检查下一行
+                if i + 1 < len(lines):
+                    next_line = lines[i + 1].strip()
+                    if next_line.startswith('"') and (next_line.endswith('",') or next_line.endswith('",')):
+                        # 将两行合并
+                        fixed_line = line + ' ' + next_line + '\n'
+                        fixed_lines.append(fixed_line)
+                        i += 2  # 跳过下一行
+                        continue
+                    elif next_line.startswith('"') and next_line.endswith('"'):
+                        # 将两行合并并添加逗号
+                        fixed_line = line + ' ' + next_line + ',\n'
+                        fixed_lines.append(fixed_line)
+                        i += 2  # 跳过下一行
+                        continue
+            
+            fixed_lines.append(line + '\n')
+            i += 1
+        
+        # 重新组合内容
+        content = ''.join(fixed_lines)
+        
+        # 尝试解析修复后的内容
+        return json.loads(content)
+    except (json.JSONDecodeError, UnicodeDecodeError) as e:
+        print(f"预处理修复失败: {e}")
+    
     # 方法1：直接尝试加载
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(file_path, 'r', encoding='utf-8-sig') as f:
             return json.load(f)
     except (json.JSONDecodeError, UnicodeDecodeError) as e:
         print(f"直接加载失败: {e}")
     
     # 方法2：忽略编码错误
     try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
             content = f.read()
             return json.loads(content)
     except json.JSONDecodeError as e:
@@ -25,7 +63,7 @@ def robust_json_load(file_path):
     
     # 方法3：清理控制字符
     try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
             content = f.read()
         
         # 移除控制字符但保留有效的转义序列
@@ -43,7 +81,7 @@ def robust_json_load(file_path):
     
     # 方法4：逐行修复
     try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
             lines = f.readlines()
         
         # 清理每行
@@ -62,7 +100,7 @@ def robust_json_load(file_path):
     
     # 方法5：使用正则表达式提取关键部分
     try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
             content = f.read()
         
         # 尝试提取subject
@@ -100,7 +138,7 @@ def robust_json_load(file_path):
     
     # 方法6：使用更激进的清理方法
     try:
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        with open(file_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
             content = f.read()
         
         # 移除所有控制字符
@@ -127,7 +165,7 @@ def robust_json_load(file_path):
             raw_data = f.read()
         
         # 尝试不同的编码
-        for encoding in ['utf-8', 'gbk', 'gb2312', 'latin1']:
+        for encoding in ['utf-8', 'utf-8-sig', 'gbk', 'gb2312', 'latin1']:
             try:
                 content = raw_data.decode(encoding)
                 break

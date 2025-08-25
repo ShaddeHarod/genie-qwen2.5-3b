@@ -1,0 +1,1405 @@
+{
+  "subject": "college_mathematics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 989113,
+        "prompt_processing_time_us": 156693,
+        "prompt_processing_rate_toks_per_sec": 1239.157349,
+        "token_generation_time_us": 116824,
+        "token_generation_rate_toks_per_sec": 34.239540
+      }
+    },
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 950979,
+        "prompt_processing_time_us": 156742,
+        "prompt_processing_rate_toks_per_sec": 983.284180,
+        "token_generation_time_us": 116138,
+        "token_generation_rate_toks_per_sec": 34.442379
+      }
+    },
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 959690,
+        "prompt_processing_time_us": 158491,
+        "prompt_processing_rate_toks_per_sec": 1256.281372,
+        "token_generation_time_us": 117218,
+        "token_generation_rate_toks_per_sec": 34.125034
+      }
+    },
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 956168,
+        "prompt_processing_time_us": 158594,
+        "prompt_processing_rate_toks_per_sec": 832.639465,
+        "token_generation_time_us": 118945,
+        "token_generation_rate_toks_per_sec": 33.629272
+      }
+    },
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 950497,
+        "prompt_processing_time_us": 158204,
+        "prompt_processing_rate_toks_per_sec": 1012.145752,
+        "token_generation_time_us": 117576,
+        "token_generation_rate_toks_per_sec": 34.020550
+      }
+    },
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 949908,
+        "prompt_processing_time_us": 158308,
+        "prompt_processing_rate_toks_per_sec": 1579.778809,
+        "token_generation_time_us": 116322,
+        "token_generation_rate_toks_per_sec": 34.387894
+      }
+    },
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"梯子形成一个直角三角形，其中梯子的一边长为9米，且直角在墙和地面之间。\n设梯子顶部离地面3米时，梯子底部离墙的距离为x米。\n根据勾股定理，有：\n\[ 9^2 = x^2 + 3^2 \]\n\[ 81 = x^2 + 9 \]\n\[ x^2 = 72 \]\n\[ x = 6\sqrt{2} \]\n\n梯子底部以每秒2米的速度离开墙壁，因此梯子底部离墙的距离每秒增加2米，即梯子底部离墙的距离为\(2t + 6\sqrt{2}\)米，其中t为时间（秒）。\n\n梯子顶部在离地面3米时，梯子形成一个直角三角形，其中梯子的一边长为\(6\sqrt{2}\)米，另一边为3米。设梯子顶部在离地面3米时向下滑动的速率为v米/秒，由勾股定理可知，梯子顶部在离地面3米时的斜边长为\(9\)米。\n\n根据速度的合成，梯子顶部的速率v可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度v米/秒。设梯子顶部在斜面上的速度为u米/秒，则有\n\[ v = 2 + u \]\n根据速度的合成，梯子顶部的速度v可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n由勾股定理可知，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。\n\n根据勾股定理，梯子顶部在斜面上的速度u可以分解为两个分量：梯子底部离墙的速度2米/秒和梯子顶部在斜面上的速度u米/秒。根据勾股定理，梯子顶部在斜面上的速度u可以分解为\n",
+      "performance_metrics": {
+        "init_time_us": 945597,
+        "prompt_processing_time_us": 156861,
+        "prompt_processing_rate_toks_per_sec": 1307.189575,
+        "token_generation_time_us": 162937418,
+        "token_generation_rate_toks_per_sec": 23.886871
+      }
+    },
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "final_answer": "A",
+      "model_output": 
+"为了回答这个问题，我们首先需要了解三角形的构成条件。构成三角形的三个条件是：任意两边之和大于第三边，任意两边之差小于第三边。\n\n题目中提到的三条更小的段是由点A和点B将长度为10的段分成的。假设点A和点B分别位于段的两端，则这三条更小的段的长度分别为x, 10-x和0（或10），其中0< x <10。\n\n根据上述三角形构成的条件，要构成三角形，任意两边之和必须大于第三边。即 x + (10-x) > 0，这个条件总是满足的，因此，只要满足任意两边之差小于第三边即可。即 |x - (10-x)| < 10，化简得 |2x - 10| < 10，即 0 < x < 10。\n\n这意味着，只要点A和点B在段的任一位置，这三条更小的段就能构成三角形，因此，构成三角形的概率是100%。但是题目中给出的选项只有A、B、C、D四个选项，所以根据题目要求，答案应为A。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488182,
+        "prompt_processing_time_us": 162922,
+        "prompt_processing_rate_toks_per_sec": 989.119690,
+        "token_generation_time_us": 12332589,
+        "token_generation_rate_toks_per_sec": 21.974642
+      }
+    },
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1533641,
+        "prompt_processing_time_us": 163987,
+        "prompt_processing_rate_toks_per_sec": 1091.703003,
+        "token_generation_time_us": 129227,
+        "token_generation_rate_toks_per_sec": 30.954002
+      }
+    },
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1506572,
+        "prompt_processing_time_us": 161681,
+        "prompt_processing_rate_toks_per_sec": 909.918091,
+        "token_generation_time_us": 130301,
+        "token_generation_rate_toks_per_sec": 30.698389
+      }
+    },
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1518248,
+        "prompt_processing_time_us": 161132,
+        "prompt_processing_rate_toks_per_sec": 943.396240,
+        "token_generation_time_us": 129346,
+        "token_generation_rate_toks_per_sec": 30.925285
+      }
+    },
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1470667,
+        "prompt_processing_time_us": 161267,
+        "prompt_processing_rate_toks_per_sec": 1179.245239,
+        "token_generation_time_us": 130399,
+        "token_generation_rate_toks_per_sec": 30.675787
+      }
+    },
+    {
+      "question_index": 12,
+      "global_index": 12,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500585,
+        "prompt_processing_time_us": 160998,
+        "prompt_processing_rate_toks_per_sec": 944.287048,
+        "token_generation_time_us": 129375,
+        "token_generation_rate_toks_per_sec": 30.918591
+      }
+    },
+    {
+      "question_index": 13,
+      "global_index": 13,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483286,
+        "prompt_processing_time_us": 159685,
+        "prompt_processing_rate_toks_per_sec": 1102.535889,
+        "token_generation_time_us": 130318,
+        "token_generation_rate_toks_per_sec": 30.694620
+      }
+    },
+    {
+      "question_index": 14,
+      "global_index": 14,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要确定从1到10的10个整数中，哪些数是另一个数的平方。这些数为：1 (1^2) 和 4 (2^2)。\n\n接下来，我们需要计算所选的整数都不是另一个数平方的概率。这意味着我们从5个不是平方数的数（5, 6, 7, 8, 9）中选择一个，然后从4个不是平方数的数（10）中选择一个。\n\n总的选择方式数为：10 * 9 = 90。\n\n符合条件的选择方式数为：5 * 1 = 5。\n\n因此，所选的整数都不是另一个数平方的概率为：5 / 90 = 1 / 18。\n\n计算1/18的平方根，即1/18的平方根的平方，即1/9。这与选项中的数值接近，但更准确的计算方式是使用计算器，得到1/18的平方根约为0.4472，这与0.64最接近。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1489310,
+        "prompt_processing_time_us": 161189,
+        "prompt_processing_rate_toks_per_sec": 1036.269409,
+        "token_generation_time_us": 10679315,
+        "token_generation_rate_toks_per_sec": 22.192633
+      }
+    },
+    {
+      "question_index": 15,
+      "global_index": 15,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1474674,
+        "prompt_processing_time_us": 161968,
+        "prompt_processing_rate_toks_per_sec": 1265.822754,
+        "token_generation_time_us": 129728,
+        "token_generation_rate_toks_per_sec": 30.833744
+      }
+    },
+    {
+      "question_index": 16,
+      "global_index": 16,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1518952,
+        "prompt_processing_time_us": 160685,
+        "prompt_processing_rate_toks_per_sec": 1488.095215,
+        "token_generation_time_us": 128911,
+        "token_generation_rate_toks_per_sec": 31.029882
+      }
+    },
+    {
+      "question_index": 17,
+      "global_index": 17,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1501205,
+        "prompt_processing_time_us": 159949,
+        "prompt_processing_rate_toks_per_sec": 1176.470581,
+        "token_generation_time_us": 128621,
+        "token_generation_rate_toks_per_sec": 31.099363
+      }
+    },
+    {
+      "question_index": 18,
+      "global_index": 18,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477274,
+        "prompt_processing_time_us": 162185,
+        "prompt_processing_rate_toks_per_sec": 1481.481445,
+        "token_generation_time_us": 131509,
+        "token_generation_rate_toks_per_sec": 30.416401
+      }
+    },
+    {
+      "question_index": 19,
+      "global_index": 19,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1484904,
+        "prompt_processing_time_us": 160101,
+        "prompt_processing_rate_toks_per_sec": 994.035767,
+        "token_generation_time_us": 128551,
+        "token_generation_rate_toks_per_sec": 31.116781
+      }
+    },
+    {
+      "question_index": 20,
+      "global_index": 20,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496384,
+        "prompt_processing_time_us": 161354,
+        "prompt_processing_rate_toks_per_sec": 1146.788940,
+        "token_generation_time_us": 127892,
+        "token_generation_rate_toks_per_sec": 31.276390
+      }
+    },
+    {
+      "question_index": 21,
+      "global_index": 21,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1481354,
+        "prompt_processing_time_us": 159500,
+        "prompt_processing_rate_toks_per_sec": 890.471924,
+        "token_generation_time_us": 125587,
+        "token_generation_rate_toks_per_sec": 31.851191
+      }
+    },
+    {
+      "question_index": 22,
+      "global_index": 22,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1490572,
+        "prompt_processing_time_us": 160552,
+        "prompt_processing_rate_toks_per_sec": 1402.524536,
+        "token_generation_time_us": 128619,
+        "token_generation_rate_toks_per_sec": 31.100330
+      }
+    },
+    {
+      "question_index": 23,
+      "global_index": 23,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1483485,
+        "prompt_processing_time_us": 161068,
+        "prompt_processing_rate_toks_per_sec": 1124.859375,
+        "token_generation_time_us": 129681,
+        "token_generation_rate_toks_per_sec": 30.845158
+      }
+    },
+    {
+      "question_index": 24,
+      "global_index": 24,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1516204,
+        "prompt_processing_time_us": 159869,
+        "prompt_processing_rate_toks_per_sec": 1221.001221,
+        "token_generation_time_us": 129768,
+        "token_generation_rate_toks_per_sec": 30.824240
+      }
+    },
+    {
+      "question_index": 25,
+      "global_index": 25,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1509576,
+        "prompt_processing_time_us": 160630,
+        "prompt_processing_rate_toks_per_sec": 1369.863037,
+        "token_generation_time_us": 130535,
+        "token_generation_rate_toks_per_sec": 30.643827
+      }
+    },
+    {
+      "question_index": 26,
+      "global_index": 26,
+      "final_answer": "D",
+      "model_output": 
+"分析：设 Kate 和 John 同时写试卷需要 x 天。\n\nKate 和 John 同时写试卷时，每天的工作效率为 Kate 的效率和 John 的效率之和。设 Kate 的效率为 1/k，John 的效率为 1/j。\n\n根据题目，Kate 和 John 以 2 天为一班轮流写练习试卷，从 Kate 开始写需要 10 天，从 John 开始写需要 10.5 天。可以得出：\n\n1. Kate 2 天完成的工作量 + John 2 天完成的工作量 = 10 天完成的工作量\n2. Kate 2 天完成的工作量 + John 2 天完成的工作量 = 10.5 天完成的工作量\n\n即：\n\n\[ rac{2}{k} + rac{2}{j} = 10 \]\n\[ rac{2}{k} + rac{2}{j} = rac{21}{2} \]\n\n简化上述方程组，得到：\n\n\[ rac{2}{k} + rac{2}{j} = 10 \]\n\[ rac{2}{k} + rac{2}{j} = rac{21}{2} \]\n\n通过观察，可以发现：\n\n\[ rac{2}{k} + rac{2}{j} = rac{21}{2} \]\n\n两边同时乘以 k 和 j，得到：\n\n\[ 2j + 2k = rac{21}{2}kj \]\n\n化简得到：\n\n\[ 4j + 4k = 21kj \]\n\[ 21kj - 4j - 4k = 0 \]\n\[ (21k - 4)(j - 1) = 4 \]\n\n由于题目要求的是两人同时写试卷所需的时间，即：\n\n\[ rac{1}{rac{1}{k} + rac{1}{j}} = rac{1}{rac{k + j}{kj}} = rac{kj}{k + j} \]\n\n根据上面的方程，可以求得：\n\n\[ rac{1}{rac{1}{k} + rac{1}{j}} = rac{1}{rac{21}{2}} = rac{2}{21} \]\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1486231,
+        "prompt_processing_time_us": 160445,
+        "prompt_processing_rate_toks_per_sec": 1396.648071,
+        "token_generation_time_us": 22472693,
+        "token_generation_rate_toks_per_sec": 22.827923
+      }
+    },
+    {
+      "question_index": 27,
+      "global_index": 27,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1479134,
+        "prompt_processing_time_us": 161550,
+        "prompt_processing_rate_toks_per_sec": 904.159119,
+        "token_generation_time_us": 129566,
+        "token_generation_rate_toks_per_sec": 30.872774
+      }
+    },
+    {
+      "question_index": 28,
+      "global_index": 28,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1516529,
+        "prompt_processing_time_us": 161302,
+        "prompt_processing_rate_toks_per_sec": 1246.882812,
+        "token_generation_time_us": 128841,
+        "token_generation_rate_toks_per_sec": 31.046259
+      }
+    },
+    {
+      "question_index": 29,
+      "global_index": 29,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478995,
+        "prompt_processing_time_us": 159361,
+        "prompt_processing_rate_toks_per_sec": 828.500427,
+        "token_generation_time_us": 127089,
+        "token_generation_rate_toks_per_sec": 31.474255
+      }
+    },
+    {
+      "question_index": 30,
+      "global_index": 30,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1510847,
+        "prompt_processing_time_us": 160934,
+        "prompt_processing_rate_toks_per_sec": 1336.898438,
+        "token_generation_time_us": 126773,
+        "token_generation_rate_toks_per_sec": 31.552710
+      }
+    },
+    {
+      "question_index": 31,
+      "global_index": 31,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1526711,
+        "prompt_processing_time_us": 161047,
+        "prompt_processing_rate_toks_per_sec": 1204.819336,
+        "token_generation_time_us": 129311,
+        "token_generation_rate_toks_per_sec": 30.933895
+      }
+    },
+    {
+      "question_index": 32,
+      "global_index": 32,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1525844,
+        "prompt_processing_time_us": 161208,
+        "prompt_processing_rate_toks_per_sec": 1123.595459,
+        "token_generation_time_us": 128045,
+        "token_generation_rate_toks_per_sec": 31.239262
+      }
+    },
+    {
+      "question_index": 33,
+      "global_index": 33,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1506900,
+        "prompt_processing_time_us": 159585,
+        "prompt_processing_rate_toks_per_sec": 871.080139,
+        "token_generation_time_us": 128184,
+        "token_generation_rate_toks_per_sec": 31.205143
+      }
+    },
+    {
+      "question_index": 34,
+      "global_index": 34,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1497327,
+        "prompt_processing_time_us": 160365,
+        "prompt_processing_rate_toks_per_sec": 1285.347046,
+        "token_generation_time_us": 130062,
+        "token_generation_rate_toks_per_sec": 30.755035
+      }
+    },
+    {
+      "question_index": 35,
+      "global_index": 35,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1479512,
+        "prompt_processing_time_us": 238816,
+        "prompt_processing_rate_toks_per_sec": 1109.877930,
+        "token_generation_time_us": 126207,
+        "token_generation_rate_toks_per_sec": 31.694717
+      }
+    },
+    {
+      "question_index": 36,
+      "global_index": 36,
+      "final_answer": "A",
+      "model_output": 
+"y' = 1 + e^x, x = 0 时，y' = 1 + 1 = 2\n\ny 在 x = 0 处的值为 y(0) = 0 + e^0 = 1\n\n切线方程为：y - y(0) = y'(0)(x - x(0))\n\n代入 y'(0) = 2, y(0) = 1, 得 y - 1 = 2(x - 0)\n\n简化得 y = 2x + 1\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1351314,
+        "prompt_processing_time_us": 159899,
+        "prompt_processing_rate_toks_per_sec": 969.932129,
+        "token_generation_time_us": 5597829,
+        "token_generation_rate_toks_per_sec": 22.330400
+      }
+    },
+    {
+      "question_index": 37,
+      "global_index": 37,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1510202,
+        "prompt_processing_time_us": 160512,
+        "prompt_processing_rate_toks_per_sec": 1090.512573,
+        "token_generation_time_us": 126553,
+        "token_generation_rate_toks_per_sec": 31.607561
+      }
+    },
+    {
+      "question_index": 38,
+      "global_index": 38,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1523277,
+        "prompt_processing_time_us": 159566,
+        "prompt_processing_rate_toks_per_sec": 1385.041504,
+        "token_generation_time_us": 126492,
+        "token_generation_rate_toks_per_sec": 31.622553
+      }
+    },
+    {
+      "question_index": 39,
+      "global_index": 39,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1622222,
+        "prompt_processing_time_us": 161460,
+        "prompt_processing_rate_toks_per_sec": 817.661499,
+        "token_generation_time_us": 127756,
+        "token_generation_rate_toks_per_sec": 31.309685
+      }
+    },
+    {
+      "question_index": 40,
+      "global_index": 40,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493347,
+        "prompt_processing_time_us": 159311,
+        "prompt_processing_rate_toks_per_sec": 954.198486,
+        "token_generation_time_us": 131052,
+        "token_generation_rate_toks_per_sec": 30.522236
+      }
+    },
+    {
+      "question_index": 41,
+      "global_index": 41,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1479637,
+        "prompt_processing_time_us": 159767,
+        "prompt_processing_rate_toks_per_sec": 989.119690,
+        "token_generation_time_us": 127646,
+        "token_generation_rate_toks_per_sec": 31.337156
+      }
+    },
+    {
+      "question_index": 42,
+      "global_index": 42,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1519051,
+        "prompt_processing_time_us": 160269,
+        "prompt_processing_rate_toks_per_sec": 1067.235840,
+        "token_generation_time_us": 129075,
+        "token_generation_rate_toks_per_sec": 30.990456
+      }
+    },
+    {
+      "question_index": 43,
+      "global_index": 43,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1490993,
+        "prompt_processing_time_us": 161116,
+        "prompt_processing_rate_toks_per_sec": 1123.595459,
+        "token_generation_time_us": 128598,
+        "token_generation_rate_toks_per_sec": 31.105167
+      }
+    },
+    {
+      "question_index": 44,
+      "global_index": 44,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1499434,
+        "prompt_processing_time_us": 160795,
+        "prompt_processing_rate_toks_per_sec": 809.061462,
+        "token_generation_time_us": 125750,
+        "token_generation_rate_toks_per_sec": 31.809650
+      }
+    },
+    {
+      "question_index": 45,
+      "global_index": 45,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1519639,
+        "prompt_processing_time_us": 160038,
+        "prompt_processing_rate_toks_per_sec": 1169.590698,
+        "token_generation_time_us": 128202,
+        "token_generation_rate_toks_per_sec": 31.201248
+      }
+    },
+    {
+      "question_index": 46,
+      "global_index": 46,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1520636,
+        "prompt_processing_time_us": 160761,
+        "prompt_processing_rate_toks_per_sec": 1002.004028,
+        "token_generation_time_us": 129657,
+        "token_generation_rate_toks_per_sec": 30.850866
+      }
+    },
+    {
+      "question_index": 47,
+      "global_index": 47,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1501270,
+        "prompt_processing_time_us": 161829,
+        "prompt_processing_rate_toks_per_sec": 902.527100,
+        "token_generation_time_us": 129361,
+        "token_generation_rate_toks_per_sec": 30.921459
+      }
+    },
+    {
+      "question_index": 48,
+      "global_index": 48,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1478306,
+        "prompt_processing_time_us": 162653,
+        "prompt_processing_rate_toks_per_sec": 1132.502808,
+        "token_generation_time_us": 129838,
+        "token_generation_rate_toks_per_sec": 30.808096
+      }
+    },
+    {
+      "question_index": 49,
+      "global_index": 49,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492886,
+        "prompt_processing_time_us": 160023,
+        "prompt_processing_rate_toks_per_sec": 1157.407349,
+        "token_generation_time_us": 128250,
+        "token_generation_rate_toks_per_sec": 31.189569
+      }
+    },
+    {
+      "question_index": 50,
+      "global_index": 50,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1477891,
+        "prompt_processing_time_us": 162656,
+        "prompt_processing_rate_toks_per_sec": 904.159119,
+        "token_generation_time_us": 127801,
+        "token_generation_rate_toks_per_sec": 31.298904
+      }
+    },
+    {
+      "question_index": 51,
+      "global_index": 51,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1516239,
+        "prompt_processing_time_us": 161685,
+        "prompt_processing_rate_toks_per_sec": 835.421875,
+        "token_generation_time_us": 130177,
+        "token_generation_rate_toks_per_sec": 30.727631
+      }
+    },
+    {
+      "question_index": 52,
+      "global_index": 52,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1445391,
+        "prompt_processing_time_us": 159739,
+        "prompt_processing_rate_toks_per_sec": 1070.663818,
+        "token_generation_time_us": 127450,
+        "token_generation_rate_toks_per_sec": 31.385349
+      }
+    },
+    {
+      "question_index": 53,
+      "global_index": 53,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1516217,
+        "prompt_processing_time_us": 162632,
+        "prompt_processing_rate_toks_per_sec": 892.060669,
+        "token_generation_time_us": 127188,
+        "token_generation_rate_toks_per_sec": 31.449509
+      }
+    },
+    {
+      "question_index": 54,
+      "global_index": 54,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1518985,
+        "prompt_processing_time_us": 159847,
+        "prompt_processing_rate_toks_per_sec": 844.594604,
+        "token_generation_time_us": 129130,
+        "token_generation_rate_toks_per_sec": 30.977015
+      }
+    },
+    {
+      "question_index": 55,
+      "global_index": 55,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1525716,
+        "prompt_processing_time_us": 160744,
+        "prompt_processing_rate_toks_per_sec": 1063.829834,
+        "token_generation_time_us": 126816,
+        "token_generation_rate_toks_per_sec": 31.541761
+      }
+    },
+    {
+      "question_index": 56,
+      "global_index": 56,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478757,
+        "prompt_processing_time_us": 160836,
+        "prompt_processing_rate_toks_per_sec": 1101.321533,
+        "token_generation_time_us": 128505,
+        "token_generation_rate_toks_per_sec": 31.127436
+      }
+    },
+    {
+      "question_index": 57,
+      "global_index": 57,
+      "final_answer": "C",
+      "model_output": 
+"二维子空间 V 和 W 在 R^4 中相交的维数可以是0、1或2，但不能是2，因为如果维数为2，那么它们将占据整个 R^4，而不是仅在 R^4 的一个子空间中。\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509323,
+        "prompt_processing_time_us": 160372,
+        "prompt_processing_rate_toks_per_sec": 985.221680,
+        "token_generation_time_us": 2662544,
+        "token_generation_rate_toks_per_sec": 22.910557
+      }
+    },
+    {
+      "question_index": 58,
+      "global_index": 58,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1396069,
+        "prompt_processing_time_us": 160711,
+        "prompt_processing_rate_toks_per_sec": 1114.827148,
+        "token_generation_time_us": 128738,
+        "token_generation_rate_toks_per_sec": 31.071341
+      }
+    },
+    {
+      "question_index": 59,
+      "global_index": 59,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1531801,
+        "prompt_processing_time_us": 161520,
+        "prompt_processing_rate_toks_per_sec": 997.008972,
+        "token_generation_time_us": 127996,
+        "token_generation_rate_toks_per_sec": 31.250977
+      }
+    },
+    {
+      "question_index": 60,
+      "global_index": 60,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483041,
+        "prompt_processing_time_us": 159174,
+        "prompt_processing_rate_toks_per_sec": 842.459961,
+        "token_generation_time_us": 133272,
+        "token_generation_rate_toks_per_sec": 30.013807
+      }
+    },
+    {
+      "question_index": 61,
+      "global_index": 61,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1460713,
+        "prompt_processing_time_us": 160005,
+        "prompt_processing_rate_toks_per_sec": 1426.533569,
+        "token_generation_time_us": 132296,
+        "token_generation_rate_toks_per_sec": 30.235229
+      }
+    },
+    {
+      "question_index": 62,
+      "global_index": 62,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1525845,
+        "prompt_processing_time_us": 161363,
+        "prompt_processing_rate_toks_per_sec": 1177.856323,
+        "token_generation_time_us": 130085,
+        "token_generation_rate_toks_per_sec": 30.749361
+      }
+    },
+    {
+      "question_index": 63,
+      "global_index": 63,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1508799,
+        "prompt_processing_time_us": 163500,
+        "prompt_processing_rate_toks_per_sec": 874.890625,
+        "token_generation_time_us": 129237,
+        "token_generation_rate_toks_per_sec": 30.951128
+      }
+    },
+    {
+      "question_index": 64,
+      "global_index": 64,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1502533,
+        "prompt_processing_time_us": 159632,
+        "prompt_processing_rate_toks_per_sec": 865.051880,
+        "token_generation_time_us": 131151,
+        "token_generation_rate_toks_per_sec": 30.499893
+      }
+    },
+    {
+      "question_index": 65,
+      "global_index": 65,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1481764,
+        "prompt_processing_time_us": 159935,
+        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "token_generation_time_us": 127915,
+        "token_generation_rate_toks_per_sec": 31.271500
+      }
+    },
+    {
+      "question_index": 66,
+      "global_index": 66,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1518470,
+        "prompt_processing_time_us": 159019,
+        "prompt_processing_rate_toks_per_sec": 1095.290283,
+        "token_generation_time_us": 128002,
+        "token_generation_rate_toks_per_sec": 31.250000
+      }
+    },
+    {
+      "question_index": 67,
+      "global_index": 67,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1501736,
+        "prompt_processing_time_us": 159119,
+        "prompt_processing_rate_toks_per_sec": 1264.222534,
+        "token_generation_time_us": 126619,
+        "token_generation_rate_toks_per_sec": 31.591583
+      }
+    },
+    {
+      "question_index": 68,
+      "global_index": 68,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477922,
+        "prompt_processing_time_us": 159896,
+        "prompt_processing_rate_toks_per_sec": 951.474792,
+        "token_generation_time_us": 127595,
+        "token_generation_rate_toks_per_sec": 31.349928
+      }
+    },
+    {
+      "question_index": 69,
+      "global_index": 69,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1487422,
+        "prompt_processing_time_us": 159726,
+        "prompt_processing_rate_toks_per_sec": 933.706787,
+        "token_generation_time_us": 125803,
+        "token_generation_rate_toks_per_sec": 31.796503
+      }
+    },
+    {
+      "question_index": 70,
+      "global_index": 70,
+      "final_answer": "A",
+      "model_output": 
+"水位变化的速率可以通过水位高度的变化来计算，设水位高度为 h，水位变化的速率 dh/dt。\n\n已知水以每分钟 3 立方厘米的速率滴出，因此水位高度的变化率 dh/dt = -3 立方厘米/分钟。\n\n根据题意，当水位低于锥顶半厘米时，水位高度的变化率与水位高度 h 有关。\n\n锥体的体积 V = (π/3)*r^2*h，其中 r 是半径，h 是锥体的高度。\n\n根据题意，当水位高度 h < 2 - 0.5 = 1.5 厘米时，水位高度的变化率 dh/dt = -3 立方厘米/分钟。\n\n根据水位高度的变化率 dh/dt = -3 立方厘米/分钟，可以求得水位高度的变化率 dh/dt = -3/(π/3*r^2) = -9/(π*r^2) 立方厘米/分钟。\n\n代入 r = 1 厘米，得 dh/dt = -9/(π*1^2) = -9/(π) 立方厘米/分钟。\n\n因此，水位高度的变化率 dh/dt = -9/(π) 立方厘米/分钟。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492185,
+        "prompt_processing_time_us": 161394,
+        "prompt_processing_rate_toks_per_sec": 1555.209961,
+        "token_generation_time_us": 13323454,
+        "token_generation_rate_toks_per_sec": 22.742262
+      }
+    },
+    {
+      "question_index": 71,
+      "global_index": 71,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1518797,
+        "prompt_processing_time_us": 241900,
+        "prompt_processing_rate_toks_per_sec": 1071.811401,
+        "token_generation_time_us": 131314,
+        "token_generation_rate_toks_per_sec": 30.461802
+      }
+    },
+    {
+      "question_index": 72,
+      "global_index": 72,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1507743,
+        "prompt_processing_time_us": 162995,
+        "prompt_processing_rate_toks_per_sec": 908.265198,
+        "token_generation_time_us": 129424,
+        "token_generation_rate_toks_per_sec": 30.906168
+      }
+    },
+    {
+      "question_index": 73,
+      "global_index": 73,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1480710,
+        "prompt_processing_time_us": 162122,
+        "prompt_processing_rate_toks_per_sec": 1333.333374,
+        "token_generation_time_us": 129630,
+        "token_generation_rate_toks_per_sec": 30.857531
+      }
+    },
+    {
+      "question_index": 74,
+      "global_index": 74,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要解微分方程 x dy + (y - xe^x) dx = 0\n\n将方程整理为标准形式 dy/dx + P(x)y = Q(x)的形式，其中 P(x) = 1/x, Q(x) = (1/x - e^x)\n\n求解可得通解为 y = Ce^(x-1) + 1/x\n\n给定 x = 1 时 y = 0，代入得 C = 0，所以 y = 1/x\n\n因此，f(x) = 1/x\n\n求 f(2) 得 1/2\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1522213,
+        "prompt_processing_time_us": 160853,
+        "prompt_processing_rate_toks_per_sec": 1069.518677,
+        "token_generation_time_us": 6089062,
+        "token_generation_rate_toks_per_sec": 22.663918
+      }
+    },
+    {
+      "question_index": 75,
+      "global_index": 75,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1514437,
+        "prompt_processing_time_us": 158992,
+        "prompt_processing_rate_toks_per_sec": 1145.475342,
+        "token_generation_time_us": 126996,
+        "token_generation_rate_toks_per_sec": 31.497055
+      }
+    },
+    {
+      "question_index": 76,
+      "global_index": 76,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1460887,
+        "prompt_processing_time_us": 159704,
+        "prompt_processing_rate_toks_per_sec": 1158.748535,
+        "token_generation_time_us": 128882,
+        "token_generation_rate_toks_per_sec": 31.036623
+      }
+    },
+    {
+      "question_index": 77,
+      "global_index": 77,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1480115,
+        "prompt_processing_time_us": 160380,
+        "prompt_processing_rate_toks_per_sec": 941.619568,
+        "token_generation_time_us": 133782,
+        "token_generation_rate_toks_per_sec": 29.899836
+      }
+    },
+    {
+      "question_index": 78,
+      "global_index": 78,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1482297,
+        "prompt_processing_time_us": 159757,
+        "prompt_processing_rate_toks_per_sec": 976.562500,
+        "token_generation_time_us": 129451,
+        "token_generation_rate_toks_per_sec": 30.900438
+      }
+    },
+    {
+      "question_index": 79,
+      "global_index": 79,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1527407,
+        "prompt_processing_time_us": 160649,
+        "prompt_processing_rate_toks_per_sec": 1102.535889,
+        "token_generation_time_us": 128186,
+        "token_generation_rate_toks_per_sec": 31.205143
+      }
+    },
+    {
+      "question_index": 80,
+      "global_index": 80,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1502171,
+        "prompt_processing_time_us": 161697,
+        "prompt_processing_rate_toks_per_sec": 921.658997,
+        "token_generation_time_us": 125821,
+        "token_generation_rate_toks_per_sec": 31.791449
+      }
+    },
+    {
+      "question_index": 81,
+      "global_index": 81,
+      "final_answer": "B",
+      "model_output": 
+"首先，根据题目条件，我们知道 f(0) = 0。\n\n接下来，根据题目条件 f(2n) = n^2 + f[2(n - 1)]，我们可以依次计算出 f(2), f(4), f(8) 的值。\n\n1. 当 n = 1 时，f(2) = 1^2 + f(0) = 1 + 0 = 1\n2. 当 n = 2 时，f(4) = 2^2 + f(2) = 4 + 1 = 5\n3. 当 n = 3 时，f(6) = 3^2 + f(4) = 9 + 5 = 14\n4. 当 n = 4 时，f(8) = 4^2 + f(6) = 16 + 14 = 30\n\n答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1480389,
+        "prompt_processing_time_us": 160304,
+        "prompt_processing_rate_toks_per_sec": 1042.752808,
+        "token_generation_time_us": 8945321,
+        "token_generation_rate_toks_per_sec": 22.805536
+      }
+    },
+    {
+      "question_index": 82,
+      "global_index": 82,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1527703,
+        "prompt_processing_time_us": 160645,
+        "prompt_processing_rate_toks_per_sec": 809.716614,
+        "token_generation_time_us": 131081,
+        "token_generation_rate_toks_per_sec": 30.515715
+      }
+    },
+    {
+      "question_index": 83,
+      "global_index": 83,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478663,
+        "prompt_processing_time_us": 158475,
+        "prompt_processing_rate_toks_per_sec": 959.692871,
+        "token_generation_time_us": 126653,
+        "token_generation_rate_toks_per_sec": 31.582603
+      }
+    },
+    {
+      "question_index": 84,
+      "global_index": 84,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要找到函数 f(x, y) = x^3 + y^3 + 3xy 的极值点。为了找到这些点，我们需要对 f(x, y) 关于 x 和 y 求偏导数，然后令它们等于零来找到驻点。\n\n对 f(x, y) 求关于 x 的偏导数： f_x = 3x^2 + 3y\n对 f(x, y) 求关于 y 的偏导数： f_y = 3y^2 + 3x\n\n令 f_x 和 f_y 等于零，我们得到：\n3x^2 + 3y = 0\n3y^2 + 3x = 0\n\n简化这两个方程，我们得到：\nx^2 + y = 0\nx^2 + y = 0\n\n这两个方程实际上是相同的，意味着 x^2 + y = 0。这在实数范围内没有解，因为 x^2 和 y 都是非负的，所以 x^2 + y ≥ 0。这意味着没有驻点，因此也没有局部最大值或最小值。\n\n因此，我们无法找到满足题目条件的点 P 和 Q。根据题目条件，正确答案是：\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496422,
+        "prompt_processing_time_us": 161127,
+        "prompt_processing_rate_toks_per_sec": 1191.895142,
+        "token_generation_time_us": 12078646,
+        "token_generation_rate_toks_per_sec": 22.353861
+      }
+    },
+    {
+      "question_index": 85,
+      "global_index": 85,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1479873,
+        "prompt_processing_time_us": 159902,
+        "prompt_processing_rate_toks_per_sec": 1044.932129,
+        "token_generation_time_us": 129909,
+        "token_generation_rate_toks_per_sec": 30.791021
+      }
+    },
+    {
+      "question_index": 86,
+      "global_index": 86,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492629,
+        "prompt_processing_time_us": 161149,
+        "prompt_processing_rate_toks_per_sec": 1347.708862,
+        "token_generation_time_us": 129659,
+        "token_generation_rate_toks_per_sec": 30.850866
+      }
+    },
+    {
+      "question_index": 87,
+      "global_index": 87,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475449,
+        "prompt_processing_time_us": 159806,
+        "prompt_processing_rate_toks_per_sec": 857.632935,
+        "token_generation_time_us": 126970,
+        "token_generation_rate_toks_per_sec": 31.504002
+      }
+    },
+    {
+      "question_index": 88,
+      "global_index": 88,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：B\n\n解析：\n- 复数环：任何复数乘以任何非零复数都不等于零。\n- 以 11 为模的整数环：任何非零整数模 11 的乘积不会等于零。\n- [0, 1] 上连续实值函数环：两个非零函数的乘积仍为非零函数。\n- 环 {a + b * sqrt(2) : A和b是有理数}：两个非零元素的乘积为非零，因为 a 和 b 都是不为零的有理数。\n\n因此，只有以 11 为模的整数环的两个非零元素的乘积可能为零。\n",
+      "performance_metrics": {
+        "init_time_us": 1512763,
+        "prompt_processing_time_us": 160117,
+        "prompt_processing_rate_toks_per_sec": 1055.966187,
+        "token_generation_time_us": 7039445,
+        "token_generation_rate_toks_per_sec": 22.445177
+      }
+    },
+    {
+      "question_index": 89,
+      "global_index": 89,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482547,
+        "prompt_processing_time_us": 161317,
+        "prompt_processing_rate_toks_per_sec": 936.329590,
+        "token_generation_time_us": 128932,
+        "token_generation_rate_toks_per_sec": 31.024105
+      }
+    },
+    {
+      "question_index": 90,
+      "global_index": 90,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1500660,
+        "prompt_processing_time_us": 160921,
+        "prompt_processing_rate_toks_per_sec": 1069.518677,
+        "token_generation_time_us": 130135,
+        "token_generation_rate_toks_per_sec": 30.738020
+      }
+    },
+    {
+      "question_index": 91,
+      "global_index": 91,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1489008,
+        "prompt_processing_time_us": 159948,
+        "prompt_processing_rate_toks_per_sec": 1107.419678,
+        "token_generation_time_us": 127630,
+        "token_generation_rate_toks_per_sec": 31.341085
+      }
+    },
+    {
+      "question_index": 92,
+      "global_index": 92,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1518162,
+        "prompt_processing_time_us": 162000,
+        "prompt_processing_rate_toks_per_sec": 994.035767,
+        "token_generation_time_us": 125401,
+        "token_generation_rate_toks_per_sec": 31.897926
+      }
+    },
+    {
+      "question_index": 93,
+      "global_index": 93,
+      "final_answer": "C",
+      "model_output": 
+"首先，我们需要确定满足不等式 0 < |x| + |y| < 1 的点(x, y)在 R^2 中的分布区域。这个区域是一个正方形，边长为1，但因为绝对值的存在，实际上是一个正方形的对角线方向的开放区域，即一个菱形区域，其对角线长度为√2，面积为1/2。\n\n接下来，我们需要求的是 2(x + y) > 1 的概率。这可以转化为 x + y > 1/2 的概率。我们需要在菱形区域内找到满足 x + y > 1/2 的区域。\n\n在菱形区域内，直线 x + y = 1/2 与菱形的对角线相交于(1/2, 1/2)。我们可以计算出这个直线与菱形边界的交点，然后利用几何方法确定该直线与菱形区域的交集面积，最后计算出概率。\n\n1. 首先找到直线 x + y = 1/2 与菱形的对角线的交点，这个交点为(1/2, 1/2)。\n2. 由于菱形的对角线长度为√2，我们可以将其分成两个等腰直角三角形，每个三角形的面积为1/2 * (√2/2) = 1/2 * √2/2 = √2/4。\n3. 在每个三角形中，直线 x + y = 1/2 的交点为(1/2, 1/2)，所以直线 x + y = 1/2 与菱形区域的交集面积为1/2 * √2/4 = √2/8。\n4. 菱形的面积为1/2，所以直线 x + y = 1/2 与菱形区域的交集面积占整个菱形面积的比例为 (√2/8) / (1/2) = √2/4。\n\n因此，2(x + y) > 1 的概率是 √2/4。\n\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1465122,
+        "prompt_processing_time_us": 161559,
+        "prompt_processing_rate_toks_per_sec": 1096.491211,
+        "token_generation_time_us": 20135941,
+        "token_generation_rate_toks_per_sec": 22.695808
+      }
+    },
+    {
+      "question_index": 94,
+      "global_index": 94,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492830,
+        "prompt_processing_time_us": 83049,
+        "prompt_processing_rate_toks_per_sec": 1481.481445,
+        "token_generation_time_us": 129934,
+        "token_generation_rate_toks_per_sec": 30.785334
+      }
+    },
+    {
+      "question_index": 95,
+      "global_index": 95,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1473410,
+        "prompt_processing_time_us": 161738,
+        "prompt_processing_rate_toks_per_sec": 896.860962,
+        "token_generation_time_us": 130072,
+        "token_generation_rate_toks_per_sec": 30.752199
+      }
+    },
+    {
+      "question_index": 96,
+      "global_index": 96,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"完全断开的：D\n",
+      "performance_metrics": {
+        "init_time_us": 1498110,
+        "prompt_processing_time_us": 162292,
+        "prompt_processing_rate_toks_per_sec": 1153.402588,
+        "token_generation_time_us": 258178,
+        "token_generation_rate_toks_per_sec": 27.113497
+      }
+    },
+    {
+      "question_index": 97,
+      "global_index": 97,
+      "final_answer": "C",
+      "model_output": 
+"x^2 + y^2 = 9\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1523917,
+        "prompt_processing_time_us": 162330,
+        "prompt_processing_rate_toks_per_sec": 1041.666626,
+        "token_generation_time_us": 621835,
+        "token_generation_rate_toks_per_sec": 24.122543
+      }
+    },
+    {
+      "question_index": 98,
+      "global_index": 98,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1523351,
+        "prompt_processing_time_us": 160619,
+        "prompt_processing_rate_toks_per_sec": 1127.395752,
+        "token_generation_time_us": 129535,
+        "token_generation_rate_toks_per_sec": 30.880400
+      }
+    },
+    {
+      "question_index": 99,
+      "global_index": 99,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1525990,
+        "prompt_processing_time_us": 161963,
+        "prompt_processing_rate_toks_per_sec": 1180.637573,
+        "token_generation_time_us": 130229,
+        "token_generation_rate_toks_per_sec": 30.715361
+      }
+    }
+  ]
+}

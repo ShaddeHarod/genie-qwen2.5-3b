@@ -1,0 +1,3953 @@
+{
+  "subject": "professional_accounting",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "final_answer": "A",
+      "model_output": 
+"98,000 ÷ 50 = 1960天\n\n1960 × 245 = 478,400美元\n\n(478,400 - 98,000) ÷ 98,000 = 3.96\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482975,
+        "prompt_processing_time_us": 164189,
+        "prompt_processing_rate_toks_per_sec": 1322.751343,
+        "token_generation_time_us": 3357247,
+        "token_generation_rate_toks_per_sec": 22.637751
+      }
+    },
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494650,
+        "prompt_processing_time_us": 160525,
+        "prompt_processing_rate_toks_per_sec": 1209.189819,
+        "token_generation_time_us": 129056,
+        "token_generation_rate_toks_per_sec": 30.994297
+      }
+    },
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1471562,
+        "prompt_processing_time_us": 160324,
+        "prompt_processing_rate_toks_per_sec": 1223.990234,
+        "token_generation_time_us": 127863,
+        "token_generation_rate_toks_per_sec": 31.284218
+      }
+    },
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1501532,
+        "prompt_processing_time_us": 161280,
+        "prompt_processing_rate_toks_per_sec": 1067.235840,
+        "token_generation_time_us": 129851,
+        "token_generation_rate_toks_per_sec": 30.805250
+      }
+    },
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1477931,
+        "prompt_processing_time_us": 161951,
+        "prompt_processing_rate_toks_per_sec": 883.392212,
+        "token_generation_time_us": 128379,
+        "token_generation_rate_toks_per_sec": 31.158472
+      }
+    },
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"首先，我们需要计算第5年和第10年产生的利润的现值。\n\n第5年产生的利润现值：\[500 	imes rac{1}{(1+0.1)^5} = 500 	imes rac{1}{1.611}pprox 310.6\]\n\n第10年产生的利润现值：\[500 	imes rac{1}{(1+0.1)^10} = 500 	imes rac{1}{2.5937}pprox 193.0\]\n\n然后，将这两个现值相加得到净现值（NPV）：\[310.6 + 193.0 = 503.6\]\n\n最后，从题目中给出的选项来看，净现值为正数，因此排除负值选项。根据计算结果，最接近的答案是C选项：3美元。所以答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1489680,
+        "prompt_processing_time_us": 164319,
+        "prompt_processing_rate_toks_per_sec": 1162.790649,
+        "token_generation_time_us": 9498848,
+        "token_generation_rate_toks_per_sec": 22.318937
+      }
+    },
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1487360,
+        "prompt_processing_time_us": 161687,
+        "prompt_processing_rate_toks_per_sec": 1472.754028,
+        "token_generation_time_us": 128538,
+        "token_generation_rate_toks_per_sec": 31.119686
+      }
+    },
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1483824,
+        "prompt_processing_time_us": 160957,
+        "prompt_processing_rate_toks_per_sec": 1106.194702,
+        "token_generation_time_us": 129742,
+        "token_generation_rate_toks_per_sec": 30.830893
+      }
+    },
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1489671,
+        "prompt_processing_time_us": 164074,
+        "prompt_processing_rate_toks_per_sec": 1054.852295,
+        "token_generation_time_us": 127879,
+        "token_generation_rate_toks_per_sec": 31.280302
+      }
+    },
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1470569,
+        "prompt_processing_time_us": 241652,
+        "prompt_processing_rate_toks_per_sec": 1122.334473,
+        "token_generation_time_us": 135292,
+        "token_generation_rate_toks_per_sec": 29.565680
+      }
+    },
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1512054,
+        "prompt_processing_time_us": 162011,
+        "prompt_processing_rate_toks_per_sec": 1013.171204,
+        "token_generation_time_us": 128449,
+        "token_generation_rate_toks_per_sec": 31.141006
+      }
+    },
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "final_answer": "A",
+      "model_output": 
+"史密斯的调整后总收入（AGI）为120,000美元，不考虑40,000美元的租赁房地产活动亏损。这意味着史密斯的租赁房地产活动亏损为40,000美元。\n\n史密斯可以扣除的租赁亏损等于调整后总收入（AGI）减去40,000美元的租赁房地产活动亏损。\n\n因此，史密斯可以扣除的租赁亏损为：120,000美元 - 40,000美元 = 80,000美元。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1512976,
+        "prompt_processing_time_us": 162214,
+        "prompt_processing_rate_toks_per_sec": 1314.060425,
+        "token_generation_time_us": 5670858,
+        "token_generation_rate_toks_per_sec": 22.571835
+      }
+    },
+    {
+      "question_index": 12,
+      "global_index": 12,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1515266,
+        "prompt_processing_time_us": 161650,
+        "prompt_processing_rate_toks_per_sec": 915.750916,
+        "token_generation_time_us": 129664,
+        "token_generation_rate_toks_per_sec": 30.848963
+      }
+    },
+    {
+      "question_index": 13,
+      "global_index": 13,
+      "final_answer": "D",
+      "model_output": 
+"首先，我们计算标准直接人工成本和实际直接人工成本：\n\n标准直接人工成本 = 每个成品标准工资 * 每个成品标准人工小时\n标准直接人工成本 = 48 美元\n\n实际直接人工成本 = 每个成品实际工资 * 每个成品实际人工小时\n实际直接人工成本 = 52.5 美元\n\n然后，我们计算直接人工差异：\n\n直接人工差异 = (实际人工成本 - 标准人工成本) * 实际生产数量\n直接人工差异 = (52.5 - 48) * 9,000\n直接人工差异 = 4.5 * 9,000\n直接人工差异 = 40,500 美元\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1472873,
+        "prompt_processing_time_us": 242221,
+        "prompt_processing_rate_toks_per_sec": 1173.708862,
+        "token_generation_time_us": 7737765,
+        "token_generation_rate_toks_per_sec": 22.358360
+      }
+    },
+    {
+      "question_index": 14,
+      "global_index": 14,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493902,
+        "prompt_processing_time_us": 163391,
+        "prompt_processing_rate_toks_per_sec": 1138.952148,
+        "token_generation_time_us": 127137,
+        "token_generation_rate_toks_per_sec": 31.462372
+      }
+    },
+    {
+      "question_index": 15,
+      "global_index": 15,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1515027,
+        "prompt_processing_time_us": 161639,
+        "prompt_processing_rate_toks_per_sec": 1003.009033,
+        "token_generation_time_us": 128111,
+        "token_generation_rate_toks_per_sec": 31.223656
+      }
+    },
+    {
+      "question_index": 16,
+      "global_index": 16,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1493093,
+        "prompt_processing_time_us": 240418,
+        "prompt_processing_rate_toks_per_sec": 1136.363647,
+        "token_generation_time_us": 126917,
+        "token_generation_rate_toks_per_sec": 31.516909
+      }
+    },
+    {
+      "question_index": 17,
+      "global_index": 17,
+      "final_answer": "BD",
+      "model_output": 
+"答案：C\n答案：A\n答案：B\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1474882,
+        "prompt_processing_time_us": 240274,
+        "prompt_processing_rate_toks_per_sec": 1082.251099,
+        "token_generation_time_us": 661076,
+        "token_generation_rate_toks_per_sec": 24.203112
+      }
+    },
+    {
+      "question_index": 18,
+      "global_index": 18,
+      "final_answer": "D",
+      "model_output": 
+"卖方知道买方将货物用于特定用途，且卖方是这些货物的商人。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1443643,
+        "prompt_processing_time_us": 160902,
+        "prompt_processing_rate_toks_per_sec": 1398.601440,
+        "token_generation_time_us": 1012488,
+        "token_generation_rate_toks_per_sec": 23.703985
+      }
+    },
+    {
+      "question_index": 19,
+      "global_index": 19,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494721,
+        "prompt_processing_time_us": 163514,
+        "prompt_processing_rate_toks_per_sec": 1199.040771,
+        "token_generation_time_us": 130604,
+        "token_generation_rate_toks_per_sec": 30.626934
+      }
+    },
+    {
+      "question_index": 20,
+      "global_index": 20,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1520770,
+        "prompt_processing_time_us": 162752,
+        "prompt_processing_rate_toks_per_sec": 1186.239624,
+        "token_generation_time_us": 133181,
+        "token_generation_rate_toks_per_sec": 30.034540
+      }
+    },
+    {
+      "question_index": 21,
+      "global_index": 21,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1476615,
+        "prompt_processing_time_us": 160894,
+        "prompt_processing_rate_toks_per_sec": 1336.898438,
+        "token_generation_time_us": 129826,
+        "token_generation_rate_toks_per_sec": 30.810944
+      }
+    },
+    {
+      "question_index": 22,
+      "global_index": 22,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492804,
+        "prompt_processing_time_us": 160516,
+        "prompt_processing_rate_toks_per_sec": 1040.582764,
+        "token_generation_time_us": 132173,
+        "token_generation_rate_toks_per_sec": 30.263596
+      }
+    },
+    {
+      "question_index": 23,
+      "global_index": 23,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493221,
+        "prompt_processing_time_us": 242514,
+        "prompt_processing_rate_toks_per_sec": 1315.789429,
+        "token_generation_time_us": 140376,
+        "token_generation_rate_toks_per_sec": 28.494900
+      }
+    },
+    {
+      "question_index": 24,
+      "global_index": 24,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1510759,
+        "prompt_processing_time_us": 241977,
+        "prompt_processing_rate_toks_per_sec": 1223.990234,
+        "token_generation_time_us": 137878,
+        "token_generation_rate_toks_per_sec": 29.011576
+      }
+    },
+    {
+      "question_index": 25,
+      "global_index": 25,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1491638,
+        "prompt_processing_time_us": 241291,
+        "prompt_processing_rate_toks_per_sec": 1119.820801,
+        "token_generation_time_us": 135673,
+        "token_generation_rate_toks_per_sec": 29.482870
+      }
+    },
+    {
+      "question_index": 26,
+      "global_index": 26,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1507238,
+        "prompt_processing_time_us": 161438,
+        "prompt_processing_rate_toks_per_sec": 1103.752808,
+        "token_generation_time_us": 131482,
+        "token_generation_rate_toks_per_sec": 30.422878
+      }
+    },
+    {
+      "question_index": 27,
+      "global_index": 27,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1478054,
+        "prompt_processing_time_us": 242896,
+        "prompt_processing_rate_toks_per_sec": 1408.450684,
+        "token_generation_time_us": 137185,
+        "token_generation_rate_toks_per_sec": 29.157919
+      }
+    },
+    {
+      "question_index": 28,
+      "global_index": 28,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1499282,
+        "prompt_processing_time_us": 161370,
+        "prompt_processing_rate_toks_per_sec": 1091.703003,
+        "token_generation_time_us": 128161,
+        "token_generation_rate_toks_per_sec": 31.210987
+      }
+    },
+    {
+      "question_index": 29,
+      "global_index": 29,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494983,
+        "prompt_processing_time_us": 163469,
+        "prompt_processing_rate_toks_per_sec": 1010.101013,
+        "token_generation_time_us": 130664,
+        "token_generation_rate_toks_per_sec": 30.612869
+      }
+    },
+    {
+      "question_index": 30,
+      "global_index": 30,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495928,
+        "prompt_processing_time_us": 242088,
+        "prompt_processing_rate_toks_per_sec": 1128.668213,
+        "token_generation_time_us": 136199,
+        "token_generation_rate_toks_per_sec": 29.369438
+      }
+    },
+    {
+      "question_index": 31,
+      "global_index": 31,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1528305,
+        "prompt_processing_time_us": 161799,
+        "prompt_processing_rate_toks_per_sec": 1088.139282,
+        "token_generation_time_us": 131034,
+        "token_generation_rate_toks_per_sec": 30.526894
+      }
+    },
+    {
+      "question_index": 32,
+      "global_index": 32,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1512420,
+        "prompt_processing_time_us": 242482,
+        "prompt_processing_rate_toks_per_sec": 1184.834106,
+        "token_generation_time_us": 133137,
+        "token_generation_rate_toks_per_sec": 30.044466
+      }
+    },
+    {
+      "question_index": 33,
+      "global_index": 33,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1504601,
+        "prompt_processing_time_us": 162927,
+        "prompt_processing_rate_toks_per_sec": 1055.966187,
+        "token_generation_time_us": 130293,
+        "token_generation_rate_toks_per_sec": 30.700274
+      }
+    },
+    {
+      "question_index": 34,
+      "global_index": 34,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477073,
+        "prompt_processing_time_us": 162232,
+        "prompt_processing_rate_toks_per_sec": 1547.987671,
+        "token_generation_time_us": 129799,
+        "token_generation_rate_toks_per_sec": 30.817591
+      }
+    },
+    {
+      "question_index": 35,
+      "global_index": 35,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1398907,
+        "prompt_processing_time_us": 161397,
+        "prompt_processing_rate_toks_per_sec": 1116.071411,
+        "token_generation_time_us": 129331,
+        "token_generation_rate_toks_per_sec": 30.929110
+      }
+    },
+    {
+      "question_index": 36,
+      "global_index": 36,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1482914,
+        "prompt_processing_time_us": 161248,
+        "prompt_processing_rate_toks_per_sec": 1079.913574,
+        "token_generation_time_us": 130909,
+        "token_generation_rate_toks_per_sec": 30.555811
+      }
+    },
+    {
+      "question_index": 37,
+      "global_index": 37,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1478591,
+        "prompt_processing_time_us": 163002,
+        "prompt_processing_rate_toks_per_sec": 994.035767,
+        "token_generation_time_us": 130928,
+        "token_generation_rate_toks_per_sec": 30.551142
+      }
+    },
+    {
+      "question_index": 38,
+      "global_index": 38,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476087,
+        "prompt_processing_time_us": 161247,
+        "prompt_processing_rate_toks_per_sec": 1335.113525,
+        "token_generation_time_us": 129765,
+        "token_generation_rate_toks_per_sec": 30.825190
+      }
+    },
+    {
+      "question_index": 39,
+      "global_index": 39,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1529831,
+        "prompt_processing_time_us": 243815,
+        "prompt_processing_rate_toks_per_sec": 1234.567871,
+        "token_generation_time_us": 130196,
+        "token_generation_rate_toks_per_sec": 30.722910
+      }
+    },
+    {
+      "question_index": 40,
+      "global_index": 40,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1487473,
+        "prompt_processing_time_us": 160504,
+        "prompt_processing_rate_toks_per_sec": 1278.772339,
+        "token_generation_time_us": 129498,
+        "token_generation_rate_toks_per_sec": 30.888985
+      }
+    },
+    {
+      "question_index": 41,
+      "global_index": 41,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1522568,
+        "prompt_processing_time_us": 161971,
+        "prompt_processing_rate_toks_per_sec": 1222.493896,
+        "token_generation_time_us": 128462,
+        "token_generation_rate_toks_per_sec": 31.138098
+      }
+    },
+    {
+      "question_index": 42,
+      "global_index": 42,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1503330,
+        "prompt_processing_time_us": 161133,
+        "prompt_processing_rate_toks_per_sec": 1303.781006,
+        "token_generation_time_us": 128627,
+        "token_generation_rate_toks_per_sec": 31.098394
+      }
+    },
+    {
+      "question_index": 43,
+      "global_index": 43,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1468696,
+        "prompt_processing_time_us": 161697,
+        "prompt_processing_rate_toks_per_sec": 1237.623779,
+        "token_generation_time_us": 133174,
+        "token_generation_rate_toks_per_sec": 30.036345
+      }
+    },
+    {
+      "question_index": 44,
+      "global_index": 44,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1525750,
+        "prompt_processing_time_us": 162442,
+        "prompt_processing_rate_toks_per_sec": 1102.535889,
+        "token_generation_time_us": 128643,
+        "token_generation_rate_toks_per_sec": 31.094528
+      }
+    },
+    {
+      "question_index": 45,
+      "global_index": 45,
+      "final_answer": "A",
+      "model_output": 
+"问题分析：根据题目描述，纳税人购买并拥有一份自己寿命的保险合同，并指定其两个子女为平等受益人，这意味着纳税人将保险合同视为其个人财产，并且指定其子女为受益人。然而，题目并未说明纳税人是否进行了赠与行为，只是购买并拥有了保险合同。因此，从赠与税的角度来看，纳税人没有进行任何赠与行为。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486881,
+        "prompt_processing_time_us": 161762,
+        "prompt_processing_rate_toks_per_sec": 977.517090,
+        "token_generation_time_us": 3863311,
+        "token_generation_rate_toks_per_sec": 22.519987
+      }
+    },
+    {
+      "question_index": 46,
+      "global_index": 46,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1462586,
+        "prompt_processing_time_us": 162288,
+        "prompt_processing_rate_toks_per_sec": 1128.668213,
+        "token_generation_time_us": 131275,
+        "token_generation_rate_toks_per_sec": 30.471083
+      }
+    },
+    {
+      "question_index": 47,
+      "global_index": 47,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1497963,
+        "prompt_processing_time_us": 241997,
+        "prompt_processing_rate_toks_per_sec": 1132.502808,
+        "token_generation_time_us": 131303,
+        "token_generation_rate_toks_per_sec": 30.464584
+      }
+    },
+    {
+      "question_index": 48,
+      "global_index": 48,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1500753,
+        "prompt_processing_time_us": 160309,
+        "prompt_processing_rate_toks_per_sec": 936.329590,
+        "token_generation_time_us": 127362,
+        "token_generation_rate_toks_per_sec": 31.407036
+      }
+    },
+    {
+      "question_index": 49,
+      "global_index": 49,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1481536,
+        "prompt_processing_time_us": 160629,
+        "prompt_processing_rate_toks_per_sec": 1133.786865,
+        "token_generation_time_us": 127962,
+        "token_generation_rate_toks_per_sec": 31.259769
+      }
+    },
+    {
+      "question_index": 50,
+      "global_index": 50,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1528075,
+        "prompt_processing_time_us": 160496,
+        "prompt_processing_rate_toks_per_sec": 1540.832031,
+        "token_generation_time_us": 130219,
+        "token_generation_rate_toks_per_sec": 30.718191
+      }
+    },
+    {
+      "question_index": 51,
+      "global_index": 51,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：A\n\n解释：信用销售 5600 美元，但只有 1900 美元的信用销售收款。这部分未收到的信用销售收入需要调整为现金基础的收入，因此增加 1900 美元。\n\n应计薪酬 1200 美元，这部分薪酬将在未来的某个时间点支付，因此不会影响现金基础的收入，所以无需调整。\n\n因此，Sussman 截至 1 月 31 日的现金基础收入将增加 1900 美元。答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493549,
+        "prompt_processing_time_us": 241173,
+        "prompt_processing_rate_toks_per_sec": 1082.251099,
+        "token_generation_time_us": 5842095,
+        "token_generation_rate_toks_per_sec": 22.423536
+      }
+    },
+    {
+      "question_index": 52,
+      "global_index": 52,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1540623,
+        "prompt_processing_time_us": 176114,
+        "prompt_processing_rate_toks_per_sec": 943.396240,
+        "token_generation_time_us": 136663,
+        "token_generation_rate_toks_per_sec": 29.269720
+      }
+    },
+    {
+      "question_index": 53,
+      "global_index": 53,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479262,
+        "prompt_processing_time_us": 163279,
+        "prompt_processing_rate_toks_per_sec": 1108.647461,
+        "token_generation_time_us": 130648,
+        "token_generation_rate_toks_per_sec": 30.616619
+      }
+    },
+    {
+      "question_index": 54,
+      "global_index": 54,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1466043,
+        "prompt_processing_time_us": 162624,
+        "prompt_processing_rate_toks_per_sec": 1046.025146,
+        "token_generation_time_us": 129297,
+        "token_generation_rate_toks_per_sec": 30.936766
+      }
+    },
+    {
+      "question_index": 55,
+      "global_index": 55,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1488412,
+        "prompt_processing_time_us": 164111,
+        "prompt_processing_rate_toks_per_sec": 1360.544189,
+        "token_generation_time_us": 127157,
+        "token_generation_rate_toks_per_sec": 31.457422
+      }
+    },
+    {
+      "question_index": 56,
+      "global_index": 56,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494355,
+        "prompt_processing_time_us": 162470,
+        "prompt_processing_rate_toks_per_sec": 1157.407349,
+        "token_generation_time_us": 129544,
+        "token_generation_rate_toks_per_sec": 30.877541
+      }
+    },
+    {
+      "question_index": 57,
+      "global_index": 57,
+      "final_answer": "A",
+      "model_output": 
+"首先，确定设备的总成本为1亿美元，其中80%的成本由两个主要部件组成，即80%的1亿美元=8000万美元。这意味着两个主要部件的总成本为8000万美元，每个部件的成本为4000万美元。\n\n接下来，根据直线折旧法，每年的折旧费用为设备总成本的1/20。因此，第1年的折旧费用为1亿美元的1/20，即5000万美元。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1502939,
+        "prompt_processing_time_us": 242860,
+        "prompt_processing_rate_toks_per_sec": 1210.653809,
+        "token_generation_time_us": 5096365,
+        "token_generation_rate_toks_per_sec": 22.565214
+      }
+    },
+    {
+      "question_index": 58,
+      "global_index": 58,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1511817,
+        "prompt_processing_time_us": 161696,
+        "prompt_processing_rate_toks_per_sec": 1280.409790,
+        "token_generation_time_us": 132360,
+        "token_generation_rate_toks_per_sec": 30.220610
+      }
+    },
+    {
+      "question_index": 59,
+      "global_index": 59,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1499478,
+        "prompt_processing_time_us": 162635,
+        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "token_generation_time_us": 128964,
+        "token_generation_rate_toks_per_sec": 31.016407
+      }
+    },
+    {
+      "question_index": 60,
+      "global_index": 60,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1408351,
+        "prompt_processing_time_us": 163967,
+        "prompt_processing_rate_toks_per_sec": 1055.966187,
+        "token_generation_time_us": 127783,
+        "token_generation_rate_toks_per_sec": 31.303802
+      }
+    },
+    {
+      "question_index": 61,
+      "global_index": 61,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1510177,
+        "prompt_processing_time_us": 162298,
+        "prompt_processing_rate_toks_per_sec": 1066.098022,
+        "token_generation_time_us": 130696,
+        "token_generation_rate_toks_per_sec": 30.605373
+      }
+    },
+    {
+      "question_index": 62,
+      "global_index": 62,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1499777,
+        "prompt_processing_time_us": 241286,
+        "prompt_processing_rate_toks_per_sec": 1253.132812,
+        "token_generation_time_us": 132359,
+        "token_generation_rate_toks_per_sec": 30.221523
+      }
+    },
+    {
+      "question_index": 63,
+      "global_index": 63,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1464892,
+        "prompt_processing_time_us": 161806,
+        "prompt_processing_rate_toks_per_sec": 1453.488403,
+        "token_generation_time_us": 126972,
+        "token_generation_rate_toks_per_sec": 31.503008
+      }
+    },
+    {
+      "question_index": 64,
+      "global_index": 64,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478796,
+        "prompt_processing_time_us": 242599,
+        "prompt_processing_rate_toks_per_sec": 1129.943481,
+        "token_generation_time_us": 139941,
+        "token_generation_rate_toks_per_sec": 28.583679
+      }
+    },
+    {
+      "question_index": 65,
+      "global_index": 65,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509005,
+        "prompt_processing_time_us": 164273,
+        "prompt_processing_rate_toks_per_sec": 858.369080,
+        "token_generation_time_us": 126449,
+        "token_generation_rate_toks_per_sec": 31.633556
+      }
+    },
+    {
+      "question_index": 66,
+      "global_index": 66,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475928,
+        "prompt_processing_time_us": 161653,
+        "prompt_processing_rate_toks_per_sec": 1472.754028,
+        "token_generation_time_us": 129103,
+        "token_generation_rate_toks_per_sec": 30.983734
+      }
+    },
+    {
+      "question_index": 67,
+      "global_index": 67,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1507495,
+        "prompt_processing_time_us": 162003,
+        "prompt_processing_rate_toks_per_sec": 1481.481445,
+        "token_generation_time_us": 130686,
+        "token_generation_rate_toks_per_sec": 30.608185
+      }
+    },
+    {
+      "question_index": 68,
+      "global_index": 68,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1533140,
+        "prompt_processing_time_us": 162494,
+        "prompt_processing_rate_toks_per_sec": 1114.827148,
+        "token_generation_time_us": 128879,
+        "token_generation_rate_toks_per_sec": 31.037586
+      }
+    },
+    {
+      "question_index": 69,
+      "global_index": 69,
+      "final_answer": "A",
+      "model_output": 
+"流动负债：25万美元 + 30万美元 = 55万美元\n长期负债：75万美元 + 30万美元 = 105万美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486731,
+        "prompt_processing_time_us": 239008,
+        "prompt_processing_rate_toks_per_sec": 1206.272583,
+        "token_generation_time_us": 1693994,
+        "token_generation_rate_toks_per_sec": 23.022907
+      }
+    },
+    {
+      "question_index": 70,
+      "global_index": 70,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1496953,
+        "prompt_processing_time_us": 241124,
+        "prompt_processing_rate_toks_per_sec": 1070.663818,
+        "token_generation_time_us": 135057,
+        "token_generation_rate_toks_per_sec": 29.617344
+      }
+    },
+    {
+      "question_index": 71,
+      "global_index": 71,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1472046,
+        "prompt_processing_time_us": 161883,
+        "prompt_processing_rate_toks_per_sec": 1501.501465,
+        "token_generation_time_us": 129129,
+        "token_generation_rate_toks_per_sec": 30.977015
+      }
+    },
+    {
+      "question_index": 72,
+      "global_index": 72,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1476845,
+        "prompt_processing_time_us": 241670,
+        "prompt_processing_rate_toks_per_sec": 1375.515869,
+        "token_generation_time_us": 132141,
+        "token_generation_rate_toks_per_sec": 30.270926
+      }
+    },
+    {
+      "question_index": 73,
+      "global_index": 73,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492606,
+        "prompt_processing_time_us": 161965,
+        "prompt_processing_rate_toks_per_sec": 1358.695679,
+        "token_generation_time_us": 128398,
+        "token_generation_rate_toks_per_sec": 31.153618
+      }
+    },
+    {
+      "question_index": 74,
+      "global_index": 74,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494481,
+        "prompt_processing_time_us": 160509,
+        "prompt_processing_rate_toks_per_sec": 1172.332886,
+        "token_generation_time_us": 127839,
+        "token_generation_rate_toks_per_sec": 31.290091
+      }
+    },
+    {
+      "question_index": 75,
+      "global_index": 75,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482903,
+        "prompt_processing_time_us": 161210,
+        "prompt_processing_rate_toks_per_sec": 925.069397,
+        "token_generation_time_us": 130555,
+        "token_generation_rate_toks_per_sec": 30.639132
+      }
+    },
+    {
+      "question_index": 76,
+      "global_index": 76,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1515332,
+        "prompt_processing_time_us": 162824,
+        "prompt_processing_rate_toks_per_sec": 1340.482544,
+        "token_generation_time_us": 132605,
+        "token_generation_rate_toks_per_sec": 30.165003
+      }
+    },
+    {
+      "question_index": 77,
+      "global_index": 77,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494293,
+        "prompt_processing_time_us": 161690,
+        "prompt_processing_rate_toks_per_sec": 996.015930,
+        "token_generation_time_us": 129561,
+        "token_generation_rate_toks_per_sec": 30.873726
+      }
+    },
+    {
+      "question_index": 78,
+      "global_index": 78,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483479,
+        "prompt_processing_time_us": 162877,
+        "prompt_processing_rate_toks_per_sec": 1038.421631,
+        "token_generation_time_us": 129808,
+        "token_generation_rate_toks_per_sec": 30.814741
+      }
+    },
+    {
+      "question_index": 79,
+      "global_index": 79,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492315,
+        "prompt_processing_time_us": 163187,
+        "prompt_processing_rate_toks_per_sec": 1078.748657,
+        "token_generation_time_us": 130857,
+        "token_generation_rate_toks_per_sec": 30.567953
+      }
+    },
+    {
+      "question_index": 80,
+      "global_index": 80,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1469156,
+        "prompt_processing_time_us": 161821,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 128417,
+        "token_generation_rate_toks_per_sec": 31.148766
+      }
+    },
+    {
+      "question_index": 81,
+      "global_index": 81,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1459488,
+        "prompt_processing_time_us": 160877,
+        "prompt_processing_rate_toks_per_sec": 1094.091919,
+        "token_generation_time_us": 129295,
+        "token_generation_rate_toks_per_sec": 30.937723
+      }
+    },
+    {
+      "question_index": 82,
+      "global_index": 82,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1487729,
+        "prompt_processing_time_us": 241101,
+        "prompt_processing_rate_toks_per_sec": 1086.956543,
+        "token_generation_time_us": 130495,
+        "token_generation_rate_toks_per_sec": 30.653219
+      }
+    },
+    {
+      "question_index": 83,
+      "global_index": 83,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1487432,
+        "prompt_processing_time_us": 161910,
+        "prompt_processing_rate_toks_per_sec": 1564.945190,
+        "token_generation_time_us": 130012,
+        "token_generation_rate_toks_per_sec": 30.766390
+      }
+    },
+    {
+      "question_index": 84,
+      "global_index": 84,
+      "final_answer": "A",
+      "model_output": 
+"第一步：计算年折旧率\n年折旧率 = (残值 / 总成本) * 100%\n年折旧率 = (1,500 / 12,000) * 100% = 12.5%\n\n第二步：计算年折旧金额\n年折旧金额 = 总成本 * 年折旧率\n年折旧金额 = 12,000 * 12.5% = 1,500 美元\n\n第三步：计算双倍余额递减法的折旧金额\n双倍余额递减法的折旧率 = 2 * 年折旧率\n双倍余额递减法的折旧率 = 2 * 12.5% = 25%\n\n第四步：计算剩余年限的折旧金额\n剩余年限 = 3 年 - 1 年 = 2 年\n剩余年限的折旧金额 = 年折旧金额 * (剩余年限 / 总年限)\n剩余年限的折旧金额 = 1,500 * (2 / 3) = 1,000 美元\n\n第五步：计算截至 12 月 31 日的年度折旧费用\n截至 12 月 31 日的年度折旧费用 = 年折旧金额 - 剩余年限的折旧金额\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1515705,
+        "prompt_processing_time_us": 162353,
+        "prompt_processing_rate_toks_per_sec": 1386.962524,
+        "token_generation_time_us": 14223773,
+        "token_generation_rate_toks_per_sec": 22.005589
+      }
+    },
+    {
+      "question_index": 85,
+      "global_index": 85,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1495448,
+        "prompt_processing_time_us": 161614,
+        "prompt_processing_rate_toks_per_sec": 1349.527710,
+        "token_generation_time_us": 130622,
+        "token_generation_rate_toks_per_sec": 30.623182
+      }
+    },
+    {
+      "question_index": 86,
+      "global_index": 86,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1377294,
+        "prompt_processing_time_us": 241441,
+        "prompt_processing_rate_toks_per_sec": 1322.751343,
+        "token_generation_time_us": 134504,
+        "token_generation_rate_toks_per_sec": 29.738892
+      }
+    },
+    {
+      "question_index": 87,
+      "global_index": 87,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1507478,
+        "prompt_processing_time_us": 252326,
+        "prompt_processing_rate_toks_per_sec": 1106.194702,
+        "token_generation_time_us": 137233,
+        "token_generation_rate_toks_per_sec": 29.147720
+      }
+    },
+    {
+      "question_index": 88,
+      "global_index": 88,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499735,
+        "prompt_processing_time_us": 163924,
+        "prompt_processing_rate_toks_per_sec": 976.562500,
+        "token_generation_time_us": 129192,
+        "token_generation_rate_toks_per_sec": 30.961670
+      }
+    },
+    {
+      "question_index": 89,
+      "global_index": 89,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490479,
+        "prompt_processing_time_us": 242172,
+        "prompt_processing_rate_toks_per_sec": 1119.820801,
+        "token_generation_time_us": 136801,
+        "token_generation_rate_toks_per_sec": 29.239765
+      }
+    },
+    {
+      "question_index": 90,
+      "global_index": 90,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478371,
+        "prompt_processing_time_us": 161429,
+        "prompt_processing_rate_toks_per_sec": 1190.476196,
+        "token_generation_time_us": 129599,
+        "token_generation_rate_toks_per_sec": 30.865150
+      }
+    },
+    {
+      "question_index": 91,
+      "global_index": 91,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1477147,
+        "prompt_processing_time_us": 160400,
+        "prompt_processing_rate_toks_per_sec": 1410.437256,
+        "token_generation_time_us": 128953,
+        "token_generation_rate_toks_per_sec": 31.019295
+      }
+    },
+    {
+      "question_index": 92,
+      "global_index": 92,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1506186,
+        "prompt_processing_time_us": 161950,
+        "prompt_processing_rate_toks_per_sec": 1038.421631,
+        "token_generation_time_us": 131246,
+        "token_generation_rate_toks_per_sec": 30.477583
+      }
+    },
+    {
+      "question_index": 93,
+      "global_index": 93,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1505582,
+        "prompt_processing_time_us": 161451,
+        "prompt_processing_rate_toks_per_sec": 972.762634,
+        "token_generation_time_us": 129104,
+        "token_generation_rate_toks_per_sec": 30.982773
+      }
+    },
+    {
+      "question_index": 94,
+      "global_index": 94,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493370,
+        "prompt_processing_time_us": 161487,
+        "prompt_processing_rate_toks_per_sec": 1077.586182,
+        "token_generation_time_us": 131053,
+        "token_generation_rate_toks_per_sec": 30.522236
+      }
+    },
+    {
+      "question_index": 95,
+      "global_index": 95,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1501615,
+        "prompt_processing_time_us": 160858,
+        "prompt_processing_rate_toks_per_sec": 1044.932129,
+        "token_generation_time_us": 127820,
+        "token_generation_rate_toks_per_sec": 31.294006
+      }
+    },
+    {
+      "question_index": 96,
+      "global_index": 96,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1530225,
+        "prompt_processing_time_us": 161532,
+        "prompt_processing_rate_toks_per_sec": 860.585205,
+        "token_generation_time_us": 127761,
+        "token_generation_rate_toks_per_sec": 31.308704
+      }
+    },
+    {
+      "question_index": 97,
+      "global_index": 97,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1496226,
+        "prompt_processing_time_us": 161943,
+        "prompt_processing_rate_toks_per_sec": 858.369080,
+        "token_generation_time_us": 130286,
+        "token_generation_rate_toks_per_sec": 30.702158
+      }
+    },
+    {
+      "question_index": 98,
+      "global_index": 98,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1500665,
+        "prompt_processing_time_us": 160959,
+        "prompt_processing_rate_toks_per_sec": 938.967163,
+        "token_generation_time_us": 129987,
+        "token_generation_rate_toks_per_sec": 30.773018
+      }
+    },
+    {
+      "question_index": 99,
+      "global_index": 99,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1487340,
+        "prompt_processing_time_us": 161968,
+        "prompt_processing_rate_toks_per_sec": 1062.699219,
+        "token_generation_time_us": 127456,
+        "token_generation_rate_toks_per_sec": 31.383379
+      }
+    },
+    {
+      "question_index": 100,
+      "global_index": 100,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1485754,
+        "prompt_processing_time_us": 162542,
+        "prompt_processing_rate_toks_per_sec": 855.432007,
+        "token_generation_time_us": 129870,
+        "token_generation_rate_toks_per_sec": 30.800505
+      }
+    },
+    {
+      "question_index": 101,
+      "global_index": 101,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1505743,
+        "prompt_processing_time_us": 161106,
+        "prompt_processing_rate_toks_per_sec": 1006.036194,
+        "token_generation_time_us": 128917,
+        "token_generation_rate_toks_per_sec": 31.027956
+      }
+    },
+    {
+      "question_index": 102,
+      "global_index": 102,
+      "final_answer": "A",
+      "model_output": 
+"首先计算机器的总成本：机器成本 + 运费和安装费 = 475,000 + 5,000 = 480,000 美元\n\n然后计算每年的净现金流：年节省成本 - 年劳动成本节省 - 机器年折旧 = 45,000 - 65,000 - 机器年折旧\n\n根据MACRS三年资产类别的折旧率，计算年折旧：\n- 第一年：33.75%\n- 第二年：27.78%\n- 第三年：18.00%\n- 第四年：14.65%\n- 第五年：14.65%\n- 第六年：11.25%\n- 第七年：11.25%\n\n年折旧 = 480,000 * 分别计算的折旧率\n\n年折旧 = 480,000 * (33.75% + 27.78% + 18.00% + 14.65% + 14.65% + 11.25% + 11.25%) = 480,000 * 120.53% = 585,864 美元\n\n年净现金流 = 45,000 - 65,000 - 585,864 = -606,864 美元\n\n第0时期的增量现金流出包括：机器成本 + 运费和安装费 + 第一年的折旧\n第0时期的增量现金流出 = 480,000 + 5,000 + 585,864 = 1,035,864 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1534621,
+        "prompt_processing_time_us": 242410,
+        "prompt_processing_rate_toks_per_sec": 1353.179932,
+        "token_generation_time_us": 18514513,
+        "token_generation_rate_toks_per_sec": 22.523029
+      }
+    },
+    {
+      "question_index": 103,
+      "global_index": 103,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476013,
+        "prompt_processing_time_us": 161165,
+        "prompt_processing_rate_toks_per_sec": 1161.440186,
+        "token_generation_time_us": 130549,
+        "token_generation_rate_toks_per_sec": 30.640072
+      }
+    },
+    {
+      "question_index": 104,
+      "global_index": 104,
+      "final_answer": "A",
+      "model_output": 
+"普通收入份额 = (普通收入 / 合伙企业普通收入总额) * 合伙人的基数\n\n普通收入份额 = (20,000 / 32,000) * 40,000 = 25,000 / 32 * 40 = 10,000\n\n长期资本收益份额 = (长期资本收益 / 合伙企业长期资本收益总额) * 合伙人的基数\n\n长期资本收益份额 = (12,000 / 32,000) * 40,000 = 3,000 / 32 * 40 = 3000 / 8 = 400\n\nAston 在 AB 的普通收入份额 = 10,000 + 400 = 10,400 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1497888,
+        "prompt_processing_time_us": 161449,
+        "prompt_processing_rate_toks_per_sec": 1536.098267,
+        "token_generation_time_us": 8793782,
+        "token_generation_rate_toks_per_sec": 22.630066
+      }
+    },
+    {
+      "question_index": 105,
+      "global_index": 105,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1499410,
+        "prompt_processing_time_us": 162055,
+        "prompt_processing_rate_toks_per_sec": 1074.113892,
+        "token_generation_time_us": 128194,
+        "token_generation_rate_toks_per_sec": 31.203196
+      }
+    },
+    {
+      "question_index": 106,
+      "global_index": 106,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1456482,
+        "prompt_processing_time_us": 163567,
+        "prompt_processing_rate_toks_per_sec": 1126.126099,
+        "token_generation_time_us": 129919,
+        "token_generation_rate_toks_per_sec": 30.789125
+      }
+    },
+    {
+      "question_index": 107,
+      "global_index": 107,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1501424,
+        "prompt_processing_time_us": 163832,
+        "prompt_processing_rate_toks_per_sec": 1386.962524,
+        "token_generation_time_us": 126863,
+        "token_generation_rate_toks_per_sec": 31.530821
+      }
+    },
+    {
+      "question_index": 108,
+      "global_index": 108,
+      "final_answer": "B",
+      "model_output": 
+"流动比率为流动资产除以流动负债，即 \(rac{流动资产}{流动负债} = 3\)。\n速动比率为（流动资产 - 库存和预付费用）除以流动负债，即 \(rac{流动资产 - 库存和预付费用}{流动负债} = 1\)。\n已知流动负债为 322,000 美元，流动比率为 3 比 1，可以得出流动资产为 \(322,000 	imes 3 = 966,000\) 美元。\n将流动资产代入速动比率为 1 比 1 的公式中，得到：\(rac{966,000 - 库存和预付费用}{322,000} = 1\)。\n解方程得到：\(966,000 - 库存和预付费用 = 322,000\)。\n从而得出库存和预付费用为 \(966,000 - 322,000 = 644,000\) 美元。\n答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495661,
+        "prompt_processing_time_us": 161115,
+        "prompt_processing_rate_toks_per_sec": 1335.113525,
+        "token_generation_time_us": 12052858,
+        "token_generation_rate_toks_per_sec": 22.318439
+      }
+    },
+    {
+      "question_index": 109,
+      "global_index": 109,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1480581,
+        "prompt_processing_time_us": 153304,
+        "prompt_processing_rate_toks_per_sec": 999.000977,
+        "token_generation_time_us": 120289,
+        "token_generation_rate_toks_per_sec": 33.253525
+      }
+    },
+    {
+      "question_index": 110,
+      "global_index": 110,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1343460,
+        "prompt_processing_time_us": 163215,
+        "prompt_processing_rate_toks_per_sec": 1048.218018,
+        "token_generation_time_us": 133219,
+        "token_generation_rate_toks_per_sec": 30.026423
+      }
+    },
+    {
+      "question_index": 111,
+      "global_index": 111,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1455146,
+        "prompt_processing_time_us": 163425,
+        "prompt_processing_rate_toks_per_sec": 998.003967,
+        "token_generation_time_us": 130591,
+        "token_generation_rate_toks_per_sec": 30.630686
+      }
+    },
+    {
+      "question_index": 112,
+      "global_index": 112,
+      "final_answer": "A",
+      "model_output": 
+"控制环境。\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488594,
+        "prompt_processing_time_us": 161859,
+        "prompt_processing_rate_toks_per_sec": 896.057373,
+        "token_generation_time_us": 263399,
+        "token_generation_rate_toks_per_sec": 26.575954
+      }
+    },
+    {
+      "question_index": 113,
+      "global_index": 113,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：C\n\n初始投资时该看涨期权的内在价值 = 0.50 美元 * 100 股 * (10 美元 - 9 美元) = 200 美元\n\n因此，最终答案是：答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1500031,
+        "prompt_processing_time_us": 162550,
+        "prompt_processing_rate_toks_per_sec": 1390.820557,
+        "token_generation_time_us": 3018837,
+        "token_generation_rate_toks_per_sec": 22.525566
+      }
+    },
+    {
+      "question_index": 114,
+      "global_index": 114,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1465059,
+        "prompt_processing_time_us": 162265,
+        "prompt_processing_rate_toks_per_sec": 1215.066772,
+        "token_generation_time_us": 131992,
+        "token_generation_rate_toks_per_sec": 30.304867
+      }
+    },
+    {
+      "question_index": 115,
+      "global_index": 115,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1510411,
+        "prompt_processing_time_us": 160894,
+        "prompt_processing_rate_toks_per_sec": 1175.088135,
+        "token_generation_time_us": 128641,
+        "token_generation_rate_toks_per_sec": 31.094528
+      }
+    },
+    {
+      "question_index": 116,
+      "global_index": 116,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476530,
+        "prompt_processing_time_us": 160856,
+        "prompt_processing_rate_toks_per_sec": 1001.000977,
+        "token_generation_time_us": 133294,
+        "token_generation_rate_toks_per_sec": 30.009302
+      }
+    },
+    {
+      "question_index": 117,
+      "global_index": 117,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1507433,
+        "prompt_processing_time_us": 161650,
+        "prompt_processing_rate_toks_per_sec": 1194.743164,
+        "token_generation_time_us": 132324,
+        "token_generation_rate_toks_per_sec": 30.228832
+      }
+    },
+    {
+      "question_index": 118,
+      "global_index": 118,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493999,
+        "prompt_processing_time_us": 159801,
+        "prompt_processing_rate_toks_per_sec": 1497.005981,
+        "token_generation_time_us": 129203,
+        "token_generation_rate_toks_per_sec": 30.959753
+      }
+    },
+    {
+      "question_index": 119,
+      "global_index": 119,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1521214,
+        "prompt_processing_time_us": 162088,
+        "prompt_processing_rate_toks_per_sec": 1079.913574,
+        "token_generation_time_us": 131725,
+        "token_generation_rate_toks_per_sec": 30.366524
+      }
+    },
+    {
+      "question_index": 120,
+      "global_index": 120,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493682,
+        "prompt_processing_time_us": 163059,
+        "prompt_processing_rate_toks_per_sec": 1054.852295,
+        "token_generation_time_us": 128272,
+        "token_generation_rate_toks_per_sec": 31.183735
+      }
+    },
+    {
+      "question_index": 121,
+      "global_index": 121,
+      "final_answer": "A",
+      "model_output": 
+"活动表通常包括政府活动、商业活动和独立呈现的组成单位的单独列，因此初步判断正确答案为A。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478571,
+        "prompt_processing_time_us": 160504,
+        "prompt_processing_rate_toks_per_sec": 1053.740723,
+        "token_generation_time_us": 1407178,
+        "token_generation_rate_toks_per_sec": 22.740711
+      }
+    },
+    {
+      "question_index": 122,
+      "global_index": 122,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1498923,
+        "prompt_processing_time_us": 160497,
+        "prompt_processing_rate_toks_per_sec": 1071.811401,
+        "token_generation_time_us": 127432,
+        "token_generation_rate_toks_per_sec": 31.389290
+      }
+    },
+    {
+      "question_index": 123,
+      "global_index": 123,
+      "final_answer": "C",
+      "model_output": 
+"转换价格 = 转换比率 × 转换价格\n转换价格 = 转换比率 × 转换价格 / 转换比率\n转换价格 = 转换价格 / 转换比率\n转换价格 = 500 美元 / 20\n转换价格 = 25.00 美元\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1528236,
+        "prompt_processing_time_us": 162406,
+        "prompt_processing_rate_toks_per_sec": 1158.748535,
+        "token_generation_time_us": 3754554,
+        "token_generation_rate_toks_per_sec": 22.639288
+      }
+    },
+    {
+      "question_index": 124,
+      "global_index": 124,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1364689,
+        "prompt_processing_time_us": 163476,
+        "prompt_processing_rate_toks_per_sec": 1016.260193,
+        "token_generation_time_us": 129989,
+        "token_generation_rate_toks_per_sec": 30.772072
+      }
+    },
+    {
+      "question_index": 125,
+      "global_index": 125,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1481757,
+        "prompt_processing_time_us": 161763,
+        "prompt_processing_rate_toks_per_sec": 1063.829834,
+        "token_generation_time_us": 132448,
+        "token_generation_rate_toks_per_sec": 30.200531
+      }
+    },
+    {
+      "question_index": 126,
+      "global_index": 126,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477472,
+        "prompt_processing_time_us": 163961,
+        "prompt_processing_rate_toks_per_sec": 1019.367981,
+        "token_generation_time_us": 131302,
+        "token_generation_rate_toks_per_sec": 30.464584
+      }
+    },
+    {
+      "question_index": 127,
+      "global_index": 127,
+      "final_answer": "D",
+      "model_output": 
+"分析：LIFO 会导致期末库存成本更高，因为最旧、成本较低的商品被先出售。同时，由于成本较高，税务部门会要求支付较高的所得税。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1520885,
+        "prompt_processing_time_us": 161925,
+        "prompt_processing_rate_toks_per_sec": 1218.026855,
+        "token_generation_time_us": 1795813,
+        "token_generation_rate_toks_per_sec": 22.831051
+      }
+    },
+    {
+      "question_index": 128,
+      "global_index": 128,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1477302,
+        "prompt_processing_time_us": 163804,
+        "prompt_processing_rate_toks_per_sec": 983.284180,
+        "token_generation_time_us": 131028,
+        "token_generation_rate_toks_per_sec": 30.527826
+      }
+    },
+    {
+      "question_index": 129,
+      "global_index": 129,
+      "final_answer": "C",
+      "model_output": 
+"三年。\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1469919,
+        "prompt_processing_time_us": 161253,
+        "prompt_processing_rate_toks_per_sec": 1029.866089,
+        "token_generation_time_us": 213624,
+        "token_generation_rate_toks_per_sec": 28.086731
+      }
+    },
+    {
+      "question_index": 130,
+      "global_index": 130,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492022,
+        "prompt_processing_time_us": 160155,
+        "prompt_processing_rate_toks_per_sec": 956.022949,
+        "token_generation_time_us": 128130,
+        "token_generation_rate_toks_per_sec": 31.218781
+      }
+    },
+    {
+      "question_index": 131,
+      "global_index": 131,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1489443,
+        "prompt_processing_time_us": 241667,
+        "prompt_processing_rate_toks_per_sec": 1158.748535,
+        "token_generation_time_us": 128661,
+        "token_generation_rate_toks_per_sec": 31.089693
+      }
+    },
+    {
+      "question_index": 132,
+      "global_index": 132,
+      "final_answer": "D",
+      "model_output": 
+"首先，计算第一年的折旧金额。根据双倍余额递减法，第一年的折旧率为 2 * (1 / 8) = 0.25 或 25%。\n\n第一年的折旧金额 = 140,000 美元 * 0.25 = 35,000 美元\n\n第一年的账面价值 = 140,000 美元 - 35,000 美元 = 105,000 美元\n\n第二年，机器的账面价值为 105,000 美元，按双倍余额递减法计算折旧：\n\n第二年的折旧金额 = 105,000 美元 * 0.25 = 26,250 美元\n\n第二年的账面价值 = 105,000 美元 - 26,250 美元 = 78,750 美元\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1506832,
+        "prompt_processing_time_us": 160630,
+        "prompt_processing_rate_toks_per_sec": 1533.742310,
+        "token_generation_time_us": 10858109,
+        "token_generation_rate_toks_per_sec": 22.195587
+      }
+    },
+    {
+      "question_index": 133,
+      "global_index": 133,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1460674,
+        "prompt_processing_time_us": 161432,
+        "prompt_processing_rate_toks_per_sec": 1338.688110,
+        "token_generation_time_us": 131067,
+        "token_generation_rate_toks_per_sec": 30.519442
+      }
+    },
+    {
+      "question_index": 134,
+      "global_index": 134,
+      "final_answer": "D",
+      "model_output": 
+"版权的法律寿命为作家的寿命加50年，这意味着摊销期为5年加上作家的寿命。然而，问题中没有提供作家的寿命，因此我们只能基于法律寿命来计算摊销费用。\n\n法律寿命为作家的寿命加上50年，但由于没有具体的作家寿命信息，我们只能假设法律寿命为55年（作家寿命+50年）。\n\n摊销费用 = 总成本 / 摊销期\n摊销费用 = 20,000美元 / 5年 = 4,000美元\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1520846,
+        "prompt_processing_time_us": 161584,
+        "prompt_processing_rate_toks_per_sec": 1331.557983,
+        "token_generation_time_us": 5557742,
+        "token_generation_rate_toks_per_sec": 22.671110
+      }
+    },
+    {
+      "question_index": 135,
+      "global_index": 135,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1507490,
+        "prompt_processing_time_us": 160820,
+        "prompt_processing_rate_toks_per_sec": 1319.261230,
+        "token_generation_time_us": 129811,
+        "token_generation_rate_toks_per_sec": 30.814741
+      }
+    },
+    {
+      "question_index": 136,
+      "global_index": 136,
+      "final_answer": "D",
+      "model_output": 
+"营运资本 = 流动资产 - 流动负债\n\n流动资产 = 现金及现金等价物 + 短期投资 + 应收账款 + 库存 + 专利-10 年 = 200,000 + 100,000 + 400,000 + 600,000 + 300,000 = 1,600,000 美元\n\n流动负债 = 640,000 美元\n\n营运资本 = 流动资产 - 流动负债 = 1,600,000 - 640,000 = 960,000 美元\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1498172,
+        "prompt_processing_time_us": 242202,
+        "prompt_processing_rate_toks_per_sec": 1404.494385,
+        "token_generation_time_us": 7898140,
+        "token_generation_rate_toks_per_sec": 22.284122
+      }
+    },
+    {
+      "question_index": 137,
+      "global_index": 137,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1477517,
+        "prompt_processing_time_us": 161059,
+        "prompt_processing_rate_toks_per_sec": 968.992249,
+        "token_generation_time_us": 131902,
+        "token_generation_rate_toks_per_sec": 30.326004
+      }
+    },
+    {
+      "question_index": 138,
+      "global_index": 138,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n\n净现值 (NPV) 计算如下：\n\n1. 计算每个现金流的现值：\n\[ 	ext{现值} = rac{	ext{现金流入}}{(1 + 	ext{贴现率})^{	ext{年数}}} \]\n\n2. 现金流入为 3,000 美元，年数为 1 到 5，贴现率为 10%。\n\n3. 计算每个年份的现值：\n\[ 	ext{现值}_1 = rac{3000}{1.1^1} = 2727.27 \]\n\[ 	ext{现值}_2 = rac{3000}{1.1^2} = 2488.43 \]\n\[ 	ext{现值}_3 = rac{3000}{1.1^3} = 2262.21 \]\n\[ 	ext{现值}_4 = rac{3000}{1.1^4} = 2056.55 \]\n\[ 	ext{现值}_5 = rac{3000}{1.1^5} = 1869.60 \]\n\n4. 将所有现值相加：\n\[ 	ext{NPV} = 2727.27 + 2488.43 + 2262.21 + 2056.55 + 1869.60 = 11370.00 \]\n\n5. 从初始投资中减去 NPV：\n\[ 	ext{NPV} = 11370.00 - 11000 = 370.00 \]\n\n6. 由于初始投资是正数，而净现值 (NPV) 是负数，表示投资不划算，因此：\n\[ 	ext{NPV} = -370 \]\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1503677,
+        "prompt_processing_time_us": 161411,
+        "prompt_processing_rate_toks_per_sec": 1245.329956,
+        "token_generation_time_us": 19885468,
+        "token_generation_rate_toks_per_sec": 22.529119
+      }
+    },
+    {
+      "question_index": 139,
+      "global_index": 139,
+      "final_answer": "DD",
+      "model_output": 
+"D. 企业的年终调整对财务结果有重大影响。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1504938,
+        "prompt_processing_time_us": 164916,
+        "prompt_processing_rate_toks_per_sec": 1013.171204,
+        "token_generation_time_us": 758539,
+        "token_generation_rate_toks_per_sec": 23.729858
+      }
+    },
+    {
+      "question_index": 140,
+      "global_index": 140,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1535655,
+        "prompt_processing_time_us": 164174,
+        "prompt_processing_rate_toks_per_sec": 938.086304,
+        "token_generation_time_us": 135111,
+        "token_generation_rate_toks_per_sec": 29.605946
+      }
+    },
+    {
+      "question_index": 141,
+      "global_index": 141,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1503902,
+        "prompt_processing_time_us": 163555,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 128140,
+        "token_generation_rate_toks_per_sec": 31.215858
+      }
+    },
+    {
+      "question_index": 142,
+      "global_index": 142,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495855,
+        "prompt_processing_time_us": 161986,
+        "prompt_processing_rate_toks_per_sec": 1142.857178,
+        "token_generation_time_us": 130342,
+        "token_generation_rate_toks_per_sec": 30.688967
+      }
+    },
+    {
+      "question_index": 143,
+      "global_index": 143,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n\n合并负债总额 = King 的负债总额 + Simmon 的负债总额 - King 对 Simmon 的应付票据\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486740,
+        "prompt_processing_time_us": 161196,
+        "prompt_processing_rate_toks_per_sec": 1577.287109,
+        "token_generation_time_us": 1333723,
+        "token_generation_rate_toks_per_sec": 23.243382
+      }
+    },
+    {
+      "question_index": 144,
+      "global_index": 144,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1482093,
+        "prompt_processing_time_us": 162674,
+        "prompt_processing_rate_toks_per_sec": 1070.663818,
+        "token_generation_time_us": 129809,
+        "token_generation_rate_toks_per_sec": 30.814741
+      }
+    },
+    {
+      "question_index": 145,
+      "global_index": 145,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1518241,
+        "prompt_processing_time_us": 162256,
+        "prompt_processing_rate_toks_per_sec": 1226.993896,
+        "token_generation_time_us": 129154,
+        "token_generation_rate_toks_per_sec": 30.971258
+      }
+    },
+    {
+      "question_index": 146,
+      "global_index": 146,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1499711,
+        "prompt_processing_time_us": 162845,
+        "prompt_processing_rate_toks_per_sec": 1449.275391,
+        "token_generation_time_us": 132190,
+        "token_generation_rate_toks_per_sec": 30.259933
+      }
+    },
+    {
+      "question_index": 147,
+      "global_index": 147,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494839,
+        "prompt_processing_time_us": 162027,
+        "prompt_processing_rate_toks_per_sec": 846.023682,
+        "token_generation_time_us": 130645,
+        "token_generation_rate_toks_per_sec": 30.617556
+      }
+    },
+    {
+      "question_index": 148,
+      "global_index": 148,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1506169,
+        "prompt_processing_time_us": 162422,
+        "prompt_processing_rate_toks_per_sec": 874.890625,
+        "token_generation_time_us": 131050,
+        "token_generation_rate_toks_per_sec": 30.523167
+      }
+    },
+    {
+      "question_index": 149,
+      "global_index": 149,
+      "final_answer": "D",
+      "model_output": 
+"19.00 - 19.00 × 20% = 15.20 美元\n15.20 + 3.00 = 18.20 美元\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1478247,
+        "prompt_processing_time_us": 161529,
+        "prompt_processing_rate_toks_per_sec": 1270.648071,
+        "token_generation_time_us": 2451593,
+        "token_generation_rate_toks_per_sec": 22.842524
+      }
+    },
+    {
+      "question_index": 150,
+      "global_index": 150,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们来计算由于高估存货导致的应调整的损益表上的差异。高估存货会导致期末存货价值被计入资产中，从而减少了当期的现金流量，即减少了当期的税前收入。因此，高估的存货金额需要从税前收入中扣除，即：\n\n高估的存货金额 = 30,000 美元\n\n因此，高估存货导致的调整后的税前收入 = 152,500 美元 - 30,000 美元 = 122,500 美元\n\n接下来，我们计算由于折旧费用低估导致的调整。折旧费用低估会导致当期的资产价值被低估，从而增加了当期的现金流量，即增加了当期的税前收入。因此，折旧费用低估的调整额需要从税前收入中扣除，即：\n\n低估的折旧费用 = 64,000 美元\n\n因此，低估的折旧费用导致的调整后的税前收入 = 152,500 美元 + 64,000 美元 = 216,500 美元\n\n但是，由于高估存货导致的调整已经将这部分调整额从税前收入中扣除了，因此最终的调整后的税前收入为：\n\n最终的调整后的税前收入 = 122,500 美元 - 64,000 美元 = 58,500 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1508927,
+        "prompt_processing_time_us": 161858,
+        "prompt_processing_rate_toks_per_sec": 1515.151489,
+        "token_generation_time_us": 15662008,
+        "token_generation_rate_toks_per_sec": 22.283627
+      }
+    },
+    {
+      "question_index": 151,
+      "global_index": 151,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1504786,
+        "prompt_processing_time_us": 164771,
+        "prompt_processing_rate_toks_per_sec": 850.340149,
+        "token_generation_time_us": 128163,
+        "token_generation_rate_toks_per_sec": 31.210987
+      }
+    },
+    {
+      "question_index": 152,
+      "global_index": 152,
+      "final_answer": "C",
+      "model_output": 
+"根据 MACRS 五年期资产的折旧时间表，本年度（3 月 1 日出售设备）可以扣除的折旧金额为 19.20%。\n\n计算本年度可扣除的折旧金额： 10,000 美元 * 19.20% = 1,920 美元\n\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1496247,
+        "prompt_processing_time_us": 242604,
+        "prompt_processing_rate_toks_per_sec": 1207.729492,
+        "token_generation_time_us": 3797578,
+        "token_generation_rate_toks_per_sec": 22.382881
+      }
+    },
+    {
+      "question_index": 153,
+      "global_index": 153,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1493620,
+        "prompt_processing_time_us": 162819,
+        "prompt_processing_rate_toks_per_sec": 1364.256470,
+        "token_generation_time_us": 130601,
+        "token_generation_rate_toks_per_sec": 30.627871
+      }
+    },
+    {
+      "question_index": 154,
+      "global_index": 154,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1570152,
+        "prompt_processing_time_us": 163121,
+        "prompt_processing_rate_toks_per_sec": 1269.035522,
+        "token_generation_time_us": 132430,
+        "token_generation_rate_toks_per_sec": 30.205093
+      }
+    },
+    {
+      "question_index": 155,
+      "global_index": 155,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：D\n\n库存周转率（IT）计算公式为：IT = COGS / 库存周转率\n\n当 IT 提高到 8 倍，库存周转率变为 5/8，即 0.625 倍。\n\n原库存周转率为 5 倍，即 1/5，即 0.2 倍。\n\n释放的资金 = (原库存周转率 - 新库存周转率) * COGS = (0.2 - 0.625) * 800,000 = -0.425 * 800,000 = -340,000 美元\n\n由于题目要求释放的资金，所以答案为释放 340,000 美元，但根据题目选项，答案应为 D：释放 60,000 美元。这可能是题目中的计算或选项有误，但基于题目给定的选项，答案应为 D。\n",
+      "performance_metrics": {
+        "init_time_us": 1480282,
+        "prompt_processing_time_us": 161885,
+        "prompt_processing_rate_toks_per_sec": 1464.128784,
+        "token_generation_time_us": 9921520,
+        "token_generation_rate_toks_per_sec": 22.174423
+      }
+    },
+    {
+      "question_index": 156,
+      "global_index": 156,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496356,
+        "prompt_processing_time_us": 164844,
+        "prompt_processing_rate_toks_per_sec": 1117.318481,
+        "token_generation_time_us": 128508,
+        "token_generation_rate_toks_per_sec": 31.126467
+      }
+    },
+    {
+      "question_index": 157,
+      "global_index": 157,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1500808,
+        "prompt_processing_time_us": 162677,
+        "prompt_processing_rate_toks_per_sec": 1058.201050,
+        "token_generation_time_us": 131332,
+        "token_generation_rate_toks_per_sec": 30.457163
+      }
+    },
+    {
+      "question_index": 158,
+      "global_index": 158,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1503978,
+        "prompt_processing_time_us": 161323,
+        "prompt_processing_rate_toks_per_sec": 961.538452,
+        "token_generation_time_us": 129961,
+        "token_generation_rate_toks_per_sec": 30.778702
+      }
+    },
+    {
+      "question_index": 159,
+      "global_index": 159,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1479165,
+        "prompt_processing_time_us": 162636,
+        "prompt_processing_rate_toks_per_sec": 1335.113525,
+        "token_generation_time_us": 130894,
+        "token_generation_rate_toks_per_sec": 30.559546
+      }
+    },
+    {
+      "question_index": 160,
+      "global_index": 160,
+      "final_answer": "D",
+      "model_output": 
+"基础价格 = 股票数量 * 单位价格\n\n1. 第1年购买的股票：\n基础价格 = 2000股 * $10.50/股 = $21,000\n\n2. 第4年收到的股息：\n股息 = 2000股 * 5% = 100股\n\n3. 第5年股票分割：\n分割比例 = 2:1，意味着每2股分割为1股，因此：\n- 第5年分割后股票数量 = 2000股 * 2 = 4000股\n- 第5年分割后股息数量 = 100股 * 2 = 200股\n\n4. 第6年卖出的股票：\n- 卖出的股票数量 = 800股\n- 卖出的股票基础价格 = 卖出股票数量 * 第5年分割后每股基础价格\n\n5. 计算第5年分割后每股基础价格：\n- 第5年分割后每股基础价格 = 第1年购买时每股基础价格 * 分割比例\n- 第1年购买时每股基础价格 = $10.50\n- 分割比例 = 2:1，因此：\n- 第5年分割后每股基础价格 = $10.50 * 2 = $21.00\n\n6. 计算卖出股票的基础价格：\n- 卖出股票基础价格 = 800股 * $21.00/股 = $16,800\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1504057,
+        "prompt_processing_time_us": 242647,
+        "prompt_processing_rate_toks_per_sec": 1126.126099,
+        "token_generation_time_us": 15443598,
+        "token_generation_rate_toks_per_sec": 22.209883
+      }
+    },
+    {
+      "question_index": 161,
+      "global_index": 161,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1484598,
+        "prompt_processing_time_us": 164099,
+        "prompt_processing_rate_toks_per_sec": 975.609741,
+        "token_generation_time_us": 134480,
+        "token_generation_rate_toks_per_sec": 29.744200
+      }
+    },
+    {
+      "question_index": 162,
+      "global_index": 162,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1527348,
+        "prompt_processing_time_us": 161815,
+        "prompt_processing_rate_toks_per_sec": 1051.524658,
+        "token_generation_time_us": 132483,
+        "token_generation_rate_toks_per_sec": 30.193237
+      }
+    },
+    {
+      "question_index": 163,
+      "global_index": 163,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1498321,
+        "prompt_processing_time_us": 161299,
+        "prompt_processing_rate_toks_per_sec": 1383.125854,
+        "token_generation_time_us": 131381,
+        "token_generation_rate_toks_per_sec": 30.446033
+      }
+    },
+    {
+      "question_index": 164,
+      "global_index": 164,
+      "final_answer": "A",
+      "model_output": 
+"计划的控制风险水平。\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1505784,
+        "prompt_processing_time_us": 163371,
+        "prompt_processing_rate_toks_per_sec": 992.063477,
+        "token_generation_time_us": 400926,
+        "token_generation_rate_toks_per_sec": 24.942633
+      }
+    },
+    {
+      "question_index": 165,
+      "global_index": 165,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1518615,
+        "prompt_processing_time_us": 161938,
+        "prompt_processing_rate_toks_per_sec": 1303.781006,
+        "token_generation_time_us": 130035,
+        "token_generation_rate_toks_per_sec": 30.761660
+      }
+    },
+    {
+      "question_index": 166,
+      "global_index": 166,
+      "final_answer": "A",
+      "model_output": 
+"赠与税已支付，所以赠与不产生收益或亏损。\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483381,
+        "prompt_processing_time_us": 163383,
+        "prompt_processing_rate_toks_per_sec": 1396.648071,
+        "token_generation_time_us": 793249,
+        "token_generation_rate_toks_per_sec": 23.952669
+      }
+    },
+    {
+      "question_index": 167,
+      "global_index": 167,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1499045,
+        "prompt_processing_time_us": 161363,
+        "prompt_processing_rate_toks_per_sec": 1203.369385,
+        "token_generation_time_us": 125946,
+        "token_generation_rate_toks_per_sec": 31.760147
+      }
+    },
+    {
+      "question_index": 168,
+      "global_index": 168,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n\n现值计算公式为：\[ PV = rac{FV}{(1 + r)^n} \]\n\n其中：\[ PV \] 是现值，\[ FV \] 是未来值，\[ r \] 是折现率，\[ n \] 是时间（以年为单位）。\n\n代入给定的数值：\[ FV = 10 \] 美元，\[ r = 9\% = 0.09 \]，\[ n = 2 \] 年。\n\n\[ PV = rac{10}{(1 + 0.09)^2} = rac{10}{1.1881} pprox 8.42 \] 美元。\n\n因此，现值约为 8.42 美元。\n\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1500680,
+        "prompt_processing_time_us": 162154,
+        "prompt_processing_rate_toks_per_sec": 993.048645,
+        "token_generation_time_us": 8252804,
+        "token_generation_rate_toks_per_sec": 22.174423
+      }
+    },
+    {
+      "question_index": 169,
+      "global_index": 169,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1485704,
+        "prompt_processing_time_us": 163061,
+        "prompt_processing_rate_toks_per_sec": 828.500427,
+        "token_generation_time_us": 129407,
+        "token_generation_rate_toks_per_sec": 30.910946
+      }
+    },
+    {
+      "question_index": 170,
+      "global_index": 170,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1506409,
+        "prompt_processing_time_us": 162505,
+        "prompt_processing_rate_toks_per_sec": 1077.586182,
+        "token_generation_time_us": 131153,
+        "token_generation_rate_toks_per_sec": 30.498962
+      }
+    },
+    {
+      "question_index": 171,
+      "global_index": 171,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1470685,
+        "prompt_processing_time_us": 161814,
+        "prompt_processing_rate_toks_per_sec": 1193.317383,
+        "token_generation_time_us": 129670,
+        "token_generation_rate_toks_per_sec": 30.848011
+      }
+    },
+    {
+      "question_index": 172,
+      "global_index": 172,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1501250,
+        "prompt_processing_time_us": 241398,
+        "prompt_processing_rate_toks_per_sec": 1123.595459,
+        "token_generation_time_us": 127836,
+        "token_generation_rate_toks_per_sec": 31.290091
+      }
+    },
+    {
+      "question_index": 173,
+      "global_index": 173,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492487,
+        "prompt_processing_time_us": 162330,
+        "prompt_processing_rate_toks_per_sec": 1449.275391,
+        "token_generation_time_us": 135360,
+        "token_generation_rate_toks_per_sec": 29.550827
+      }
+    },
+    {
+      "question_index": 174,
+      "global_index": 174,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1527292,
+        "prompt_processing_time_us": 161284,
+        "prompt_processing_rate_toks_per_sec": 1141.552490,
+        "token_generation_time_us": 128636,
+        "token_generation_rate_toks_per_sec": 31.095493
+      }
+    },
+    {
+      "question_index": 175,
+      "global_index": 175,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475870,
+        "prompt_processing_time_us": 163666,
+        "prompt_processing_rate_toks_per_sec": 1179.245239,
+        "token_generation_time_us": 128092,
+        "token_generation_rate_toks_per_sec": 31.227554
+      }
+    },
+    {
+      "question_index": 176,
+      "global_index": 176,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486923,
+        "prompt_processing_time_us": 163097,
+        "prompt_processing_rate_toks_per_sec": 1215.066772,
+        "token_generation_time_us": 131137,
+        "token_generation_rate_toks_per_sec": 30.502684
+      }
+    },
+    {
+      "question_index": 177,
+      "global_index": 177,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1502861,
+        "prompt_processing_time_us": 162163,
+        "prompt_processing_rate_toks_per_sec": 1012.145752,
+        "token_generation_time_us": 129777,
+        "token_generation_rate_toks_per_sec": 30.822340
+      }
+    },
+    {
+      "question_index": 178,
+      "global_index": 178,
+      "final_answer": "B",
+      "model_output": 
+"三年前的净经营亏损为 20,000 美元，其中四分之三是因为 Code Sec. 1244 股票亏损，即 15,000 美元。\n\n今年，Summer 的总收入为 80,000 美元，在 Code Sec. 1244 股票上又发生了 50,000 美元的亏损。\n\nSummer 可以把三年前的 20,000 美元的净经营亏损结转至今年，即可以扣除的 Code Sec. 1244 亏损为 20,000 美元 + 15,000 美元 = 35,000 美元。\n\n根据 Code Sec. 1244 的规定，股票亏损属于资本损失。因此，Summer 今年可以扣除的 Code Sec. 1244 亏损的性质是资本损失。\n\n答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1492814,
+        "prompt_processing_time_us": 243110,
+        "prompt_processing_rate_toks_per_sec": 1317.523071,
+        "token_generation_time_us": 10357531,
+        "token_generation_rate_toks_per_sec": 22.013340
+      }
+    },
+    {
+      "question_index": 179,
+      "global_index": 179,
+      "final_answer": "A",
+      "model_output": 
+"应计或有负债：100000 美元\n\n披露或有负债：100000 美元-150000 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1473753,
+        "prompt_processing_time_us": 243507,
+        "prompt_processing_rate_toks_per_sec": 1344.086060,
+        "token_generation_time_us": 2111203,
+        "token_generation_rate_toks_per_sec": 22.736057
+      }
+    },
+    {
+      "question_index": 180,
+      "global_index": 180,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1419678,
+        "prompt_processing_time_us": 162209,
+        "prompt_processing_rate_toks_per_sec": 1510.573975,
+        "token_generation_time_us": 133239,
+        "token_generation_rate_toks_per_sec": 30.021915
+      }
+    },
+    {
+      "question_index": 181,
+      "global_index": 181,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478001,
+        "prompt_processing_time_us": 162223,
+        "prompt_processing_rate_toks_per_sec": 1122.334473,
+        "token_generation_time_us": 134046,
+        "token_generation_rate_toks_per_sec": 29.840948
+      }
+    },
+    {
+      "question_index": 182,
+      "global_index": 182,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1463115,
+        "prompt_processing_time_us": 163026,
+        "prompt_processing_rate_toks_per_sec": 1123.595459,
+        "token_generation_time_us": 132184,
+        "token_generation_rate_toks_per_sec": 30.260849
+      }
+    },
+    {
+      "question_index": 183,
+      "global_index": 183,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1506199,
+        "prompt_processing_time_us": 162489,
+        "prompt_processing_rate_toks_per_sec": 1557.632446,
+        "token_generation_time_us": 136744,
+        "token_generation_rate_toks_per_sec": 29.251741
+      }
+    },
+    {
+      "question_index": 184,
+      "global_index": 184,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1442996,
+        "prompt_processing_time_us": 161997,
+        "prompt_processing_rate_toks_per_sec": 951.474792,
+        "token_generation_time_us": 128575,
+        "token_generation_rate_toks_per_sec": 31.110973
+      }
+    },
+    {
+      "question_index": 185,
+      "global_index": 185,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：A\n\n根据会计准则，交换具有商业实质的条件之一是放弃资产的账面价值是否超过收到资产的公允价值。因此，答案A正确。其他选项与商业实质的判断无关。\n",
+      "performance_metrics": {
+        "init_time_us": 1506672,
+        "prompt_processing_time_us": 164127,
+        "prompt_processing_rate_toks_per_sec": 1390.820557,
+        "token_generation_time_us": 2082423,
+        "token_generation_rate_toks_per_sec": 22.570307
+      }
+    },
+    {
+      "question_index": 186,
+      "global_index": 186,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1486214,
+        "prompt_processing_time_us": 161518,
+        "prompt_processing_rate_toks_per_sec": 1152.073730,
+        "token_generation_time_us": 131667,
+        "token_generation_rate_toks_per_sec": 30.380362
+      }
+    },
+    {
+      "question_index": 187,
+      "global_index": 187,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1496016,
+        "prompt_processing_time_us": 161441,
+        "prompt_processing_rate_toks_per_sec": 1004.016052,
+        "token_generation_time_us": 127702,
+        "token_generation_rate_toks_per_sec": 31.323414
+      }
+    },
+    {
+      "question_index": 188,
+      "global_index": 188,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1461991,
+        "prompt_processing_time_us": 161845,
+        "prompt_processing_rate_toks_per_sec": 1501.501465,
+        "token_generation_time_us": 130041,
+        "token_generation_rate_toks_per_sec": 30.759766
+      }
+    },
+    {
+      "question_index": 189,
+      "global_index": 189,
+      "final_answer": "A",
+      "model_output": 
+"116.50 比索 * 0.1099 美元/比索 = 1.28433 美元\n\n12 美元 * 0.8928 美元/欧元 = 10.60 美元\n\n利润 = 10.60 美元 - 1.28433 美元 = 9.31567 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477312,
+        "prompt_processing_time_us": 163140,
+        "prompt_processing_rate_toks_per_sec": 1410.437256,
+        "token_generation_time_us": 5138902,
+        "token_generation_rate_toks_per_sec": 22.183771
+      }
+    },
+    {
+      "question_index": 190,
+      "global_index": 190,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494976,
+        "prompt_processing_time_us": 161387,
+        "prompt_processing_rate_toks_per_sec": 1488.095215,
+        "token_generation_time_us": 130000,
+        "token_generation_rate_toks_per_sec": 30.769230
+      }
+    },
+    {
+      "question_index": 191,
+      "global_index": 191,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n\n",
+      "performance_metrics": {
+        "init_time_us": 1465672,
+        "prompt_processing_time_us": 161898,
+        "prompt_processing_rate_toks_per_sec": 1050.420166,
+        "token_generation_time_us": 170421,
+        "token_generation_rate_toks_per_sec": 29.339279
+      }
+    },
+    {
+      "question_index": 192,
+      "global_index": 192,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1472831,
+        "prompt_processing_time_us": 162686,
+        "prompt_processing_rate_toks_per_sec": 1101.321533,
+        "token_generation_time_us": 131505,
+        "token_generation_rate_toks_per_sec": 30.417326
+      }
+    },
+    {
+      "question_index": 193,
+      "global_index": 193,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1489700,
+        "prompt_processing_time_us": 163326,
+        "prompt_processing_rate_toks_per_sec": 998.003967,
+        "token_generation_time_us": 128736,
+        "token_generation_rate_toks_per_sec": 31.071341
+      }
+    },
+    {
+      "question_index": 194,
+      "global_index": 194,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1519138,
+        "prompt_processing_time_us": 162523,
+        "prompt_processing_rate_toks_per_sec": 1366.120239,
+        "token_generation_time_us": 130900,
+        "token_generation_rate_toks_per_sec": 30.557678
+      }
+    },
+    {
+      "question_index": 195,
+      "global_index": 195,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1461740,
+        "prompt_processing_time_us": 161993,
+        "prompt_processing_rate_toks_per_sec": 1142.857178,
+        "token_generation_time_us": 128611,
+        "token_generation_rate_toks_per_sec": 31.102264
+      }
+    },
+    {
+      "question_index": 196,
+      "global_index": 196,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1521918,
+        "prompt_processing_time_us": 161132,
+        "prompt_processing_rate_toks_per_sec": 1560.062378,
+        "token_generation_time_us": 127468,
+        "token_generation_rate_toks_per_sec": 31.380424
+      }
+    },
+    {
+      "question_index": 197,
+      "global_index": 197,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494931,
+        "prompt_processing_time_us": 162890,
+        "prompt_processing_rate_toks_per_sec": 1265.822754,
+        "token_generation_time_us": 130803,
+        "token_generation_rate_toks_per_sec": 30.581039
+      }
+    },
+    {
+      "question_index": 198,
+      "global_index": 198,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1512908,
+        "prompt_processing_time_us": 162458,
+        "prompt_processing_rate_toks_per_sec": 1300.390137,
+        "token_generation_time_us": 131564,
+        "token_generation_rate_toks_per_sec": 30.403454
+      }
+    },
+    {
+      "question_index": 199,
+      "global_index": 199,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1477691,
+        "prompt_processing_time_us": 160913,
+        "prompt_processing_rate_toks_per_sec": 1113.585693,
+        "token_generation_time_us": 128954,
+        "token_generation_rate_toks_per_sec": 31.019295
+      }
+    },
+    {
+      "question_index": 200,
+      "global_index": 200,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491345,
+        "prompt_processing_time_us": 161243,
+        "prompt_processing_rate_toks_per_sec": 973.709839,
+        "token_generation_time_us": 130144,
+        "token_generation_rate_toks_per_sec": 30.735186
+      }
+    },
+    {
+      "question_index": 201,
+      "global_index": 201,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494362,
+        "prompt_processing_time_us": 162237,
+        "prompt_processing_rate_toks_per_sec": 1536.098267,
+        "token_generation_time_us": 130878,
+        "token_generation_rate_toks_per_sec": 30.563282
+      }
+    },
+    {
+      "question_index": 202,
+      "global_index": 202,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509586,
+        "prompt_processing_time_us": 162768,
+        "prompt_processing_rate_toks_per_sec": 1131.221680,
+        "token_generation_time_us": 127170,
+        "token_generation_rate_toks_per_sec": 31.454454
+      }
+    },
+    {
+      "question_index": 203,
+      "global_index": 203,
+      "final_answer": "D",
+      "model_output": 
+"向下倾斜\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1477586,
+        "prompt_processing_time_us": 161040,
+        "prompt_processing_rate_toks_per_sec": 988.142273,
+        "token_generation_time_us": 261063,
+        "token_generation_rate_toks_per_sec": 26.813965
+      }
+    },
+    {
+      "question_index": 204,
+      "global_index": 204,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1391355,
+        "prompt_processing_time_us": 163272,
+        "prompt_processing_rate_toks_per_sec": 1121.076294,
+        "token_generation_time_us": 129626,
+        "token_generation_rate_toks_per_sec": 30.858482
+      }
+    },
+    {
+      "question_index": 205,
+      "global_index": 205,
+      "final_answer": "A",
+      "model_output": 
+"200 美元 × 4 名员工 = 800 美元\n\n1,200 美元 × 4 名员工 = 4,800 美元\n\n1,800 美元 × 4 名员工 = 7,200 美元\n\n2,400 美元 × 4 名员工 = 9,600 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1481554,
+        "prompt_processing_time_us": 241371,
+        "prompt_processing_rate_toks_per_sec": 1131.221680,
+        "token_generation_time_us": 4661451,
+        "token_generation_rate_toks_per_sec": 22.310970
+      }
+    },
+    {
+      "question_index": 206,
+      "global_index": 206,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1526540,
+        "prompt_processing_time_us": 162558,
+        "prompt_processing_rate_toks_per_sec": 1145.475342,
+        "token_generation_time_us": 129109,
+        "token_generation_rate_toks_per_sec": 30.981813
+      }
+    },
+    {
+      "question_index": 207,
+      "global_index": 207,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477929,
+        "prompt_processing_time_us": 160513,
+        "prompt_processing_rate_toks_per_sec": 1222.493896,
+        "token_generation_time_us": 129385,
+        "token_generation_rate_toks_per_sec": 30.915724
+      }
+    },
+    {
+      "question_index": 208,
+      "global_index": 208,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496886,
+        "prompt_processing_time_us": 161187,
+        "prompt_processing_rate_toks_per_sec": 1154.734375,
+        "token_generation_time_us": 130274,
+        "token_generation_rate_toks_per_sec": 30.704987
+      }
+    },
+    {
+      "question_index": 209,
+      "global_index": 209,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1474404,
+        "prompt_processing_time_us": 162177,
+        "prompt_processing_rate_toks_per_sec": 1277.139160,
+        "token_generation_time_us": 130675,
+        "token_generation_rate_toks_per_sec": 30.610996
+      }
+    },
+    {
+      "question_index": 210,
+      "global_index": 210,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1480794,
+        "prompt_processing_time_us": 162764,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 129070,
+        "token_generation_rate_toks_per_sec": 30.991415
+      }
+    },
+    {
+      "question_index": 211,
+      "global_index": 211,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1521262,
+        "prompt_processing_time_us": 162262,
+        "prompt_processing_rate_toks_per_sec": 1072.961426,
+        "token_generation_time_us": 131218,
+        "token_generation_rate_toks_per_sec": 30.484087
+      }
+    },
+    {
+      "question_index": 212,
+      "global_index": 212,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491844,
+        "prompt_processing_time_us": 162374,
+        "prompt_processing_rate_toks_per_sec": 1152.073730,
+        "token_generation_time_us": 129696,
+        "token_generation_rate_toks_per_sec": 30.841352
+      }
+    },
+    {
+      "question_index": 213,
+      "global_index": 213,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1527269,
+        "prompt_processing_time_us": 240694,
+        "prompt_processing_rate_toks_per_sec": 1422.475098,
+        "token_generation_time_us": 133168,
+        "token_generation_rate_toks_per_sec": 30.037247
+      }
+    },
+    {
+      "question_index": 214,
+      "global_index": 214,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475237,
+        "prompt_processing_time_us": 244066,
+        "prompt_processing_rate_toks_per_sec": 1209.189819,
+        "token_generation_time_us": 137202,
+        "token_generation_rate_toks_per_sec": 29.154518
+      }
+    },
+    {
+      "question_index": 215,
+      "global_index": 215,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1396491,
+        "prompt_processing_time_us": 240887,
+        "prompt_processing_rate_toks_per_sec": 1333.333374,
+        "token_generation_time_us": 129265,
+        "token_generation_rate_toks_per_sec": 30.944424
+      }
+    },
+    {
+      "question_index": 216,
+      "global_index": 216,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483854,
+        "prompt_processing_time_us": 162861,
+        "prompt_processing_rate_toks_per_sec": 1406.469727,
+        "token_generation_time_us": 131291,
+        "token_generation_rate_toks_per_sec": 30.467369
+      }
+    },
+    {
+      "question_index": 217,
+      "global_index": 217,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495786,
+        "prompt_processing_time_us": 161158,
+        "prompt_processing_rate_toks_per_sec": 1117.318481,
+        "token_generation_time_us": 131516,
+        "token_generation_rate_toks_per_sec": 30.414551
+      }
+    },
+    {
+      "question_index": 218,
+      "global_index": 218,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1461917,
+        "prompt_processing_time_us": 160279,
+        "prompt_processing_rate_toks_per_sec": 942.507080,
+        "token_generation_time_us": 128199,
+        "token_generation_rate_toks_per_sec": 31.202221
+      }
+    },
+    {
+      "question_index": 219,
+      "global_index": 219,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1485421,
+        "prompt_processing_time_us": 161276,
+        "prompt_processing_rate_toks_per_sec": 905.797119,
+        "token_generation_time_us": 128380,
+        "token_generation_rate_toks_per_sec": 31.157501
+      }
+    },
+    {
+      "question_index": 220,
+      "global_index": 220,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482723,
+        "prompt_processing_time_us": 162199,
+        "prompt_processing_rate_toks_per_sec": 1072.961426,
+        "token_generation_time_us": 131478,
+        "token_generation_rate_toks_per_sec": 30.423803
+      }
+    },
+    {
+      "question_index": 221,
+      "global_index": 221,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1538000,
+        "prompt_processing_time_us": 245196,
+        "prompt_processing_rate_toks_per_sec": 1342.281860,
+        "token_generation_time_us": 125620,
+        "token_generation_rate_toks_per_sec": 31.842064
+      }
+    },
+    {
+      "question_index": 222,
+      "global_index": 222,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1475144,
+        "prompt_processing_time_us": 161065,
+        "prompt_processing_rate_toks_per_sec": 1136.363647,
+        "token_generation_time_us": 128286,
+        "token_generation_rate_toks_per_sec": 31.180817
+      }
+    },
+    {
+      "question_index": 223,
+      "global_index": 223,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1396568,
+        "prompt_processing_time_us": 161370,
+        "prompt_processing_rate_toks_per_sec": 1160.092773,
+        "token_generation_time_us": 129206,
+        "token_generation_rate_toks_per_sec": 30.958794
+      }
+    },
+    {
+      "question_index": 224,
+      "global_index": 224,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1491662,
+        "prompt_processing_time_us": 162400,
+        "prompt_processing_rate_toks_per_sec": 1183.432007,
+        "token_generation_time_us": 131267,
+        "token_generation_rate_toks_per_sec": 30.472940
+      }
+    },
+    {
+      "question_index": 225,
+      "global_index": 225,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486845,
+        "prompt_processing_time_us": 240918,
+        "prompt_processing_rate_toks_per_sec": 1191.895142,
+        "token_generation_time_us": 134455,
+        "token_generation_rate_toks_per_sec": 29.750395
+      }
+    },
+    {
+      "question_index": 226,
+      "global_index": 226,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1499634,
+        "prompt_processing_time_us": 163360,
+        "prompt_processing_rate_toks_per_sec": 961.538452,
+        "token_generation_time_us": 129601,
+        "token_generation_rate_toks_per_sec": 30.864197
+      }
+    },
+    {
+      "question_index": 227,
+      "global_index": 227,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503635,
+        "prompt_processing_time_us": 161217,
+        "prompt_processing_rate_toks_per_sec": 1577.287109,
+        "token_generation_time_us": 129950,
+        "token_generation_rate_toks_per_sec": 30.781544
+      }
+    },
+    {
+      "question_index": 228,
+      "global_index": 228,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491759,
+        "prompt_processing_time_us": 160273,
+        "prompt_processing_rate_toks_per_sec": 1048.218018,
+        "token_generation_time_us": 129988,
+        "token_generation_rate_toks_per_sec": 30.772072
+      }
+    },
+    {
+      "question_index": 229,
+      "global_index": 229,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1505557,
+        "prompt_processing_time_us": 162858,
+        "prompt_processing_rate_toks_per_sec": 933.706787,
+        "token_generation_time_us": 128662,
+        "token_generation_rate_toks_per_sec": 31.089693
+      }
+    },
+    {
+      "question_index": 230,
+      "global_index": 230,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1502307,
+        "prompt_processing_time_us": 160789,
+        "prompt_processing_rate_toks_per_sec": 1356.852051,
+        "token_generation_time_us": 128609,
+        "token_generation_rate_toks_per_sec": 31.102264
+      }
+    },
+    {
+      "question_index": 231,
+      "global_index": 231,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1530619,
+        "prompt_processing_time_us": 160882,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 134001,
+        "token_generation_rate_toks_per_sec": 29.850746
+      }
+    },
+    {
+      "question_index": 232,
+      "global_index": 232,
+      "final_answer": "A",
+      "model_output": 
+"诉讼对 Smith 的预期价值 = 20,000 * 0.7 + 15,000 + 0.4 * (100,000 - 20,000) * 0.3\n= 14,000 + 15,000 + 36,000 = 55,000 美元\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492288,
+        "prompt_processing_time_us": 242147,
+        "prompt_processing_rate_toks_per_sec": 1186.239624,
+        "token_generation_time_us": 4284924,
+        "token_generation_rate_toks_per_sec": 22.637751
+      }
+    },
+    {
+      "question_index": 233,
+      "global_index": 233,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1463578,
+        "prompt_processing_time_us": 162478,
+        "prompt_processing_rate_toks_per_sec": 1298.701294,
+        "token_generation_time_us": 132421,
+        "token_generation_rate_toks_per_sec": 30.206917
+      }
+    },
+    {
+      "question_index": 234,
+      "global_index": 234,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：A\n\n税盾的价值计算公式为：公司价值 - 无杠杆价值 - 破产和代理成本的现值\n\n将给定的数值代入公式： \n\n500 - 478 - 36 = 140\n\n所以答案为：A。\n",
+      "performance_metrics": {
+        "init_time_us": 1493758,
+        "prompt_processing_time_us": 161997,
+        "prompt_processing_rate_toks_per_sec": 1228.501221,
+        "token_generation_time_us": 2872142,
+        "token_generation_rate_toks_per_sec": 22.631603
+      }
+    },
+    {
+      "question_index": 235,
+      "global_index": 235,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1495157,
+        "prompt_processing_time_us": 160987,
+        "prompt_processing_rate_toks_per_sec": 1206.272583,
+        "token_generation_time_us": 129181,
+        "token_generation_rate_toks_per_sec": 30.964546
+      }
+    },
+    {
+      "question_index": 236,
+      "global_index": 236,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1489205,
+        "prompt_processing_time_us": 162052,
+        "prompt_processing_rate_toks_per_sec": 1086.956543,
+        "token_generation_time_us": 132334,
+        "token_generation_rate_toks_per_sec": 30.227005
+      }
+    },
+    {
+      "question_index": 237,
+      "global_index": 237,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1504302,
+        "prompt_processing_time_us": 161420,
+        "prompt_processing_rate_toks_per_sec": 1133.786865,
+        "token_generation_time_us": 129540,
+        "token_generation_rate_toks_per_sec": 30.878492
+      }
+    },
+    {
+      "question_index": 238,
+      "global_index": 238,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1497660,
+        "prompt_processing_time_us": 162660,
+        "prompt_processing_rate_toks_per_sec": 1082.251099,
+        "token_generation_time_us": 131116,
+        "token_generation_rate_toks_per_sec": 30.507338
+      }
+    },
+    {
+      "question_index": 239,
+      "global_index": 239,
+      "final_answer": "A",
+      "model_output": 
+"总债务与总资产比率：\n\n增发股本不会直接影响总债务，因此总债务与总资产比率不会受到增发股本的影响，保持不变。\n\n营运资本 = 总资产 - 总债务\n\n增发股本会增加总资产，但不会直接影响总债务，因此营运资本会增加。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494417,
+        "prompt_processing_time_us": 162985,
+        "prompt_processing_rate_toks_per_sec": 1049.317993,
+        "token_generation_time_us": 2961638,
+        "token_generation_rate_toks_per_sec": 22.622898
+      }
+    },
+    {
+      "question_index": 240,
+      "global_index": 240,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1476289,
+        "prompt_processing_time_us": 160739,
+        "prompt_processing_rate_toks_per_sec": 1157.407349,
+        "token_generation_time_us": 129160,
+        "token_generation_rate_toks_per_sec": 30.969341
+      }
+    },
+    {
+      "question_index": 241,
+      "global_index": 241,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1473365,
+        "prompt_processing_time_us": 320786,
+        "prompt_processing_rate_toks_per_sec": 1210.653809,
+        "token_generation_time_us": 134226,
+        "token_generation_rate_toks_per_sec": 29.800930
+      }
+    },
+    {
+      "question_index": 242,
+      "global_index": 242,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1472562,
+        "prompt_processing_time_us": 161277,
+        "prompt_processing_rate_toks_per_sec": 1135.073730,
+        "token_generation_time_us": 127610,
+        "token_generation_rate_toks_per_sec": 31.345997
+      }
+    },
+    {
+      "question_index": 243,
+      "global_index": 243,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1513010,
+        "prompt_processing_time_us": 162422,
+        "prompt_processing_rate_toks_per_sec": 1164.144409,
+        "token_generation_time_us": 130409,
+        "token_generation_rate_toks_per_sec": 30.672964
+      }
+    },
+    {
+      "question_index": 244,
+      "global_index": 244,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1509025,
+        "prompt_processing_time_us": 164483,
+        "prompt_processing_rate_toks_per_sec": 960.614807,
+        "token_generation_time_us": 129048,
+        "token_generation_rate_toks_per_sec": 30.996218
+      }
+    },
+    {
+      "question_index": 245,
+      "global_index": 245,
+      "final_answer": "C",
+      "model_output": 
+"表 M-1 的报税收入为账面收入扣除不纳税收入，即公司债券利息收入，因此表 M-1 的报税收入为 300,000 - 17,000 = 283,000 美元。\n\n表 M-1 的报税收入用于计算当年应纳税所得额。表 M-1 的报税收入为 283,000 美元，表 1120 的核对当年应纳税所得额为表 M-1 的报税收入加上人寿保险费支出，即 283,000 + 20,000 = 303,000 美元。\n\n答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1548856,
+        "prompt_processing_time_us": 241917,
+        "prompt_processing_rate_toks_per_sec": 1223.990234,
+        "token_generation_time_us": 7437555,
+        "token_generation_rate_toks_per_sec": 22.453745
+      }
+    },
+    {
+      "question_index": 246,
+      "global_index": 246,
+      "final_answer": "A",
+      "model_output": 
+"0.20 	imes rac{1}{4} 	imes 8\% + (-0.20) 	imes rac{3}{4} 	imes 18\% = 0.04 - 0.96 = -0.92\%\n\n0.92\% 	imes \sqrt{\left(rac{1}{4}ight)^2 + \left(rac{3}{4}ight)^2} = 0.92\% 	imes \sqrt{0.13} = 0.92\% 	imes 0.3606 = 0.3316 pprox 3.32\%\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1465497,
+        "prompt_processing_time_us": 160621,
+        "prompt_processing_rate_toks_per_sec": 1146.788940,
+        "token_generation_time_us": 6960073,
+        "token_generation_rate_toks_per_sec": 22.413986
+      }
+    },
+    {
+      "question_index": 247,
+      "global_index": 247,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1482725,
+        "prompt_processing_time_us": 242656,
+        "prompt_processing_rate_toks_per_sec": 1068.376099,
+        "token_generation_time_us": 135098,
+        "token_generation_rate_toks_per_sec": 29.608574
+      }
+    },
+    {
+      "question_index": 248,
+      "global_index": 248,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n\n投资价值 = 下一次收益 / (市场折现率 - 增长率)\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488186,
+        "prompt_processing_time_us": 161672,
+        "prompt_processing_rate_toks_per_sec": 1132.502808,
+        "token_generation_time_us": 1159100,
+        "token_generation_rate_toks_per_sec": 23.294277
+      }
+    },
+    {
+      "question_index": 249,
+      "global_index": 249,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1526768,
+        "prompt_processing_time_us": 163335,
+        "prompt_processing_rate_toks_per_sec": 1194.743164,
+        "token_generation_time_us": 134267,
+        "token_generation_rate_toks_per_sec": 29.792051
+      }
+    },
+    {
+      "question_index": 250,
+      "global_index": 250,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1484908,
+        "prompt_processing_time_us": 163325,
+        "prompt_processing_rate_toks_per_sec": 1047.120361,
+        "token_generation_time_us": 126872,
+        "token_generation_rate_toks_per_sec": 31.527840
+      }
+    },
+    {
+      "question_index": 251,
+      "global_index": 251,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1479507,
+        "prompt_processing_time_us": 161291,
+        "prompt_processing_rate_toks_per_sec": 868.055542,
+        "token_generation_time_us": 131234,
+        "token_generation_rate_toks_per_sec": 30.480371
+      }
+    },
+    {
+      "question_index": 252,
+      "global_index": 252,
+      "final_answer": "A",
+      "model_output": 
+"期末应收账款余额 = 总销售额 - 现金销售额 - 现金收入 - 应收账款平均收款期 × 现金收入 / 365\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1511592,
+        "prompt_processing_time_us": 162462,
+        "prompt_processing_rate_toks_per_sec": 1213.592285,
+        "token_generation_time_us": 1941813,
+        "token_generation_rate_toks_per_sec": 22.659294
+      }
+    },
+    {
+      "question_index": 253,
+      "global_index": 253,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1470947,
+        "prompt_processing_time_us": 161600,
+        "prompt_processing_rate_toks_per_sec": 1555.209961,
+        "token_generation_time_us": 133121,
+        "token_generation_rate_toks_per_sec": 30.048077
+      }
+    },
+    {
+      "question_index": 254,
+      "global_index": 254,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1502895,
+        "prompt_processing_time_us": 241611,
+        "prompt_processing_rate_toks_per_sec": 1474.926270,
+        "token_generation_time_us": 130359,
+        "token_generation_rate_toks_per_sec": 30.685200
+      }
+    },
+    {
+      "question_index": 255,
+      "global_index": 255,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1534730,
+        "prompt_processing_time_us": 162040,
+        "prompt_processing_rate_toks_per_sec": 1006.036194,
+        "token_generation_time_us": 133113,
+        "token_generation_rate_toks_per_sec": 30.049883
+      }
+    },
+    {
+      "question_index": 256,
+      "global_index": 256,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1349380,
+        "prompt_processing_time_us": 160418,
+        "prompt_processing_rate_toks_per_sec": 1097.694824,
+        "token_generation_time_us": 127107,
+        "token_generation_rate_toks_per_sec": 31.470291
+      }
+    },
+    {
+      "question_index": 257,
+      "global_index": 257,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1541476,
+        "prompt_processing_time_us": 160424,
+        "prompt_processing_rate_toks_per_sec": 1116.071411,
+        "token_generation_time_us": 132066,
+        "token_generation_rate_toks_per_sec": 30.288345
+      }
+    },
+    {
+      "question_index": 258,
+      "global_index": 258,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503122,
+        "prompt_processing_time_us": 159894,
+        "prompt_processing_rate_toks_per_sec": 1283.697021,
+        "token_generation_time_us": 128140,
+        "token_generation_rate_toks_per_sec": 31.215858
+      }
+    },
+    {
+      "question_index": 259,
+      "global_index": 259,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1487094,
+        "prompt_processing_time_us": 240491,
+        "prompt_processing_rate_toks_per_sec": 1111.111084,
+        "token_generation_time_us": 129954,
+        "token_generation_rate_toks_per_sec": 30.780596
+      }
+    },
+    {
+      "question_index": 260,
+      "global_index": 260,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1513056,
+        "prompt_processing_time_us": 161632,
+        "prompt_processing_rate_toks_per_sec": 1058.201050,
+        "token_generation_time_us": 130227,
+        "token_generation_rate_toks_per_sec": 30.716305
+      }
+    },
+    {
+      "question_index": 261,
+      "global_index": 261,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1528067,
+        "prompt_processing_time_us": 161820,
+        "prompt_processing_rate_toks_per_sec": 1026.694092,
+        "token_generation_time_us": 128963,
+        "token_generation_rate_toks_per_sec": 31.017370
+      }
+    },
+    {
+      "question_index": 262,
+      "global_index": 262,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1534039,
+        "prompt_processing_time_us": 241645,
+        "prompt_processing_rate_toks_per_sec": 1135.073730,
+        "token_generation_time_us": 134742,
+        "token_generation_rate_toks_per_sec": 29.686804
+      }
+    },
+    {
+      "question_index": 263,
+      "global_index": 263,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1521462,
+        "prompt_processing_time_us": 160935,
+        "prompt_processing_rate_toks_per_sec": 1156.069336,
+        "token_generation_time_us": 131455,
+        "token_generation_rate_toks_per_sec": 30.429358
+      }
+    },
+    {
+      "question_index": 264,
+      "global_index": 264,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1507253,
+        "prompt_processing_time_us": 162399,
+        "prompt_processing_rate_toks_per_sec": 887.311462,
+        "token_generation_time_us": 132161,
+        "token_generation_rate_toks_per_sec": 30.266344
+      }
+    },
+    {
+      "question_index": 265,
+      "global_index": 265,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1479371,
+        "prompt_processing_time_us": 164476,
+        "prompt_processing_rate_toks_per_sec": 930.232544,
+        "token_generation_time_us": 129813,
+        "token_generation_rate_toks_per_sec": 30.813793
+      }
+    },
+    {
+      "question_index": 266,
+      "global_index": 266,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1501123,
+        "prompt_processing_time_us": 162780,
+        "prompt_processing_rate_toks_per_sec": 915.750916,
+        "token_generation_time_us": 126771,
+        "token_generation_rate_toks_per_sec": 31.553705
+      }
+    },
+    {
+      "question_index": 267,
+      "global_index": 267,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483805,
+        "prompt_processing_time_us": 160905,
+        "prompt_processing_rate_toks_per_sec": 1150.748047,
+        "token_generation_time_us": 128769,
+        "token_generation_rate_toks_per_sec": 31.063618
+      }
+    },
+    {
+      "question_index": 268,
+      "global_index": 268,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：C\n\n步骤1：计算Plaid Pants普通股的必要回报率\nPlaid Pants普通股的贝塔系数：0.90\n市场回报率：10%\n无风险利率：6%\n必要回报率 = 无风险利率 + 贝塔系数 * (市场回报率 - 无风险利率)\n= 6% + 0.90 * (10% - 6%)\n= 9.0%\n\n步骤2：计算Acme Dynamite Company普通股的必要回报率\nAcme Dynamite Company普通股的贝塔系数：1.80\n市场回报率：10%\n无风险利率：6%\n必要回报率 = 无风险利率 + 贝塔系数 * (市场回报率 - 无风险利率)\n= 6% + 1.80 * (10% - 6%)\n= 13.2%\n",
+      "performance_metrics": {
+        "init_time_us": 1502298,
+        "prompt_processing_time_us": 161638,
+        "prompt_processing_rate_toks_per_sec": 1540.832031,
+        "token_generation_time_us": 8741221,
+        "token_generation_rate_toks_per_sec": 22.422529
+      }
+    },
+    {
+      "question_index": 269,
+      "global_index": 269,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476834,
+        "prompt_processing_time_us": 162614,
+        "prompt_processing_rate_toks_per_sec": 1501.501465,
+        "token_generation_time_us": 127400,
+        "token_generation_rate_toks_per_sec": 31.397175
+      }
+    },
+    {
+      "question_index": 270,
+      "global_index": 270,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1616327,
+        "prompt_processing_time_us": 160992,
+        "prompt_processing_rate_toks_per_sec": 876.424194,
+        "token_generation_time_us": 128190,
+        "token_generation_rate_toks_per_sec": 31.204168
+      }
+    },
+    {
+      "question_index": 271,
+      "global_index": 271,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1512427,
+        "prompt_processing_time_us": 320341,
+        "prompt_processing_rate_toks_per_sec": 1246.882812,
+        "token_generation_time_us": 131515,
+        "token_generation_rate_toks_per_sec": 30.415476
+      }
+    },
+    {
+      "question_index": 272,
+      "global_index": 272,
+      "final_answer": "D",
+      "model_output": 
+"现金和土地的总价值：5,000 美元 + 20,000 美元 = 25,000 美元\n\n扣除抵押贷款：25,000 美元 - 10,000 美元 = 15,000 美元\n\n扣除追索性负债：15,000 美元 - 20,000 美元 = -5,000 美元\n\n由于扣除的追索性负债超过合伙权益的初始投资，Skinner 的基础为负数，说明他实际亏损。\n\n亏损金额：20,000 美元 - (5,000 美元 + 15,000 美元) = 20,000 美元 - 20,000 美元 = 0 美元\n\n因此，Skinner 的基础为 13,000 美元。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1526803,
+        "prompt_processing_time_us": 243522,
+        "prompt_processing_rate_toks_per_sec": 1133.786865,
+        "token_generation_time_us": 10674105,
+        "token_generation_rate_toks_per_sec": 22.390900
+      }
+    },
+    {
+      "question_index": 273,
+      "global_index": 273,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1380425,
+        "prompt_processing_time_us": 163047,
+        "prompt_processing_rate_toks_per_sec": 1449.275391,
+        "token_generation_time_us": 136633,
+        "token_generation_rate_toks_per_sec": 29.275719
+      }
+    },
+    {
+      "question_index": 274,
+      "global_index": 274,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499328,
+        "prompt_processing_time_us": 244938,
+        "prompt_processing_rate_toks_per_sec": 1237.623779,
+        "token_generation_time_us": 131170,
+        "token_generation_rate_toks_per_sec": 30.495243
+      }
+    },
+    {
+      "question_index": 275,
+      "global_index": 275,
+      "final_answer": "A",
+      "model_output": 
+"劳工率差异和劳工效率差异均不利，意味着生产的产品成本高于标准成本。如果这些差异被冲销至已售商品成本，那么实际成本高于标准成本的差异将影响已售商品的成本，进而影响净收益。\n\n将这些差异分配到在制品、制成品以及已售商品成本中，意味着实际成本高于标准成本的差异将增加在制品、制成品以及已售商品的成本。\n\n流动比率计算公式为：流动资产/流动负债\n\n流动资产包括货币资金、应收账款、存货等，流动负债包括应付账款、短期借款等。\n\n由于实际成本高于标准成本，意味着存货成本增加，流动资产增加，流动负债不变，因此流动比率增加。\n\n净收益减少，因为实际成本高于标准成本，意味着成本增加，利润减少。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500426,
+        "prompt_processing_time_us": 161662,
+        "prompt_processing_rate_toks_per_sec": 1349.527710,
+        "token_generation_time_us": 7878494,
+        "token_generation_rate_toks_per_sec": 22.339380
+      }
+    },
+    {
+      "question_index": 276,
+      "global_index": 276,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1507725,
+        "prompt_processing_time_us": 161915,
+        "prompt_processing_rate_toks_per_sec": 1447.177979,
+        "token_generation_time_us": 131122,
+        "token_generation_rate_toks_per_sec": 30.506407
+      }
+    },
+    {
+      "question_index": 277,
+      "global_index": 277,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1489955,
+        "prompt_processing_time_us": 161636,
+        "prompt_processing_rate_toks_per_sec": 1373.626343,
+        "token_generation_time_us": 130532,
+        "token_generation_rate_toks_per_sec": 30.643827
+      }
+    },
+    {
+      "question_index": 278,
+      "global_index": 278,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1463833,
+        "prompt_processing_time_us": 162474,
+        "prompt_processing_rate_toks_per_sec": 1164.144409,
+        "token_generation_time_us": 131162,
+        "token_generation_rate_toks_per_sec": 30.497103
+      }
+    },
+    {
+      "question_index": 279,
+      "global_index": 279,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1466548,
+        "prompt_processing_time_us": 162638,
+        "prompt_processing_rate_toks_per_sec": 892.060669,
+        "token_generation_time_us": 139908,
+        "token_generation_rate_toks_per_sec": 28.590216
+      }
+    },
+    {
+      "question_index": 280,
+      "global_index": 280,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1479179,
+        "prompt_processing_time_us": 161519,
+        "prompt_processing_rate_toks_per_sec": 1010.101013,
+        "token_generation_time_us": 129916,
+        "token_generation_rate_toks_per_sec": 30.789125
+      }
+    },
+    {
+      "question_index": 281,
+      "global_index": 281,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1493905,
+        "prompt_processing_time_us": 162542,
+        "prompt_processing_rate_toks_per_sec": 972.762634,
+        "token_generation_time_us": 131799,
+        "token_generation_rate_toks_per_sec": 30.349936
+      }
+    }
+  ]
+}

@@ -4,107 +4,28 @@ import seaborn as sns
 import numpy as np
 from matplotlib import rcParams
 
-# 设置中文字体
-plt.rcParams['font.sans-serif'] = ['SimHei', 'DejaVu Sans']
+# Set font for better display
+plt.rcParams['font.sans-serif'] = ['DejaVu Sans']
 plt.rcParams['axes.unicode_minus'] = False
 
-def create_accuracy_bar_chart(df):
-    """创建前20个科目准确率柱状图"""
-    plt.figure(figsize=(12, 8))
-    top_20 = df.nlargest(20, 'accuracy_rate')
-    bars = plt.bar(range(len(top_20)), top_20['accuracy_rate']*100, color='skyblue')
-    plt.xticks(range(len(top_20)), top_20['subject'], rotation=45, ha='right')
-    plt.title('Top 20 科目准确率', fontsize=14, fontweight='bold')
-    plt.ylabel('准确率 (%)')
-    plt.xlabel('科目')
-    plt.grid(axis='y', alpha=0.3)
-    
-    # 添加数值标签
-    for i, (bar, value) in enumerate(zip(bars, top_20['accuracy_rate'])):
-        height = bar.get_height()
-        plt.text(bar.get_x() + bar.get_width()/2., height,
-                f'{value*100:.1f}%', ha='center', va='bottom')
-    
-    plt.tight_layout()
-    plt.savefig('subjects_perf_results/accuracy_bar_chart.png', dpi=300, bbox_inches='tight')
-    plt.close()
-
-def create_distribution_histogram(df):
-    """创建准确率分布直方图"""
-    plt.figure(figsize=(10, 6))
-    n, bins, patches = plt.hist(df['accuracy_rate']*100, bins=15, color='lightgreen', 
-                               alpha=0.7, edgecolor='black')
-    plt.title('准确率分布', fontsize=14, fontweight='bold')
-    plt.xlabel('准确率 (%)')
-    plt.ylabel('科目数量')
-    plt.grid(axis='y', alpha=0.3)
-    
-    # 添加统计信息
-    mean_acc = df['accuracy_rate'].mean()*100
-    plt.axvline(mean_acc, color='red', linestyle='--', linewidth=2, 
-               label=f'平均值: {mean_acc:.1f}%')
-    plt.legend()
-    
-    plt.tight_layout()
-    plt.savefig('subjects_perf_results/distribution_histogram.png', dpi=300, bbox_inches='tight')
-    plt.close()
-
-
-def create_unanswered_chart(df):
-    """创建未找到答案的题目数量图"""
-    plt.figure(figsize=(12, 8))
-    bars = plt.bar(range(len(df)), df['answer_not_found_count'], color='salmon')
-    plt.xticks(range(len(df)), df['subject'], rotation=45, ha='right')
-    plt.title('未找到答案的题目数量', fontsize=14, fontweight='bold')
-    plt.ylabel('数量')
-    plt.xlabel('科目')
-    plt.grid(axis='y', alpha=0.3)
-    
-    # 添加数值标签
-    for bar in bars:
-        height = bar.get_height()
-        if height > 0:
-            plt.text(bar.get_x() + bar.get_width()/2., height,
-                    f'{int(height)}', ha='center', va='bottom')
-    
-    plt.tight_layout()
-    plt.savefig('subjects_perf_results/unanswered_chart.png', dpi=300, bbox_inches='tight')
-    plt.close()
-
-def create_performance_categories(df):
-    """创建性能分级饼图"""
-    # 性能分级
-    high_perf = df[df['accuracy_rate'] >= 0.7]
-    medium_perf = df[(df['accuracy_rate'] >= 0.5) & (df['accuracy_rate'] < 0.7)]
-    low_perf = df[df['accuracy_rate'] < 0.5]
-    
-    plt.figure(figsize=(8, 8))
-    sizes = [len(high_perf), len(medium_perf), len(low_perf)]
-    labels = [f'高表现\n(≥70%)\n{len(high_perf)}个', 
-             f'中等表现\n(50-70%)\n{len(medium_perf)}个', 
-             f'低表现\n(<50%)\n{len(low_perf)}个']
-    colors = ['#90EE90', '#FFD700', '#FFB6C1']
-    
-    plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=90)
-    plt.title('性能分级分布', fontsize=14, fontweight='bold')
-    plt.axis('equal')
-    
-    plt.tight_layout()
-    plt.savefig('subjects_perf_results/performance_categories.png', dpi=300, bbox_inches='tight')
-    plt.close()
-
 def create_detailed_table(df):
-    """创建详细数据表"""
-    fig, ax = plt.subplots(figsize=(16, 20))
+    """Create detailed performance table"""
+    fig, ax = plt.subplots(figsize=(18, 24))
     ax.axis('tight')
     ax.axis('off')
     
-    # 计算总体准确率
+    # Calculate overall statistics
     total_questions = df['total_questions'].sum()
     total_correct = (df['total_questions'] * df['accuracy_rate']).sum()
     overall_accuracy = total_correct / total_questions if total_questions > 0 else 0
+    total_answer_not_found = df['answer_not_found_count'].sum()
+    overall_not_found_rate = total_answer_not_found / total_questions if total_questions > 0 else 0
     
-    # 准备表格数据
+    # Calculate weighted average throughput (weighted by number of questions)
+    weighted_prompt_rate = (df['total_questions'] * df['avg_prompt_processing_rate_toks_per_sec']).sum() / total_questions if total_questions > 0 else 0
+    weighted_token_rate = (df['total_questions'] * df['avg_token_generation_rate_toks_per_sec']).sum() / total_questions if total_questions > 0 else 0
+    
+    # Prepare table data
     df_sorted = df.sort_values('accuracy_rate', ascending=False)
     table_data = []
     for _, row in df_sorted.iterrows():
@@ -113,10 +34,24 @@ def create_detailed_table(df):
             row['total_questions'],
             f"{row['accuracy_rate']*100:.1f}%",
             row['answer_not_found_count'],
-            f"{(row['answer_not_found_count']/row['total_questions']*100):.1f}%"
+            f"{(row['answer_not_found_count']/row['total_questions']*100):.1f}%",
+            f"{row.get('avg_prompt_processing_rate_toks_per_sec', 0):.1f}",
+            f"{row.get('avg_token_generation_rate_toks_per_sec', 0):.1f}"
         ])
     
-    col_labels = ['科目名称', '题目数量', '准确率', '未找到答案', '未找到比例']
+    # Add total row
+    table_data.append([
+        'Total',
+        total_questions,
+        f"{overall_accuracy*100:.1f}%",
+        total_answer_not_found,
+        f"{overall_not_found_rate*100:.1f}%",
+        f"{weighted_prompt_rate:.1f}",
+        f"{weighted_token_rate:.1f}"
+    ])
+    
+    col_labels = ['Subject', 'Total Questions', 'Accuracy Rate', 'Answer Not Found', 'Not Found Rate', 
+                  'Prompt Processing Rate (toks/sec)', 'Token Generation Rate (toks/sec)']
     
     table = ax.table(cellText=table_data, colLabels=col_labels, 
                     cellLoc='center', loc='center', bbox=[0, 0, 1, 1])
@@ -124,59 +59,93 @@ def create_detailed_table(df):
     table.set_fontsize(6)
     table.scale(1.2, 1.2)
     
-    # 设置表头样式
+    # Set header style
     for i in range(len(col_labels)):
         table[(0, i)].set_facecolor('#4CAF50')
         table[(0, i)].set_text_props(weight='bold', color='white')
     
-    # 交替行颜色
-    for i in range(1, len(table_data)+1):
+    # Alternating row colors
+    for i in range(1, len(table_data)):  # Exclude total row
         color = '#f0f0f0' if i % 2 == 0 else 'white'
         for j in range(len(col_labels)):
             table[(i, j)].set_facecolor(color)
     
-    ax.set_title(f'{len(df)}科目详细性能数据表\n总体准确率: {overall_accuracy*100:.2f}% (总题目数: {total_questions})', 
+    # Set total row style (last row)
+    total_row_index = len(table_data)
+    for j in range(len(col_labels)):
+        table[(total_row_index, j)].set_facecolor('#FFE4B5')  # Light orange
+        table[(total_row_index, j)].set_text_props(weight='bold')
+    
+    ax.set_title(f'Detailed Performance Data Table for {len(df)} Subjects\nOverall Accuracy: {overall_accuracy*100:.2f}% (Total Questions: {total_questions})', 
                  fontsize=16, fontweight='bold', pad=20)
     plt.savefig('subjects_perf_results/detailed_table.png', dpi=300, bbox_inches='tight')
     plt.close()
 
+def create_throughput_chart(df):
+    """Create throughput comparison chart"""
+    plt.figure(figsize=(12, 8))
+    df_sorted = df.sort_values('subject')
+    
+    # Plot prompt processing rate
+    plt.plot(df_sorted['subject'], df_sorted['avg_prompt_processing_rate_toks_per_sec'], 
+             marker='o', color='blue', label='Prompt Processing Rate (toks/sec)')
+    
+    # Plot token generation rate
+    plt.plot(df_sorted['subject'], df_sorted['avg_token_generation_rate_toks_per_sec'], 
+              marker='x', color='green', label='Token Generation Rate (toks/sec)')
+    
+    plt.title('Throughput Comparison', fontsize=14, fontweight='bold')
+    plt.xlabel('Subject')
+    plt.ylabel('Throughput (toks/sec)')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig('subjects_perf_results/throughput_comparison.png', dpi=300, bbox_inches='tight')
+    plt.close()
+
 def main():
-    # 读取数据
+    # Load data
     csv_path = 'subjects_perf_results/performance_summary.csv'
     df = pd.read_csv(csv_path)
     
-    # 创建各个图表
-    create_accuracy_bar_chart(df)
-    create_distribution_histogram(df)
-    create_unanswered_chart(df)
-    create_performance_categories(df)
+    # Exclude the existing 'Total' row if it exists to avoid double counting
+    df = df[df['subject'] != 'Total']
+    
+    # Create charts
     create_detailed_table(df)
     
-    # 打印统计信息
-    print("=== 大模型端侧部署基准测试统计摘要 ===")
-    print(f"总科目数量: {len(df)}")
-    print(f"总题目数量: {df['total_questions'].sum()}")
-    print(f"平均准确率: {df['accuracy_rate'].mean()*100:.2f}%")
-    print(f"最高准确率: {df['accuracy_rate'].max()*100:.1f}% ({df.loc[df['accuracy_rate'].idxmax(), 'subject']})")
-    print(f"最低准确率: {df['accuracy_rate'].min()*100:.1f}% ({df.loc[df['accuracy_rate'].idxmin(), 'subject']})")
-    print(f"平均未找到答案: {df['answer_not_found_count'].mean():.1f} 题/科目")
+    # Print statistics
+    print("=== LLM Edge Deployment Benchmark Test Summary ===")
+    print(f"Total subjects: {len(df)}")
+    print(f"Total questions: {df['total_questions'].sum()}")
+    print(f"Average accuracy: {df['accuracy_rate'].mean()*100:.2f}%")
+    print(f"Highest accuracy: {df['accuracy_rate'].max()*100:.1f}% ({df.loc[df['accuracy_rate'].idxmax(), 'subject']})")
+    print(f"Lowest accuracy: {df['accuracy_rate'].min()*100:.1f}% ({df.loc[df['accuracy_rate'].idxmin(), 'subject']})")
+    print(f"Average unanswered questions: {df['answer_not_found_count'].mean():.1f} questions/subject")
     
-    # 性能分级统计
+    # Performance category statistics
     high_perf = df[df['accuracy_rate'] >= 0.7]
     mid_perf = df[(df['accuracy_rate'] >= 0.5) & (df['accuracy_rate'] < 0.7)]
     low_perf = df[df['accuracy_rate'] < 0.5]
     
-    print(f"\n高表现科目 (≥70%): {len(high_perf)}个")
-    print(f"中等表现科目 (50-70%): {len(mid_perf)}个")
-    print(f"低表现科目 (<50%): {len(low_perf)}个")
+    print(f"\nHigh performance subjects (≥70%): {len(high_perf)} subjects")
+    print(f"Medium performance subjects (50-70%): {len(mid_perf)} subjects")
+    print(f"Low performance subjects (<50%): {len(low_perf)} subjects")
     
-    print("\n=== 图表已保存 ===")
-    print("已生成以下单独图表文件:")
-    print("1. accuracy_bar_chart.png - 前20科目准确率柱状图")
-    print("2. distribution_histogram.png - 准确率分布直方图")
-    print("3. unanswered_chart.png - 未找到答案题目数量图")
-    print("4. performance_categories.png - 性能分级饼图")
-    print("5. detailed_table.png - 详细数据表")
+    # Throughput statistics
+    avg_prompt_rate = df['avg_prompt_processing_rate_toks_per_sec'].mean()
+    avg_token_rate = df['avg_token_generation_rate_toks_per_sec'].mean()
+    
+    print(f"\n=== Throughput Statistics ===")
+    print(f"Average prompt processing rate: {avg_prompt_rate:.1f} tokens/sec")
+    print(f"Average token generation rate: {avg_token_rate:.1f} tokens/sec")
+    print(f"Highest prompt processing rate: {df['avg_prompt_processing_rate_toks_per_sec'].max():.1f} tokens/sec")
+    print(f"Highest token generation rate: {df['avg_token_generation_rate_toks_per_sec'].max():.1f} tokens/sec")
+    
+    print("\n=== Charts Saved ===")
+    print("Generated chart files:")
+    print("1. detailed_table.png - Detailed data table (with throughput)")
 
 if __name__ == "__main__":
     main()

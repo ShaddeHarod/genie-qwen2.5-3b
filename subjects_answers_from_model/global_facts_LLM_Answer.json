@@ -5,8 +5,6 @@
       "question_index": 0,
       "global_index": 0,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1509766,
         "prompt_processing_time_us": 160162,
@@ -19,8 +17,6 @@
       "question_index": 1,
       "global_index": 1,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488129,
         "prompt_processing_time_us": 166357,
@@ -33,8 +29,6 @@
       "question_index": 2,
       "global_index": 2,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1483517,
         "prompt_processing_time_us": 159981,
@@ -47,8 +41,6 @@
       "question_index": 3,
       "global_index": 3,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1499975,
         "prompt_processing_time_us": 161190,
@@ -61,8 +53,6 @@
       "question_index": 4,
       "global_index": 4,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1498918,
         "prompt_processing_time_us": 160851,
@@ -75,8 +65,6 @@
       "question_index": 5,
       "global_index": 5,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488073,
         "prompt_processing_time_us": 159421,
@@ -89,8 +77,6 @@
       "question_index": 6,
       "global_index": 6,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1477734,
         "prompt_processing_time_us": 160598,
@@ -103,8 +89,6 @@
       "question_index": 7,
       "global_index": 7,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1507190,
         "prompt_processing_time_us": 162756,
@@ -117,8 +101,6 @@
       "question_index": 8,
       "global_index": 8,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1475274,
         "prompt_processing_time_us": 159620,
@@ -131,12 +113,10 @@
       "question_index": 9,
       "global_index": 9,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493046,
         "prompt_processing_time_us": 159511,
-        "prompt_processing_rate_toks_per_sec": 871.839600,
+        "prompt_processing_rate_toks_per_sec": 871.8396,
         "token_generation_time_us": 124859,
         "token_generation_rate_toks_per_sec": 32.036907
       }
@@ -145,22 +125,18 @@
       "question_index": 10,
       "global_index": 10,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1511889,
         "prompt_processing_time_us": 161386,
         "prompt_processing_rate_toks_per_sec": 1010.101013,
         "token_generation_time_us": 128616,
-        "token_generation_rate_toks_per_sec": 31.100330
+        "token_generation_rate_toks_per_sec": 31.10033
       }
     },
     {
       "question_index": 11,
       "global_index": 11,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1523285,
         "prompt_processing_time_us": 159578,
@@ -173,8 +149,6 @@
       "question_index": 12,
       "global_index": 12,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1474190,
         "prompt_processing_time_us": 160396,
@@ -187,8 +161,6 @@
       "question_index": 13,
       "global_index": 13,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1487883,
         "prompt_processing_time_us": 161626,
@@ -201,8 +173,6 @@
       "question_index": 14,
       "global_index": 14,
       "final_answer": "C",
-      "model_output": 
-"根据历史数据，1950年全球识字人口比例约为76%。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1479320,
         "prompt_processing_time_us": 159941,
@@ -215,8 +185,6 @@
       "question_index": 15,
       "global_index": 15,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1483869,
         "prompt_processing_time_us": 160848,
@@ -229,12 +197,10 @@
       "question_index": 16,
       "global_index": 16,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1509398,
         "prompt_processing_time_us": 159535,
-        "prompt_processing_rate_toks_per_sec": 871.839600,
+        "prompt_processing_rate_toks_per_sec": 871.8396,
         "token_generation_time_us": 128067,
         "token_generation_rate_toks_per_sec": 31.234383
       }
@@ -243,8 +209,6 @@
       "question_index": 17,
       "global_index": 17,
       "final_answer": "B",
-      "model_output": 
-"72%\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491812,
         "prompt_processing_time_us": 162183,
@@ -257,8 +221,6 @@
       "question_index": 18,
       "global_index": 18,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1519892,
         "prompt_processing_time_us": 163644,
@@ -271,8 +233,6 @@
       "question_index": 19,
       "global_index": 19,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1481938,
         "prompt_processing_time_us": 167180,
@@ -285,22 +245,18 @@
       "question_index": 20,
       "global_index": 20,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1469044,
         "prompt_processing_time_us": 161380,
         "prompt_processing_rate_toks_per_sec": 836.820068,
         "token_generation_time_us": 128105,
-        "token_generation_rate_toks_per_sec": 31.224630
+        "token_generation_rate_toks_per_sec": 31.22463
       }
     },
     {
       "question_index": 21,
       "global_index": 21,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1518651,
         "prompt_processing_time_us": 160606,
@@ -313,8 +269,6 @@
       "question_index": 22,
       "global_index": 22,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1526506,
         "prompt_processing_time_us": 162257,
@@ -327,8 +281,6 @@
       "question_index": 23,
       "global_index": 23,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1465354,
         "prompt_processing_time_us": 161372,
@@ -341,8 +293,6 @@
       "question_index": 24,
       "global_index": 24,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1495382,
         "prompt_processing_time_us": 161129,
@@ -355,8 +305,6 @@
       "question_index": 25,
       "global_index": 25,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1486124,
         "prompt_processing_time_us": 163054,
@@ -369,12 +317,10 @@
       "question_index": 26,
       "global_index": 26,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1473574,
         "prompt_processing_time_us": 159986,
-        "prompt_processing_rate_toks_per_sec": 856.898010,
+        "prompt_processing_rate_toks_per_sec": 856.89801,
         "token_generation_time_us": 129182,
         "token_generation_rate_toks_per_sec": 30.964546
       }
@@ -383,8 +329,6 @@
       "question_index": 27,
       "global_index": 27,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1473190,
         "prompt_processing_time_us": 160522,
@@ -397,8 +341,6 @@
       "question_index": 28,
       "global_index": 28,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1457452,
         "prompt_processing_time_us": 160032,
@@ -411,8 +353,6 @@
       "question_index": 29,
       "global_index": 29,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1452278,
         "prompt_processing_time_us": 159939,
@@ -425,8 +365,6 @@
       "question_index": 30,
       "global_index": 30,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1511142,
         "prompt_processing_time_us": 162160,
@@ -439,8 +377,6 @@
       "question_index": 31,
       "global_index": 31,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1476918,
         "prompt_processing_time_us": 164648,
@@ -453,8 +389,6 @@
       "question_index": 32,
       "global_index": 32,
       "final_answer": "C",
-      "model_output": 
-"此题为估算题，需要根据已知信息进行合理估算。\n\n墨西哥的公共服务领域广泛，如教育、司法、医疗和卫生、警察、登记和许可服务、公用事业、税收和海关以及土地服务等。\n\n题目要求的是“上一年曾为获得公共服务而行贿”的比例，但没有直接给出这个数据。\n\n根据全球事实提供的其他数据，我们可以推测墨西哥的腐败程度。例如，墨西哥腐败程度较高的国家之一，腐败指数较高，且腐败现象在公共服务领域较为普遍。\n\n综合以上信息，可以合理推测墨西哥腐败现象较为严重，因此选择比例较高的选项。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1455962,
         "prompt_processing_time_us": 160932,
@@ -467,8 +401,6 @@
       "question_index": 33,
       "global_index": 33,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1504615,
         "prompt_processing_time_us": 161458,
@@ -481,8 +413,6 @@
       "question_index": 34,
       "global_index": 34,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1493350,
         "prompt_processing_time_us": 160802,
@@ -495,8 +425,6 @@
       "question_index": 35,
       "global_index": 35,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1482487,
         "prompt_processing_time_us": 162082,
@@ -509,22 +437,18 @@
       "question_index": 36,
       "global_index": 36,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488139,
         "prompt_processing_time_us": 163464,
         "prompt_processing_rate_toks_per_sec": 826.446289,
         "token_generation_time_us": 128323,
-        "token_generation_rate_toks_per_sec": 31.172070
+        "token_generation_rate_toks_per_sec": 31.17207
       }
     },
     {
       "question_index": 37,
       "global_index": 37,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1474903,
         "prompt_processing_time_us": 161876,
@@ -537,8 +461,6 @@
       "question_index": 38,
       "global_index": 38,
       "final_answer": "C",
-      "model_output": 
-"首先，我们需要找到1950年和2016年人均GDP的数据。由于题目要求的是增长倍数，我们可以忽略具体数值，只需要关注增长倍数。\n\n1950年到2016年，韩国的人均GDP增长倍数可以通过2016年的人均GDP除以1950年的人均GDP来计算。\n\n根据全球事实，1950年韩国的人均GDP约为200美元，2016年约为3500美元。\n\n计算倍数：\n\n\[ rac{3500}{200} = 17.5 \]\n\n这个倍数接近16倍，因此答案是：\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1512691,
         "prompt_processing_time_us": 163335,
@@ -551,12 +473,10 @@
       "question_index": 39,
       "global_index": 39,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1478096,
         "prompt_processing_time_us": 162841,
-        "prompt_processing_rate_toks_per_sec": 884.955750,
+        "prompt_processing_rate_toks_per_sec": 884.95575,
         "token_generation_time_us": 126417,
         "token_generation_rate_toks_per_sec": 31.641563
       }
@@ -565,8 +485,6 @@
       "question_index": 40,
       "global_index": 40,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1488375,
         "prompt_processing_time_us": 160921,
@@ -579,8 +497,6 @@
       "question_index": 41,
       "global_index": 41,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1524180,
         "prompt_processing_time_us": 161076,
@@ -593,8 +509,6 @@
       "question_index": 42,
       "global_index": 42,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1480213,
         "prompt_processing_time_us": 159591,
@@ -607,8 +521,6 @@
       "question_index": 43,
       "global_index": 43,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1493848,
         "prompt_processing_time_us": 161030,
@@ -621,8 +533,6 @@
       "question_index": 44,
       "global_index": 44,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1511529,
         "prompt_processing_time_us": 161700,
@@ -635,8 +545,6 @@
       "question_index": 45,
       "global_index": 45,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1511589,
         "prompt_processing_time_us": 160241,
@@ -649,22 +557,18 @@
       "question_index": 46,
       "global_index": 46,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1480658,
         "prompt_processing_time_us": 160966,
         "prompt_processing_rate_toks_per_sec": 963.391113,
         "token_generation_time_us": 129766,
-        "token_generation_rate_toks_per_sec": 30.825190
+        "token_generation_rate_toks_per_sec": 30.82519
       }
     },
     {
       "question_index": 47,
       "global_index": 47,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1486139,
         "prompt_processing_time_us": 163769,
@@ -677,8 +581,6 @@
       "question_index": 48,
       "global_index": 48,
       "final_answer": "A",
-      "model_output": 
-"此问题与提供的全球事实数据库无关。\n答案：A\n",
       "performance_metrics": {
         "init_time_us": 1488034,
         "prompt_processing_time_us": 160720,
@@ -691,8 +593,6 @@
       "question_index": 49,
       "global_index": 49,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1453635,
         "prompt_processing_time_us": 161128,
@@ -705,8 +605,6 @@
       "question_index": 50,
       "global_index": 50,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1482273,
         "prompt_processing_time_us": 161237,
@@ -719,22 +617,18 @@
       "question_index": 51,
       "global_index": 51,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1499088,
         "prompt_processing_time_us": 162796,
-        "prompt_processing_rate_toks_per_sec": 1131.221680,
+        "prompt_processing_rate_toks_per_sec": 1131.22168,
         "token_generation_time_us": 124601,
-        "token_generation_rate_toks_per_sec": 32.102730
+        "token_generation_rate_toks_per_sec": 32.10273
       }
     },
     {
       "question_index": 52,
       "global_index": 52,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1491392,
         "prompt_processing_time_us": 161154,
@@ -747,22 +641,18 @@
       "question_index": 53,
       "global_index": 53,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1507841,
         "prompt_processing_time_us": 159785,
         "prompt_processing_rate_toks_per_sec": 908.265198,
         "token_generation_time_us": 128158,
-        "token_generation_rate_toks_per_sec": 31.211960
+        "token_generation_rate_toks_per_sec": 31.21196
       }
     },
     {
       "question_index": 54,
       "global_index": 54,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1472674,
         "prompt_processing_time_us": 160532,
@@ -775,22 +665,18 @@
       "question_index": 55,
       "global_index": 55,
       "final_answer": "Answer Not Found",
-      "model_output": 
-"题目信息不全，无法直接给出答案。请补充完整问题内容。\n",
       "performance_metrics": {
         "init_time_us": 1491827,
         "prompt_processing_time_us": 162669,
         "prompt_processing_rate_toks_per_sec": 848.896423,
         "token_generation_time_us": 687397,
-        "token_generation_rate_toks_per_sec": 24.731050
+        "token_generation_rate_toks_per_sec": 24.73105
       }
     },
     {
       "question_index": 56,
       "global_index": 56,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1502799,
         "prompt_processing_time_us": 161675,
@@ -803,8 +689,6 @@
       "question_index": 57,
       "global_index": 57,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1479791,
         "prompt_processing_time_us": 163236,
@@ -817,8 +701,6 @@
       "question_index": 58,
       "global_index": 58,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1533022,
         "prompt_processing_time_us": 160780,
@@ -831,8 +713,6 @@
       "question_index": 59,
       "global_index": 59,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1472883,
         "prompt_processing_time_us": 239577,
@@ -845,8 +725,6 @@
       "question_index": 60,
       "global_index": 60,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1468077,
         "prompt_processing_time_us": 159996,
@@ -859,8 +737,6 @@
       "question_index": 61,
       "global_index": 61,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1473790,
         "prompt_processing_time_us": 160682,
@@ -873,8 +749,6 @@
       "question_index": 62,
       "global_index": 62,
       "final_answer": "C",
-      "model_output": 
-"这个题目要求我们找到一个百分比，但没有直接给出数据。通常这类问题会提供一些背景信息或数据，但在这道题中没有。为了找到答案，我们需要假设或使用一些常识来推断。\n\n根据常识，教师体罚儿童在很多国家和地区都是一个严重的问题。假设越南的情况与一些其他国家相似，那么教师体罚儿童的比例可能在较高水平。考虑到选项，最合理的答案是C：40%。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1480268,
         "prompt_processing_time_us": 162717,
@@ -887,8 +761,6 @@
       "question_index": 63,
       "global_index": 63,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1498361,
         "prompt_processing_time_us": 161508,
@@ -901,8 +773,6 @@
       "question_index": 64,
       "global_index": 64,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1507694,
         "prompt_processing_time_us": 160004,
@@ -915,8 +785,6 @@
       "question_index": 65,
       "global_index": 65,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1473248,
         "prompt_processing_time_us": 160581,
@@ -929,12 +797,10 @@
       "question_index": 66,
       "global_index": 66,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1477375,
         "prompt_processing_time_us": 161197,
-        "prompt_processing_rate_toks_per_sec": 825.082520,
+        "prompt_processing_rate_toks_per_sec": 825.08252,
         "token_generation_time_us": 126900,
         "token_generation_rate_toks_per_sec": 31.520882
       }
@@ -943,8 +809,6 @@
       "question_index": 67,
       "global_index": 67,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1322953,
         "prompt_processing_time_us": 160258,
@@ -957,8 +821,6 @@
       "question_index": 68,
       "global_index": 68,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494647,
         "prompt_processing_time_us": 159660,
@@ -971,8 +833,6 @@
       "question_index": 69,
       "global_index": 69,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1476913,
         "prompt_processing_time_us": 161326,
@@ -985,8 +845,6 @@
       "question_index": 70,
       "global_index": 70,
       "final_answer": "B",
-      "model_output": 
-"这个题目需要根据全球事实数据来解答。题目要求在2009年，埃塞俄比亚8岁儿童在过去一周内报告受到教师体罚的百分比。\n\n根据全球事实的数据，2009年，埃塞俄比亚8岁儿童在过去一周内报告受到教师体罚的百分比大约是38%。\n\n答案：B\n",
       "performance_metrics": {
         "init_time_us": 1486367,
         "prompt_processing_time_us": 159789,
@@ -999,8 +857,6 @@
       "question_index": 71,
       "global_index": 71,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1472003,
         "prompt_processing_time_us": 163007,
@@ -1013,8 +869,6 @@
       "question_index": 72,
       "global_index": 72,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1470859,
         "prompt_processing_time_us": 160712,
@@ -1027,8 +881,6 @@
       "question_index": 73,
       "global_index": 73,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1475222,
         "prompt_processing_time_us": 161059,
@@ -1041,8 +893,6 @@
       "question_index": 74,
       "global_index": 74,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1486562,
         "prompt_processing_time_us": 161103,
@@ -1055,8 +905,6 @@
       "question_index": 75,
       "global_index": 75,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1518942,
         "prompt_processing_time_us": 160760,
@@ -1069,8 +917,6 @@
       "question_index": 76,
       "global_index": 76,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1524757,
         "prompt_processing_time_us": 159225,
@@ -1083,8 +929,6 @@
       "question_index": 77,
       "global_index": 77,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1481798,
         "prompt_processing_time_us": 160973,
@@ -1097,8 +941,6 @@
       "question_index": 78,
       "global_index": 78,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1486095,
         "prompt_processing_time_us": 160899,
@@ -1111,8 +953,6 @@
       "question_index": 79,
       "global_index": 79,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1475689,
         "prompt_processing_time_us": 160004,
@@ -1125,8 +965,6 @@
       "question_index": 80,
       "global_index": 80,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1451884,
         "prompt_processing_time_us": 161163,
@@ -1139,8 +977,6 @@
       "question_index": 81,
       "global_index": 81,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1509251,
         "prompt_processing_time_us": 163590,
@@ -1153,8 +989,6 @@
       "question_index": 82,
       "global_index": 82,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1493320,
         "prompt_processing_time_us": 161918,
@@ -1167,8 +1001,6 @@
       "question_index": 83,
       "global_index": 83,
       "final_answer": "C",
-      "model_output": 
-"首先，我们需要找到关于居住在城市地区的印度人比例的准确数据。由于题目没有直接给出，我们假设这是一个需要通过数据分析得出的问题。\n\n根据全球事实（Global Facts）的数据，我们可以推测居住在城市地区的印度人口比例。通常，居住在城市地区的印度人口比例会接近或超过50%。\n\n答案：C\n",
       "performance_metrics": {
         "init_time_us": 1354010,
         "prompt_processing_time_us": 161357,
@@ -1181,22 +1013,18 @@
       "question_index": 84,
       "global_index": 84,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1511015,
         "prompt_processing_time_us": 161335,
         "prompt_processing_rate_toks_per_sec": 1197.604736,
         "token_generation_time_us": 128618,
-        "token_generation_rate_toks_per_sec": 31.100330
+        "token_generation_rate_toks_per_sec": 31.10033
       }
     },
     {
       "question_index": 85,
       "global_index": 85,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1499262,
         "prompt_processing_time_us": 159738,
@@ -1209,8 +1037,6 @@
       "question_index": 86,
       "global_index": 86,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503443,
         "prompt_processing_time_us": 161250,
@@ -1223,8 +1049,6 @@
       "question_index": 87,
       "global_index": 87,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1481244,
         "prompt_processing_time_us": 161282,
@@ -1237,8 +1061,6 @@
       "question_index": 88,
       "global_index": 88,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1478933,
         "prompt_processing_time_us": 161685,
@@ -1251,8 +1073,6 @@
       "question_index": 89,
       "global_index": 89,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1474872,
         "prompt_processing_time_us": 160612,
@@ -1265,8 +1085,6 @@
       "question_index": 90,
       "global_index": 90,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1503659,
         "prompt_processing_time_us": 161278,
@@ -1279,8 +1097,6 @@
       "question_index": 91,
       "global_index": 91,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1502831,
         "prompt_processing_time_us": 161107,
@@ -1293,8 +1109,6 @@
       "question_index": 92,
       "global_index": 92,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1483873,
         "prompt_processing_time_us": 163322,
@@ -1307,8 +1121,6 @@
       "question_index": 93,
       "global_index": 93,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1476037,
         "prompt_processing_time_us": 160542,
@@ -1321,8 +1133,6 @@
       "question_index": 94,
       "global_index": 94,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1494551,
         "prompt_processing_time_us": 160644,
@@ -1335,8 +1145,6 @@
       "question_index": 95,
       "global_index": 95,
       "final_answer": "B",
-      "model_output": 
-"答案：B\n",
       "performance_metrics": {
         "init_time_us": 1480844,
         "prompt_processing_time_us": 160830,
@@ -1349,8 +1157,6 @@
       "question_index": 96,
       "global_index": 96,
       "final_answer": "D",
-      "model_output": 
-"答案：D\n",
       "performance_metrics": {
         "init_time_us": 1511942,
         "prompt_processing_time_us": 160793,
@@ -1363,8 +1169,6 @@
       "question_index": 97,
       "global_index": 97,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1480294,
         "prompt_processing_time_us": 161579,
@@ -1377,22 +1181,18 @@
       "question_index": 98,
       "global_index": 98,
       "final_answer": "C",
-      "model_output": 
-"答案：C\n",
       "performance_metrics": {
         "init_time_us": 1495353,
         "prompt_processing_time_us": 160862,
         "prompt_processing_rate_toks_per_sec": 846.023682,
         "token_generation_time_us": 128586,
-        "token_generation_rate_toks_per_sec": 31.108070
+        "token_generation_rate_toks_per_sec": 31.10807
       }
     },
     {
       "question_index": 99,
       "global_index": 99,
       "final_answer": "A",
-      "model_output": 
-"答案：A\n",
       "performance_metrics": {
         "init_time_us": 1507774,
         "prompt_processing_time_us": 159552,
