@@ -1,0 +1,2 @@
+# 忽略 qwen2.5-3B 文件夹中的 .serialized.bin 文件
+qwen2.5-3B/*.serialized.bin

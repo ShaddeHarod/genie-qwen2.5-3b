@@ -1,0 +1,19 @@
+{
+  "subject": "prehistory",
+  "total_questions": 324,
+  "correct_count": 165,
+  "wrong_count": 159,
+  "accuracy_rate": 0.5093,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      128,
+      147
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1026.975,
+    "avg_token_generation_rate_toks_per_sec": 33.756,
+    "total_processed_answers": 324
+  }
+}

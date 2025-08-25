@@ -1,0 +1,18 @@
+{
+  "subject": "high_school_geography",
+  "total_questions": 198,
+  "correct_count": 129,
+  "wrong_count": 69,
+  "accuracy_rate": 0.6515,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      189
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 916.125,
+    "avg_token_generation_rate_toks_per_sec": 31.009,
+    "total_processed_answers": 198
+  }
+}

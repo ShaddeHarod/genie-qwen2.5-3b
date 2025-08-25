@@ -1,0 +1,19 @@
+{
+  "subject": "high_school_psychology",
+  "total_questions": 545,
+  "correct_count": 389,
+  "wrong_count": 156,
+  "accuracy_rate": 0.7138,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      224,
+      483
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 994.597,
+    "avg_token_generation_rate_toks_per_sec": 30.705,
+    "total_processed_answers": 545
+  }
+}

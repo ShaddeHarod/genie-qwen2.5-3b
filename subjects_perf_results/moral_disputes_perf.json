@@ -1,0 +1,22 @@
+{
+  "subject": "moral_disputes",
+  "total_questions": 346,
+  "correct_count": 188,
+  "wrong_count": 158,
+  "accuracy_rate": 0.5434,
+  "answer_not_found": {
+    "count": 5,
+    "question_indices": [
+      140,
+      143,
+      156,
+      189,
+      212
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1018.988,
+    "avg_token_generation_rate_toks_per_sec": 31.759,
+    "total_processed_answers": 346
+  }
+}

@@ -1,0 +1,1769 @@
+{
+  "subject": "formal_logic",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1500519,
+        "prompt_processing_time_us": 242411,
+        "prompt_processing_rate_toks_per_sec": 1114.827148,
+        "token_generation_time_us": 128227,
+        "token_generation_rate_toks_per_sec": 31.195408
+      }
+    },
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1422907,
+        "prompt_processing_time_us": 160190,
+        "prompt_processing_rate_toks_per_sec": 905.797119,
+        "token_generation_time_us": 128478,
+        "token_generation_rate_toks_per_sec": 31.134220
+      }
+    },
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1475811,
+        "prompt_processing_time_us": 159858,
+        "prompt_processing_rate_toks_per_sec": 1270.648071,
+        "token_generation_time_us": 126165,
+        "token_generation_rate_toks_per_sec": 31.704765
+      }
+    },
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "final_answer": "A",
+      "model_output": 
+"为了构建真值表，我们需要考虑命题 G 和 H 的所有可能真值情况。命题 G 和 H 的真值可以独立变化，因此共有 \(2^2 = 4\) 种情况。\n\n| G | H | ~G | ~H | ~G ⊃ H | ~H / G |\n|---|---|---|---|---|---|\n| T | T | F | F | T | T |\n| T | F | F | T | T | F |\n| F | T | T | F | T | T |\n| F | F | T | T | T | T |\n\n根据真值表，我们可以看到在所有情况下，~G ⊃ H 和 ~H / G 都是真值表中的 T（真），这意味着该论证的有效性可以通过真值表验证。\n\n因此，该论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1501442,
+        "prompt_processing_time_us": 160474,
+        "prompt_processing_rate_toks_per_sec": 1290.322632,
+        "token_generation_time_us": 8169384,
+        "token_generation_rate_toks_per_sec": 22.768152
+      }
+    },
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476677,
+        "prompt_processing_time_us": 239525,
+        "prompt_processing_rate_toks_per_sec": 1173.708862,
+        "token_generation_time_us": 134276,
+        "token_generation_rate_toks_per_sec": 29.789389
+      }
+    },
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496878,
+        "prompt_processing_time_us": 159464,
+        "prompt_processing_rate_toks_per_sec": 1267.427124,
+        "token_generation_time_us": 127452,
+        "token_generation_rate_toks_per_sec": 31.384365
+      }
+    },
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "final_answer": "A",
+      "model_output": 
+"为了构建这个论证的真值表，我们需要考虑命题 K 和 L 的所有可能真值组合。由于 K 和 L 都可以为真或假，因此总共有 \(2^2 = 4\) 种情况。\n\n| K | L | ~K | ~L | ~K ≡ L | K · L | K · ~L | ~(K · L) | ~(K · ~L) | ~(K ≡ L) | ~(K · L) ∨ (K · ~L) |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| T | T | F | F | T | T | F | F | T | T | T |\n| T | F | F | T | F | F | T | T | F | T | T |\n| F | T | T | F | T | F | T | T | F | T | T |\n| F | F | T | T | T | F | F | T | T | T | T |\n\n根据真值表中的最后一列，我们可以得出结论：\n\n- 当 K 为真而 L 为假时，论证成立。\n- 当 K 为假而 L 为真时，论证成立。\n- 当 K 和 L 都为真时，论证成立。\n- 当 K 和 L 都为假时，论证成立。\n\n因此，该论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483248,
+        "prompt_processing_time_us": 162457,
+        "prompt_processing_rate_toks_per_sec": 1329.787231,
+        "token_generation_time_us": 13847731,
+        "token_generation_rate_toks_per_sec": 22.170000
+      }
+    },
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1499222,
+        "prompt_processing_time_us": 160169,
+        "prompt_processing_rate_toks_per_sec": 974.658875,
+        "token_generation_time_us": 128072,
+        "token_generation_rate_toks_per_sec": 31.232431
+      }
+    },
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1534228,
+        "prompt_processing_time_us": 162168,
+        "prompt_processing_rate_toks_per_sec": 1012.145752,
+        "token_generation_time_us": 128031,
+        "token_generation_rate_toks_per_sec": 31.243166
+      }
+    },
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494173,
+        "prompt_processing_time_us": 163047,
+        "prompt_processing_rate_toks_per_sec": 859.106506,
+        "token_generation_time_us": 124441,
+        "token_generation_rate_toks_per_sec": 32.144005
+      }
+    },
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1495299,
+        "prompt_processing_time_us": 161306,
+        "prompt_processing_rate_toks_per_sec": 1340.482544,
+        "token_generation_time_us": 128263,
+        "token_generation_rate_toks_per_sec": 31.186651
+      }
+    },
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要构建一个真值表来分析给定命题的真值情况。命题由两个部分组成，我们分别处理。\n\n### 第一部分：(~M ⊃ ~N) ∨ (O ≡ N)\n\n- M, N, O的真值分别为 T, F, T\n  - (~M ⊃ ~N) = T ⊃ F = F\n  - (O ≡ N) = T ≡ F = F\n  - (~M ⊃ ~N) ∨ (O ≡ N) = F ∨ F = F\n\n- M, N, O的真值分别为 T, T, T\n  - (~M ⊃ ~N) = T ⊃ T = T\n  - (O ≡ N) = T ≡ T = T\n  - (~M ⊃ ~N) ∨ (O ≡ N) = T ∨ T = T\n\n- M, N, O的真值分别为 T, T, F\n  - (~M ⊃ ~N) = T ⊃ T = T\n  - (O ≡ N) = T ≡ F = F\n  - (~M ⊃ ~N) ∨ (O ≡ N) = T ∨ F = T\n\n- M, N, O的真值分别为 T, F, F\n  - (~M ⊃ ~N) = T ⊃ F = F\n  - (O ≡ N) = T ≡ F = F\n  - (~M ⊃ ~N) ∨ (O ≡ N) = F ∨ F = F\n\n- M, N, O的真值分别为 F, T, T\n  - (~M ⊃ ~N) = F ⊃ F = T\n  - (O ≡ N) = F ≡ T = F\n  - (~M ⊃ ~N) ∨ (O ≡ N) = T ∨ F = T\n\n- M, N, O的真值分别为 F, F, T\n  - (~M ⊃ ~N) = F ⊃ F = T\n  - (O ≡ N) = F ≡ F = T\n  - (~M ⊃ ~N) ∨ (O ≡ N) = T ∨ T = T\n\n- M, N, O的真值分别为 F, F, F\n  - (~M ⊃ ~N) = F ⊃ F = T\n  - (O ≡ N) = F ≡ F = T\n  - (~M ⊃ ~N) ∨ (O ≡ N) = T ∨ T = T\n\n### 第二部分：(~M · N) · [(~O ∨ ~N) · (O ∨ N)]\n\n- M, N, O的真值分别为 T, F, T\n  - (~M · N) = (F · F) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 T, T, T\n  - (~M · N) = (F · T) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 T, F, F\n  - (~M · N) = (F · F) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 T, T, F\n  - (~M · N) = (F · T) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 F, T, T\n  - (~M · N) = (F · T) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 F, F, T\n  - (~M · N) = (F · F) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n- M, N, O的真值分别为 F, F, F\n  - (~M · N) = (F · F) = F\n  - (~O ∨ ~N) · (O ∨ N) = (T ∨ F) · (T ∨ F) = T · T = T\n  - (~M · N) · [(~O ∨ ~N) · (O ∨ N)] = F · T = F\n\n### 结论：\n从真值表中可以看出，当 M, N, O 的真值为 T, F, T 时，命题 (~M ⊃ ~N) ∨ (O ≡ N) 的值为 F，而 (~M · N) · [(~O ∨ ~N) · (O ∨ N)] 的值为 F。因此，这两个命题在所有可能的情况下都取相同的值，即它们是逻辑上等价的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491461,
+        "prompt_processing_time_us": 161420,
+        "prompt_processing_rate_toks_per_sec": 1356.852051,
+        "token_generation_time_us": 59592370,
+        "token_generation_rate_toks_per_sec": 23.275301
+      }
+    },
+    {
+      "question_index": 12,
+      "global_index": 12,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486410,
+        "prompt_processing_time_us": 162757,
+        "prompt_processing_rate_toks_per_sec": 940.733765,
+        "token_generation_time_us": 126670,
+        "token_generation_rate_toks_per_sec": 31.578615
+      }
+    },
+    {
+      "question_index": 13,
+      "global_index": 13,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1506552,
+        "prompt_processing_time_us": 161929,
+        "prompt_processing_rate_toks_per_sec": 1335.113525,
+        "token_generation_time_us": 130873,
+        "token_generation_rate_toks_per_sec": 30.564215
+      }
+    },
+    {
+      "question_index": 14,
+      "global_index": 14,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509684,
+        "prompt_processing_time_us": 161151,
+        "prompt_processing_rate_toks_per_sec": 1297.016846,
+        "token_generation_time_us": 129274,
+        "token_generation_rate_toks_per_sec": 30.942509
+      }
+    },
+    {
+      "question_index": 15,
+      "global_index": 15,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1471607,
+        "prompt_processing_time_us": 160699,
+        "prompt_processing_rate_toks_per_sec": 1512.859253,
+        "token_generation_time_us": 130163,
+        "token_generation_rate_toks_per_sec": 30.731407
+      }
+    },
+    {
+      "question_index": 16,
+      "global_index": 16,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1525290,
+        "prompt_processing_time_us": 160430,
+        "prompt_processing_rate_toks_per_sec": 929.368042,
+        "token_generation_time_us": 127418,
+        "token_generation_rate_toks_per_sec": 31.393232
+      }
+    },
+    {
+      "question_index": 17,
+      "global_index": 17,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493711,
+        "prompt_processing_time_us": 162166,
+        "prompt_processing_rate_toks_per_sec": 1128.668213,
+        "token_generation_time_us": 129883,
+        "token_generation_rate_toks_per_sec": 30.797659
+      }
+    },
+    {
+      "question_index": 18,
+      "global_index": 18,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1466788,
+        "prompt_processing_time_us": 160646,
+        "prompt_processing_rate_toks_per_sec": 1015.228455,
+        "token_generation_time_us": 130617,
+        "token_generation_rate_toks_per_sec": 30.624119
+      }
+    },
+    {
+      "question_index": 19,
+      "global_index": 19,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486743,
+        "prompt_processing_time_us": 160763,
+        "prompt_processing_rate_toks_per_sec": 883.392212,
+        "token_generation_time_us": 127080,
+        "token_generation_rate_toks_per_sec": 31.476236
+      }
+    },
+    {
+      "question_index": 20,
+      "global_index": 20,
+      "final_answer": "A",
+      "model_output": 
+"为了构建一个完整的真值表，我们首先需要确定给定命题的真值。命题包括：\n\n- P ⊃ Q (P 逻辑蕴含 Q)\n- Q · R (Q 逻辑合取 R)\n- ~P · R (逻辑否定 P 逻辑合取 R)\n\n我们需要构建一个包含所有可能的 P、Q、R 的真值组合的表，然后检查每个组合是否满足论证的结论 ~P · R。\n\n让我们构建真值表：\n\n| P | Q | R | P ⊃ Q | Q · R | ~P | ~P · R | ~P · R |\n|---|---|---|-------|-------|-----|---------|--------|\n| T | T | T | T     | T     | F  | F       | T      |\n| T | T | F | T     | F     | F  | T       | T      |\n| T | F | T | F     | T     | F  | T       | T      |\n| T | F | F | T     | F     | F  | T       | T      |\n| F | T | T | T     | T     | T  | F       | F      |\n| F | T | F | T     | F     | T  | F       | F      |\n| F | F | T | T     | T     | T  | T       | T      |\n| F | F | F | T     | F     | T  | F       | F      |\n\n根据真值表，我们可以看到在所有情况下，~P · R 都为真。因此，论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493271,
+        "prompt_processing_time_us": 162752,
+        "prompt_processing_rate_toks_per_sec": 1333.333374,
+        "token_generation_time_us": 15474490,
+        "token_generation_rate_toks_per_sec": 22.747435
+      }
+    },
+    {
+      "question_index": 21,
+      "global_index": 21,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1458609,
+        "prompt_processing_time_us": 161953,
+        "prompt_processing_rate_toks_per_sec": 957.854431,
+        "token_generation_time_us": 127816,
+        "token_generation_rate_toks_per_sec": 31.294987
+      }
+    },
+    {
+      "question_index": 22,
+      "global_index": 22,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1488022,
+        "prompt_processing_time_us": 160243,
+        "prompt_processing_rate_toks_per_sec": 1342.281860,
+        "token_generation_time_us": 129046,
+        "token_generation_rate_toks_per_sec": 30.997179
+      }
+    },
+    {
+      "question_index": 23,
+      "global_index": 23,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"为了构建这个论证的真值表，我们需要考虑命题 J、K 和 L 的所有可能真值情况。命题 J 和 K 通过 J ≡ ~K 这个等值关系进行连接，而 L 则独立存在。因此，我们可以先列出 J 和 K 的真值情况，然后根据 J ≡ ~K 来确定 K 的真值，最后根据 J 和 K 的真值来确定 L 的真值。\n\n1. J 和 K 的真值情况：\n   - J 真，K 真：矛盾，因此不可能同时为真。\n   - J 真，K 假：J ≡ ~K 成立。\n   - J 假，K 真：矛盾，因此不可能同时为真。\n   - J 假，K 假：J ≡ ~K 成立。\n\n2. 由此，J 真，K 假时，J ≡ ~K 成立。因此，当 K 为真时，J 为假。\n\n3. 接下来，根据 J 和 K 的真值，确定 L 的真值：\n   - J 真，K 假，L 真：J ∨ L 成立。\n   - J 真，K 假，L 假：J ∨ L 成立。\n\n4. 最后，根据~K / L 进行判断：\n   - 当 K 为真时，L 为假，~K / L 不成立。\n\n根据上述分析，我们可以得出：\n- 当 K 为真，J 为假，L 为假时，~K / L 不成立。\n\n因此，该论证是无效的。答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1478789,
+        "prompt_processing_time_us": 160780,
+        "prompt_processing_rate_toks_per_sec": 1381.215454,
+        "token_generation_time_us": 16600898,
+        "token_generation_rate_toks_per_sec": 22.288095
+      }
+    },
+    {
+      "question_index": 24,
+      "global_index": 24,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1493379,
+        "prompt_processing_time_us": 161450,
+        "prompt_processing_rate_toks_per_sec": 1090.512573,
+        "token_generation_time_us": 129126,
+        "token_generation_rate_toks_per_sec": 30.977974
+      }
+    },
+    {
+      "question_index": 25,
+      "global_index": 25,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1480160,
+        "prompt_processing_time_us": 160363,
+        "prompt_processing_rate_toks_per_sec": 1315.789429,
+        "token_generation_time_us": 127301,
+        "token_generation_rate_toks_per_sec": 31.421839
+      }
+    },
+    {
+      "question_index": 26,
+      "global_index": 26,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1481804,
+        "prompt_processing_time_us": 161436,
+        "prompt_processing_rate_toks_per_sec": 1028.806641,
+        "token_generation_time_us": 128983,
+        "token_generation_rate_toks_per_sec": 31.012560
+      }
+    },
+    {
+      "question_index": 27,
+      "global_index": 27,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1579397,
+        "prompt_processing_time_us": 160286,
+        "prompt_processing_rate_toks_per_sec": 936.329590,
+        "token_generation_time_us": 127072,
+        "token_generation_rate_toks_per_sec": 31.478216
+      }
+    },
+    {
+      "question_index": 28,
+      "global_index": 28,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1510037,
+        "prompt_processing_time_us": 161481,
+        "prompt_processing_rate_toks_per_sec": 898.472595,
+        "token_generation_time_us": 135160,
+        "token_generation_rate_toks_per_sec": 29.594555
+      }
+    },
+    {
+      "question_index": 29,
+      "global_index": 29,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1473660,
+        "prompt_processing_time_us": 162502,
+        "prompt_processing_rate_toks_per_sec": 1287.001343,
+        "token_generation_time_us": 130294,
+        "token_generation_rate_toks_per_sec": 30.700274
+      }
+    },
+    {
+      "question_index": 30,
+      "global_index": 30,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1528464,
+        "prompt_processing_time_us": 160317,
+        "prompt_processing_rate_toks_per_sec": 1479.289917,
+        "token_generation_time_us": 126505,
+        "token_generation_rate_toks_per_sec": 31.619553
+      }
+    },
+    {
+      "question_index": 31,
+      "global_index": 31,
+      "final_answer": "B",
+      "model_output": 
+"为了构建真值表，我们需要列出所有可能的输入组合，考虑到命题 M 和 N 的真值以及 O 的真值。由于命题的数量为3个，所以总共有\(2^3 = 8\)种可能的输入组合。\n\n| M | N | O | M ∨ N | ~M | ~M · O | ~M · O | 结论：N |\n|---|---|---|---|---|---|---|---|\n| T | T | T | T | F | F | T | T |\n| T | T | F | T | F | T | T | T |\n| T | F | T | T | F | F | T | T |\n| T | F | F | T | F | T | F | T |\n| F | T | T | T | T | F | F | T |\n| F | T | F | T | T | F | F | T |\n| F | F | T | T | T | T | T | T |\n| F | F | F | T | T | T | T | T |\n\n根据真值表分析：\n\n- 当 M 和 O 为真而 N 为假时，论证的有效性为假。\n- 当 M 为真而 O 和 N 为假时，论证的有效性也为假。\n- 当 O 为真而 M 和 N 为假时，论证的有效性也为假。\n\n因此，论证无效。根据反例，当 M 和 O 为真而 N 为假时，是论证无效的一个反例。\n\n答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476011,
+        "prompt_processing_time_us": 160837,
+        "prompt_processing_rate_toks_per_sec": 1356.852051,
+        "token_generation_time_us": 15205487,
+        "token_generation_rate_toks_per_sec": 22.229137
+      }
+    },
+    {
+      "question_index": 32,
+      "global_index": 32,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475488,
+        "prompt_processing_time_us": 161692,
+        "prompt_processing_rate_toks_per_sec": 1046.025146,
+        "token_generation_time_us": 128092,
+        "token_generation_rate_toks_per_sec": 31.227554
+      }
+    },
+    {
+      "question_index": 33,
+      "global_index": 33,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1506181,
+        "prompt_processing_time_us": 161540,
+        "prompt_processing_rate_toks_per_sec": 1108.647461,
+        "token_generation_time_us": 130209,
+        "token_generation_rate_toks_per_sec": 30.720079
+      }
+    },
+    {
+      "question_index": 34,
+      "global_index": 34,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477150,
+        "prompt_processing_time_us": 161908,
+        "prompt_processing_rate_toks_per_sec": 920.810303,
+        "token_generation_time_us": 128302,
+        "token_generation_rate_toks_per_sec": 31.176929
+      }
+    },
+    {
+      "question_index": 35,
+      "global_index": 35,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499011,
+        "prompt_processing_time_us": 161084,
+        "prompt_processing_rate_toks_per_sec": 1390.820557,
+        "token_generation_time_us": 129838,
+        "token_generation_rate_toks_per_sec": 30.808096
+      }
+    },
+    {
+      "question_index": 36,
+      "global_index": 36,
+      "final_answer": "A",
+      "model_output": 
+"为构建真值表，我们首先列出所有可能的值组合。由于有两个命题（T 和 U）和一个命题（W），共有 \(2^3 = 8\) 个可能的真值组合。真值表如下：\n\n| T | U | W | T ∨ U | W · T | W · T / U |\n|---|---|---|---|---|---|\n| T | T | T | T | T | T |\n| T | T | F | T | T | T |\n| T | F | T | T | T | T |\n| T | F | F | T | F | F |\n| F | T | T | T | F | F |\n| F | T | F | T | F | F |\n| F | F | T | T | F | F |\n| F | F | F | T | F | F |\n\n接下来，我们检查 W · T / U 是否为真值表中的每一行，以确定论证的有效性。\n\n- 当 T 和 W 为真而 U 为假时，W · T 为真，W · T / U 为假（因为分母为假，导致整个表达式无意义，但根据逻辑规则，我们假设分母为真，即 W · T / U 为真）。\n- 当 T 为真而 W 和 U 为假时，W · T 为假，W · T / U 为真（因为分母为假，导致整个表达式无意义，但根据逻辑规则，我们假设分母为真，即 W · T / U 为真）。\n- 当 W 为真而 T 和 U 为假时，W · T 为假，W · T / U 为真（同上）。\n\n因此，对于所有可能的真值组合，W · T / U 都为真。这意味着论证的有效性依赖于 T ∨ U 的真值，而 T ∨ U 是总是真的（根据命题的定义，至少有一个命题为真时，T ∨ U 为真）。因此，W · T / U 总是真的，论证有效。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1470936,
+        "prompt_processing_time_us": 160465,
+        "prompt_processing_rate_toks_per_sec": 1353.179932,
+        "token_generation_time_us": 20604674,
+        "token_generation_rate_toks_per_sec": 22.567760
+      }
+    },
+    {
+      "question_index": 37,
+      "global_index": 37,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494204,
+        "prompt_processing_time_us": 162126,
+        "prompt_processing_rate_toks_per_sec": 931.966431,
+        "token_generation_time_us": 131989,
+        "token_generation_rate_toks_per_sec": 30.305786
+      }
+    },
+    {
+      "question_index": 38,
+      "global_index": 38,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1494819,
+        "prompt_processing_time_us": 161130,
+        "prompt_processing_rate_toks_per_sec": 943.396240,
+        "token_generation_time_us": 129612,
+        "token_generation_rate_toks_per_sec": 30.861340
+      }
+    },
+    {
+      "question_index": 39,
+      "global_index": 39,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491381,
+        "prompt_processing_time_us": 160088,
+        "prompt_processing_rate_toks_per_sec": 1394.700195,
+        "token_generation_time_us": 128331,
+        "token_generation_rate_toks_per_sec": 31.170126
+      }
+    },
+    {
+      "question_index": 40,
+      "global_index": 40,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475747,
+        "prompt_processing_time_us": 241540,
+        "prompt_processing_rate_toks_per_sec": 1230.012329,
+        "token_generation_time_us": 128233,
+        "token_generation_rate_toks_per_sec": 31.193462
+      }
+    },
+    {
+      "question_index": 41,
+      "global_index": 41,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1519702,
+        "prompt_processing_time_us": 161429,
+        "prompt_processing_rate_toks_per_sec": 935.453674,
+        "token_generation_time_us": 131542,
+        "token_generation_rate_toks_per_sec": 30.409000
+      }
+    },
+    {
+      "question_index": 42,
+      "global_index": 42,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：D\n\n为了构建真值表，我们首先需要列出所有可能的C和D的真值组合。由于C和D都是命题，它们各有两种可能的真值：真（T）和假（F）。因此，C和D的所有可能组合有：(T, T)，(T, F)，(F, T)，(F, F)。我们使用这些组合来构建真值表。\n\nC ∨ D (C 或 D) 的真值表如下：\n\n| C | D | C ∨ D |\n|---|---|-------|\n| T  | T  | T     |\n| T  | F  | T     |\n| F  | T  | T     |\n| F  | F  | F     |\n\nC ⊃ (D ∨ C) (C 蕴含 (D 或 C)) 的真值表如下：\n\n| C | D | C ∨ D | C ⊃ (D ∨ C)|\n|---|---|-------|----------------|\n| T  | T  | T     | T              |\n| T  | F  | T     | T              |\n| F  | T  | T     | T              |\n| F  | F  | F     | T              |\n\nC · ~D (C 与 ~D) 的真值表如下：\n\n| C | D | ~D | C · ~D|\n|---|---|----|-------|\n| T  | T  | F  | F     |\n| T  | F  | F  | T     |\n| F  | T  | F  | F     |\n| F  | F  | T  | F     |\n\n现在，我们将这三个表达式的真值表合并，以构建完整的真值表：\n\n| C | D | C ∨ D | C ⊃ (D ∨ C) | C · ~D |\n|---|---|-------|----------------|---------|\n| T  | T  | T     | T              | F       |\n| T  | F  | T     | T              | T       |\n| F  | T  | T     | T              | F       |\n| F  | F  | F     | T              | F       |\n\n根据真值表分析：\n\n- C ⊃ (D ∨ C) 的值为 T（真）在所有情况下。\n- C · ~D 的值为 F（假）在所有情况下。\n\n因此，这两个表达式的值在所有情况下都是不同的，即它们不等价。\n\n接下来，我们来检查它们是否矛盾或一致：\n\n- 如果两者在所有情况下都为真或假，则它们是矛盾的。\n- 如果它们在所有情况下都为真或假，则它们是一致的。\n- 如果它们在某些情况下为真，而在其他情况下为假，则它们是一致的。\n\n从真值表可以看出，C ⊃ (D ∨ C) 的值为 T，而 C · ~D 的值为 F。因此，这两个表达式在某些情况下为真，而在其他情况下为假，因此它们是一致的。\n\n综上所述，答案是：D. 不一致。\n",
+      "performance_metrics": {
+        "init_time_us": 1490754,
+        "prompt_processing_time_us": 160306,
+        "prompt_processing_rate_toks_per_sec": 1223.990234,
+        "token_generation_time_us": 29268153,
+        "token_generation_rate_toks_per_sec": 22.892200
+      }
+    },
+    {
+      "question_index": 43,
+      "global_index": 43,
+      "final_answer": "D",
+      "model_output": 
+"首先，我们构建命题的真值表。命题为：~O ⊃ P and O ∨ P。\n\n| O | P | ~O | ~O ⊃ P | O ∨ P | ~O ⊃ P and O ∨ P |\n| --- | --- | --- | --- | --- | --- |\n| T | T | F | T | T | T |\n| T | F | F | T | T | T |\n| F | T | T | F | T | F |\n| F | F | T | T | T | T |\n\n从真值表中，我们可以看到，当O为真时，~O ⊃ P and O ∨ P 为真；当O为假时，~O ⊃ P and O ∨ P 也为真。因此，这两个命题不是逻辑上等价的，也不是矛盾的。\n\n另外，当O为真时，~O ⊃ P and O ∨ P 为真，当O为假时，~O ⊃ P and O ∨ P 也为真。因此，这两个命题是一致的。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1502733,
+        "prompt_processing_time_us": 162030,
+        "prompt_processing_rate_toks_per_sec": 1186.239624,
+        "token_generation_time_us": 10714937,
+        "token_generation_rate_toks_per_sec": 22.492128
+      }
+    },
+    {
+      "question_index": 44,
+      "global_index": 44,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1464421,
+        "prompt_processing_time_us": 162775,
+        "prompt_processing_rate_toks_per_sec": 1474.926270,
+        "token_generation_time_us": 127594,
+        "token_generation_rate_toks_per_sec": 31.349928
+      }
+    },
+    {
+      "question_index": 45,
+      "global_index": 45,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1489631,
+        "prompt_processing_time_us": 160782,
+        "prompt_processing_rate_toks_per_sec": 1113.585693,
+        "token_generation_time_us": 126831,
+        "token_generation_rate_toks_per_sec": 31.538776
+      }
+    },
+    {
+      "question_index": 46,
+      "global_index": 46,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1474471,
+        "prompt_processing_time_us": 162374,
+        "prompt_processing_rate_toks_per_sec": 1053.740723,
+        "token_generation_time_us": 129457,
+        "token_generation_rate_toks_per_sec": 30.898529
+      }
+    },
+    {
+      "question_index": 47,
+      "global_index": 47,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1479351,
+        "prompt_processing_time_us": 241674,
+        "prompt_processing_rate_toks_per_sec": 1379.310303,
+        "token_generation_time_us": 136548,
+        "token_generation_rate_toks_per_sec": 29.293728
+      }
+    },
+    {
+      "question_index": 48,
+      "global_index": 48,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1478713,
+        "prompt_processing_time_us": 164350,
+        "prompt_processing_rate_toks_per_sec": 1338.688110,
+        "token_generation_time_us": 127459,
+        "token_generation_rate_toks_per_sec": 31.383379
+      }
+    },
+    {
+      "question_index": 49,
+      "global_index": 49,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1364400,
+        "prompt_processing_time_us": 242970,
+        "prompt_processing_rate_toks_per_sec": 1317.523071,
+        "token_generation_time_us": 124672,
+        "token_generation_rate_toks_per_sec": 32.084190
+      }
+    },
+    {
+      "question_index": 50,
+      "global_index": 50,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1491681,
+        "prompt_processing_time_us": 160609,
+        "prompt_processing_rate_toks_per_sec": 959.692871,
+        "token_generation_time_us": 129549,
+        "token_generation_rate_toks_per_sec": 30.876587
+      }
+    },
+    {
+      "question_index": 51,
+      "global_index": 51,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1500294,
+        "prompt_processing_time_us": 163641,
+        "prompt_processing_rate_toks_per_sec": 1009.081726,
+        "token_generation_time_us": 127478,
+        "token_generation_rate_toks_per_sec": 31.378456
+      }
+    },
+    {
+      "question_index": 52,
+      "global_index": 52,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1488864,
+        "prompt_processing_time_us": 162219,
+        "prompt_processing_rate_toks_per_sec": 937.207092,
+        "token_generation_time_us": 129786,
+        "token_generation_rate_toks_per_sec": 30.820440
+      }
+    },
+    {
+      "question_index": 53,
+      "global_index": 53,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1487559,
+        "prompt_processing_time_us": 161319,
+        "prompt_processing_rate_toks_per_sec": 1172.332886,
+        "token_generation_time_us": 132088,
+        "token_generation_rate_toks_per_sec": 30.282843
+      }
+    },
+    {
+      "question_index": 54,
+      "global_index": 54,
+      "final_answer": "D",
+      "model_output": 
+"不是 Aardvarks 就是 Chipmunks 没有赢得首场比赛。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496957,
+        "prompt_processing_time_us": 160172,
+        "prompt_processing_rate_toks_per_sec": 1193.317383,
+        "token_generation_time_us": 954924,
+        "token_generation_rate_toks_per_sec": 24.085939
+      }
+    },
+    {
+      "question_index": 55,
+      "global_index": 55,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1500828,
+        "prompt_processing_time_us": 161358,
+        "prompt_processing_rate_toks_per_sec": 880.281677,
+        "token_generation_time_us": 130261,
+        "token_generation_rate_toks_per_sec": 30.707815
+      }
+    },
+    {
+      "question_index": 56,
+      "global_index": 56,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492234,
+        "prompt_processing_time_us": 162046,
+        "prompt_processing_rate_toks_per_sec": 1203.369385,
+        "token_generation_time_us": 131506,
+        "token_generation_rate_toks_per_sec": 30.417326
+      }
+    },
+    {
+      "question_index": 57,
+      "global_index": 57,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1463981,
+        "prompt_processing_time_us": 159417,
+        "prompt_processing_rate_toks_per_sec": 1481.481445,
+        "token_generation_time_us": 126697,
+        "token_generation_rate_toks_per_sec": 31.571636
+      }
+    },
+    {
+      "question_index": 58,
+      "global_index": 58,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1468476,
+        "prompt_processing_time_us": 163083,
+        "prompt_processing_rate_toks_per_sec": 925.925903,
+        "token_generation_time_us": 125163,
+        "token_generation_rate_toks_per_sec": 31.959093
+      }
+    },
+    {
+      "question_index": 59,
+      "global_index": 59,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1477876,
+        "prompt_processing_time_us": 161850,
+        "prompt_processing_rate_toks_per_sec": 1273.885376,
+        "token_generation_time_us": 128027,
+        "token_generation_rate_toks_per_sec": 31.244143
+      }
+    },
+    {
+      "question_index": 60,
+      "global_index": 60,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1517339,
+        "prompt_processing_time_us": 243483,
+        "prompt_processing_rate_toks_per_sec": 1212.121216,
+        "token_generation_time_us": 124585,
+        "token_generation_rate_toks_per_sec": 32.106853
+      }
+    },
+    {
+      "question_index": 61,
+      "global_index": 61,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1501201,
+        "prompt_processing_time_us": 239229,
+        "prompt_processing_rate_toks_per_sec": 1141.552490,
+        "token_generation_time_us": 133453,
+        "token_generation_rate_toks_per_sec": 29.973324
+      }
+    },
+    {
+      "question_index": 62,
+      "global_index": 62,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491670,
+        "prompt_processing_time_us": 160106,
+        "prompt_processing_rate_toks_per_sec": 1474.926270,
+        "token_generation_time_us": 128008,
+        "token_generation_rate_toks_per_sec": 31.248047
+      }
+    },
+    {
+      "question_index": 63,
+      "global_index": 63,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1468785,
+        "prompt_processing_time_us": 162108,
+        "prompt_processing_rate_toks_per_sec": 851.788757,
+        "token_generation_time_us": 134442,
+        "token_generation_rate_toks_per_sec": 29.753050
+      }
+    },
+    {
+      "question_index": 64,
+      "global_index": 64,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1500818,
+        "prompt_processing_time_us": 161461,
+        "prompt_processing_rate_toks_per_sec": 799.360535,
+        "token_generation_time_us": 132024,
+        "token_generation_rate_toks_per_sec": 30.297522
+      }
+    },
+    {
+      "question_index": 65,
+      "global_index": 65,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1504937,
+        "prompt_processing_time_us": 160909,
+        "prompt_processing_rate_toks_per_sec": 1007.049316,
+        "token_generation_time_us": 127862,
+        "token_generation_rate_toks_per_sec": 31.284218
+      }
+    },
+    {
+      "question_index": 66,
+      "global_index": 66,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493259,
+        "prompt_processing_time_us": 159730,
+        "prompt_processing_rate_toks_per_sec": 939.849609,
+        "token_generation_time_us": 127859,
+        "token_generation_rate_toks_per_sec": 31.285196
+      }
+    },
+    {
+      "question_index": 67,
+      "global_index": 67,
+      "final_answer": "CA",
+      "model_output": 
+"~C ⊃ D 为真：0\nD ⊃ C 为真：0\nC：0\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496987,
+        "prompt_processing_time_us": 161649,
+        "prompt_processing_rate_toks_per_sec": 1300.390137,
+        "token_generation_time_us": 1220094,
+        "token_generation_rate_toks_per_sec": 23.768778
+      }
+    },
+    {
+      "question_index": 68,
+      "global_index": 68,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491375,
+        "prompt_processing_time_us": 162240,
+        "prompt_processing_rate_toks_per_sec": 1103.752808,
+        "token_generation_time_us": 130807,
+        "token_generation_rate_toks_per_sec": 30.580105
+      }
+    },
+    {
+      "question_index": 69,
+      "global_index": 69,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1494379,
+        "prompt_processing_time_us": 239806,
+        "prompt_processing_rate_toks_per_sec": 1197.604736,
+        "token_generation_time_us": 130270,
+        "token_generation_rate_toks_per_sec": 30.705929
+      }
+    },
+    {
+      "question_index": 70,
+      "global_index": 70,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490289,
+        "prompt_processing_time_us": 239383,
+        "prompt_processing_rate_toks_per_sec": 1207.729492,
+        "token_generation_time_us": 129142,
+        "token_generation_rate_toks_per_sec": 30.974136
+      }
+    },
+    {
+      "question_index": 71,
+      "global_index": 71,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1484892,
+        "prompt_processing_time_us": 161774,
+        "prompt_processing_rate_toks_per_sec": 1385.041504,
+        "token_generation_time_us": 127669,
+        "token_generation_rate_toks_per_sec": 31.331266
+      }
+    },
+    {
+      "question_index": 72,
+      "global_index": 72,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1478507,
+        "prompt_processing_time_us": 160595,
+        "prompt_processing_rate_toks_per_sec": 1239.157349,
+        "token_generation_time_us": 133961,
+        "token_generation_rate_toks_per_sec": 29.859659
+      }
+    },
+    {
+      "question_index": 73,
+      "global_index": 73,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要构建一个包含所有可能真值组合的真值表。给定的论证是：\n\n\[ (O quiv P) \lor P \implies P \lor \neg O \]\n\n为了构建真值表，我们需要考虑 \(O\) 和 \(P\) 的所有可能组合。我们可以列出所有可能的真值组合：\n\n1. \(O\) 为真，\(P\) 为真\n2. \(O\) 为真，\(P\) 为假\n3. \(O\) 为假，\(P\) 为真\n4. \(O\) 为假，\(P\) 为假\n\n接下来，我们逐个分析每个组合，以确定论证的有效性。\n\n### 真值表\n\n| \(O\) | \(P\) | \(O quiv P\) | \(O quiv P \lor P\) | \(P \lor \neg O\) | \(O quiv P \lor P \implies P \lor \neg O\) |\n| --- | --- | --- | --- | --- | --- |\n| 真 | 真 | 真 | 真 | 真 | 真 |\n| 真 | 假 | 假 | 真 | 真 | 真 |\n| 假 | 真 | 假 | 假 | 真 | 真 |\n| 假 | 假 | 真 | 真 | 真 | 真 |\n\n### 逻辑分析\n\n1. 当 \(O\) 为真，\(P\) 为真时：\n   - \(O quiv P\) 为真\n   - \(O quiv P \lor P\) 为真\n   - \(P \lor \neg O\) 为真\n   - \(O quiv P \lor P \implies P \lor \neg O\) 为真\n\n2. 当 \(O\) 为真，\(P\) 为假时：\n   - \(O quiv P\) 为假\n   - \(O quiv P \lor P\) 为真\n   - \(P \lor \neg O\) 为真\n   - \(O quiv P \lor P \implies P \lor \neg O\) 为真\n\n3. 当 \(O\) 为假，\(P\) 为真时：\n   - \(O quiv P\) 为假\n   - \(O quiv P \lor P\) 为真\n   - \(P \lor \neg O\) 为真\n   - \(O quiv P \lor P \implies P \lor \neg O\) 为真\n\n4. 当 \(O\) 为假，\(P\) 为假时：\n   - \(O quiv P\) 为真\n   - \(O quiv P \lor P\) 为真\n   - \(P \lor \neg O\) 为真\n   - \(O quiv P \lor P \implies P \lor \neg O\) 为真\n\n### 结论\n\n从真值表可以看出，无论 \(O\) 和 \(P\) 的值如何变化，论证 \(O quiv P \lor P \implies P \lor \neg O\) 总是成立。因此，该论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491164,
+        "prompt_processing_time_us": 162027,
+        "prompt_processing_rate_toks_per_sec": 1308.900513,
+        "token_generation_time_us": 31297388,
+        "token_generation_rate_toks_per_sec": 23.005430
+      }
+    },
+    {
+      "question_index": 74,
+      "global_index": 74,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1504850,
+        "prompt_processing_time_us": 161077,
+        "prompt_processing_rate_toks_per_sec": 944.287048,
+        "token_generation_time_us": 126809,
+        "token_generation_rate_toks_per_sec": 31.543751
+      }
+    },
+    {
+      "question_index": 75,
+      "global_index": 75,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503017,
+        "prompt_processing_time_us": 162342,
+        "prompt_processing_rate_toks_per_sec": 1103.752808,
+        "token_generation_time_us": 131258,
+        "token_generation_rate_toks_per_sec": 30.474798
+      }
+    },
+    {
+      "question_index": 76,
+      "global_index": 76,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1488246,
+        "prompt_processing_time_us": 161509,
+        "prompt_processing_rate_toks_per_sec": 1084.598755,
+        "token_generation_time_us": 128742,
+        "token_generation_rate_toks_per_sec": 31.070374
+      }
+    },
+    {
+      "question_index": 77,
+      "global_index": 77,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1495852,
+        "prompt_processing_time_us": 160662,
+        "prompt_processing_rate_toks_per_sec": 1408.450684,
+        "token_generation_time_us": 128718,
+        "token_generation_rate_toks_per_sec": 31.076168
+      }
+    },
+    {
+      "question_index": 78,
+      "global_index": 78,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492534,
+        "prompt_processing_time_us": 242022,
+        "prompt_processing_rate_toks_per_sec": 1062.699219,
+        "token_generation_time_us": 132243,
+        "token_generation_rate_toks_per_sec": 30.248034
+      }
+    },
+    {
+      "question_index": 79,
+      "global_index": 79,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479830,
+        "prompt_processing_time_us": 163657,
+        "prompt_processing_rate_toks_per_sec": 971.817322,
+        "token_generation_time_us": 128843,
+        "token_generation_rate_toks_per_sec": 31.046259
+      }
+    },
+    {
+      "question_index": 80,
+      "global_index": 80,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1498639,
+        "prompt_processing_time_us": 159855,
+        "prompt_processing_rate_toks_per_sec": 1264.222534,
+        "token_generation_time_us": 126079,
+        "token_generation_rate_toks_per_sec": 31.726894
+      }
+    },
+    {
+      "question_index": 81,
+      "global_index": 81,
+      "final_answer": "A",
+      "model_output": 
+"~A · ~B\n(A ∨ C) ∨ B\n\n| ~A | ~B | ~A · ~B | A ∨ C | A ∨ C ∨ B | ~(A ∨ C) ∨ B | ~(A · ~B) ∨ (A ∨ C) ∨ B |\n| --- | --- | --- | --- | --- | --- | --- |\n| T | T | F | T | T | F | T |\n| T | F | F | T | T | F | T |\n| F | T | T | F | F | T | F |\n| F | F | T | F | F | T | F |\n\nA. 有效\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1516526,
+        "prompt_processing_time_us": 161351,
+        "prompt_processing_rate_toks_per_sec": 1383.125854,
+        "token_generation_time_us": 6758111,
+        "token_generation_rate_toks_per_sec": 22.639801
+      }
+    },
+    {
+      "question_index": 82,
+      "global_index": 82,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1485668,
+        "prompt_processing_time_us": 160590,
+        "prompt_processing_rate_toks_per_sec": 1340.482544,
+        "token_generation_time_us": 129449,
+        "token_generation_rate_toks_per_sec": 30.900438
+      }
+    },
+    {
+      "question_index": 83,
+      "global_index": 83,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1479482,
+        "prompt_processing_time_us": 162301,
+        "prompt_processing_rate_toks_per_sec": 1572.327026,
+        "token_generation_time_us": 126238,
+        "token_generation_rate_toks_per_sec": 31.686682
+      }
+    },
+    {
+      "question_index": 84,
+      "global_index": 84,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492626,
+        "prompt_processing_time_us": 239583,
+        "prompt_processing_rate_toks_per_sec": 1366.120239,
+        "token_generation_time_us": 127819,
+        "token_generation_rate_toks_per_sec": 31.294987
+      }
+    },
+    {
+      "question_index": 85,
+      "global_index": 85,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1498611,
+        "prompt_processing_time_us": 160847,
+        "prompt_processing_rate_toks_per_sec": 1051.524658,
+        "token_generation_time_us": 128474,
+        "token_generation_rate_toks_per_sec": 31.135189
+      }
+    },
+    {
+      "question_index": 86,
+      "global_index": 86,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509318,
+        "prompt_processing_time_us": 160746,
+        "prompt_processing_rate_toks_per_sec": 1089.324585,
+        "token_generation_time_us": 130201,
+        "token_generation_rate_toks_per_sec": 30.721966
+      }
+    },
+    {
+      "question_index": 87,
+      "global_index": 87,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"为了构建一个完整的真值表，我们需要列出所有可能的输入组合，并根据给定的逻辑表达式计算它们的真值。这里逻辑表达式是：\n\n~X ⊃ Y\nY ⊃ Z\n~Z / ~X\n\n我们可以将这个论证简化为：\n1. ~X ⊃ Y\n2. Y ⊃ Z\n3. ~Z ⊃ ~X\n\n真值表如下：\n\n| X | Y | Z | ~X ⊃ Y | Y ⊃ Z | ~Z ⊃ ~X | ~X ⊃ Y & Y ⊃ Z & ~Z ⊃ ~X |\n|---|---|---|---------|---------|-----------|--------------------------------|\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F | T |   F     |   T     |      T    |        F               |\n| T | F | F |   F     |   T     |      T    |        F               |\n| T | T | T |   F     |   T     |      T    |        T               |\n| T | T | F |   F     |   F     |      T    |        F               |\n| T | F |\n",
+      "performance_metrics": {
+        "init_time_us": 1503823,
+        "prompt_processing_time_us": 161138,
+        "prompt_processing_rate_toks_per_sec": 1366.120239,
+        "token_generation_time_us": 165942187,
+        "token_generation_rate_toks_per_sec": 23.363939
+      }
+    },
+    {
+      "question_index": 88,
+      "global_index": 88,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493665,
+        "prompt_processing_time_us": 164977,
+        "prompt_processing_rate_toks_per_sec": 1552.795044,
+        "token_generation_time_us": 129434,
+        "token_generation_rate_toks_per_sec": 30.904259
+      }
+    },
+    {
+      "question_index": 89,
+      "global_index": 89,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500034,
+        "prompt_processing_time_us": 162264,
+        "prompt_processing_rate_toks_per_sec": 1282.051270,
+        "token_generation_time_us": 130661,
+        "token_generation_rate_toks_per_sec": 30.613808
+      }
+    },
+    {
+      "question_index": 90,
+      "global_index": 90,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要构建一个真值表来分析给定的论证有效性。论证的两个部分是：\n\n1. \( Q ≡ R \) (Q 等于 R)\n2. \( ~(S ∨ Q) / R \) (非(S 或 Q) 推出 R)\n\n我们可以将 \( Q ≡ R \) 简化为 \( Q ightarrow R \) 和 \( R ightarrow Q \)，即 \( Q ightarrow R \) 和 \( R ightarrow Q \)。这意味着 Q 和 R 在真值上是等价的。\n\n现在，我们构建真值表：\n\n| Q | R | S | Q → R | R → Q | ~(S ∨ Q) | ~(S ∨ Q) → R |\n|---|---|---|-------|-------|---------|-----------------|\n| T | T | T | T     | T     | F       | T               |\n| T | T | F | T     | T     | T       | T               |\n| T | F | T | F     | T     | T       | T               |\n| T | F | F | F     | F     | F       | T               |\n| F | T | T | T     | T     | F       | T               |\n| F | T | F | T     | T     | T       | T               |\n| F | F | T | T     | T     | T       | T               |\n| F | F | F | T     | T     | F       | T               |\n\n根据真值表，我们可以看到，在所有情况下，论证的两个部分都保持一致，即无论 Q、R 和 S 的真值如何变化，论证的结论 \( R \) 总是成立的。因此，这个论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477407,
+        "prompt_processing_time_us": 162894,
+        "prompt_processing_rate_toks_per_sec": 1338.688110,
+        "token_generation_time_us": 17111621,
+        "token_generation_rate_toks_per_sec": 22.499720
+      }
+    },
+    {
+      "question_index": 91,
+      "global_index": 91,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1510157,
+        "prompt_processing_time_us": 164295,
+        "prompt_processing_rate_toks_per_sec": 925.925903,
+        "token_generation_time_us": 132588,
+        "token_generation_rate_toks_per_sec": 30.168642
+      }
+    },
+    {
+      "question_index": 92,
+      "global_index": 92,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492978,
+        "prompt_processing_time_us": 162080,
+        "prompt_processing_rate_toks_per_sec": 1024.590210,
+        "token_generation_time_us": 132326,
+        "token_generation_rate_toks_per_sec": 30.228832
+      }
+    },
+    {
+      "question_index": 93,
+      "global_index": 93,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493400,
+        "prompt_processing_time_us": 161983,
+        "prompt_processing_rate_toks_per_sec": 963.391113,
+        "token_generation_time_us": 133427,
+        "token_generation_rate_toks_per_sec": 29.979614
+      }
+    },
+    {
+      "question_index": 94,
+      "global_index": 94,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1498916,
+        "prompt_processing_time_us": 163095,
+        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "token_generation_time_us": 130094,
+        "token_generation_rate_toks_per_sec": 30.747471
+      }
+    },
+    {
+      "question_index": 95,
+      "global_index": 95,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"首先，构建一个包含所有可能真值的真值表。考虑到有三个命题（S, T, U），每个命题有两种真值（真或假），因此总共有 \(2^3 = 8\) 种可能的真值组合。\n\n| S | T | U | ~S | ~T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨ T | ~S · U | ~T ∨ U | S ∨\n",
+      "performance_metrics": {
+        "init_time_us": 1510178,
+        "prompt_processing_time_us": 161837,
+        "prompt_processing_rate_toks_per_sec": 1385.041504,
+        "token_generation_time_us": 166262747,
+        "token_generation_rate_toks_per_sec": 23.294819
+      }
+    },
+    {
+      "question_index": 96,
+      "global_index": 96,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1475483,
+        "prompt_processing_time_us": 162360,
+        "prompt_processing_rate_toks_per_sec": 930.232544,
+        "token_generation_time_us": 133031,
+        "token_generation_rate_toks_per_sec": 30.068857
+      }
+    },
+    {
+      "question_index": 97,
+      "global_index": 97,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503254,
+        "prompt_processing_time_us": 241533,
+        "prompt_processing_rate_toks_per_sec": 1089.324585,
+        "token_generation_time_us": 136546,
+        "token_generation_rate_toks_per_sec": 29.294586
+      }
+    },
+    {
+      "question_index": 98,
+      "global_index": 98,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1509201,
+        "prompt_processing_time_us": 164263,
+        "prompt_processing_rate_toks_per_sec": 1297.016846,
+        "token_generation_time_us": 129811,
+        "token_generation_rate_toks_per_sec": 30.814741
+      }
+    },
+    {
+      "question_index": 99,
+      "global_index": 99,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n\n为了构建真值表，我们首先需要列出命题的真值表。命题为：(G ∨ ~H) ⊃ G 和 ~G ≡ (~H · G)。\n\n1. 为G、H赋值，分别设为T和F。\n2. 然后计算每个命题的真值。\n\nG | H | G ∨ ~H | (G ∨ ~H) ⊃ G | ~H · G\nT | T | T | T | T\nT | F | T | T | F\nF | T | T | T | T\nF | F | T | T | F\n\n根据真值表的结果，我们发现：\n- 当G为真时，(G ∨ ~H) ⊃ G 和 ~H · G 的值都为真。\n- 当G为假时，(G ∨ ~H) ⊃ G 和 ~H · G 的值都为假。\n\n这说明，这两个命题在所有情况下都具有相同的真值，因此它们是逻辑上等价的。\n\n然而，我们还需要检查它们是否矛盾或一致。命题矛盾意味着两个命题在所有情况下都具有相反的真值。命题一致意味着两个命题在所有情况下都具有相同的真值。从真值表可以看出，这两个命题在所有情况下都具有相同的真值，因此它们是逻辑上等价的，而不是矛盾的或一致的。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1475577,
+        "prompt_processing_time_us": 162280,
+        "prompt_processing_rate_toks_per_sec": 1239.157349,
+        "token_generation_time_us": 13894340,
+        "token_generation_rate_toks_per_sec": 21.951487
+      }
+    },
+    {
+      "question_index": 100,
+      "global_index": 100,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1510198,
+        "prompt_processing_time_us": 161369,
+        "prompt_processing_rate_toks_per_sec": 1259.445801,
+        "token_generation_time_us": 129930,
+        "token_generation_rate_toks_per_sec": 30.786282
+      }
+    },
+    {
+      "question_index": 101,
+      "global_index": 101,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1487900,
+        "prompt_processing_time_us": 241938,
+        "prompt_processing_rate_toks_per_sec": 1344.086060,
+        "token_generation_time_us": 134803,
+        "token_generation_rate_toks_per_sec": 29.673590
+      }
+    },
+    {
+      "question_index": 102,
+      "global_index": 102,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1524413,
+        "prompt_processing_time_us": 164769,
+        "prompt_processing_rate_toks_per_sec": 1324.503296,
+        "token_generation_time_us": 130551,
+        "token_generation_rate_toks_per_sec": 30.640072
+      }
+    },
+    {
+      "question_index": 103,
+      "global_index": 103,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1515282,
+        "prompt_processing_time_us": 160700,
+        "prompt_processing_rate_toks_per_sec": 1102.535889,
+        "token_generation_time_us": 131010,
+        "token_generation_rate_toks_per_sec": 30.532486
+      }
+    },
+    {
+      "question_index": 104,
+      "global_index": 104,
+      "final_answer": "A",
+      "model_output": 
+"为构建真值表，我们首先列出所有可能的原子命题(I 和 J)的真值组合。由于有两个命题，因此总共有 \(2^2 = 4\) 种可能的组合。\n\n| I | J | I ≡ ~J | I ∨ J | I ≡ ~J ∨ I ∨ J |\n|---|---|---|---|---|\n| T | T | F | T | T |\n| T | F | T | T | T |\n| F | T | T | T | T |\n| F | F | T | F | F |\n\n解释：\n- I ≡ ~J 表示 I 等于 ~J，即 I 和 J 的否定。\n- I ∨ J 表示 I 或 J。\n- I ≡ ~J ∨ I ∨ J 表示 I ≡ ~J 或者 I ∨ J。\n\n从真值表可以看出，无论 I 和 J 的值如何，该论证的结论 I 总是真的。因此，该论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1495377,
+        "prompt_processing_time_us": 162230,
+        "prompt_processing_rate_toks_per_sec": 1302.083374,
+        "token_generation_time_us": 10107211,
+        "token_generation_rate_toks_per_sec": 22.459293
+      }
+    },
+    {
+      "question_index": 105,
+      "global_index": 105,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492044,
+        "prompt_processing_time_us": 161709,
+        "prompt_processing_rate_toks_per_sec": 859.845215,
+        "token_generation_time_us": 130767,
+        "token_generation_rate_toks_per_sec": 30.589458
+      }
+    },
+    {
+      "question_index": 106,
+      "global_index": 106,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494499,
+        "prompt_processing_time_us": 162885,
+        "prompt_processing_rate_toks_per_sec": 921.658997,
+        "token_generation_time_us": 130959,
+        "token_generation_rate_toks_per_sec": 30.544611
+      }
+    },
+    {
+      "question_index": 107,
+      "global_index": 107,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1516802,
+        "prompt_processing_time_us": 163085,
+        "prompt_processing_rate_toks_per_sec": 968.992249,
+        "token_generation_time_us": 136479,
+        "token_generation_rate_toks_per_sec": 29.309183
+      }
+    },
+    {
+      "question_index": 108,
+      "global_index": 108,
+      "final_answer": "D",
+      "model_output": 
+"首先，我们需要构建一个间接真值表来分析这个论证的有效性。间接真值表需要考虑的是前提和结论之间的关系，特别是当结论为假时，前提是否可以同时为真。\n\n前提：\n1. H ≡ (I · ~J)\n2. K ≡ ~H\n3. ~(K ⊃ J)\n\n结论：\n4. I ≡ J\n\n我们需要检查当结论 I ≡ J 为假时，前提是否可以同时为真。\n\n让我们先构建真值表：\n\nH I J K H ≡ (I · ~J) K ≡ ~H ~(K ⊃ J) I ≡ J\nT T T T T T T F\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\nT T T T T T T T\n\n根据上面的真值表，我们可以看到，当 K ≡ ~H 为真时，即 K 为真而 H 为假时，K ⊃ J 为假，因此 ~(K ⊃ J) 为真。此时，如果 I 和 H 都为真，那么 H ≡ (I · ~J) 为假，这与前提 H ≡ (I · ~J) 矛盾。因此，当 K 为真而 I、H 和 J 为真时，论证无效。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1498856,
+        "prompt_processing_time_us": 163499,
+        "prompt_processing_rate_toks_per_sec": 1402.524536,
+        "token_generation_time_us": 15278705,
+        "token_generation_rate_toks_per_sec": 22.645952
+      }
+    },
+    {
+      "question_index": 109,
+      "global_index": 109,
+      "final_answer": "D",
+      "model_output": 
+"首先，我们构建命题的真值表。\n\n| J | K | L | ~(J ∨ K) | ~(J ∨ K) · L | L ⊃ J | (L ⊃ J) · K |\n|---|---|---|---------|-----------------|--------|------------------|\n| T | T | T | F        | F              | T      | T                |\n| T | T | F | F        | F              | T      | F                |\n| T | F | T | F        | F              | T      | F                |\n| T | F | F | T        | T              | T      | T                |\n| F | T | T | T        | T              | T      | T                |\n| F | T | F | T        | F              | T      | F                |\n| F | F | T | T        | T              | T      | T                |\n| F | F | F | T        | T              | T      | T                |\n\n根据真值表，我们可以观察到每种组合下命题的结果并不相同，因此这些命题既不等价也不矛盾，但是一致。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491817,
+        "prompt_processing_time_us": 164942,
+        "prompt_processing_rate_toks_per_sec": 1219.512207,
+        "token_generation_time_us": 11380661,
+        "token_generation_rate_toks_per_sec": 22.318937
+      }
+    },
+    {
+      "question_index": 110,
+      "global_index": 110,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1486203,
+        "prompt_processing_time_us": 162643,
+        "prompt_processing_rate_toks_per_sec": 990.098999,
+        "token_generation_time_us": 131542,
+        "token_generation_rate_toks_per_sec": 30.409000
+      }
+    },
+    {
+      "question_index": 111,
+      "global_index": 111,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1488025,
+        "prompt_processing_time_us": 162975,
+        "prompt_processing_rate_toks_per_sec": 816.326538,
+        "token_generation_time_us": 135582,
+        "token_generation_rate_toks_per_sec": 29.502876
+      }
+    },
+    {
+      "question_index": 112,
+      "global_index": 112,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1491560,
+        "prompt_processing_time_us": 163164,
+        "prompt_processing_rate_toks_per_sec": 1036.269409,
+        "token_generation_time_us": 132105,
+        "token_generation_rate_toks_per_sec": 30.279175
+      }
+    },
+    {
+      "question_index": 113,
+      "global_index": 113,
+      "final_answer": "D",
+      "model_output": 
+"控制遗传特征的原理在不到 150 年前就已有说明。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1488915,
+        "prompt_processing_time_us": 242296,
+        "prompt_processing_rate_toks_per_sec": 1127.395752,
+        "token_generation_time_us": 1002937,
+        "token_generation_rate_toks_per_sec": 22.933149
+      }
+    },
+    {
+      "question_index": 114,
+      "global_index": 114,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1480220,
+        "prompt_processing_time_us": 162356,
+        "prompt_processing_rate_toks_per_sec": 1251.564453,
+        "token_generation_time_us": 131192,
+        "token_generation_rate_toks_per_sec": 30.489664
+      }
+    },
+    {
+      "question_index": 115,
+      "global_index": 115,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476618,
+        "prompt_processing_time_us": 161455,
+        "prompt_processing_rate_toks_per_sec": 1257.861694,
+        "token_generation_time_us": 132498,
+        "token_generation_rate_toks_per_sec": 30.189590
+      }
+    },
+    {
+      "question_index": 116,
+      "global_index": 116,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1493007,
+        "prompt_processing_time_us": 162551,
+        "prompt_processing_rate_toks_per_sec": 941.619568,
+        "token_generation_time_us": 129074,
+        "token_generation_rate_toks_per_sec": 30.990456
+      }
+    },
+    {
+      "question_index": 117,
+      "global_index": 117,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1485442,
+        "prompt_processing_time_us": 164147,
+        "prompt_processing_rate_toks_per_sec": 926.784058,
+        "token_generation_time_us": 127260,
+        "token_generation_rate_toks_per_sec": 31.431715
+      }
+    },
+    {
+      "question_index": 118,
+      "global_index": 118,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1523720,
+        "prompt_processing_time_us": 163311,
+        "prompt_processing_rate_toks_per_sec": 1060.445435,
+        "token_generation_time_us": 127984,
+        "token_generation_rate_toks_per_sec": 31.253906
+      }
+    },
+    {
+      "question_index": 119,
+      "global_index": 119,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1527398,
+        "prompt_processing_time_us": 162424,
+        "prompt_processing_rate_toks_per_sec": 1090.512573,
+        "token_generation_time_us": 133217,
+        "token_generation_rate_toks_per_sec": 30.026423
+      }
+    },
+    {
+      "question_index": 120,
+      "global_index": 120,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492307,
+        "prompt_processing_time_us": 161282,
+        "prompt_processing_rate_toks_per_sec": 1308.900513,
+        "token_generation_time_us": 129238,
+        "token_generation_rate_toks_per_sec": 30.951128
+      }
+    },
+    {
+      "question_index": 121,
+      "global_index": 121,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1478585,
+        "prompt_processing_time_us": 161601,
+        "prompt_processing_rate_toks_per_sec": 1392.757690,
+        "token_generation_time_us": 131226,
+        "token_generation_rate_toks_per_sec": 30.482229
+      }
+    },
+    {
+      "question_index": 122,
+      "global_index": 122,
+      "final_answer": "A",
+      "model_output": 
+"首先，我们需要构建一个真值表来评估给定论证的有效性。这个论证的形式如下：\n\n(G ≡ H) · ~I\n~G ∨ (~H ∨ I)\nG\n\n为了构建真值表，我们需要考虑所有可能的逻辑值组合，即 \(G, H, I\) 的值。由于有三个变量，总共有 \(2^3 = 8\) 种可能的组合。我们将构建真值表如下：\n\n| G | H | I | G ≡ H | (G ≡ H) · ~I | ~G | ~H ∨ I | ~G ∨ (~H ∨ I) | G |\n|---|---|---|---------|----------------|-----|---------|----------------|-----|\n| T | T | T |     F  |        F       | F   |     T   |         T       | T   |\n| T | T | F |     F  |        T       | F   |     T   |         T       | T   |\n| T | F | T |     T  |        F       | F   |     T   |         T       | T   |\n| T | F | F |     T  |        F       | F   |     T   |         T       | T   |\n| F | T | T |     T  |        T       | T   |     T   |         T       | F   |\n| F | T | F |     T  |        T       | T   |     T   |         T       | F   |\n| F | F | T |     T  |        F       | T   |     T   |         T       | F   |\n| F | F | F |     T  |        F       | T   |     T   |         T       | F   |\n\n现在，我们检查每个行中是否满足论证的第二个条件：\n~G ∨ (~H ∨ I)\n\n根据真值表中的逻辑值，我们看到在所有情况下，该条件都是真的。因此，论证的第二个条件总是满足的。\n\n接下来，我们检查第一个条件：\n(G ≡ H) · ~I\n\n同样，根据真值表中的逻辑值，我们可以看到在所有情况下，这个条件也是真的。\n\n由于两个条件都总是为真，这意味着论证的结论 G 也总是为真。因此，这个论证是有效的。\n\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483943,
+        "prompt_processing_time_us": 162052,
+        "prompt_processing_rate_toks_per_sec": 1394.700195,
+        "token_generation_time_us": 22402343,
+        "token_generation_rate_toks_per_sec": 22.810219
+      }
+    },
+    {
+      "question_index": 123,
+      "global_index": 123,
+      "final_answer": "B",
+      "model_output": 
+"~(M ≡ ~N) ≡ (M ∧ ~N) ∨ (N ∧ ~M)\n\n| M | N | ~(M ≡ ~N) | ~(M ∧ ~N) ∨ (N ∧ ~M) |\n| --- | --- | --- | --- |\n| T | T | F | F |\n| T | F | F | T |\n| F | T | F | T |\n| F | F | T | T |\n\n根据真值表，当 M 和 N 都为真时，论证的结果为假，因此该论证无效。\n\n答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1448851,
+        "prompt_processing_time_us": 162100,
+        "prompt_processing_rate_toks_per_sec": 1297.016846,
+        "token_generation_time_us": 5801559,
+        "token_generation_rate_toks_per_sec": 22.063366
+      }
+    },
+    {
+      "question_index": 124,
+      "global_index": 124,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1505850,
+        "prompt_processing_time_us": 163505,
+        "prompt_processing_rate_toks_per_sec": 1278.772339,
+        "token_generation_time_us": 130108,
+        "token_generation_rate_toks_per_sec": 30.743690
+      }
+    },
+    {
+      "question_index": 125,
+      "global_index": 125,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1473226,
+        "prompt_processing_time_us": 162357,
+        "prompt_processing_rate_toks_per_sec": 1269.035522,
+        "token_generation_time_us": 130889,
+        "token_generation_rate_toks_per_sec": 30.560480
+      }
+    }
+  ]
+}

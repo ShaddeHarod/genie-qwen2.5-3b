@@ -1,0 +1,19 @@
+{
+  "subject": "astronomy",
+  "total_questions": 152,
+  "correct_count": 90,
+  "wrong_count": 62,
+  "accuracy_rate": 0.5921,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      18,
+      117
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1081.163,
+    "avg_token_generation_rate_toks_per_sec": 34.709,
+    "total_processed_answers": 152
+  }
+}

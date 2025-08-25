@@ -1,0 +1,21 @@
+{
+  "subject": "professional_psychology",
+  "total_questions": 612,
+  "correct_count": 318,
+  "wrong_count": 294,
+  "accuracy_rate": 0.5196,
+  "answer_not_found": {
+    "count": 4,
+    "question_indices": [
+      205,
+      264,
+      355,
+      500
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1044.689,
+    "avg_token_generation_rate_toks_per_sec": 30.545,
+    "total_processed_answers": 612
+  }
+}

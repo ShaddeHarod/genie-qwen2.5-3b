@@ -1,0 +1,18 @@
+{
+  "subject": "high_school_world_history",
+  "total_questions": 237,
+  "correct_count": 161,
+  "wrong_count": 76,
+  "accuracy_rate": 0.6793,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      213
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1398.54,
+    "avg_token_generation_rate_toks_per_sec": 32.461,
+    "total_processed_answers": 237
+  }
+}

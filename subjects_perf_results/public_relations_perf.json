@@ -1,0 +1,16 @@
+{
+  "subject": "public_relations",
+  "total_questions": 110,
+  "correct_count": 56,
+  "wrong_count": 54,
+  "accuracy_rate": 0.5091,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1030.866,
+    "avg_token_generation_rate_toks_per_sec": 33.282,
+    "total_processed_answers": 110
+  }
+}

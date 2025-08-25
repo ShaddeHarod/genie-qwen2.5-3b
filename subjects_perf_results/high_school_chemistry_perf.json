@@ -1,0 +1,20 @@
+{
+  "subject": "high_school_chemistry",
+  "total_questions": 203,
+  "correct_count": 86,
+  "wrong_count": 117,
+  "accuracy_rate": 0.4236,
+  "answer_not_found": {
+    "count": 3,
+    "question_indices": [
+      62,
+      68,
+      101
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1116.473,
+    "avg_token_generation_rate_toks_per_sec": 31.897,
+    "total_processed_answers": 203
+  }
+}

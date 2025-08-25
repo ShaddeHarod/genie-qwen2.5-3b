@@ -1,0 +1,21 @@
+{
+  "subject": "formal_logic",
+  "total_questions": 126,
+  "correct_count": 54,
+  "wrong_count": 72,
+  "accuracy_rate": 0.4286,
+  "answer_not_found": {
+    "count": 4,
+    "question_indices": [
+      23,
+      42,
+      87,
+      95
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1167.278,
+    "avg_token_generation_rate_toks_per_sec": 29.363,
+    "total_processed_answers": 126
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "high_school_european_history",
+  "total_questions": 165,
+  "correct_count": 116,
+  "wrong_count": 49,
+  "accuracy_rate": 0.703,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1424.404,
+    "avg_token_generation_rate_toks_per_sec": 34.422,
+    "total_processed_answers": 165
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "high_school_us_history",
+  "total_questions": 204,
+  "correct_count": 117,
+  "wrong_count": 87,
+  "accuracy_rate": 0.5735,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1381.203,
+    "avg_token_generation_rate_toks_per_sec": 29.941,
+    "total_processed_answers": 204
+  }
+}

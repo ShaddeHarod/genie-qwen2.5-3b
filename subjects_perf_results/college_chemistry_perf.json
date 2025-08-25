@@ -1,0 +1,16 @@
+{
+  "subject": "college_chemistry",
+  "total_questions": 100,
+  "correct_count": 41,
+  "wrong_count": 59,
+  "accuracy_rate": 0.41,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1143.015,
+    "avg_token_generation_rate_toks_per_sec": 34.641,
+    "total_processed_answers": 100
+  }
+}

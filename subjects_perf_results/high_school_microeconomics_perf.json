@@ -1,0 +1,20 @@
+{
+  "subject": "high_school_microeconomics",
+  "total_questions": 238,
+  "correct_count": 145,
+  "wrong_count": 93,
+  "accuracy_rate": 0.6092,
+  "answer_not_found": {
+    "count": 3,
+    "question_indices": [
+      11,
+      46,
+      95
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1015.448,
+    "avg_token_generation_rate_toks_per_sec": 30.234,
+    "total_processed_answers": 238
+  }
+}

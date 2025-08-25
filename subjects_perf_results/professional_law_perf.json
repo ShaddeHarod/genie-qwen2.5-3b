@@ -1,0 +1,22 @@
+{
+  "subject": "professional_law",
+  "total_questions": 1534,
+  "correct_count": 540,
+  "wrong_count": 994,
+  "accuracy_rate": 0.352,
+  "answer_not_found": {
+    "count": 5,
+    "question_indices": [
+      104,
+      978,
+      1081,
+      1094,
+      1252
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1322.373,
+    "avg_token_generation_rate_toks_per_sec": 30.118,
+    "total_processed_answers": 1534
+  }
+}

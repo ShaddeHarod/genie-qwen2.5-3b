@@ -1,0 +1,16 @@
+{
+  "subject": "marketing",
+  "total_questions": 234,
+  "correct_count": 180,
+  "wrong_count": 54,
+  "accuracy_rate": 0.7692,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 988.217,
+    "avg_token_generation_rate_toks_per_sec": 34.135,
+    "total_processed_answers": 234
+  }
+}

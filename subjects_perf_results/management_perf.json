@@ -1,0 +1,16 @@
+{
+  "subject": "management",
+  "total_questions": 103,
+  "correct_count": 65,
+  "wrong_count": 38,
+  "accuracy_rate": 0.6311,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1103.062,
+    "avg_token_generation_rate_toks_per_sec": 34.297,
+    "total_processed_answers": 103
+  }
+}

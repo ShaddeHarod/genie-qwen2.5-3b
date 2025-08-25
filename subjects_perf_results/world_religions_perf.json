@@ -1,0 +1,16 @@
+{
+  "subject": "world_religions",
+  "total_questions": 171,
+  "correct_count": 108,
+  "wrong_count": 63,
+  "accuracy_rate": 0.6316,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 936.898,
+    "avg_token_generation_rate_toks_per_sec": 33.577,
+    "total_processed_answers": 171
+  }
+}

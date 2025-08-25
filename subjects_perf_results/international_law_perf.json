@@ -1,0 +1,16 @@
+{
+  "subject": "international_law",
+  "total_questions": 121,
+  "correct_count": 89,
+  "wrong_count": 32,
+  "accuracy_rate": 0.7355,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1117.798,
+    "avg_token_generation_rate_toks_per_sec": 33.402,
+    "total_processed_answers": 121
+  }
+}

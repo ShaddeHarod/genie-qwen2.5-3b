@@ -1,0 +1,21 @@
+{
+  "subject": "college_medicine",
+  "total_questions": 173,
+  "correct_count": 94,
+  "wrong_count": 79,
+  "accuracy_rate": 0.5434,
+  "answer_not_found": {
+    "count": 4,
+    "question_indices": [
+      4,
+      26,
+      116,
+      164
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1084.954,
+    "avg_token_generation_rate_toks_per_sec": 30.877,
+    "total_processed_answers": 173
+  }
+}

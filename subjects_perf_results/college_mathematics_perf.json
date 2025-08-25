@@ -1,0 +1,20 @@
+{
+  "subject": "college_mathematics",
+  "total_questions": 100,
+  "correct_count": 29,
+  "wrong_count": 71,
+  "accuracy_rate": 0.29,
+  "answer_not_found": {
+    "count": 3,
+    "question_indices": [
+      6,
+      88,
+      96
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1087.439,
+    "avg_token_generation_rate_toks_per_sec": 30.123,
+    "total_processed_answers": 100
+  }
+}

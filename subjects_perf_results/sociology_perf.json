@@ -1,0 +1,16 @@
+{
+  "subject": "sociology",
+  "total_questions": 201,
+  "correct_count": 137,
+  "wrong_count": 64,
+  "accuracy_rate": 0.6816,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1004.054,
+    "avg_token_generation_rate_toks_per_sec": 30.713,
+    "total_processed_answers": 201
+  }
+}

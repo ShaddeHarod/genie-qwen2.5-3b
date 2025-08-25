@@ -1,0 +1,16 @@
+{
+  "subject": "virology",
+  "total_questions": 166,
+  "correct_count": 68,
+  "wrong_count": 98,
+  "accuracy_rate": 0.4096,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 975.877,
+    "avg_token_generation_rate_toks_per_sec": 33.597,
+    "total_processed_answers": 166
+  }
+}

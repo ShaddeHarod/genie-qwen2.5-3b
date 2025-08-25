@@ -1,0 +1,19 @@
+{
+  "subject": "human_sexuality",
+  "total_questions": 131,
+  "correct_count": 82,
+  "wrong_count": 49,
+  "accuracy_rate": 0.626,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      17,
+      38
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 977.531,
+    "avg_token_generation_rate_toks_per_sec": 34.06,
+    "total_processed_answers": 131
+  }
+}

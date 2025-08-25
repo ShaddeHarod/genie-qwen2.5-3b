@@ -1,0 +1,26 @@
+{
+  "subject": "high_school_physics",
+  "total_questions": 151,
+  "correct_count": 54,
+  "wrong_count": 97,
+  "accuracy_rate": 0.3576,
+  "answer_not_found": {
+    "count": 9,
+    "question_indices": [
+      1,
+      10,
+      11,
+      31,
+      83,
+      96,
+      127,
+      130,
+      138
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1156.026,
+    "avg_token_generation_rate_toks_per_sec": 29.792,
+    "total_processed_answers": 151
+  }
+}

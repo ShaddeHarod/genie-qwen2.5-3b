@@ -1,0 +1,18 @@
+{
+  "subject": "global_facts",
+  "total_questions": 100,
+  "correct_count": 35,
+  "wrong_count": 65,
+  "accuracy_rate": 0.35,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      55
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 933.706,
+    "avg_token_generation_rate_toks_per_sec": 30.473,
+    "total_processed_answers": 100
+  }
+}

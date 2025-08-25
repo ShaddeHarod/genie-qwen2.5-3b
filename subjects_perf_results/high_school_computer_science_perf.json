@@ -1,0 +1,16 @@
+{
+  "subject": "high_school_computer_science",
+  "total_questions": 100,
+  "correct_count": 59,
+  "wrong_count": 41,
+  "accuracy_rate": 0.59,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1171.724,
+    "avg_token_generation_rate_toks_per_sec": 30.879,
+    "total_processed_answers": 100
+  }
+}

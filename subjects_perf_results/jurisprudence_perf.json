@@ -1,0 +1,16 @@
+{
+  "subject": "jurisprudence",
+  "total_questions": 108,
+  "correct_count": 72,
+  "wrong_count": 36,
+  "accuracy_rate": 0.6667,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1046.693,
+    "avg_token_generation_rate_toks_per_sec": 33.347,
+    "total_processed_answers": 108
+  }
+}

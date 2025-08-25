@@ -1,0 +1,19 @@
+{
+  "subject": "professional_medicine",
+  "total_questions": 272,
+  "correct_count": 142,
+  "wrong_count": 130,
+  "accuracy_rate": 0.5221,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      137,
+      224
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1305.003,
+    "avg_token_generation_rate_toks_per_sec": 31.761,
+    "total_processed_answers": 272
+  }
+}

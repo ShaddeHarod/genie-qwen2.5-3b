@@ -1,0 +1,18 @@
+{
+  "subject": "human_aging",
+  "total_questions": 223,
+  "correct_count": 126,
+  "wrong_count": 97,
+  "accuracy_rate": 0.565,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      186
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 910.004,
+    "avg_token_generation_rate_toks_per_sec": 30.385,
+    "total_processed_answers": 223
+  }
+}

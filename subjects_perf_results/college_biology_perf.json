@@ -1,0 +1,16 @@
+{
+  "subject": "college_biology",
+  "total_questions": 144,
+  "correct_count": 81,
+  "wrong_count": 63,
+  "accuracy_rate": 0.5625,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1068.248,
+    "avg_token_generation_rate_toks_per_sec": 35.063,
+    "total_processed_answers": 144
+  }
+}

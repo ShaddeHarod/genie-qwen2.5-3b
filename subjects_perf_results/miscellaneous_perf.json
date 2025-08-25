@@ -1,0 +1,23 @@
+{
+  "subject": "miscellaneous",
+  "total_questions": 783,
+  "correct_count": 469,
+  "wrong_count": 314,
+  "accuracy_rate": 0.599,
+  "answer_not_found": {
+    "count": 6,
+    "question_indices": [
+      172,
+      501,
+      637,
+      642,
+      686,
+      753
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1020.68,
+    "avg_token_generation_rate_toks_per_sec": 31.375,
+    "total_processed_answers": 783
+  }
+}

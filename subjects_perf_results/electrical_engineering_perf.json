@@ -1,0 +1,16 @@
+{
+  "subject": "electrical_engineering",
+  "total_questions": 145,
+  "correct_count": 72,
+  "wrong_count": 73,
+  "accuracy_rate": 0.4966,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 965.316,
+    "avg_token_generation_rate_toks_per_sec": 34.655,
+    "total_processed_answers": 145
+  }
+}

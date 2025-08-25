@@ -1,0 +1,21 @@
+{
+  "subject": "high_school_statistics",
+  "total_questions": 216,
+  "correct_count": 107,
+  "wrong_count": 109,
+  "accuracy_rate": 0.4954,
+  "answer_not_found": {
+    "count": 4,
+    "question_indices": [
+      14,
+      131,
+      146,
+      204
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1249.841,
+    "avg_token_generation_rate_toks_per_sec": 32.179,
+    "total_processed_answers": 216
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "subject": "high_school_macroeconomics",
+  "total_questions": 390,
+  "correct_count": 226,
+  "wrong_count": 164,
+  "accuracy_rate": 0.5795,
+  "answer_not_found": {
+    "count": 6,
+    "question_indices": [
+      78,
+      114,
+      138,
+      140,
+      154,
+      213
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1026.389,
+    "avg_token_generation_rate_toks_per_sec": 31.054,
+    "total_processed_answers": 390
+  }
+}

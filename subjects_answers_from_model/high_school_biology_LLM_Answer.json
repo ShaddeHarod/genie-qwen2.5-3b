@@ -1,0 +1,4345 @@
+{
+  "subject": "high_school_biology",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1450771,
+        "prompt_processing_time_us": 161262,
+        "prompt_processing_rate_toks_per_sec": 1048.218018,
+        "token_generation_time_us": 128518,
+        "token_generation_rate_toks_per_sec": 31.124529
+      }
+    },
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1488396,
+        "prompt_processing_time_us": 160241,
+        "prompt_processing_rate_toks_per_sec": 1079.913574,
+        "token_generation_time_us": 128979,
+        "token_generation_rate_toks_per_sec": 31.013521
+      }
+    },
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1502899,
+        "prompt_processing_time_us": 160303,
+        "prompt_processing_rate_toks_per_sec": 979.431946,
+        "token_generation_time_us": 128360,
+        "token_generation_rate_toks_per_sec": 31.162355
+      }
+    },
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1511933,
+        "prompt_processing_time_us": 159751,
+        "prompt_processing_rate_toks_per_sec": 864.304260,
+        "token_generation_time_us": 127139,
+        "token_generation_rate_toks_per_sec": 31.462372
+      }
+    },
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1461396,
+        "prompt_processing_time_us": 160674,
+        "prompt_processing_rate_toks_per_sec": 1003.009033,
+        "token_generation_time_us": 136279,
+        "token_generation_rate_toks_per_sec": 29.352198
+      }
+    },
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1459587,
+        "prompt_processing_time_us": 162921,
+        "prompt_processing_rate_toks_per_sec": 982.318298,
+        "token_generation_time_us": 127156,
+        "token_generation_rate_toks_per_sec": 31.457422
+      }
+    },
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1478536,
+        "prompt_processing_time_us": 163046,
+        "prompt_processing_rate_toks_per_sec": 865.051880,
+        "token_generation_time_us": 125227,
+        "token_generation_rate_toks_per_sec": 31.942759
+      }
+    },
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1472048,
+        "prompt_processing_time_us": 161054,
+        "prompt_processing_rate_toks_per_sec": 856.898010,
+        "token_generation_time_us": 127613,
+        "token_generation_rate_toks_per_sec": 31.345015
+      }
+    },
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1465177,
+        "prompt_processing_time_us": 160633,
+        "prompt_processing_rate_toks_per_sec": 1257.861694,
+        "token_generation_time_us": 126188,
+        "token_generation_rate_toks_per_sec": 31.698734
+      }
+    },
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1476378,
+        "prompt_processing_time_us": 160999,
+        "prompt_processing_rate_toks_per_sec": 1367.989014,
+        "token_generation_time_us": 127019,
+        "token_generation_rate_toks_per_sec": 31.492096
+      }
+    },
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1489047,
+        "prompt_processing_time_us": 161008,
+        "prompt_processing_rate_toks_per_sec": 1007.049316,
+        "token_generation_time_us": 129920,
+        "token_generation_rate_toks_per_sec": 30.788177
+      }
+    },
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1474905,
+        "prompt_processing_time_us": 160392,
+        "prompt_processing_rate_toks_per_sec": 1416.430542,
+        "token_generation_time_us": 127245,
+        "token_generation_rate_toks_per_sec": 31.435667
+      }
+    },
+    {
+      "question_index": 12,
+      "global_index": 12,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1527263,
+        "prompt_processing_time_us": 160992,
+        "prompt_processing_rate_toks_per_sec": 1088.139282,
+        "token_generation_time_us": 128285,
+        "token_generation_rate_toks_per_sec": 31.180817
+      }
+    },
+    {
+      "question_index": 13,
+      "global_index": 13,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1468408,
+        "prompt_processing_time_us": 160549,
+        "prompt_processing_rate_toks_per_sec": 828.500427,
+        "token_generation_time_us": 129470,
+        "token_generation_rate_toks_per_sec": 30.895666
+      }
+    },
+    {
+      "question_index": 14,
+      "global_index": 14,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1521814,
+        "prompt_processing_time_us": 160397,
+        "prompt_processing_rate_toks_per_sec": 1116.071411,
+        "token_generation_time_us": 127175,
+        "token_generation_rate_toks_per_sec": 31.453465
+      }
+    },
+    {
+      "question_index": 15,
+      "global_index": 15,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1473545,
+        "prompt_processing_time_us": 159270,
+        "prompt_processing_rate_toks_per_sec": 1206.272583,
+        "token_generation_time_us": 127686,
+        "token_generation_rate_toks_per_sec": 31.327339
+      }
+    },
+    {
+      "question_index": 16,
+      "global_index": 16,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492325,
+        "prompt_processing_time_us": 162183,
+        "prompt_processing_rate_toks_per_sec": 980.392151,
+        "token_generation_time_us": 127019,
+        "token_generation_rate_toks_per_sec": 31.492096
+      }
+    },
+    {
+      "question_index": 17,
+      "global_index": 17,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1484854,
+        "prompt_processing_time_us": 161239,
+        "prompt_processing_rate_toks_per_sec": 806.451599,
+        "token_generation_time_us": 131182,
+        "token_generation_rate_toks_per_sec": 30.492453
+      }
+    },
+    {
+      "question_index": 18,
+      "global_index": 18,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1459396,
+        "prompt_processing_time_us": 160432,
+        "prompt_processing_rate_toks_per_sec": 1128.668213,
+        "token_generation_time_us": 128601,
+        "token_generation_rate_toks_per_sec": 31.104198
+      }
+    },
+    {
+      "question_index": 19,
+      "global_index": 19,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1467523,
+        "prompt_processing_time_us": 161904,
+        "prompt_processing_rate_toks_per_sec": 1340.482544,
+        "token_generation_time_us": 126688,
+        "token_generation_rate_toks_per_sec": 31.573629
+      }
+    },
+    {
+      "question_index": 20,
+      "global_index": 20,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1482696,
+        "prompt_processing_time_us": 160601,
+        "prompt_processing_rate_toks_per_sec": 1127.395752,
+        "token_generation_time_us": 126418,
+        "token_generation_rate_toks_per_sec": 31.641563
+      }
+    },
+    {
+      "question_index": 21,
+      "global_index": 21,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1517721,
+        "prompt_processing_time_us": 160804,
+        "prompt_processing_rate_toks_per_sec": 1089.324585,
+        "token_generation_time_us": 128252,
+        "token_generation_rate_toks_per_sec": 31.188597
+      }
+    },
+    {
+      "question_index": 22,
+      "global_index": 22,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490014,
+        "prompt_processing_time_us": 160779,
+        "prompt_processing_rate_toks_per_sec": 1113.585693,
+        "token_generation_time_us": 127087,
+        "token_generation_rate_toks_per_sec": 31.475245
+      }
+    },
+    {
+      "question_index": 23,
+      "global_index": 23,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1491088,
+        "prompt_processing_time_us": 160868,
+        "prompt_processing_rate_toks_per_sec": 1044.932129,
+        "token_generation_time_us": 125413,
+        "token_generation_rate_toks_per_sec": 31.894875
+      }
+    },
+    {
+      "question_index": 24,
+      "global_index": 24,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1498624,
+        "prompt_processing_time_us": 160952,
+        "prompt_processing_rate_toks_per_sec": 956.937805,
+        "token_generation_time_us": 127733,
+        "token_generation_rate_toks_per_sec": 31.315567
+      }
+    },
+    {
+      "question_index": 25,
+      "global_index": 25,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1480285,
+        "prompt_processing_time_us": 160244,
+        "prompt_processing_rate_toks_per_sec": 1336.898438,
+        "token_generation_time_us": 127442,
+        "token_generation_rate_toks_per_sec": 31.387320
+      }
+    },
+    {
+      "question_index": 26,
+      "global_index": 26,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1516320,
+        "prompt_processing_time_us": 160903,
+        "prompt_processing_rate_toks_per_sec": 945.179565,
+        "token_generation_time_us": 130296,
+        "token_generation_rate_toks_per_sec": 30.699331
+      }
+    },
+    {
+      "question_index": 27,
+      "global_index": 27,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1466367,
+        "prompt_processing_time_us": 160934,
+        "prompt_processing_rate_toks_per_sec": 1007.049316,
+        "token_generation_time_us": 128748,
+        "token_generation_rate_toks_per_sec": 31.068443
+      }
+    },
+    {
+      "question_index": 28,
+      "global_index": 28,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1486545,
+        "prompt_processing_time_us": 161848,
+        "prompt_processing_rate_toks_per_sec": 1212.121216,
+        "token_generation_time_us": 126987,
+        "token_generation_rate_toks_per_sec": 31.500032
+      }
+    },
+    {
+      "question_index": 29,
+      "global_index": 29,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1468985,
+        "prompt_processing_time_us": 160104,
+        "prompt_processing_rate_toks_per_sec": 1062.699219,
+        "token_generation_time_us": 128149,
+        "token_generation_rate_toks_per_sec": 31.213909
+      }
+    },
+    {
+      "question_index": 30,
+      "global_index": 30,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1503232,
+        "prompt_processing_time_us": 159947,
+        "prompt_processing_rate_toks_per_sec": 982.318298,
+        "token_generation_time_us": 132040,
+        "token_generation_rate_toks_per_sec": 30.293850
+      }
+    },
+    {
+      "question_index": 31,
+      "global_index": 31,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1472830,
+        "prompt_processing_time_us": 160327,
+        "prompt_processing_rate_toks_per_sec": 842.459961,
+        "token_generation_time_us": 130252,
+        "token_generation_rate_toks_per_sec": 30.709702
+      }
+    },
+    {
+      "question_index": 32,
+      "global_index": 32,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1467560,
+        "prompt_processing_time_us": 159884,
+        "prompt_processing_rate_toks_per_sec": 1070.663818,
+        "token_generation_time_us": 128557,
+        "token_generation_rate_toks_per_sec": 31.114845
+      }
+    },
+    {
+      "question_index": 33,
+      "global_index": 33,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1483286,
+        "prompt_processing_time_us": 162338,
+        "prompt_processing_rate_toks_per_sec": 1152.073730,
+        "token_generation_time_us": 128200,
+        "token_generation_rate_toks_per_sec": 31.201248
+      }
+    },
+    {
+      "question_index": 34,
+      "global_index": 34,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1517802,
+        "prompt_processing_time_us": 158967,
+        "prompt_processing_rate_toks_per_sec": 1044.932129,
+        "token_generation_time_us": 128678,
+        "token_generation_rate_toks_per_sec": 31.085829
+      }
+    },
+    {
+      "question_index": 35,
+      "global_index": 35,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1464143,
+        "prompt_processing_time_us": 160626,
+        "prompt_processing_rate_toks_per_sec": 927.643799,
+        "token_generation_time_us": 128326,
+        "token_generation_rate_toks_per_sec": 31.171099
+      }
+    },
+    {
+      "question_index": 36,
+      "global_index": 36,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1618170,
+        "prompt_processing_time_us": 160010,
+        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "token_generation_time_us": 127893,
+        "token_generation_rate_toks_per_sec": 31.276390
+      }
+    },
+    {
+      "question_index": 37,
+      "global_index": 37,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1470139,
+        "prompt_processing_time_us": 159428,
+        "prompt_processing_rate_toks_per_sec": 847.457642,
+        "token_generation_time_us": 127654,
+        "token_generation_rate_toks_per_sec": 31.335192
+      }
+    },
+    {
+      "question_index": 38,
+      "global_index": 38,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476297,
+        "prompt_processing_time_us": 161616,
+        "prompt_processing_rate_toks_per_sec": 1070.663818,
+        "token_generation_time_us": 130982,
+        "token_generation_rate_toks_per_sec": 30.539013
+      }
+    },
+    {
+      "question_index": 39,
+      "global_index": 39,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499408,
+        "prompt_processing_time_us": 160045,
+        "prompt_processing_rate_toks_per_sec": 1019.367981,
+        "token_generation_time_us": 128322,
+        "token_generation_rate_toks_per_sec": 31.172070
+      }
+    },
+    {
+      "question_index": 40,
+      "global_index": 40,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492258,
+        "prompt_processing_time_us": 159777,
+        "prompt_processing_rate_toks_per_sec": 864.304260,
+        "token_generation_time_us": 126714,
+        "token_generation_rate_toks_per_sec": 31.567650
+      }
+    },
+    {
+      "question_index": 41,
+      "global_index": 41,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1474827,
+        "prompt_processing_time_us": 163668,
+        "prompt_processing_rate_toks_per_sec": 978.473572,
+        "token_generation_time_us": 128345,
+        "token_generation_rate_toks_per_sec": 31.166241
+      }
+    },
+    {
+      "question_index": 42,
+      "global_index": 42,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491839,
+        "prompt_processing_time_us": 238332,
+        "prompt_processing_rate_toks_per_sec": 1183.432007,
+        "token_generation_time_us": 124825,
+        "token_generation_rate_toks_per_sec": 32.045120
+      }
+    },
+    {
+      "question_index": 43,
+      "global_index": 43,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1513287,
+        "prompt_processing_time_us": 163632,
+        "prompt_processing_rate_toks_per_sec": 1069.518677,
+        "token_generation_time_us": 126515,
+        "token_generation_rate_toks_per_sec": 31.617554
+      }
+    },
+    {
+      "question_index": 44,
+      "global_index": 44,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499304,
+        "prompt_processing_time_us": 160177,
+        "prompt_processing_rate_toks_per_sec": 1398.601440,
+        "token_generation_time_us": 128397,
+        "token_generation_rate_toks_per_sec": 31.153618
+      }
+    },
+    {
+      "question_index": 45,
+      "global_index": 45,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1513734,
+        "prompt_processing_time_us": 162044,
+        "prompt_processing_rate_toks_per_sec": 1006.036194,
+        "token_generation_time_us": 125996,
+        "token_generation_rate_toks_per_sec": 31.747040
+      }
+    },
+    {
+      "question_index": 46,
+      "global_index": 46,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1483867,
+        "prompt_processing_time_us": 161153,
+        "prompt_processing_rate_toks_per_sec": 1037.344360,
+        "token_generation_time_us": 127305,
+        "token_generation_rate_toks_per_sec": 31.420851
+      }
+    },
+    {
+      "question_index": 47,
+      "global_index": 47,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1484888,
+        "prompt_processing_time_us": 162815,
+        "prompt_processing_rate_toks_per_sec": 1216.545044,
+        "token_generation_time_us": 127621,
+        "token_generation_rate_toks_per_sec": 31.343050
+      }
+    },
+    {
+      "question_index": 48,
+      "global_index": 48,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1512265,
+        "prompt_processing_time_us": 82705,
+        "prompt_processing_rate_toks_per_sec": 1524.390259,
+        "token_generation_time_us": 126426,
+        "token_generation_rate_toks_per_sec": 31.639563
+      }
+    },
+    {
+      "question_index": 49,
+      "global_index": 49,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1542901,
+        "prompt_processing_time_us": 161054,
+        "prompt_processing_rate_toks_per_sec": 888.099487,
+        "token_generation_time_us": 130417,
+        "token_generation_rate_toks_per_sec": 30.671083
+      }
+    },
+    {
+      "question_index": 50,
+      "global_index": 50,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1447169,
+        "prompt_processing_time_us": 163031,
+        "prompt_processing_rate_toks_per_sec": 1165.501221,
+        "token_generation_time_us": 132682,
+        "token_generation_rate_toks_per_sec": 30.147724
+      }
+    },
+    {
+      "question_index": 51,
+      "global_index": 51,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1483443,
+        "prompt_processing_time_us": 159314,
+        "prompt_processing_rate_toks_per_sec": 1074.113892,
+        "token_generation_time_us": 128904,
+        "token_generation_rate_toks_per_sec": 31.030844
+      }
+    },
+    {
+      "question_index": 52,
+      "global_index": 52,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1478072,
+        "prompt_processing_time_us": 160717,
+        "prompt_processing_rate_toks_per_sec": 865.051880,
+        "token_generation_time_us": 130160,
+        "token_generation_rate_toks_per_sec": 30.731407
+      }
+    },
+    {
+      "question_index": 53,
+      "global_index": 53,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1455000,
+        "prompt_processing_time_us": 160767,
+        "prompt_processing_rate_toks_per_sec": 1145.475342,
+        "token_generation_time_us": 125870,
+        "token_generation_rate_toks_per_sec": 31.779324
+      }
+    },
+    {
+      "question_index": 54,
+      "global_index": 54,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1525940,
+        "prompt_processing_time_us": 159534,
+        "prompt_processing_rate_toks_per_sec": 827.814575,
+        "token_generation_time_us": 126849,
+        "token_generation_rate_toks_per_sec": 31.533804
+      }
+    },
+    {
+      "question_index": 55,
+      "global_index": 55,
+      "final_answer": "D",
+      "model_output": 
+"种内竞争：\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491725,
+        "prompt_processing_time_us": 162866,
+        "prompt_processing_rate_toks_per_sec": 1094.091919,
+        "token_generation_time_us": 339452,
+        "token_generation_rate_toks_per_sec": 26.513947
+      }
+    },
+    {
+      "question_index": 56,
+      "global_index": 56,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1512477,
+        "prompt_processing_time_us": 160933,
+        "prompt_processing_rate_toks_per_sec": 864.304260,
+        "token_generation_time_us": 128688,
+        "token_generation_rate_toks_per_sec": 31.082930
+      }
+    },
+    {
+      "question_index": 57,
+      "global_index": 57,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1397895,
+        "prompt_processing_time_us": 162204,
+        "prompt_processing_rate_toks_per_sec": 900.900879,
+        "token_generation_time_us": 132499,
+        "token_generation_rate_toks_per_sec": 30.189590
+      }
+    },
+    {
+      "question_index": 58,
+      "global_index": 58,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1487386,
+        "prompt_processing_time_us": 160920,
+        "prompt_processing_rate_toks_per_sec": 1367.989014,
+        "token_generation_time_us": 127258,
+        "token_generation_rate_toks_per_sec": 31.432703
+      }
+    },
+    {
+      "question_index": 59,
+      "global_index": 59,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1464731,
+        "prompt_processing_time_us": 160916,
+        "prompt_processing_rate_toks_per_sec": 1106.194702,
+        "token_generation_time_us": 128736,
+        "token_generation_rate_toks_per_sec": 31.071341
+      }
+    },
+    {
+      "question_index": 60,
+      "global_index": 60,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1495391,
+        "prompt_processing_time_us": 161327,
+        "prompt_processing_rate_toks_per_sec": 1190.476196,
+        "token_generation_time_us": 128460,
+        "token_generation_rate_toks_per_sec": 31.138098
+      }
+    },
+    {
+      "question_index": 61,
+      "global_index": 61,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1501106,
+        "prompt_processing_time_us": 160136,
+        "prompt_processing_rate_toks_per_sec": 1319.261230,
+        "token_generation_time_us": 127956,
+        "token_generation_rate_toks_per_sec": 31.260746
+      }
+    },
+    {
+      "question_index": 62,
+      "global_index": 62,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1481427,
+        "prompt_processing_time_us": 161211,
+        "prompt_processing_rate_toks_per_sec": 1005.025146,
+        "token_generation_time_us": 127308,
+        "token_generation_rate_toks_per_sec": 31.419863
+      }
+    },
+    {
+      "question_index": 63,
+      "global_index": 63,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1489293,
+        "prompt_processing_time_us": 159324,
+        "prompt_processing_rate_toks_per_sec": 916.590271,
+        "token_generation_time_us": 126129,
+        "token_generation_rate_toks_per_sec": 31.713814
+      }
+    },
+    {
+      "question_index": 64,
+      "global_index": 64,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1515104,
+        "prompt_processing_time_us": 161705,
+        "prompt_processing_rate_toks_per_sec": 853.970947,
+        "token_generation_time_us": 127175,
+        "token_generation_rate_toks_per_sec": 31.453465
+      }
+    },
+    {
+      "question_index": 65,
+      "global_index": 65,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1465737,
+        "prompt_processing_time_us": 152503,
+        "prompt_processing_rate_toks_per_sec": 957.854431,
+        "token_generation_time_us": 123957,
+        "token_generation_rate_toks_per_sec": 32.269516
+      }
+    },
+    {
+      "question_index": 66,
+      "global_index": 66,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1485987,
+        "prompt_processing_time_us": 160589,
+        "prompt_processing_rate_toks_per_sec": 841.042908,
+        "token_generation_time_us": 126919,
+        "token_generation_rate_toks_per_sec": 31.516909
+      }
+    },
+    {
+      "question_index": 67,
+      "global_index": 67,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488908,
+        "prompt_processing_time_us": 162328,
+        "prompt_processing_rate_toks_per_sec": 1078.748657,
+        "token_generation_time_us": 128357,
+        "token_generation_rate_toks_per_sec": 31.163326
+      }
+    },
+    {
+      "question_index": 68,
+      "global_index": 68,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1497771,
+        "prompt_processing_time_us": 161711,
+        "prompt_processing_rate_toks_per_sec": 965.250977,
+        "token_generation_time_us": 127707,
+        "token_generation_rate_toks_per_sec": 31.322433
+      }
+    },
+    {
+      "question_index": 69,
+      "global_index": 69,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1475125,
+        "prompt_processing_time_us": 161153,
+        "prompt_processing_rate_toks_per_sec": 981.354248,
+        "token_generation_time_us": 128197,
+        "token_generation_rate_toks_per_sec": 31.202221
+      }
+    },
+    {
+      "question_index": 70,
+      "global_index": 70,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479753,
+        "prompt_processing_time_us": 159675,
+        "prompt_processing_rate_toks_per_sec": 1021.450439,
+        "token_generation_time_us": 127546,
+        "token_generation_rate_toks_per_sec": 31.361727
+      }
+    },
+    {
+      "question_index": 71,
+      "global_index": 71,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1481454,
+        "prompt_processing_time_us": 243500,
+        "prompt_processing_rate_toks_per_sec": 1084.598755,
+        "token_generation_time_us": 145508,
+        "token_generation_rate_toks_per_sec": 27.489897
+      }
+    },
+    {
+      "question_index": 72,
+      "global_index": 72,
+      "final_answer": "CA",
+      "model_output": 
+"答案：C\n答案：A\n答案：C\n答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496194,
+        "prompt_processing_time_us": 162884,
+        "prompt_processing_rate_toks_per_sec": 1025.640991,
+        "token_generation_time_us": 639409,
+        "token_generation_rate_toks_per_sec": 25.023146
+      }
+    },
+    {
+      "question_index": 73,
+      "global_index": 73,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1491900,
+        "prompt_processing_time_us": 160769,
+        "prompt_processing_rate_toks_per_sec": 933.706787,
+        "token_generation_time_us": 129074,
+        "token_generation_rate_toks_per_sec": 30.990456
+      }
+    },
+    {
+      "question_index": 74,
+      "global_index": 74,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1496447,
+        "prompt_processing_time_us": 161446,
+        "prompt_processing_rate_toks_per_sec": 1190.476196,
+        "token_generation_time_us": 127474,
+        "token_generation_rate_toks_per_sec": 31.379440
+      }
+    },
+    {
+      "question_index": 75,
+      "global_index": 75,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490395,
+        "prompt_processing_time_us": 160157,
+        "prompt_processing_rate_toks_per_sec": 1280.409790,
+        "token_generation_time_us": 127298,
+        "token_generation_rate_toks_per_sec": 31.422825
+      }
+    },
+    {
+      "question_index": 76,
+      "global_index": 76,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491214,
+        "prompt_processing_time_us": 160287,
+        "prompt_processing_rate_toks_per_sec": 923.361023,
+        "token_generation_time_us": 127908,
+        "token_generation_rate_toks_per_sec": 31.272476
+      }
+    },
+    {
+      "question_index": 77,
+      "global_index": 77,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1466324,
+        "prompt_processing_time_us": 161926,
+        "prompt_processing_rate_toks_per_sec": 988.142273,
+        "token_generation_time_us": 123980,
+        "token_generation_rate_toks_per_sec": 32.263268
+      }
+    },
+    {
+      "question_index": 78,
+      "global_index": 78,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1484163,
+        "prompt_processing_time_us": 160504,
+        "prompt_processing_rate_toks_per_sec": 1097.694824,
+        "token_generation_time_us": 128098,
+        "token_generation_rate_toks_per_sec": 31.226580
+      }
+    },
+    {
+      "question_index": 79,
+      "global_index": 79,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1526133,
+        "prompt_processing_time_us": 162703,
+        "prompt_processing_rate_toks_per_sec": 1014.198792,
+        "token_generation_time_us": 128595,
+        "token_generation_rate_toks_per_sec": 31.106134
+      }
+    },
+    {
+      "question_index": 80,
+      "global_index": 80,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1468254,
+        "prompt_processing_time_us": 161300,
+        "prompt_processing_rate_toks_per_sec": 980.392151,
+        "token_generation_time_us": 127052,
+        "token_generation_rate_toks_per_sec": 31.483171
+      }
+    },
+    {
+      "question_index": 81,
+      "global_index": 81,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500571,
+        "prompt_processing_time_us": 161654,
+        "prompt_processing_rate_toks_per_sec": 1219.512207,
+        "token_generation_time_us": 128516,
+        "token_generation_rate_toks_per_sec": 31.124529
+      }
+    },
+    {
+      "question_index": 82,
+      "global_index": 82,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492704,
+        "prompt_processing_time_us": 161519,
+        "prompt_processing_rate_toks_per_sec": 991.080261,
+        "token_generation_time_us": 127848,
+        "token_generation_rate_toks_per_sec": 31.287153
+      }
+    },
+    {
+      "question_index": 83,
+      "global_index": 83,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1526771,
+        "prompt_processing_time_us": 159728,
+        "prompt_processing_rate_toks_per_sec": 1203.369385,
+        "token_generation_time_us": 127809,
+        "token_generation_rate_toks_per_sec": 31.296946
+      }
+    },
+    {
+      "question_index": 84,
+      "global_index": 84,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493919,
+        "prompt_processing_time_us": 160968,
+        "prompt_processing_rate_toks_per_sec": 807.754456,
+        "token_generation_time_us": 127039,
+        "token_generation_rate_toks_per_sec": 31.487137
+      }
+    },
+    {
+      "question_index": 85,
+      "global_index": 85,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1506195,
+        "prompt_processing_time_us": 160240,
+        "prompt_processing_rate_toks_per_sec": 1254.705200,
+        "token_generation_time_us": 127351,
+        "token_generation_rate_toks_per_sec": 31.409994
+      }
+    },
+    {
+      "question_index": 86,
+      "global_index": 86,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494844,
+        "prompt_processing_time_us": 160471,
+        "prompt_processing_rate_toks_per_sec": 1091.703003,
+        "token_generation_time_us": 129375,
+        "token_generation_rate_toks_per_sec": 30.918591
+      }
+    },
+    {
+      "question_index": 87,
+      "global_index": 87,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1501287,
+        "prompt_processing_time_us": 160049,
+        "prompt_processing_rate_toks_per_sec": 1019.367981,
+        "token_generation_time_us": 129889,
+        "token_generation_rate_toks_per_sec": 30.795763
+      }
+    },
+    {
+      "question_index": 88,
+      "global_index": 88,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476782,
+        "prompt_processing_time_us": 164785,
+        "prompt_processing_rate_toks_per_sec": 910.746826,
+        "token_generation_time_us": 127845,
+        "token_generation_rate_toks_per_sec": 31.288132
+      }
+    },
+    {
+      "question_index": 89,
+      "global_index": 89,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1474998,
+        "prompt_processing_time_us": 162450,
+        "prompt_processing_rate_toks_per_sec": 1052.631592,
+        "token_generation_time_us": 130154,
+        "token_generation_rate_toks_per_sec": 30.733297
+      }
+    },
+    {
+      "question_index": 90,
+      "global_index": 90,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1506872,
+        "prompt_processing_time_us": 160114,
+        "prompt_processing_rate_toks_per_sec": 1062.699219,
+        "token_generation_time_us": 126998,
+        "token_generation_rate_toks_per_sec": 31.497055
+      }
+    },
+    {
+      "question_index": 91,
+      "global_index": 91,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1477561,
+        "prompt_processing_time_us": 160566,
+        "prompt_processing_rate_toks_per_sec": 847.457642,
+        "token_generation_time_us": 132365,
+        "token_generation_rate_toks_per_sec": 30.219698
+      }
+    },
+    {
+      "question_index": 92,
+      "global_index": 92,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1489941,
+        "prompt_processing_time_us": 161236,
+        "prompt_processing_rate_toks_per_sec": 874.890625,
+        "token_generation_time_us": 125435,
+        "token_generation_rate_toks_per_sec": 31.889790
+      }
+    },
+    {
+      "question_index": 93,
+      "global_index": 93,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1464843,
+        "prompt_processing_time_us": 162622,
+        "prompt_processing_rate_toks_per_sec": 1101.321533,
+        "token_generation_time_us": 128959,
+        "token_generation_rate_toks_per_sec": 31.018332
+      }
+    },
+    {
+      "question_index": 94,
+      "global_index": 94,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1488653,
+        "prompt_processing_time_us": 160047,
+        "prompt_processing_rate_toks_per_sec": 843.881836,
+        "token_generation_time_us": 128486,
+        "token_generation_rate_toks_per_sec": 31.132280
+      }
+    },
+    {
+      "question_index": 95,
+      "global_index": 95,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1498829,
+        "prompt_processing_time_us": 160413,
+        "prompt_processing_rate_toks_per_sec": 910.746826,
+        "token_generation_time_us": 126447,
+        "token_generation_rate_toks_per_sec": 31.634558
+      }
+    },
+    {
+      "question_index": 96,
+      "global_index": 96,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1527424,
+        "prompt_processing_time_us": 160447,
+        "prompt_processing_rate_toks_per_sec": 1072.961426,
+        "token_generation_time_us": 127499,
+        "token_generation_rate_toks_per_sec": 31.373533
+      }
+    },
+    {
+      "question_index": 97,
+      "global_index": 97,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1501549,
+        "prompt_processing_time_us": 161845,
+        "prompt_processing_rate_toks_per_sec": 1020.408142,
+        "token_generation_time_us": 128025,
+        "token_generation_rate_toks_per_sec": 31.244143
+      }
+    },
+    {
+      "question_index": 98,
+      "global_index": 98,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1503352,
+        "prompt_processing_time_us": 161695,
+        "prompt_processing_rate_toks_per_sec": 1009.081726,
+        "token_generation_time_us": 128770,
+        "token_generation_rate_toks_per_sec": 31.063618
+      }
+    },
+    {
+      "question_index": 99,
+      "global_index": 99,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1483821,
+        "prompt_processing_time_us": 161150,
+        "prompt_processing_rate_toks_per_sec": 912.408752,
+        "token_generation_time_us": 128447,
+        "token_generation_rate_toks_per_sec": 31.141975
+      }
+    },
+    {
+      "question_index": 100,
+      "global_index": 100,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483243,
+        "prompt_processing_time_us": 160710,
+        "prompt_processing_rate_toks_per_sec": 1351.351318,
+        "token_generation_time_us": 129407,
+        "token_generation_rate_toks_per_sec": 30.910946
+      }
+    },
+    {
+      "question_index": 101,
+      "global_index": 101,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1500205,
+        "prompt_processing_time_us": 160258,
+        "prompt_processing_rate_toks_per_sec": 1404.494385,
+        "token_generation_time_us": 126512,
+        "token_generation_rate_toks_per_sec": 31.617554
+      }
+    },
+    {
+      "question_index": 102,
+      "global_index": 102,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1519770,
+        "prompt_processing_time_us": 159617,
+        "prompt_processing_rate_toks_per_sec": 1009.081726,
+        "token_generation_time_us": 128326,
+        "token_generation_rate_toks_per_sec": 31.171099
+      }
+    },
+    {
+      "question_index": 103,
+      "global_index": 103,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1480355,
+        "prompt_processing_time_us": 238407,
+        "prompt_processing_rate_toks_per_sec": 1124.859375,
+        "token_generation_time_us": 127200,
+        "token_generation_rate_toks_per_sec": 31.446541
+      }
+    },
+    {
+      "question_index": 104,
+      "global_index": 104,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1463506,
+        "prompt_processing_time_us": 162670,
+        "prompt_processing_rate_toks_per_sec": 1033.057861,
+        "token_generation_time_us": 128945,
+        "token_generation_rate_toks_per_sec": 31.021219
+      }
+    },
+    {
+      "question_index": 105,
+      "global_index": 105,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1496090,
+        "prompt_processing_time_us": 161424,
+        "prompt_processing_rate_toks_per_sec": 1122.334473,
+        "token_generation_time_us": 127136,
+        "token_generation_rate_toks_per_sec": 31.462372
+      }
+    },
+    {
+      "question_index": 106,
+      "global_index": 106,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1479157,
+        "prompt_processing_time_us": 161804,
+        "prompt_processing_rate_toks_per_sec": 1428.571411,
+        "token_generation_time_us": 128094,
+        "token_generation_rate_toks_per_sec": 31.227554
+      }
+    },
+    {
+      "question_index": 107,
+      "global_index": 107,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1490871,
+        "prompt_processing_time_us": 160734,
+        "prompt_processing_rate_toks_per_sec": 933.706787,
+        "token_generation_time_us": 127275,
+        "token_generation_rate_toks_per_sec": 31.428751
+      }
+    },
+    {
+      "question_index": 108,
+      "global_index": 108,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1453171,
+        "prompt_processing_time_us": 160209,
+        "prompt_processing_rate_toks_per_sec": 943.396240,
+        "token_generation_time_us": 127078,
+        "token_generation_rate_toks_per_sec": 31.477226
+      }
+    },
+    {
+      "question_index": 109,
+      "global_index": 109,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1474670,
+        "prompt_processing_time_us": 161365,
+        "prompt_processing_rate_toks_per_sec": 1066.098022,
+        "token_generation_time_us": 128516,
+        "token_generation_rate_toks_per_sec": 31.124529
+      }
+    },
+    {
+      "question_index": 110,
+      "global_index": 110,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1472814,
+        "prompt_processing_time_us": 160509,
+        "prompt_processing_rate_toks_per_sec": 1483.679565,
+        "token_generation_time_us": 128070,
+        "token_generation_rate_toks_per_sec": 31.233408
+      }
+    },
+    {
+      "question_index": 111,
+      "global_index": 111,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1459783,
+        "prompt_processing_time_us": 162613,
+        "prompt_processing_rate_toks_per_sec": 1083.423584,
+        "token_generation_time_us": 131973,
+        "token_generation_rate_toks_per_sec": 30.309460
+      }
+    },
+    {
+      "question_index": 112,
+      "global_index": 112,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1472115,
+        "prompt_processing_time_us": 160751,
+        "prompt_processing_rate_toks_per_sec": 1369.863037,
+        "token_generation_time_us": 127493,
+        "token_generation_rate_toks_per_sec": 31.374517
+      }
+    },
+    {
+      "question_index": 113,
+      "global_index": 113,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495062,
+        "prompt_processing_time_us": 159804,
+        "prompt_processing_rate_toks_per_sec": 983.284180,
+        "token_generation_time_us": 128473,
+        "token_generation_rate_toks_per_sec": 31.135189
+      }
+    },
+    {
+      "question_index": 114,
+      "global_index": 114,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483501,
+        "prompt_processing_time_us": 161793,
+        "prompt_processing_rate_toks_per_sec": 871.839600,
+        "token_generation_time_us": 126742,
+        "token_generation_rate_toks_per_sec": 31.560675
+      }
+    },
+    {
+      "question_index": 115,
+      "global_index": 115,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1465555,
+        "prompt_processing_time_us": 161728,
+        "prompt_processing_rate_toks_per_sec": 1058.201050,
+        "token_generation_time_us": 130134,
+        "token_generation_rate_toks_per_sec": 30.738020
+      }
+    },
+    {
+      "question_index": 116,
+      "global_index": 116,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479064,
+        "prompt_processing_time_us": 160292,
+        "prompt_processing_rate_toks_per_sec": 1048.218018,
+        "token_generation_time_us": 126284,
+        "token_generation_rate_toks_per_sec": 31.674639
+      }
+    },
+    {
+      "question_index": 117,
+      "global_index": 117,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1490265,
+        "prompt_processing_time_us": 161495,
+        "prompt_processing_rate_toks_per_sec": 1196.172241,
+        "token_generation_time_us": 126196,
+        "token_generation_rate_toks_per_sec": 31.696726
+      }
+    },
+    {
+      "question_index": 118,
+      "global_index": 118,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1374539,
+        "prompt_processing_time_us": 160631,
+        "prompt_processing_rate_toks_per_sec": 809.716614,
+        "token_generation_time_us": 129718,
+        "token_generation_rate_toks_per_sec": 30.836597
+      }
+    },
+    {
+      "question_index": 119,
+      "global_index": 119,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483878,
+        "prompt_processing_time_us": 162276,
+        "prompt_processing_rate_toks_per_sec": 869.565247,
+        "token_generation_time_us": 130498,
+        "token_generation_rate_toks_per_sec": 30.652281
+      }
+    },
+    {
+      "question_index": 120,
+      "global_index": 120,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1514335,
+        "prompt_processing_time_us": 159767,
+        "prompt_processing_rate_toks_per_sec": 1083.423584,
+        "token_generation_time_us": 130472,
+        "token_generation_rate_toks_per_sec": 30.657919
+      }
+    },
+    {
+      "question_index": 121,
+      "global_index": 121,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1373344,
+        "prompt_processing_time_us": 161024,
+        "prompt_processing_rate_toks_per_sec": 919.117676,
+        "token_generation_time_us": 132625,
+        "token_generation_rate_toks_per_sec": 30.160454
+      }
+    },
+    {
+      "question_index": 122,
+      "global_index": 122,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1514014,
+        "prompt_processing_time_us": 161556,
+        "prompt_processing_rate_toks_per_sec": 1219.512207,
+        "token_generation_time_us": 129092,
+        "token_generation_rate_toks_per_sec": 30.985653
+      }
+    },
+    {
+      "question_index": 123,
+      "global_index": 123,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1474790,
+        "prompt_processing_time_us": 161542,
+        "prompt_processing_rate_toks_per_sec": 997.008972,
+        "token_generation_time_us": 130014,
+        "token_generation_rate_toks_per_sec": 30.766390
+      }
+    },
+    {
+      "question_index": 124,
+      "global_index": 124,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1478804,
+        "prompt_processing_time_us": 160803,
+        "prompt_processing_rate_toks_per_sec": 1126.126099,
+        "token_generation_time_us": 127780,
+        "token_generation_rate_toks_per_sec": 31.303802
+      }
+    },
+    {
+      "question_index": 125,
+      "global_index": 125,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1493528,
+        "prompt_processing_time_us": 162352,
+        "prompt_processing_rate_toks_per_sec": 1152.073730,
+        "token_generation_time_us": 128919,
+        "token_generation_rate_toks_per_sec": 31.027956
+      }
+    },
+    {
+      "question_index": 126,
+      "global_index": 126,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1476377,
+        "prompt_processing_time_us": 162422,
+        "prompt_processing_rate_toks_per_sec": 825.082520,
+        "token_generation_time_us": 125950,
+        "token_generation_rate_toks_per_sec": 31.759138
+      }
+    },
+    {
+      "question_index": 127,
+      "global_index": 127,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1492109,
+        "prompt_processing_time_us": 162009,
+        "prompt_processing_rate_toks_per_sec": 963.391113,
+        "token_generation_time_us": 127349,
+        "token_generation_rate_toks_per_sec": 31.409994
+      }
+    },
+    {
+      "question_index": 128,
+      "global_index": 128,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1483599,
+        "prompt_processing_time_us": 160373,
+        "prompt_processing_rate_toks_per_sec": 1078.748657,
+        "token_generation_time_us": 127403,
+        "token_generation_rate_toks_per_sec": 31.397175
+      }
+    },
+    {
+      "question_index": 129,
+      "global_index": 129,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1358191,
+        "prompt_processing_time_us": 160333,
+        "prompt_processing_rate_toks_per_sec": 1303.781006,
+        "token_generation_time_us": 130500,
+        "token_generation_rate_toks_per_sec": 30.651340
+      }
+    },
+    {
+      "question_index": 130,
+      "global_index": 130,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1494251,
+        "prompt_processing_time_us": 160231,
+        "prompt_processing_rate_toks_per_sec": 917.431213,
+        "token_generation_time_us": 125932,
+        "token_generation_rate_toks_per_sec": 31.763174
+      }
+    },
+    {
+      "question_index": 131,
+      "global_index": 131,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490792,
+        "prompt_processing_time_us": 161898,
+        "prompt_processing_rate_toks_per_sec": 871.080139,
+        "token_generation_time_us": 129360,
+        "token_generation_rate_toks_per_sec": 30.921459
+      }
+    },
+    {
+      "question_index": 132,
+      "global_index": 132,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1482940,
+        "prompt_processing_time_us": 161975,
+        "prompt_processing_rate_toks_per_sec": 1353.179932,
+        "token_generation_time_us": 128990,
+        "token_generation_rate_toks_per_sec": 31.010637
+      }
+    },
+    {
+      "question_index": 133,
+      "global_index": 133,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1495281,
+        "prompt_processing_time_us": 160365,
+        "prompt_processing_rate_toks_per_sec": 1072.961426,
+        "token_generation_time_us": 128474,
+        "token_generation_rate_toks_per_sec": 31.135189
+      }
+    },
+    {
+      "question_index": 134,
+      "global_index": 134,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1485275,
+        "prompt_processing_time_us": 162809,
+        "prompt_processing_rate_toks_per_sec": 1236.093994,
+        "token_generation_time_us": 127334,
+        "token_generation_rate_toks_per_sec": 31.413942
+      }
+    },
+    {
+      "question_index": 135,
+      "global_index": 135,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1481257,
+        "prompt_processing_time_us": 163092,
+        "prompt_processing_rate_toks_per_sec": 925.925903,
+        "token_generation_time_us": 128826,
+        "token_generation_rate_toks_per_sec": 31.050116
+      }
+    },
+    {
+      "question_index": 136,
+      "global_index": 136,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1491486,
+        "prompt_processing_time_us": 159472,
+        "prompt_processing_rate_toks_per_sec": 859.106506,
+        "token_generation_time_us": 126115,
+        "token_generation_rate_toks_per_sec": 31.717838
+      }
+    },
+    {
+      "question_index": 137,
+      "global_index": 137,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494129,
+        "prompt_processing_time_us": 161439,
+        "prompt_processing_rate_toks_per_sec": 892.060669,
+        "token_generation_time_us": 128045,
+        "token_generation_rate_toks_per_sec": 31.239262
+      }
+    },
+    {
+      "question_index": 138,
+      "global_index": 138,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1510102,
+        "prompt_processing_time_us": 160865,
+        "prompt_processing_rate_toks_per_sec": 908.265198,
+        "token_generation_time_us": 130244,
+        "token_generation_rate_toks_per_sec": 30.711588
+      }
+    },
+    {
+      "question_index": 139,
+      "global_index": 139,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1493546,
+        "prompt_processing_time_us": 160954,
+        "prompt_processing_rate_toks_per_sec": 1373.626343,
+        "token_generation_time_us": 131193,
+        "token_generation_rate_toks_per_sec": 30.489664
+      }
+    },
+    {
+      "question_index": 140,
+      "global_index": 140,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1517302,
+        "prompt_processing_time_us": 162365,
+        "prompt_processing_rate_toks_per_sec": 942.507080,
+        "token_generation_time_us": 127612,
+        "token_generation_rate_toks_per_sec": 31.345015
+      }
+    },
+    {
+      "question_index": 141,
+      "global_index": 141,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1485445,
+        "prompt_processing_time_us": 160950,
+        "prompt_processing_rate_toks_per_sec": 1043.841309,
+        "token_generation_time_us": 125227,
+        "token_generation_rate_toks_per_sec": 31.942759
+      }
+    },
+    {
+      "question_index": 142,
+      "global_index": 142,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1484749,
+        "prompt_processing_time_us": 160159,
+        "prompt_processing_rate_toks_per_sec": 1100.109985,
+        "token_generation_time_us": 127819,
+        "token_generation_rate_toks_per_sec": 31.294987
+      }
+    },
+    {
+      "question_index": 143,
+      "global_index": 143,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1472634,
+        "prompt_processing_time_us": 162874,
+        "prompt_processing_rate_toks_per_sec": 914.913086,
+        "token_generation_time_us": 126388,
+        "token_generation_rate_toks_per_sec": 31.648575
+      }
+    },
+    {
+      "question_index": 144,
+      "global_index": 144,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1532751,
+        "prompt_processing_time_us": 160931,
+        "prompt_processing_rate_toks_per_sec": 1250.000000,
+        "token_generation_time_us": 127354,
+        "token_generation_rate_toks_per_sec": 31.409008
+      }
+    },
+    {
+      "question_index": 145,
+      "global_index": 145,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1514251,
+        "prompt_processing_time_us": 160155,
+        "prompt_processing_rate_toks_per_sec": 1461.988281,
+        "token_generation_time_us": 128809,
+        "token_generation_rate_toks_per_sec": 31.053972
+      }
+    },
+    {
+      "question_index": 146,
+      "global_index": 146,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1513569,
+        "prompt_processing_time_us": 161232,
+        "prompt_processing_rate_toks_per_sec": 1265.822754,
+        "token_generation_time_us": 129856,
+        "token_generation_rate_toks_per_sec": 30.803352
+      }
+    },
+    {
+      "question_index": 147,
+      "global_index": 147,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1488278,
+        "prompt_processing_time_us": 240914,
+        "prompt_processing_rate_toks_per_sec": 1183.432007,
+        "token_generation_time_us": 129358,
+        "token_generation_rate_toks_per_sec": 30.922415
+      }
+    },
+    {
+      "question_index": 148,
+      "global_index": 148,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495399,
+        "prompt_processing_time_us": 160624,
+        "prompt_processing_rate_toks_per_sec": 1209.189819,
+        "token_generation_time_us": 129482,
+        "token_generation_rate_toks_per_sec": 30.892801
+      }
+    },
+    {
+      "question_index": 149,
+      "global_index": 149,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1475522,
+        "prompt_processing_time_us": 159248,
+        "prompt_processing_rate_toks_per_sec": 1206.272583,
+        "token_generation_time_us": 125358,
+        "token_generation_rate_toks_per_sec": 31.909122
+      }
+    },
+    {
+      "question_index": 150,
+      "global_index": 150,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1483748,
+        "prompt_processing_time_us": 160299,
+        "prompt_processing_rate_toks_per_sec": 1305.483032,
+        "token_generation_time_us": 130170,
+        "token_generation_rate_toks_per_sec": 30.729519
+      }
+    },
+    {
+      "question_index": 151,
+      "global_index": 151,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1516046,
+        "prompt_processing_time_us": 162966,
+        "prompt_processing_rate_toks_per_sec": 938.967163,
+        "token_generation_time_us": 125500,
+        "token_generation_rate_toks_per_sec": 31.872511
+      }
+    },
+    {
+      "question_index": 152,
+      "global_index": 152,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1517696,
+        "prompt_processing_time_us": 158740,
+        "prompt_processing_rate_toks_per_sec": 1071.811401,
+        "token_generation_time_us": 125967,
+        "token_generation_rate_toks_per_sec": 31.755104
+      }
+    },
+    {
+      "question_index": 153,
+      "global_index": 153,
+      "final_answer": "Answer Not Found",
+      "model_output": 
+"答案：B\n\n南美洲温带植物与南美洲热带植物的相似性比与欧洲温带植物相似性更大。这个观察结果帮助达尔文构建了“代代相传，略有改变”的观点。这个选项描述了物种在不同地理环境下相似性的差异，与自然选择和物种变异的概念相关，支持了达尔文的进化论。其他选项虽然与地理分布和物种多样性有关，但没有直接支持达尔文关于“代代相传，略有改变”的观点。\n",
+      "performance_metrics": {
+        "init_time_us": 1490997,
+        "prompt_processing_time_us": 161586,
+        "prompt_processing_rate_toks_per_sec": 1233.045654,
+        "token_generation_time_us": 4503891,
+        "token_generation_rate_toks_per_sec": 23.091488
+      }
+    },
+    {
+      "question_index": 154,
+      "global_index": 154,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1498148,
+        "prompt_processing_time_us": 159730,
+        "prompt_processing_rate_toks_per_sec": 1015.228455,
+        "token_generation_time_us": 126525,
+        "token_generation_rate_toks_per_sec": 31.614555
+      }
+    },
+    {
+      "question_index": 155,
+      "global_index": 155,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1480943,
+        "prompt_processing_time_us": 160988,
+        "prompt_processing_rate_toks_per_sec": 895.255127,
+        "token_generation_time_us": 127738,
+        "token_generation_rate_toks_per_sec": 31.314587
+      }
+    },
+    {
+      "question_index": 156,
+      "global_index": 156,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1501621,
+        "prompt_processing_time_us": 159841,
+        "prompt_processing_rate_toks_per_sec": 1340.482544,
+        "token_generation_time_us": 128271,
+        "token_generation_rate_toks_per_sec": 31.184708
+      }
+    },
+    {
+      "question_index": 157,
+      "global_index": 157,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1478427,
+        "prompt_processing_time_us": 160965,
+        "prompt_processing_rate_toks_per_sec": 1298.701294,
+        "token_generation_time_us": 127608,
+        "token_generation_rate_toks_per_sec": 31.345997
+      }
+    },
+    {
+      "question_index": 158,
+      "global_index": 158,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492205,
+        "prompt_processing_time_us": 162013,
+        "prompt_processing_rate_toks_per_sec": 883.392212,
+        "token_generation_time_us": 130000,
+        "token_generation_rate_toks_per_sec": 30.769230
+      }
+    },
+    {
+      "question_index": 159,
+      "global_index": 159,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1492220,
+        "prompt_processing_time_us": 161055,
+        "prompt_processing_rate_toks_per_sec": 888.099487,
+        "token_generation_time_us": 128168,
+        "token_generation_rate_toks_per_sec": 31.209038
+      }
+    },
+    {
+      "question_index": 160,
+      "global_index": 160,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1511442,
+        "prompt_processing_time_us": 160751,
+        "prompt_processing_rate_toks_per_sec": 1157.407349,
+        "token_generation_time_us": 134565,
+        "token_generation_rate_toks_per_sec": 29.725632
+      }
+    },
+    {
+      "question_index": 161,
+      "global_index": 161,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1484407,
+        "prompt_processing_time_us": 162716,
+        "prompt_processing_rate_toks_per_sec": 1291.989624,
+        "token_generation_time_us": 126958,
+        "token_generation_rate_toks_per_sec": 31.506979
+      }
+    },
+    {
+      "question_index": 162,
+      "global_index": 162,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503903,
+        "prompt_processing_time_us": 161696,
+        "prompt_processing_rate_toks_per_sec": 1015.228455,
+        "token_generation_time_us": 128604,
+        "token_generation_rate_toks_per_sec": 31.103231
+      }
+    },
+    {
+      "question_index": 163,
+      "global_index": 163,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1492846,
+        "prompt_processing_time_us": 160489,
+        "prompt_processing_rate_toks_per_sec": 1246.882812,
+        "token_generation_time_us": 128829,
+        "token_generation_rate_toks_per_sec": 31.049150
+      }
+    },
+    {
+      "question_index": 164,
+      "global_index": 164,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492143,
+        "prompt_processing_time_us": 159681,
+        "prompt_processing_rate_toks_per_sec": 1215.066772,
+        "token_generation_time_us": 126416,
+        "token_generation_rate_toks_per_sec": 31.641563
+      }
+    },
+    {
+      "question_index": 165,
+      "global_index": 165,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1506650,
+        "prompt_processing_time_us": 163183,
+        "prompt_processing_rate_toks_per_sec": 944.287048,
+        "token_generation_time_us": 124488,
+        "token_generation_rate_toks_per_sec": 32.131611
+      }
+    },
+    {
+      "question_index": 166,
+      "global_index": 166,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494515,
+        "prompt_processing_time_us": 161938,
+        "prompt_processing_rate_toks_per_sec": 1007.049316,
+        "token_generation_time_us": 126485,
+        "token_generation_rate_toks_per_sec": 31.624554
+      }
+    },
+    {
+      "question_index": 167,
+      "global_index": 167,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1612603,
+        "prompt_processing_time_us": 160035,
+        "prompt_processing_rate_toks_per_sec": 938.086304,
+        "token_generation_time_us": 127195,
+        "token_generation_rate_toks_per_sec": 31.448519
+      }
+    },
+    {
+      "question_index": 168,
+      "global_index": 168,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1478561,
+        "prompt_processing_time_us": 163748,
+        "prompt_processing_rate_toks_per_sec": 1136.363647,
+        "token_generation_time_us": 127728,
+        "token_generation_rate_toks_per_sec": 31.316547
+      }
+    },
+    {
+      "question_index": 169,
+      "global_index": 169,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1466296,
+        "prompt_processing_time_us": 160042,
+        "prompt_processing_rate_toks_per_sec": 843.881836,
+        "token_generation_time_us": 130511,
+        "token_generation_rate_toks_per_sec": 30.649462
+      }
+    },
+    {
+      "question_index": 170,
+      "global_index": 170,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1513929,
+        "prompt_processing_time_us": 160228,
+        "prompt_processing_rate_toks_per_sec": 1074.113892,
+        "token_generation_time_us": 126886,
+        "token_generation_rate_toks_per_sec": 31.524857
+      }
+    },
+    {
+      "question_index": 171,
+      "global_index": 171,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1468029,
+        "prompt_processing_time_us": 161951,
+        "prompt_processing_rate_toks_per_sec": 1272.264648,
+        "token_generation_time_us": 127550,
+        "token_generation_rate_toks_per_sec": 31.360743
+      }
+    },
+    {
+      "question_index": 172,
+      "global_index": 172,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1499389,
+        "prompt_processing_time_us": 160193,
+        "prompt_processing_rate_toks_per_sec": 1036.269409,
+        "token_generation_time_us": 126492,
+        "token_generation_rate_toks_per_sec": 31.622553
+      }
+    },
+    {
+      "question_index": 173,
+      "global_index": 173,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1483553,
+        "prompt_processing_time_us": 161070,
+        "prompt_processing_rate_toks_per_sec": 975.609741,
+        "token_generation_time_us": 128737,
+        "token_generation_rate_toks_per_sec": 31.071341
+      }
+    },
+    {
+      "question_index": 174,
+      "global_index": 174,
+      "final_answer": "CD",
+      "model_output": 
+"答案：C\n答案：A\n答案：C\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1521218,
+        "prompt_processing_time_us": 160883,
+        "prompt_processing_rate_toks_per_sec": 1312.335938,
+        "token_generation_time_us": 657517,
+        "token_generation_rate_toks_per_sec": 24.334454
+      }
+    },
+    {
+      "question_index": 175,
+      "global_index": 175,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1475617,
+        "prompt_processing_time_us": 160536,
+        "prompt_processing_rate_toks_per_sec": 922.509216,
+        "token_generation_time_us": 129362,
+        "token_generation_rate_toks_per_sec": 30.921459
+      }
+    },
+    {
+      "question_index": 176,
+      "global_index": 176,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494946,
+        "prompt_processing_time_us": 159318,
+        "prompt_processing_rate_toks_per_sec": 897.666077,
+        "token_generation_time_us": 128009,
+        "token_generation_rate_toks_per_sec": 31.248047
+      }
+    },
+    {
+      "question_index": 177,
+      "global_index": 177,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492852,
+        "prompt_processing_time_us": 160870,
+        "prompt_processing_rate_toks_per_sec": 895.255127,
+        "token_generation_time_us": 132550,
+        "token_generation_rate_toks_per_sec": 30.177748
+      }
+    },
+    {
+      "question_index": 178,
+      "global_index": 178,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1510220,
+        "prompt_processing_time_us": 163064,
+        "prompt_processing_rate_toks_per_sec": 1074.113892,
+        "token_generation_time_us": 128011,
+        "token_generation_rate_toks_per_sec": 31.248047
+      }
+    },
+    {
+      "question_index": 179,
+      "global_index": 179,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494852,
+        "prompt_processing_time_us": 161869,
+        "prompt_processing_rate_toks_per_sec": 1280.409790,
+        "token_generation_time_us": 128044,
+        "token_generation_rate_toks_per_sec": 31.239262
+      }
+    },
+    {
+      "question_index": 180,
+      "global_index": 180,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1509523,
+        "prompt_processing_time_us": 160617,
+        "prompt_processing_rate_toks_per_sec": 822.368408,
+        "token_generation_time_us": 126232,
+        "token_generation_rate_toks_per_sec": 31.687687
+      }
+    },
+    {
+      "question_index": 181,
+      "global_index": 181,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1480862,
+        "prompt_processing_time_us": 160997,
+        "prompt_processing_rate_toks_per_sec": 1037.344360,
+        "token_generation_time_us": 126290,
+        "token_generation_rate_toks_per_sec": 31.673635
+      }
+    },
+    {
+      "question_index": 182,
+      "global_index": 182,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1469561,
+        "prompt_processing_time_us": 159903,
+        "prompt_processing_rate_toks_per_sec": 1451.378784,
+        "token_generation_time_us": 126665,
+        "token_generation_rate_toks_per_sec": 31.579613
+      }
+    },
+    {
+      "question_index": 183,
+      "global_index": 183,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1474986,
+        "prompt_processing_time_us": 161926,
+        "prompt_processing_rate_toks_per_sec": 1168.224243,
+        "token_generation_time_us": 129223,
+        "token_generation_rate_toks_per_sec": 30.954960
+      }
+    },
+    {
+      "question_index": 184,
+      "global_index": 184,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1505688,
+        "prompt_processing_time_us": 160365,
+        "prompt_processing_rate_toks_per_sec": 1298.701294,
+        "token_generation_time_us": 125966,
+        "token_generation_rate_toks_per_sec": 31.755104
+      }
+    },
+    {
+      "question_index": 185,
+      "global_index": 185,
+      "final_answer": "D",
+      "model_output": 
+"D. 其将血液带出心脏。答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1507841,
+        "prompt_processing_time_us": 161572,
+        "prompt_processing_rate_toks_per_sec": 916.590271,
+        "token_generation_time_us": 574180,
+        "token_generation_rate_toks_per_sec": 24.383108
+      }
+    },
+    {
+      "question_index": 186,
+      "global_index": 186,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488173,
+        "prompt_processing_time_us": 160940,
+        "prompt_processing_rate_toks_per_sec": 1007.049316,
+        "token_generation_time_us": 127628,
+        "token_generation_rate_toks_per_sec": 31.341085
+      }
+    },
+    {
+      "question_index": 187,
+      "global_index": 187,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1511541,
+        "prompt_processing_time_us": 159106,
+        "prompt_processing_rate_toks_per_sec": 924.214417,
+        "token_generation_time_us": 127249,
+        "token_generation_rate_toks_per_sec": 31.434679
+      }
+    },
+    {
+      "question_index": 188,
+      "global_index": 188,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1494517,
+        "prompt_processing_time_us": 162441,
+        "prompt_processing_rate_toks_per_sec": 874.890625,
+        "token_generation_time_us": 128043,
+        "token_generation_rate_toks_per_sec": 31.240238
+      }
+    },
+    {
+      "question_index": 189,
+      "global_index": 189,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1480101,
+        "prompt_processing_time_us": 160987,
+        "prompt_processing_rate_toks_per_sec": 1088.139282,
+        "token_generation_time_us": 127009,
+        "token_generation_rate_toks_per_sec": 31.494080
+      }
+    },
+    {
+      "question_index": 190,
+      "global_index": 190,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1482215,
+        "prompt_processing_time_us": 161423,
+        "prompt_processing_rate_toks_per_sec": 1066.098022,
+        "token_generation_time_us": 126711,
+        "token_generation_rate_toks_per_sec": 31.568645
+      }
+    },
+    {
+      "question_index": 191,
+      "global_index": 191,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1504007,
+        "prompt_processing_time_us": 160102,
+        "prompt_processing_rate_toks_per_sec": 1305.483032,
+        "token_generation_time_us": 129107,
+        "token_generation_rate_toks_per_sec": 30.982773
+      }
+    },
+    {
+      "question_index": 192,
+      "global_index": 192,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1470107,
+        "prompt_processing_time_us": 160504,
+        "prompt_processing_rate_toks_per_sec": 1022.494873,
+        "token_generation_time_us": 127049,
+        "token_generation_rate_toks_per_sec": 31.484163
+      }
+    },
+    {
+      "question_index": 193,
+      "global_index": 193,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1500158,
+        "prompt_processing_time_us": 162779,
+        "prompt_processing_rate_toks_per_sec": 872.600342,
+        "token_generation_time_us": 129259,
+        "token_generation_rate_toks_per_sec": 30.946339
+      }
+    },
+    {
+      "question_index": 194,
+      "global_index": 194,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1483872,
+        "prompt_processing_time_us": 159211,
+        "prompt_processing_rate_toks_per_sec": 961.538452,
+        "token_generation_time_us": 126464,
+        "token_generation_rate_toks_per_sec": 31.629555
+      }
+    },
+    {
+      "question_index": 195,
+      "global_index": 195,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1492107,
+        "prompt_processing_time_us": 160486,
+        "prompt_processing_rate_toks_per_sec": 1059.322021,
+        "token_generation_time_us": 129592,
+        "token_generation_rate_toks_per_sec": 30.866102
+      }
+    },
+    {
+      "question_index": 196,
+      "global_index": 196,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1481401,
+        "prompt_processing_time_us": 160567,
+        "prompt_processing_rate_toks_per_sec": 1084.598755,
+        "token_generation_time_us": 128990,
+        "token_generation_rate_toks_per_sec": 31.010637
+      }
+    },
+    {
+      "question_index": 197,
+      "global_index": 197,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1486549,
+        "prompt_processing_time_us": 160752,
+        "prompt_processing_rate_toks_per_sec": 958.772766,
+        "token_generation_time_us": 128633,
+        "token_generation_rate_toks_per_sec": 31.096460
+      }
+    },
+    {
+      "question_index": 198,
+      "global_index": 198,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1472191,
+        "prompt_processing_time_us": 159299,
+        "prompt_processing_rate_toks_per_sec": 866.551147,
+        "token_generation_time_us": 127574,
+        "token_generation_rate_toks_per_sec": 31.354843
+      }
+    },
+    {
+      "question_index": 199,
+      "global_index": 199,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1493397,
+        "prompt_processing_time_us": 161043,
+        "prompt_processing_rate_toks_per_sec": 994.035767,
+        "token_generation_time_us": 128269,
+        "token_generation_rate_toks_per_sec": 31.184708
+      }
+    },
+    {
+      "question_index": 200,
+      "global_index": 200,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1465645,
+        "prompt_processing_time_us": 160163,
+        "prompt_processing_rate_toks_per_sec": 918.273621,
+        "token_generation_time_us": 130780,
+        "token_generation_rate_toks_per_sec": 30.585716
+      }
+    },
+    {
+      "question_index": 201,
+      "global_index": 201,
+      "final_answer": "D",
+      "model_output": 
+"达尔文雀在加拉帕戈斯群岛上开发的可用生态位已被大陆上的其他鸟类占据。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1484225,
+        "prompt_processing_time_us": 160093,
+        "prompt_processing_rate_toks_per_sec": 1381.215454,
+        "token_generation_time_us": 1147779,
+        "token_generation_rate_toks_per_sec": 23.523876
+      }
+    },
+    {
+      "question_index": 202,
+      "global_index": 202,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1501694,
+        "prompt_processing_time_us": 161024,
+        "prompt_processing_rate_toks_per_sec": 1175.088135,
+        "token_generation_time_us": 125467,
+        "token_generation_rate_toks_per_sec": 31.881655
+      }
+    },
+    {
+      "question_index": 203,
+      "global_index": 203,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1513408,
+        "prompt_processing_time_us": 161224,
+        "prompt_processing_rate_toks_per_sec": 1589.825073,
+        "token_generation_time_us": 128207,
+        "token_generation_rate_toks_per_sec": 31.200275
+      }
+    },
+    {
+      "question_index": 204,
+      "global_index": 204,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486256,
+        "prompt_processing_time_us": 160329,
+        "prompt_processing_rate_toks_per_sec": 992.063477,
+        "token_generation_time_us": 133021,
+        "token_generation_rate_toks_per_sec": 30.070665
+      }
+    },
+    {
+      "question_index": 205,
+      "global_index": 205,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1506473,
+        "prompt_processing_time_us": 161296,
+        "prompt_processing_rate_toks_per_sec": 1283.697021,
+        "token_generation_time_us": 128765,
+        "token_generation_rate_toks_per_sec": 31.064583
+      }
+    },
+    {
+      "question_index": 206,
+      "global_index": 206,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1485288,
+        "prompt_processing_time_us": 160533,
+        "prompt_processing_rate_toks_per_sec": 1047.120361,
+        "token_generation_time_us": 129057,
+        "token_generation_rate_toks_per_sec": 30.994297
+      }
+    },
+    {
+      "question_index": 207,
+      "global_index": 207,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1511039,
+        "prompt_processing_time_us": 162227,
+        "prompt_processing_rate_toks_per_sec": 844.594604,
+        "token_generation_time_us": 130778,
+        "token_generation_rate_toks_per_sec": 30.586653
+      }
+    },
+    {
+      "question_index": 208,
+      "global_index": 208,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1494922,
+        "prompt_processing_time_us": 162056,
+        "prompt_processing_rate_toks_per_sec": 1445.086670,
+        "token_generation_time_us": 131527,
+        "token_generation_rate_toks_per_sec": 30.412701
+      }
+    },
+    {
+      "question_index": 209,
+      "global_index": 209,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1489855,
+        "prompt_processing_time_us": 161574,
+        "prompt_processing_rate_toks_per_sec": 1071.811401,
+        "token_generation_time_us": 129475,
+        "token_generation_rate_toks_per_sec": 30.894711
+      }
+    },
+    {
+      "question_index": 210,
+      "global_index": 210,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1489081,
+        "prompt_processing_time_us": 161541,
+        "prompt_processing_rate_toks_per_sec": 1096.491211,
+        "token_generation_time_us": 126435,
+        "token_generation_rate_toks_per_sec": 31.637560
+      }
+    },
+    {
+      "question_index": 211,
+      "global_index": 211,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1458817,
+        "prompt_processing_time_us": 158863,
+        "prompt_processing_rate_toks_per_sec": 1474.926270,
+        "token_generation_time_us": 126221,
+        "token_generation_rate_toks_per_sec": 31.690699
+      }
+    },
+    {
+      "question_index": 212,
+      "global_index": 212,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1485249,
+        "prompt_processing_time_us": 159704,
+        "prompt_processing_rate_toks_per_sec": 1555.209961,
+        "token_generation_time_us": 131685,
+        "token_generation_rate_toks_per_sec": 30.375748
+      }
+    },
+    {
+      "question_index": 213,
+      "global_index": 213,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476885,
+        "prompt_processing_time_us": 159970,
+        "prompt_processing_rate_toks_per_sec": 1057.082397,
+        "token_generation_time_us": 127041,
+        "token_generation_rate_toks_per_sec": 31.486147
+      }
+    },
+    {
+      "question_index": 214,
+      "global_index": 214,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486382,
+        "prompt_processing_time_us": 159466,
+        "prompt_processing_rate_toks_per_sec": 1103.752808,
+        "token_generation_time_us": 129525,
+        "token_generation_rate_toks_per_sec": 30.882307
+      }
+    },
+    {
+      "question_index": 215,
+      "global_index": 215,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1485136,
+        "prompt_processing_time_us": 161397,
+        "prompt_processing_rate_toks_per_sec": 923.361023,
+        "token_generation_time_us": 129836,
+        "token_generation_rate_toks_per_sec": 30.808096
+      }
+    },
+    {
+      "question_index": 216,
+      "global_index": 216,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1496922,
+        "prompt_processing_time_us": 161744,
+        "prompt_processing_rate_toks_per_sec": 909.090881,
+        "token_generation_time_us": 128003,
+        "token_generation_rate_toks_per_sec": 31.250000
+      }
+    },
+    {
+      "question_index": 217,
+      "global_index": 217,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1477638,
+        "prompt_processing_time_us": 159839,
+        "prompt_processing_rate_toks_per_sec": 1277.139160,
+        "token_generation_time_us": 124820,
+        "token_generation_rate_toks_per_sec": 32.046146
+      }
+    },
+    {
+      "question_index": 218,
+      "global_index": 218,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493844,
+        "prompt_processing_time_us": 162943,
+        "prompt_processing_rate_toks_per_sec": 1234.567871,
+        "token_generation_time_us": 129514,
+        "token_generation_rate_toks_per_sec": 30.885168
+      }
+    },
+    {
+      "question_index": 219,
+      "global_index": 219,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1534631,
+        "prompt_processing_time_us": 162576,
+        "prompt_processing_rate_toks_per_sec": 843.170349,
+        "token_generation_time_us": 127069,
+        "token_generation_rate_toks_per_sec": 31.479208
+      }
+    },
+    {
+      "question_index": 220,
+      "global_index": 220,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1515734,
+        "prompt_processing_time_us": 159988,
+        "prompt_processing_rate_toks_per_sec": 1207.729492,
+        "token_generation_time_us": 128512,
+        "token_generation_rate_toks_per_sec": 31.125498
+      }
+    },
+    {
+      "question_index": 221,
+      "global_index": 221,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1493195,
+        "prompt_processing_time_us": 161067,
+        "prompt_processing_rate_toks_per_sec": 1000.000000,
+        "token_generation_time_us": 126469,
+        "token_generation_rate_toks_per_sec": 31.628553
+      }
+    },
+    {
+      "question_index": 222,
+      "global_index": 222,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1533740,
+        "prompt_processing_time_us": 162590,
+        "prompt_processing_rate_toks_per_sec": 843.170349,
+        "token_generation_time_us": 127583,
+        "token_generation_rate_toks_per_sec": 31.352877
+      }
+    },
+    {
+      "question_index": 223,
+      "global_index": 223,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1491617,
+        "prompt_processing_time_us": 160015,
+        "prompt_processing_rate_toks_per_sec": 968.992249,
+        "token_generation_time_us": 130085,
+        "token_generation_rate_toks_per_sec": 30.749361
+      }
+    },
+    {
+      "question_index": 224,
+      "global_index": 224,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1473164,
+        "prompt_processing_time_us": 162668,
+        "prompt_processing_rate_toks_per_sec": 1187.648438,
+        "token_generation_time_us": 128506,
+        "token_generation_rate_toks_per_sec": 31.127436
+      }
+    },
+    {
+      "question_index": 225,
+      "global_index": 225,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500035,
+        "prompt_processing_time_us": 161435,
+        "prompt_processing_rate_toks_per_sec": 1196.172241,
+        "token_generation_time_us": 129886,
+        "token_generation_rate_toks_per_sec": 30.796711
+      }
+    },
+    {
+      "question_index": 226,
+      "global_index": 226,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1503730,
+        "prompt_processing_time_us": 160235,
+        "prompt_processing_rate_toks_per_sec": 1042.752808,
+        "token_generation_time_us": 127725,
+        "token_generation_rate_toks_per_sec": 31.317528
+      }
+    },
+    {
+      "question_index": 227,
+      "global_index": 227,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1503455,
+        "prompt_processing_time_us": 159304,
+        "prompt_processing_rate_toks_per_sec": 860.585205,
+        "token_generation_time_us": 128862,
+        "token_generation_rate_toks_per_sec": 31.041441
+      }
+    },
+    {
+      "question_index": 228,
+      "global_index": 228,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486539,
+        "prompt_processing_time_us": 161053,
+        "prompt_processing_rate_toks_per_sec": 906.618286,
+        "token_generation_time_us": 129652,
+        "token_generation_rate_toks_per_sec": 30.851818
+      }
+    },
+    {
+      "question_index": 229,
+      "global_index": 229,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1475325,
+        "prompt_processing_time_us": 163939,
+        "prompt_processing_rate_toks_per_sec": 1128.668213,
+        "token_generation_time_us": 128530,
+        "token_generation_rate_toks_per_sec": 31.121624
+      }
+    },
+    {
+      "question_index": 230,
+      "global_index": 230,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1481224,
+        "prompt_processing_time_us": 160508,
+        "prompt_processing_rate_toks_per_sec": 884.955750,
+        "token_generation_time_us": 132763,
+        "token_generation_rate_toks_per_sec": 30.129557
+      }
+    },
+    {
+      "question_index": 231,
+      "global_index": 231,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1481747,
+        "prompt_processing_time_us": 159902,
+        "prompt_processing_rate_toks_per_sec": 913.242004,
+        "token_generation_time_us": 126416,
+        "token_generation_rate_toks_per_sec": 31.641563
+      }
+    },
+    {
+      "question_index": 232,
+      "global_index": 232,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492568,
+        "prompt_processing_time_us": 166872,
+        "prompt_processing_rate_toks_per_sec": 875.656738,
+        "token_generation_time_us": 131388,
+        "token_generation_rate_toks_per_sec": 30.444181
+      }
+    },
+    {
+      "question_index": 233,
+      "global_index": 233,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1476473,
+        "prompt_processing_time_us": 161376,
+        "prompt_processing_rate_toks_per_sec": 1177.856323,
+        "token_generation_time_us": 127243,
+        "token_generation_rate_toks_per_sec": 31.436655
+      }
+    },
+    {
+      "question_index": 234,
+      "global_index": 234,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1502114,
+        "prompt_processing_time_us": 162327,
+        "prompt_processing_rate_toks_per_sec": 1011.122375,
+        "token_generation_time_us": 129952,
+        "token_generation_rate_toks_per_sec": 30.780596
+      }
+    },
+    {
+      "question_index": 235,
+      "global_index": 235,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1497430,
+        "prompt_processing_time_us": 159643,
+        "prompt_processing_rate_toks_per_sec": 984.251953,
+        "token_generation_time_us": 127945,
+        "token_generation_rate_toks_per_sec": 31.263678
+      }
+    },
+    {
+      "question_index": 236,
+      "global_index": 236,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1475359,
+        "prompt_processing_time_us": 160308,
+        "prompt_processing_rate_toks_per_sec": 999.000977,
+        "token_generation_time_us": 131099,
+        "token_generation_rate_toks_per_sec": 30.511992
+      }
+    },
+    {
+      "question_index": 237,
+      "global_index": 237,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1469051,
+        "prompt_processing_time_us": 159283,
+        "prompt_processing_rate_toks_per_sec": 1131.221680,
+        "token_generation_time_us": 127575,
+        "token_generation_rate_toks_per_sec": 31.354843
+      }
+    },
+    {
+      "question_index": 238,
+      "global_index": 238,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1501918,
+        "prompt_processing_time_us": 160980,
+        "prompt_processing_rate_toks_per_sec": 838.926147,
+        "token_generation_time_us": 128431,
+        "token_generation_rate_toks_per_sec": 31.145857
+      }
+    },
+    {
+      "question_index": 239,
+      "global_index": 239,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1474217,
+        "prompt_processing_time_us": 160339,
+        "prompt_processing_rate_toks_per_sec": 885.739563,
+        "token_generation_time_us": 126009,
+        "token_generation_rate_toks_per_sec": 31.744017
+      }
+    },
+    {
+      "question_index": 240,
+      "global_index": 240,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1524259,
+        "prompt_processing_time_us": 161072,
+        "prompt_processing_rate_toks_per_sec": 1074.113892,
+        "token_generation_time_us": 129039,
+        "token_generation_rate_toks_per_sec": 30.999102
+      }
+    },
+    {
+      "question_index": 241,
+      "global_index": 241,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1485653,
+        "prompt_processing_time_us": 160462,
+        "prompt_processing_rate_toks_per_sec": 841.750854,
+        "token_generation_time_us": 132995,
+        "token_generation_rate_toks_per_sec": 30.076998
+      }
+    },
+    {
+      "question_index": 242,
+      "global_index": 242,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1485991,
+        "prompt_processing_time_us": 161140,
+        "prompt_processing_rate_toks_per_sec": 1173.708862,
+        "token_generation_time_us": 128365,
+        "token_generation_rate_toks_per_sec": 31.161385
+      }
+    },
+    {
+      "question_index": 243,
+      "global_index": 243,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1518514,
+        "prompt_processing_time_us": 160423,
+        "prompt_processing_rate_toks_per_sec": 985.221680,
+        "token_generation_time_us": 129418,
+        "token_generation_rate_toks_per_sec": 30.908079
+      }
+    },
+    {
+      "question_index": 244,
+      "global_index": 244,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1481125,
+        "prompt_processing_time_us": 164040,
+        "prompt_processing_rate_toks_per_sec": 909.090881,
+        "token_generation_time_us": 125395,
+        "token_generation_rate_toks_per_sec": 31.899961
+      }
+    },
+    {
+      "question_index": 245,
+      "global_index": 245,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1486393,
+        "prompt_processing_time_us": 159736,
+        "prompt_processing_rate_toks_per_sec": 1026.694092,
+        "token_generation_time_us": 127713,
+        "token_generation_rate_toks_per_sec": 31.320471
+      }
+    },
+    {
+      "question_index": 246,
+      "global_index": 246,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1478496,
+        "prompt_processing_time_us": 161366,
+        "prompt_processing_rate_toks_per_sec": 1408.450684,
+        "token_generation_time_us": 127448,
+        "token_generation_rate_toks_per_sec": 31.385349
+      }
+    },
+    {
+      "question_index": 247,
+      "global_index": 247,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1483110,
+        "prompt_processing_time_us": 161055,
+        "prompt_processing_rate_toks_per_sec": 1012.145752,
+        "token_generation_time_us": 126665,
+        "token_generation_rate_toks_per_sec": 31.579613
+      }
+    },
+    {
+      "question_index": 248,
+      "global_index": 248,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1519473,
+        "prompt_processing_time_us": 159853,
+        "prompt_processing_rate_toks_per_sec": 1490.312988,
+        "token_generation_time_us": 128422,
+        "token_generation_rate_toks_per_sec": 31.147797
+      }
+    },
+    {
+      "question_index": 249,
+      "global_index": 249,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1512560,
+        "prompt_processing_time_us": 161712,
+        "prompt_processing_rate_toks_per_sec": 1187.648438,
+        "token_generation_time_us": 130015,
+        "token_generation_rate_toks_per_sec": 30.766390
+      }
+    },
+    {
+      "question_index": 250,
+      "global_index": 250,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1496420,
+        "prompt_processing_time_us": 160691,
+        "prompt_processing_rate_toks_per_sec": 890.471924,
+        "token_generation_time_us": 128374,
+        "token_generation_rate_toks_per_sec": 31.159443
+      }
+    },
+    {
+      "question_index": 251,
+      "global_index": 251,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1482004,
+        "prompt_processing_time_us": 159198,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 126646,
+        "token_generation_rate_toks_per_sec": 31.584599
+      }
+    },
+    {
+      "question_index": 252,
+      "global_index": 252,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496936,
+        "prompt_processing_time_us": 159658,
+        "prompt_processing_rate_toks_per_sec": 927.643799,
+        "token_generation_time_us": 126210,
+        "token_generation_rate_toks_per_sec": 31.693712
+      }
+    },
+    {
+      "question_index": 253,
+      "global_index": 253,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1497087,
+        "prompt_processing_time_us": 162442,
+        "prompt_processing_rate_toks_per_sec": 1152.073730,
+        "token_generation_time_us": 131342,
+        "token_generation_rate_toks_per_sec": 30.455307
+      }
+    },
+    {
+      "question_index": 254,
+      "global_index": 254,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1473163,
+        "prompt_processing_time_us": 159755,
+        "prompt_processing_rate_toks_per_sec": 1226.993896,
+        "token_generation_time_us": 126512,
+        "token_generation_rate_toks_per_sec": 31.617554
+      }
+    },
+    {
+      "question_index": 255,
+      "global_index": 255,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1474587,
+        "prompt_processing_time_us": 160769,
+        "prompt_processing_rate_toks_per_sec": 1089.324585,
+        "token_generation_time_us": 127636,
+        "token_generation_rate_toks_per_sec": 31.339121
+      }
+    },
+    {
+      "question_index": 256,
+      "global_index": 256,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1492703,
+        "prompt_processing_time_us": 161263,
+        "prompt_processing_rate_toks_per_sec": 1483.679565,
+        "token_generation_time_us": 126239,
+        "token_generation_rate_toks_per_sec": 31.686682
+      }
+    },
+    {
+      "question_index": 257,
+      "global_index": 257,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1489737,
+        "prompt_processing_time_us": 161438,
+        "prompt_processing_rate_toks_per_sec": 880.281677,
+        "token_generation_time_us": 128878,
+        "token_generation_rate_toks_per_sec": 31.037586
+      }
+    },
+    {
+      "question_index": 258,
+      "global_index": 258,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1461873,
+        "prompt_processing_time_us": 160430,
+        "prompt_processing_rate_toks_per_sec": 1084.598755,
+        "token_generation_time_us": 128370,
+        "token_generation_rate_toks_per_sec": 31.160414
+      }
+    },
+    {
+      "question_index": 259,
+      "global_index": 259,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1510574,
+        "prompt_processing_time_us": 164888,
+        "prompt_processing_rate_toks_per_sec": 1420.454590,
+        "token_generation_time_us": 127851,
+        "token_generation_rate_toks_per_sec": 31.287153
+      }
+    },
+    {
+      "question_index": 260,
+      "global_index": 260,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477861,
+        "prompt_processing_time_us": 160862,
+        "prompt_processing_rate_toks_per_sec": 901.713257,
+        "token_generation_time_us": 132529,
+        "token_generation_rate_toks_per_sec": 30.182301
+      }
+    },
+    {
+      "question_index": 261,
+      "global_index": 261,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496758,
+        "prompt_processing_time_us": 160461,
+        "prompt_processing_rate_toks_per_sec": 960.614807,
+        "token_generation_time_us": 127090,
+        "token_generation_rate_toks_per_sec": 31.474255
+      }
+    },
+    {
+      "question_index": 262,
+      "global_index": 262,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1475565,
+        "prompt_processing_time_us": 161874,
+        "prompt_processing_rate_toks_per_sec": 1168.224243,
+        "token_generation_time_us": 128223,
+        "token_generation_rate_toks_per_sec": 31.196381
+      }
+    },
+    {
+      "question_index": 263,
+      "global_index": 263,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1488602,
+        "prompt_processing_time_us": 159674,
+        "prompt_processing_rate_toks_per_sec": 877.192993,
+        "token_generation_time_us": 128056,
+        "token_generation_rate_toks_per_sec": 31.236334
+      }
+    },
+    {
+      "question_index": 264,
+      "global_index": 264,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482730,
+        "prompt_processing_time_us": 160852,
+        "prompt_processing_rate_toks_per_sec": 1336.898438,
+        "token_generation_time_us": 125833,
+        "token_generation_rate_toks_per_sec": 31.788416
+      }
+    },
+    {
+      "question_index": 265,
+      "global_index": 265,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1489294,
+        "prompt_processing_time_us": 158912,
+        "prompt_processing_rate_toks_per_sec": 843.881836,
+        "token_generation_time_us": 133853,
+        "token_generation_rate_toks_per_sec": 29.883753
+      }
+    },
+    {
+      "question_index": 266,
+      "global_index": 266,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1496145,
+        "prompt_processing_time_us": 159819,
+        "prompt_processing_rate_toks_per_sec": 1138.952148,
+        "token_generation_time_us": 126908,
+        "token_generation_rate_toks_per_sec": 31.518896
+      }
+    },
+    {
+      "question_index": 267,
+      "global_index": 267,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1494391,
+        "prompt_processing_time_us": 159668,
+        "prompt_processing_rate_toks_per_sec": 1121.076294,
+        "token_generation_time_us": 127005,
+        "token_generation_rate_toks_per_sec": 31.495071
+      }
+    },
+    {
+      "question_index": 268,
+      "global_index": 268,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1460646,
+        "prompt_processing_time_us": 161500,
+        "prompt_processing_rate_toks_per_sec": 1307.189575,
+        "token_generation_time_us": 132001,
+        "token_generation_rate_toks_per_sec": 30.303030
+      }
+    },
+    {
+      "question_index": 269,
+      "global_index": 269,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1491639,
+        "prompt_processing_time_us": 160018,
+        "prompt_processing_rate_toks_per_sec": 1501.501465,
+        "token_generation_time_us": 128043,
+        "token_generation_rate_toks_per_sec": 31.240238
+      }
+    },
+    {
+      "question_index": 270,
+      "global_index": 270,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1522233,
+        "prompt_processing_time_us": 162279,
+        "prompt_processing_rate_toks_per_sec": 1146.788940,
+        "token_generation_time_us": 126864,
+        "token_generation_rate_toks_per_sec": 31.529827
+      }
+    },
+    {
+      "question_index": 271,
+      "global_index": 271,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1534270,
+        "prompt_processing_time_us": 161345,
+        "prompt_processing_rate_toks_per_sec": 1259.445801,
+        "token_generation_time_us": 127382,
+        "token_generation_rate_toks_per_sec": 31.402103
+      }
+    },
+    {
+      "question_index": 272,
+      "global_index": 272,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1477925,
+        "prompt_processing_time_us": 159546,
+        "prompt_processing_rate_toks_per_sec": 1191.895142,
+        "token_generation_time_us": 127484,
+        "token_generation_rate_toks_per_sec": 31.376486
+      }
+    },
+    {
+      "question_index": 273,
+      "global_index": 273,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1470111,
+        "prompt_processing_time_us": 161563,
+        "prompt_processing_rate_toks_per_sec": 1040.582764,
+        "token_generation_time_us": 124330,
+        "token_generation_rate_toks_per_sec": 32.172962
+      }
+    },
+    {
+      "question_index": 274,
+      "global_index": 274,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1484576,
+        "prompt_processing_time_us": 161142,
+        "prompt_processing_rate_toks_per_sec": 919.117676,
+        "token_generation_time_us": 128997,
+        "token_generation_rate_toks_per_sec": 31.008713
+      }
+    },
+    {
+      "question_index": 275,
+      "global_index": 275,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1480219,
+        "prompt_processing_time_us": 160033,
+        "prompt_processing_rate_toks_per_sec": 825.082520,
+        "token_generation_time_us": 128333,
+        "token_generation_rate_toks_per_sec": 31.169155
+      }
+    },
+    {
+      "question_index": 276,
+      "global_index": 276,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1480426,
+        "prompt_processing_time_us": 242162,
+        "prompt_processing_rate_toks_per_sec": 1153.402588,
+        "token_generation_time_us": 132180,
+        "token_generation_rate_toks_per_sec": 30.261765
+      }
+    },
+    {
+      "question_index": 277,
+      "global_index": 277,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1497238,
+        "prompt_processing_time_us": 161311,
+        "prompt_processing_rate_toks_per_sec": 918.273621,
+        "token_generation_time_us": 128939,
+        "token_generation_rate_toks_per_sec": 31.023144
+      }
+    },
+    {
+      "question_index": 278,
+      "global_index": 278,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1502268,
+        "prompt_processing_time_us": 160566,
+        "prompt_processing_rate_toks_per_sec": 859.845215,
+        "token_generation_time_us": 130605,
+        "token_generation_rate_toks_per_sec": 30.626934
+      }
+    },
+    {
+      "question_index": 279,
+      "global_index": 279,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1506396,
+        "prompt_processing_time_us": 161997,
+        "prompt_processing_rate_toks_per_sec": 926.784058,
+        "token_generation_time_us": 123799,
+        "token_generation_rate_toks_per_sec": 32.311222
+      }
+    },
+    {
+      "question_index": 280,
+      "global_index": 280,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1495741,
+        "prompt_processing_time_us": 160914,
+        "prompt_processing_rate_toks_per_sec": 988.142273,
+        "token_generation_time_us": 127272,
+        "token_generation_rate_toks_per_sec": 31.428751
+      }
+    },
+    {
+      "question_index": 281,
+      "global_index": 281,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1469377,
+        "prompt_processing_time_us": 160937,
+        "prompt_processing_rate_toks_per_sec": 938.967163,
+        "token_generation_time_us": 129882,
+        "token_generation_rate_toks_per_sec": 30.797659
+      }
+    },
+    {
+      "question_index": 282,
+      "global_index": 282,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479039,
+        "prompt_processing_time_us": 160161,
+        "prompt_processing_rate_toks_per_sec": 892.857117,
+        "token_generation_time_us": 126306,
+        "token_generation_rate_toks_per_sec": 31.669622
+      }
+    },
+    {
+      "question_index": 283,
+      "global_index": 283,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1477002,
+        "prompt_processing_time_us": 159803,
+        "prompt_processing_rate_toks_per_sec": 1076.426270,
+        "token_generation_time_us": 125797,
+        "token_generation_rate_toks_per_sec": 31.797514
+      }
+    },
+    {
+      "question_index": 284,
+      "global_index": 284,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1508561,
+        "prompt_processing_time_us": 172015,
+        "prompt_processing_rate_toks_per_sec": 820.344543,
+        "token_generation_time_us": 158930,
+        "token_generation_rate_toks_per_sec": 25.168631
+      }
+    },
+    {
+      "question_index": 285,
+      "global_index": 285,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1508503,
+        "prompt_processing_time_us": 161550,
+        "prompt_processing_rate_toks_per_sec": 842.459961,
+        "token_generation_time_us": 131112,
+        "token_generation_rate_toks_per_sec": 30.508268
+      }
+    },
+    {
+      "question_index": 286,
+      "global_index": 286,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1479887,
+        "prompt_processing_time_us": 160370,
+        "prompt_processing_rate_toks_per_sec": 1067.235840,
+        "token_generation_time_us": 128879,
+        "token_generation_rate_toks_per_sec": 31.037586
+      }
+    },
+    {
+      "question_index": 287,
+      "global_index": 287,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1510274,
+        "prompt_processing_time_us": 160482,
+        "prompt_processing_rate_toks_per_sec": 1153.402588,
+        "token_generation_time_us": 127038,
+        "token_generation_rate_toks_per_sec": 31.487137
+      }
+    },
+    {
+      "question_index": 288,
+      "global_index": 288,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1482812,
+        "prompt_processing_time_us": 159156,
+        "prompt_processing_rate_toks_per_sec": 1264.222534,
+        "token_generation_time_us": 129289,
+        "token_generation_rate_toks_per_sec": 30.938679
+      }
+    },
+    {
+      "question_index": 289,
+      "global_index": 289,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1467119,
+        "prompt_processing_time_us": 161090,
+        "prompt_processing_rate_toks_per_sec": 1199.040771,
+        "token_generation_time_us": 125441,
+        "token_generation_rate_toks_per_sec": 31.887754
+      }
+    },
+    {
+      "question_index": 290,
+      "global_index": 290,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1476692,
+        "prompt_processing_time_us": 161991,
+        "prompt_processing_rate_toks_per_sec": 877.192993,
+        "token_generation_time_us": 130895,
+        "token_generation_rate_toks_per_sec": 30.559546
+      }
+    },
+    {
+      "question_index": 291,
+      "global_index": 291,
+      "final_answer": "D",
+      "model_output": 
+"RNA 复制缺乏 DNA 复制特有的校对功能。\n\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1464597,
+        "prompt_processing_time_us": 161237,
+        "prompt_processing_rate_toks_per_sec": 1179.245239,
+        "token_generation_time_us": 778549,
+        "token_generation_rate_toks_per_sec": 24.404530
+      }
+    },
+    {
+      "question_index": 292,
+      "global_index": 292,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1490931,
+        "prompt_processing_time_us": 160411,
+        "prompt_processing_rate_toks_per_sec": 1085.776367,
+        "token_generation_time_us": 131857,
+        "token_generation_rate_toks_per_sec": 30.336124
+      }
+    },
+    {
+      "question_index": 293,
+      "global_index": 293,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1464685,
+        "prompt_processing_time_us": 160878,
+        "prompt_processing_rate_toks_per_sec": 938.967163,
+        "token_generation_time_us": 126616,
+        "token_generation_rate_toks_per_sec": 31.591583
+      }
+    },
+    {
+      "question_index": 294,
+      "global_index": 294,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1476401,
+        "prompt_processing_time_us": 160709,
+        "prompt_processing_rate_toks_per_sec": 1295.336792,
+        "token_generation_time_us": 132362,
+        "token_generation_rate_toks_per_sec": 30.220610
+      }
+    },
+    {
+      "question_index": 295,
+      "global_index": 295,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1500470,
+        "prompt_processing_time_us": 161826,
+        "prompt_processing_rate_toks_per_sec": 1212.121216,
+        "token_generation_time_us": 128546,
+        "token_generation_rate_toks_per_sec": 31.117750
+      }
+    },
+    {
+      "question_index": 296,
+      "global_index": 296,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1492407,
+        "prompt_processing_time_us": 159898,
+        "prompt_processing_rate_toks_per_sec": 945.179565,
+        "token_generation_time_us": 128152,
+        "token_generation_rate_toks_per_sec": 31.212934
+      }
+    },
+    {
+      "question_index": 297,
+      "global_index": 297,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1449346,
+        "prompt_processing_time_us": 160611,
+        "prompt_processing_rate_toks_per_sec": 877.963135,
+        "token_generation_time_us": 127627,
+        "token_generation_rate_toks_per_sec": 31.342068
+      }
+    },
+    {
+      "question_index": 298,
+      "global_index": 298,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1468511,
+        "prompt_processing_time_us": 161505,
+        "prompt_processing_rate_toks_per_sec": 879.507446,
+        "token_generation_time_us": 128838,
+        "token_generation_rate_toks_per_sec": 31.047222
+      }
+    },
+    {
+      "question_index": 299,
+      "global_index": 299,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1490234,
+        "prompt_processing_time_us": 161134,
+        "prompt_processing_rate_toks_per_sec": 888.099487,
+        "token_generation_time_us": 126613,
+        "token_generation_rate_toks_per_sec": 31.592583
+      }
+    },
+    {
+      "question_index": 300,
+      "global_index": 300,
+      "final_answer": "C",
+      "model_output": 
+"答案：C\n",
+      "performance_metrics": {
+        "init_time_us": 1486054,
+        "prompt_processing_time_us": 159990,
+        "prompt_processing_rate_toks_per_sec": 1157.407349,
+        "token_generation_time_us": 126674,
+        "token_generation_rate_toks_per_sec": 31.577618
+      }
+    },
+    {
+      "question_index": 301,
+      "global_index": 301,
+      "final_answer": "D",
+      "model_output": 
+"答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1484120,
+        "prompt_processing_time_us": 159390,
+        "prompt_processing_rate_toks_per_sec": 947.867310,
+        "token_generation_time_us": 128044,
+        "token_generation_rate_toks_per_sec": 31.239262
+      }
+    },
+    {
+      "question_index": 302,
+      "global_index": 302,
+      "final_answer": "A",
+      "model_output": 
+"答案：A\n",
+      "performance_metrics": {
+        "init_time_us": 1509680,
+        "prompt_processing_time_us": 162660,
+        "prompt_processing_rate_toks_per_sec": 1137.656372,
+        "token_generation_time_us": 129240,
+        "token_generation_rate_toks_per_sec": 30.950171
+      }
+    },
+    {
+      "question_index": 303,
+      "global_index": 303,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1515257,
+        "prompt_processing_time_us": 162243,
+        "prompt_processing_rate_toks_per_sec": 1233.045654,
+        "token_generation_time_us": 126723,
+        "token_generation_rate_toks_per_sec": 31.565657
+      }
+    },
+    {
+      "question_index": 304,
+      "global_index": 304,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1469304,
+        "prompt_processing_time_us": 159709,
+        "prompt_processing_rate_toks_per_sec": 1058.201050,
+        "token_generation_time_us": 125152,
+        "token_generation_rate_toks_per_sec": 31.961136
+      }
+    },
+    {
+      "question_index": 305,
+      "global_index": 305,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1495735,
+        "prompt_processing_time_us": 161798,
+        "prompt_processing_rate_toks_per_sec": 1063.829834,
+        "token_generation_time_us": 128070,
+        "token_generation_rate_toks_per_sec": 31.233408
+      }
+    },
+    {
+      "question_index": 306,
+      "global_index": 306,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1482922,
+        "prompt_processing_time_us": 160504,
+        "prompt_processing_rate_toks_per_sec": 841.750854,
+        "token_generation_time_us": 125885,
+        "token_generation_rate_toks_per_sec": 31.775286
+      }
+    },
+    {
+      "question_index": 307,
+      "global_index": 307,
+      "final_answer": "D",
+      "model_output": 
+"适应良好个体比适应不良个体留下更多的后代，因此对下一代的基因库贡献作用更大。\n答案：D\n",
+      "performance_metrics": {
+        "init_time_us": 1502521,
+        "prompt_processing_time_us": 160249,
+        "prompt_processing_rate_toks_per_sec": 1204.819336,
+        "token_generation_time_us": 1092753,
+        "token_generation_rate_toks_per_sec": 23.793661
+      }
+    },
+    {
+      "question_index": 308,
+      "global_index": 308,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1475676,
+        "prompt_processing_time_us": 161536,
+        "prompt_processing_rate_toks_per_sec": 941.619568,
+        "token_generation_time_us": 129801,
+        "token_generation_rate_toks_per_sec": 30.816641
+      }
+    },
+    {
+      "question_index": 309,
+      "global_index": 309,
+      "final_answer": "B",
+      "model_output": 
+"答案：B\n",
+      "performance_metrics": {
+        "init_time_us": 1506369,
+        "prompt_processing_time_us": 159660,
+        "prompt_processing_rate_toks_per_sec": 1133.786865,
+        "token_generation_time_us": 126113,
+        "token_generation_rate_toks_per_sec": 31.717838
+      }
+    }
+  ]
+}

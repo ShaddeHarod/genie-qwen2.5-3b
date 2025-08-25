@@ -1,0 +1,21 @@
+{
+  "subject": "elementary_mathematics",
+  "total_questions": 378,
+  "correct_count": 186,
+  "wrong_count": 192,
+  "accuracy_rate": 0.4921,
+  "answer_not_found": {
+    "count": 4,
+    "question_indices": [
+      110,
+      194,
+      324,
+      365
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1054.102,
+    "avg_token_generation_rate_toks_per_sec": 30.669,
+    "total_processed_answers": 378
+  }
+}

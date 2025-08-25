@@ -1,0 +1,18 @@
+{
+  "subject": "nutrition",
+  "total_questions": 306,
+  "correct_count": 190,
+  "wrong_count": 116,
+  "accuracy_rate": 0.6209,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      246
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1012.249,
+    "avg_token_generation_rate_toks_per_sec": 30.572,
+    "total_processed_answers": 306
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "logical_fallacies",
+  "total_questions": 163,
+  "correct_count": 104,
+  "wrong_count": 59,
+  "accuracy_rate": 0.638,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1041.886,
+    "avg_token_generation_rate_toks_per_sec": 34.191,
+    "total_processed_answers": 163
+  }
+}
