@@ -58,11 +58,23 @@ while IFS= read -r line || [ -n "$line" ]; do
         # 格式化prompt以适应Qwen2.5 3B instruct格式
         formatted_prompt="<|im_start|>system\n你是一个做题专家。先思考并输出解题步骤，解题完后另起一行，此行只输出答案选项，格式必须为“答案：A”，（A或B或C或D，单选）最后一行不要添加格式要求外的任何其他文字或字符。<|im_end|><|im_start|>user\n${prompt}<|im_end|>\n<|im_end|><|im_start|>assistant\n"
         
-        # genie-t2t-run的代码，根据文档修改参数
-        # 使用--config指定配置文件，--prompt指定输入，输出重定向到文件
+        # 运行前：虚拟拔掉电源并清零统计
+        cmd battery unplug >/dev/null 2>&1
+        dumpsys batterystats --reset >/dev/null 2>&1
+
+        # 运行模型
         /data/local/tmp/genie-qwen2.5-3b/genie-t2t-run \
           --config "$CONFIG_PATH" \
           --prompt "$formatted_prompt" > "$temp_output" 2>&1
+
+        # 运行后：导出本次耗电估算（mAh），针对 shell UID=2000
+        bs_out="$(dumpsys batterystats --charged)"
+        uid_mAh="$(printf "%s\n" "$bs_out" \
+          | awk '/Estimated power use \(mAh\)/{in=1;next} in && /Uid .*2000/{for(i=1;i<=NF;i++) if ($i ~ /^[0-9.]+$/){print $i; exit}}')"
+        echo "本次Estimated power (shell UID): ${uid_mAh:-NA} mAh"
+
+        # 恢复电池状态
+        cmd battery reset >/dev/null 2>&1
 
         # 将答案信息添加到对应科目的临时文件中
         subject_file="${temp_dir}/${subject}_answers.txt"
